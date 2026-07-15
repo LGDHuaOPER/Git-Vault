@@ -1,3 +1,12 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin",
+  "quickadd",
+  "notebook-navigator",
+  "obsidian42-brat",
+  "vertical-tabs",
+  "open-tab-settings"
 ]
