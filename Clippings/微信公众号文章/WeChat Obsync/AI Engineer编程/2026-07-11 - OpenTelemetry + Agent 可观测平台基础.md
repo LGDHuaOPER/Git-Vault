@@ -1,9 +1,9 @@
 ---
-source_url: "https://mp.weixin.qq.com/s?search_click_id=10944039153882374254-1784128235491-8354691108&__biz=MzIzNTExNzMwNg==&mid=2647834076&idx=1&sn=7a7c87ecf2e9a23e651dfab22490a24e&chksm=f12aaf817cbfab26071c49ec407152c24eed47cb9b029ab646d80e197a4b7c8d618117bdf064&subscene=0&scene=7&clicktime=1784128235&enterid=1784128235&ascene=65&devicetype=iOS26.5.2&version=18004b3c&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQQgXeeWXoNda7XcS/yKhhlxLhAQIE97dBBAEAAAAAAJteGovFymIAAAAOpnltbLcz9gKNyK89dVj0oiO/itTErHX/lZ5l0ocYVVKEqFZJSaHzAZXWfa8z2orP42O67huhsJCKizNAH3a6cNceJ+CBHkgjXDx0Ymesstri7nN33DFAM+Q2jbcEnS+YnDoDh6wPdV8vmnWI09/J/J6yjBzB6/nkn6LV8xfJut8oG1B6B4B+o4VnicoXJIZWFnWQQQsidLUZKrNwcGJyUTQw4dbnBUX9uY3qrovHadgKpoa8VQysuNiLNo40ABz6chle+R74rJa5gw==&pass_ticket=xxTWJqKgFgS2iB5F8shb63Pta0yI1iAskPDsvcyoEmyRfor1IPP92klXITejZnwN&wx_header=3"
+source_url: "https://mp.weixin.qq.com/s?__biz=MzIzNTExNzMwNg==&mid=2647834076&idx=1&sn=7a7c87ecf2e9a23e651dfab22490a24e&chksm=f1c083c1791b30916a3510a2652"
 title: "OpenTelemetry + Agent 可观测平台基础"
 account: "AI Engineer编程"
 published_at: "2026-07-11T02:23:47.000Z"
-saved_at: "2026-07-15T15:10:43.316Z"
+saved_at: "2026-07-15T17:00:51.579Z"
 sync_id: "art_5f7e899efc3e4d8c977072fb7c2aa5f5"
 parse_status: "ok"
 ---
@@ -573,4 +573,4 @@ return result
 OpenTelemetry 提供了标准化的基础设施，而 Agent 特有的规划、工具调用、质量评估等语义，需要你在其基础上扩展。两者结合，才能构建真正面向 LLM Agent 的可观测平台。
 
 ---
-原文链接：https://mp.weixin.qq.com/s?__biz=MzIzNTExNzMwNg%3D%3D&mid=2647834076&idx=1&sn=7a7c87ecf2e9a23e651dfab22490a24e&chksm=f12aaf817cbfab26071c49ec407152c24eed47cb9b029ab646d80e197a4b7c8d618117bdf064
+原文链接：https://mp.weixin.qq.com/s?__biz=MzIzNTExNzMwNg%3D%3D&mid=2647834076&idx=1&sn=7a7c87ecf2e9a23e651dfab22490a24e&chksm=f1c083c1791b30916a3510a2652
