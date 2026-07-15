@@ -1,0 +1,12 @@
+{
+  "settingsVersion": 3,
+  "apiBaseUrl": "https://ob.agentok.top",
+  "token": "obs_b3FuJTTKszFL_nyZrakUfW8KFj4H5JYT02YHCFrAhb8",
+  "userId": "usr_0f5eeb16867744a383974b04ca6238f5",
+  "syncFolder": "Clippings/微信公众号文章/WeChat Obsync",
+  "deviceName": "Git-Vault_WeChat",
+  "syncIntervalMinutes": 1,
+  "localizeImages": true,
+  "subfolderByAccount": true,
+  "customFrontmatter": ""
+}
