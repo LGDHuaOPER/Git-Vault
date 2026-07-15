@@ -1,0 +1,29 @@
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+**/~$*.doc*
+**/~$*.ppt*
+**/~$*.xls*
+
+**/.history
+**/.history/**
+**/node_modules
+**/node_modules/**
+
+// 注释：全局忽略所有子目录、根目录下的.DS_Store（核心行）
+**/.DS_Store
+// mac 其它垃圾隐藏文件
+**/._*
+**/.AppleDouble
+**/.Spotlight-V100/
+**/.Trashes/
+**/.fseventsd/
+// windows 垃圾（可选保留）
+**/Thumbs.db
+**/Desktop.ini
+**/desktop.ini
+
+media-lib/
