@@ -1,0 +1,29 @@
+{
+  "pluginList": [
+    "noduslabs/infranodus-obsidian-plugin",
+    "SkepticMystic/graph-analysis"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "noduslabs/infranodus-obsidian-plugin",
+      "version": "0.9.12"
+    },
+    {
+      "repo": "SkepticMystic/graph-analysis",
+      "version": "0.15.4"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
