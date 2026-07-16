@@ -1,0 +1,13 @@
+{
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/506466487_1024961646388962_3840038802619531130_n.jpg?stp=dst-jpg_tt6&cstp=mx1620x1080&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qPAeVsn4dsYQ7kNvwEuB6N_&_nc_oc=AdrHagI8zAMCOhp7sp2R09FY7z42Lnjw5l_ZVdPaQQN8Dl9ma9XyWz4Oi47Rta_k49M&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=eI9XIyVXYxe_RQk37VbrdA&_nc_ss=79289&oh=00_AQBmPoUoAs47a2jV77TxiVzbwpnUX2v84v8gfrQd5rT6xg&oe=6A5E2948\")",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/506466487_1024961646388962_3840038802619531130_n.jpg?stp=dst-jpg_tt6&cstp=mx1620x1080&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qPAeVsn4dsYQ7kNvwEuB6N_&_nc_oc=AdrHagI8zAMCOhp7sp2R09FY7z42Lnjw5l_ZVdPaQQN8Dl9ma9XyWz4Oi47Rta_k49M&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=eI9XIyVXYxe_RQk37VbrdA&_nc_ss=79289&oh=00_AQBmPoUoAs47a2jV77TxiVzbwpnUX2v84v8gfrQd5rT6xg&oe=6A5E2948\")",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-custom",
+  "blue-topaz-theme@@background-markdown-page-theme-light-custom": "url(\"https://img.tgl.qq.com/source/open/20241103/17306142724c4429c692e2df85.jpg\")",
+  "blue-topaz-theme@@background-markdown-page-theme-dark-custom": "url(\"https://img.tgl.qq.com/source/open/20241103/17306142724c4429c692e2df85.jpg\")",
+  "blue-topaz-theme@@bg-markdown-page-opacity-cp": 0.1,
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false
+}
