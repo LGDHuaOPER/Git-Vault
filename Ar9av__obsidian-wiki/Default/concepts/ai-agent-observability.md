@@ -30,7 +30,8 @@ sources:
   - "SelectDB: Agent 时代为什么需要新的可观测范式？ (2026-05-21)"
   - "数栖云间: Apache Doris 在 AI Agent 可观测性中的架构实践 (2026-03-12)"
   - "一臻数据: Litefuse 正式发布！Doris 原生 Agent 可观测平台来了 (2026-05-21)"
-summary: AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。核心问题是"任务有没有做对"而非"系统有没有崩"——从 HTTP 200 到语义正确性的范式跨越。涵盖四大观测维度（Trace/Prompt/Tool Call/Token）、四大支柱（Tracing/Metrics/Logging/Alerting）、六层失败模型，以及观测→评估→归因→优化的闭环流程。
+  - "AI Engineer编程微信公众号: Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践 (2026-07-12)"
+summary: AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。核心问题是"任务有没有做对"而非"系统有没有崩"——从 HTTP 200 到语义正确性的范式跨越。涵盖四大观测维度（Trace/Prompt/Tool Call/Token）、三层架构设计（接入/计算存储/应用）、四大支柱（Tracing/Metrics/Logging/Alerting）、六层失败模型，以及观测→评估→归因→优化的闭环流程。
 provenance:
   extracted: 0.65
   inferred: 0.28
@@ -40,7 +41,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: core
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-16T03:16:55+08:00
+updated: 2026-07-17
 relationships:
   - target: "[[concepts/agent-trace-and-timeline]]"
     type: extends
@@ -58,6 +59,10 @@ relationships:
     type: part_of
   - target: "[[concepts/evaluation-driven-development]]"
     type: supports
+  - target: "[[concepts/agent-online-evaluation]]"
+    type: related_to
+  - target: "[[concepts/agent-data-flywheel]]"
+    type: related_to
   - target: "[[entities/deepseek-observability-agent]]"
     type: related_to
   - target: "[[references/alicloud-loongcollector-agent-sandbox]]"
@@ -168,6 +173,61 @@ Timeline 的核心价值在于**从"它错了"定位到"错在哪一步"**。详
 4. **持续迭代**：将 Bad Case 转化为评测样本，在下一轮验证优化效果
 
 这个闭环就是 **观测 → 评估 → 归因 → 优化 → 再评估**。方法论层面参见 [[concepts/evaluation-driven-development]] 和 [[concepts/llm-as-judge-evaluation]]。
+
+## 全链路可观测架构：三层设计
+
+面向 Agent 原生的全链路可观测体系，分为三层 ^[extracted]：
+
+### 接入层：多形态、无侵入、标准化
+
+| 接入形态 | 代表框架 | 策略 |
+|---|---|---|
+| 高代码 | LangChain、LlamaIndex、AutoGen、Spring AI | SDK 深度埋点 |
+| 低代码 | Dify、Langflow | 平台扩展机制注入 |
+| 通用 Agent | OpenClaw | 运行时统一采集 |
+| 多语言 | Python/Node.js/Java/Go | 字节码增强/eBPF 无侵入埋点 |
+
+关键设计：基于 OTEL 标准保证生态兼容性，同时通过 LoongSuite 进行 GenAI 语义扩展，实现框架无关的埋点抽象。^[extracted]
+
+### 计算 & 存储层：Agent 原生数据处理
+
+- **GENAI 语义对齐**：将技术 Span 转化为语义角色（llm_call、retriever_search、tool_execution），实现从"函数调用"到"Agent 决策"的语义跃迁 ^[extracted]
+- **Trace 尾采样**：基于错误、慢请求、异常模式等聚合结果做尾部采样，平衡高成本场景下的存储效率
+- **UModel 实体拓扑**：构建 LLM 模型、Tool、Knowledge Base、Agent 实例的关联图谱，实现从"链路追踪"到"系统理解"的升级 ^[extracted]
+
+### 应用层：三维分析
+
+| 维度 | 分析内容 | 业务价值 |
+|---|---|---|
+| 性能分析 | Token 消耗、LLM/工具调用耗时、平均推理轮次 | 优化用户体验 |
+| 安全审计 | 敏感信息泄露、越权工具调用、Prompt 注入 | 合规与风控 |
+| 成本分析 | 模型调用费用趋势、会话成本核算 | FinOps 决策 |
+
+## Agent 性能指标维度扩展
+
+除了传统延迟和吞吐量，Agent 场景引入了全新的性能指标 ^[extracted]：
+
+- **TTFT**（Time To First Token）— 首 Token 延迟，直接影响用户等待感知
+- **TPOT**（Time Per Output Token）— 每输出 Token 耗时，决定流式响应流畅度
+- **SSE 流式输出质量** — 流式传输的稳定性和完整性
+- **对话轮次** — 完成一个任务所需的推理步数，反映 Agent 效率
+
+这些指标直接关联用户实时体验，成为 Agent 可观测的核心度量对象。
+
+## 数据采集目标多元化
+
+Token 消耗、文本、图片、音频、视频等多模态内容的采集，涉及大体积数据的采样压缩、敏感内容脱敏等新挑战。Agent Trace 的数据量比传统 APM 高 1-2 个数量级，存储和传输成本不可忽视。^[extracted]
+
+## 观测→评估闭环
+
+面向 Agent 的可观测与效果评估深度融合，形成闭环：
+
+1. **上线前**：通过测试集与评估器量化对比不同版本的回答效果
+2. **上线后**：持续采集真实用户的交互轨迹与 Agent 内部执行路径
+3. **异常排查**：发现 Bad Case 后自动或半自动归因至 Prompt、上下文、模型或工具问题
+4. **持续迭代**：将 Bad Case 转化为评测样本，在下一轮验证优化效果
+
+这个闭环就是 **观测 → 评估 → 归因 → 优化 → 再评估**。完整的数据飞轮闭环参见 [[concepts/agent-data-flywheel]]，在线评估体系参见 [[concepts/agent-online-evaluation]]。
 
 ## 最小落地闭环
 

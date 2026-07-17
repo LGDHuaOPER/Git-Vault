@@ -1,23 +1,21 @@
 ---
 title: Hot Cache
-updated: 2026-07-16T03:18:21+08:00
+updated: 2026-07-17T16:00:00+08:00
 ---
 
 # Hot Cache
 
 ## Recent Activity
 
-- [2026-07-16] CROSS_LINK — cross-linked 20+ mentions across 9 pages (5 inline + 15+ Related sections). Key connections: genai-observability-semconv ↔ Litefuse + AgentLogsBench, langfuse ↔ AI Observe Stack + LoongSuite, ai-observe-stack ↔ OpenClaw (inline), agent-harness ↔ openclaw ↔ agent-trace-and-timeline (bidirectional cluster). 18 typed relationships written. Final manual pass added deepseek/alicloud/stepfun links, leaving zero orphans.
-- [2026-07-16] INGEST batch 1 — initial pages on Agent observability paradigm, EDD methodology, trace/cost/quality architecture, Litefuse, Langfuse, open-source platforms, and OTel GenAI semconv.
-- [2026-07-16] INGEST batch 2 — 11 WeChat articles on AI Agent observability distilled into 10 pages (6 concepts + 3 entities + 3 references). Merged overlapping pages (langfuse, litefuse) with batch 1 content.
-- [2026-07-16] INGEST batch 3 — parallel batch on Litefuse, Langfuse, LoongSuite, AgentTrace, OTel semconv, EDD, and AgentLogsBench. Total wiki now at ~25 pages across 4 categories.
-- [2026-07-16] DEDUP auto-merge — merged 4 duplicate pairs: entities/langfuse→langfuse-llm-observability, agent-observability-fundamentals+paradigm→ai-agent-observability, references/opentelemetry-genai-semconv→concepts/genai-observability-semconv. 4 redirect stubs written, 29→25 pages.
+- [2026-07-17] INGEST — "Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践" from AI Engineer编程. Created 2 pages (agent-online-evaluation, agent-data-flywheel), updated 3 pages (evaluation-driven-development with offline pipeline/eval set/evaluator taxonomy, ai-agent-observability with 3-layer architecture/TTFT/UModel, agent-trace-cost-quality-architecture with trajectory processing). Now at 30 knowledge pages.
+- [2026-07-16] CROSS_LINK — cross-linked 20+ mentions across 9 pages. 18 typed relationships written. Zero orphans.
+- [2026-07-16] INGEST batches 1-3 — full AI Agent observability theme ingest from ~33 WeChat articles.
 
 ## Active Threads
 
-- **AI Agent Observability** — 25 pages covering the full spectrum: paradigms, trace architectures, evaluation methods, cost models, failure taxonomies, production engineering frameworks, platform comparisons (Langfuse vs Litefuse), eBPF-based MCP monitoring (MCPSpy), OTel GenAI practical setup, Alibaba Cloud solutions, and PB-scale deployment cases (SelectDB/StepFun).
-- **Open source platforms** — Langfuse (ClickHouse, 28.5K stars) and Litefuse (Apache Doris, 65-88% cheaper storage) are the two main contenders. MCPSpy adds kernel-level MCP monitoring via eBPF.
-- **Production engineering** — Five-pillar framework (Observability, Evaluation, Governance, Safety, Cost) emerging as the standard mental model for AI system operations.
+- **AI Agent Observability** — 30 pages across 4 categories. Full stack coverage: data collection (3-layer architecture), trace design, evaluation (offline + online + data flywheel), production engineering, platform comparisons.
+- **Evaluation methodology** — EDD expanded with complete offline pipeline (CI/CD quality gates, eval set 3-element model, simulation environment, evaluator layered strategy, Skills repo practice). Online evaluation and data flywheel now have dedicated pages.
+- **Open source platforms** — Langfuse, Litefuse, LoongSuite, AgentTrace, MCPSpy as key reference implementations.
 
 ## Key Takeaways
 

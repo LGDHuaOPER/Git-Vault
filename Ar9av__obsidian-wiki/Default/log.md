@@ -13,3 +13,7 @@ updated: 2026-07-16
 - [2026-07-16] CROSS_LINK — added 20+ wikilinks and typed relationships across 9 pages; final manual pass eliminated remaining orphans.
 - [2026-07-16T12:00:00+08:00] DEDUP mode=auto-merge pages_scanned=29 pairs_found=14 merged=4 kept_separate=10 needs_review=0 wikilinks_rewritten=0. Merged pairs: entities/langfuse→entities/langfuse-llm-observability, concepts/agent-observability-fundamentals+concepts/agent-observability-paradigm→concepts/ai-agent-observability, references/opentelemetry-genai-semconv→concepts/genai-observability-semconv. 4 redirect stubs written. Kept concepts/agent-trace-and-timeline vs concepts/agent-trace-span-taxonomy separate (different trace layers).
 - [2026-07-16T14:00:00+08:00] CROSS_LINK pages_scanned=25 links_added=20 typed_relations_written=18 pages_modified=9 orphans_remaining=1 misc_affinity_updated=0 promotion_candidates=0
+- [2026-07-17] QUERY query="什么是AI可观测" result_pages=1 mode=normal escalated=false
+- [2026-07-17] INGEST source="AI Engineer编程: Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践" pages_created=2 pages_updated=3 mode=append
+  - Created: concepts/agent-online-evaluation, concepts/agent-data-flywheel
+  - Updated: concepts/evaluation-driven-development (added offline pipeline, eval set, simulation env, evaluator layers), concepts/ai-agent-observability (added 3-layer architecture, TTFT/TPOT, UModel), concepts/agent-trace-cost-quality-architecture (added trajectory processing pipeline)

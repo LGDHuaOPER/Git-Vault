@@ -1,15 +1,15 @@
 ---
 title: Wiki Index
-updated: 2026-07-16T03:18:21+08:00
+updated: 2026-07-17T16:00:00+08:00
 ---
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-07-16T03:18:21+08:00*
+*This index is automatically maintained. Last updated: 2026-07-17T16:00:00+08:00*
 
 ## Concepts
 
-- [[concepts/ai-agent-observability]] — AI Agent 可观测性的完整能力体系：范式转变（HTTP 200→语义正确性）、四大观测维度、四大支柱、六层失败模型、观测→评估闭环
+- [[concepts/ai-agent-observability]] — AI Agent 可观测性的完整能力体系：范式转变、四大观测维度、三层架构设计、四大支柱、六层失败模型、TTFT/TPOT 指标、UModel 实体拓扑、观测→评估闭环
 - [[concepts/agent-trace-and-timeline]] — Agent Trace 的有序多层级嵌套结构与 Timeline 可视化范式
 - [[concepts/agent-trace-span-taxonomy]] — Agent Run 的 Trace/Span 结构设计
 - [[concepts/agent-trace-cost-quality-architecture]] — Trace/Cost/Quality 三合一可观测架构
@@ -17,7 +17,9 @@ updated: 2026-07-16T03:18:21+08:00
 - [[concepts/agent-cost-breakdown]] — Agent 系统成本的四大构成及其观测方法
 - [[concepts/agent-failure-taxonomy]] — Agent 失败的分类体系
 - [[concepts/ai-production-engineering-five-pillars]] — AI 运行工程化的五维框架
-- [[concepts/evaluation-driven-development]] — 评估驱动开发方法论
+- [[concepts/evaluation-driven-development]] — 评估驱动开发方法论：离线评测流水线、评测集三要素、仿真环境、评估器分层策略、数据飞轮
+- [[concepts/agent-online-evaluation]] — Agent 在线评估体系：实时告警、Badcase 挖掘、在线加工引擎、离线与在线互补的差分评估
+- [[concepts/agent-data-flywheel]] — Agent 质量提升的数据飞轮模式：四阶段闭环、AIOps 迭代飞轮、分级发布、三阶段演进路径
 - [[concepts/llm-as-judge-evaluation]] — LLM-as-Judge 评估方法论
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范：标准 Span 类型与属性、CNCF 毕业、LoongSuite 中国社区三项扩展提案
 

@@ -9,6 +9,7 @@ tags:
   - quality
 sources:
   - "程序猿架构之路: AI可观测性-Trace-Cost-质量三合一 (2026-07-01)"
+  - "AI Engineer编程微信公众号: Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践 (2026-07-12)"
 summary: "将分布式追踪、成本账本、质量评分统一在 OpenTelemetry GenAI 语义约定之上——让 on-call 在 5 分钟内回答'慢在哪、贵在哪、错在哪'的三合一可观测架构。"
 base_confidence: 0.55
 lifecycle: draft
@@ -19,7 +20,7 @@ provenance:
   inferred: 0.35
   ambiguous: 0.10
 created: "2026-07-16"
-updated: "2026-07-16"
+updated: "2026-07-17"
 ---
 
 # AI 可观测性 Trace-Cost-Quality 三合一架构
@@ -109,6 +110,29 @@ session_trace (root)
 | L3 | + 在线 judge 采样 + 看板 |
 | L4 | + 自动回流 Harness + 成本预算自治 |
 
+## 轨迹评估：从 Trace 到可评估数据
+
+原始 Trace 信息多、密度低，直接输入 LLM 会超出上下文限制。设计了**三阶段加工流水线**将 Trace 转化为可评估的轨迹数据 ^[extracted]：
+
+### 轨迹提取策略
+
+保留 LLM 决策逻辑和工具调用关系，丢弃以下技术噪音：
+- 耗时数据（供 Code 评估使用，但不传给 LLM 评估器）
+- Token 数（记录在成本维度，不干扰语义评估）
+- 框架内部细节（SDK 实现细节无关质量判断）
+
+工具返回内容压缩为 `${response}` 占位，保留调用结构而非完整响应体。
+
+### 分层信息处理
+
+从原始 Trace → 结构化轨迹 → 评估结果，每层都有明确的信息过滤策略：
+
+1. **原始 Trace** — 保留所有原始数据作为审计底稿
+2. **结构化轨迹** — 提取决策逻辑、工具调用关系，压缩技术元数据
+3. **评估输入** — 仅向 LLM 评估器传递语义相关的内容
+
+**分层信息处理原则**：保留决策逻辑，丢弃执行细节；Code 评估效率指标，LLM 评估语义质量。^[extracted]
+
 ## 常见陷阱
 
 1. **只采 trace 不算 token**：span 无 `usage.*` → FinOps 黑洞。Fix：Gateway 统一注入；vLLM 用 prometheus `vllm:prompt_tokens_total`。^[extracted]
@@ -118,8 +142,10 @@ session_trace (root)
 
 ## 相关页面
 
-- [[agent-observability-paradigm]] — 范式转变的背景
-- [[evaluation-driven-development]] — 评估驱动的迭代方法论
-- [[opentelemetry-genai-semconv]] — OTel GenAI 语义约定详解
-- [[litefuse]] — Litefuse 的三合一实现
-- [[langfuse]] — Langfuse 的 trace + eval 功能
+- [[concepts/agent-observability-paradigm]] — 范式转变的背景
+- [[concepts/evaluation-driven-development]] — 评估驱动的迭代方法论
+- [[concepts/agent-online-evaluation]] — 在线评估体系
+- [[concepts/agent-data-flywheel]] — 数据飞轮闭环
+- [[concepts/genai-observability-semconv]] — OTel GenAI 语义约定详解
+- [[entities/litefuse]] — Litefuse 的三合一实现
+- [[entities/langfuse-llm-observability]] — Langfuse 的 trace + eval 功能
