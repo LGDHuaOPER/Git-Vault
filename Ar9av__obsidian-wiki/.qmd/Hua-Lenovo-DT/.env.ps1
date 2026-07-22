@@ -1,0 +1,3 @@
+$env:QMD_EMBED_CONTEXT_SIZE = "2048" # Default: 2048
+$env:QMD_EXPAND_CONTEXT_SIZE = "2048" # Default: 2048
+$env:QMD_RERANK_CONTEXT_SIZE = "2048" # Default: 4096

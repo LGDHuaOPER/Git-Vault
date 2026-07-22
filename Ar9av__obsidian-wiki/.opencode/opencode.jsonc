@@ -1,14 +1,37 @@
 {
   "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "external_directory": {
+      ".env": "allow",
+      "~/.obsidian-wiki/**": "allow",
+    },
+  },
   "mcp": {
-    // Disabled
+    /* Disabled */
+    "codegraph": {
+      "type": "local",
+      // "command": [
+      //   "codegraph",
+      //   "serve",
+      //   "--mcp"
+      // ],
+      "enabled": false
+    },
+    "mcp/mcp-server-git": {
+      "type": "local",
+      // "command": [
+      //   "uvx",
+      //   "mcp-server-git"
+      // ],
+	  "enabled": false
+    },
     "gitnexus": {
       "type": "local",
       // "command": [
       //   "F:\\Users\\HuaFEEng\\AppData\\Local\\npm-cache\\_npx\\5e786f48223a616c\\node_modules\\.bin\\gitnexus.cmd",
       //   "mcp"
       // ],
-      "enabled": false
+	  "enabled": false
     },
     "codebase-memory-mcp": {
       "type": "local",
@@ -19,7 +42,7 @@
       "enabled": false,
       // "timeout": 10000
     },
-    "cyanheads/git-mcp-server": {
+	"cyanheads/git-mcp-server": {
       "type": "local",
       // "command": [
       //   "npx",
@@ -32,16 +55,28 @@
       "enabled": false,
       // "timeout": 10000
     },
-    // Enabled
+	/* Enabled */
+	// "tobi/qmd": {
+    //   "type": "local",
+    //   "command": [
+    //     "qmd",
+    //     "mcp"
+    //   ],
+    //   "environment": {
+	//     "QMD_EMBED_CONTEXT_SIZE": "1024", // Default: 2048
+	//     "QMD_EXPAND_CONTEXT_SIZE": "1024", // Default: 2048
+	//     "QMD_RERANK_CONTEXT_SIZE": "2048", // Default: 4096
+	//   },
+    //   "enabled": true,
+    //   "timeout": 1800000
+    // },
 	"tobi/qmd": {
-      "type": "local",
-      "command": [
-        "qmd",
-        "mcp"
-      ],
-      "environment": {},
+      "type": "remote",
+      "url": "http://localhost:8181/mcp",
       "enabled": true,
-      "timeout": 10000
+      "headers": {},
+      "oauth": {},
+      "timeout": 1800000
     },
   }
 }

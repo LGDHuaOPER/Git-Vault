@@ -17,3 +17,5 @@ updated: 2026-07-16
 - [2026-07-17] INGEST source="AI Engineer编程: Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践" pages_created=2 pages_updated=3 mode=append
   - Created: concepts/agent-online-evaluation, concepts/agent-data-flywheel
   - Updated: concepts/evaluation-driven-development (added offline pipeline, eval set, simulation env, evaluator layers), concepts/ai-agent-observability (added 3-layer architecture, TTFT/TPOT, UModel), concepts/agent-trace-cost-quality-architecture (added trajectory processing pipeline)
+- [2026-07-20] QUERY query="AI 应用全链路可观测" result_pages=8 mode=normal escalated=false qmd_used=true
+- [2026-07-21] QUERY query="AI 应用全链路可观测" experiments=3 result_pages=[3,8,0] mode=normal qmd_used=true qmd_transport=mcp note="escalated on last attempt due to MCP timeout"
