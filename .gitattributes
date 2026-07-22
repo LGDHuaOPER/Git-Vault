@@ -1,0 +1,8 @@
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.png filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.webp filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.JPG filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.JPEG filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.PNG filter=lfs diff=lfs merge=lfs -text
+Clippings/微信公众号文章/WeChat[[:space:]]Obsync/**/附件资源/**/*.WEBP filter=lfs diff=lfs merge=lfs -text
