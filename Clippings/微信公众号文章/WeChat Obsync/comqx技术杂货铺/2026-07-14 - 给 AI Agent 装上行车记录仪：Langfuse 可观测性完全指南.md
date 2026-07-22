@@ -1,9 +1,9 @@
 ---
-source_url: "https://mp.weixin.qq.com/s?search_click_id=6839897686215827321-1784646109660-2707826486&__biz=MzIxMjc3MzgwMA==&mid=2247484209&idx=1&sn=2c24556ef1009d1976c72b79a1fc709e&chksm=96b6386ff282230185e80e84f66f95ce6c5e34a0cb4fc54890aeda47a8f69568dae66d742fa6&subscene=90&scene=7&clicktime=1784646109&enterid=1784646109&ascene=65&devicetype=iOS26.5.2&version=18004b42&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQp1Pl3QSJJLUvnmdRE5f2JBLhAQIE97dBBAEAAAAAAAzTLGwc2kAAAAAOpnltbLcz9gKNyK89dVj0VDqAUMAqPfMpz5tRPr4JSC0YILRW9cOY73zsMLJO3vfHHDdYWgbhErx9DDCWFmOlLW4lKqg3le8F6BKaUEtdTB1jdGvqMs2jHlAcJvFU7KANXfl6X60UvmjCP0OHVMj4McNiluOAJioxHZevvDk4Ym2vX+Mbjp3JxoBK+h2AQqnlutAz3UOyp/99JZ/Ugoyiil5p73JF1OfjgZIzKeUgLTCBw6D1FRc3bOOQy3RCvLZUQZ9J8DATFnKWvw==&pass_ticket=3JhKFtFOu4c5P/ZRU1MQL2kVgn5tbnlXhFNYvCn35FQqN123O7gbHy8H4YxyG4VV&wx_header=3"
+source_url: "https://mp.weixin.qq.com/s?search_click_id=2577446274891197028-1784693167977-3465633198&__biz=MzIxMjc3MzgwMA==&mid=2247484209&idx=1&sn=2c24556ef1009d1976c72b79a1fc709e&chksm=96b6386ff282230185e80e84f66f95ce6c5e34a0cb4fc54890aeda47a8f69568dae66d742fa6&subscene=90&scene=7&clicktime=1784693167&enterid=1784693167&ascene=65&devicetype=iOS26.5.2&version=18004b42&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQFoFHPw/QC6FLBzGi/l1oMxLhAQIE97dBBAEAAAAAAB2fAG5rQJkAAAAOpnltbLcz9gKNyK89dVj0y5JkEYxUsBCiMKiXjcpkg7pDKeA78R+RI4ioLpV3omKORZ8Skfpg0RDnLcwjtHbXmse56E6RP6Tjyw/pP5Q/GZdEtmmCERx7T0YjRwBrAw3rvHfu+HPwqaKprPA48H6DIGeN4D7ZVYHfw1fHghaUjC3b5XmDFO5oI1OlIGoHp6FWqOgzpoeo9J1dKsnHetNP5MrOn1U8WXPe+Ij9EWKMXgfXXUr4B2RzgP7IsYBNCz03qcMJQTVUFQ6ChA==&pass_ticket=84/OZmSd6b5Y2Mdvg+NUo0nMBDbde+ojRPFYw4rkbTuwcq+mawi5CUoZornqo5di&wx_header=3"
 title: "给 AI Agent 装上行车记录仪：Langfuse 可观测性完全指南"
 account: "comqx技术杂货铺"
 published_at: "2026-07-14T13:29:13.000Z"
-saved_at: "2026-07-21T15:02:05.372Z"
+saved_at: "2026-07-22T04:06:16.599Z"
 sync_id: "art_f46c209f6bb74221accc40214ea0437e"
 parse_status: "ok"
 ---

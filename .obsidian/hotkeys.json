@@ -12,5 +12,15 @@
       ],
       "key": ","
     }
+  ],
+  "wechat-obsync:obsync-sync-now": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "0"
+    }
   ]
 }
