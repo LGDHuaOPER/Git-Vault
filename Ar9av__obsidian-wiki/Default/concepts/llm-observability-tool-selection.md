@@ -37,6 +37,8 @@ relationships:
     type: related_to
   - target: "[[entities/lunary]]"
     type: related_to
+  - target: "[[references/datadog-llm-observability]]"
+    type: related_to
 ---
 
 # LLM 可观测性工具选型
@@ -83,7 +85,7 @@ relationships:
 ### Datadog Agent Observability：把模型问题和基础设施问题放在一起看
 
 - **优势**：与公司已有的 APM、日志、基础设施指标关联；能继续向下追查 Agent 延迟升高的根因（数据库阻塞、检索服务异常、资源不足）
-- **适合**：已经全面使用 Datadog 管理基础设施、APM 和日志，希望统一监控 Agent 与底层系统的企业
+- **适合**：已经全面使用 [[references/datadog-llm-observability|Datadog]] 管理基础设施、APM 和日志，希望统一监控 Agent 与底层系统的企业
 - **注意**：平台相对偏重，对尚未建立 Datadog 体系的小团队不是最轻量起点 ^[extracted]
 
 ### [[entities/lunary|Lunary]]：小团队快速看到用户、会话和成本

@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: 2026-07-22T00:00:00+08:00
 relationships:
   - target: "[[entities/bonree-one]]"
-    type: describes
+    type: related_to
 ---
 
 # 博睿数据 LLM 智能可观测平台解决方案正式登陆华为云国际站

@@ -27,6 +27,8 @@ relationships:
     type: uses
   - target: "[[concepts/genai-observability-semconv]]"
     type: uses
+  - target: "[[skills/langfuse-self-hosting]]"
+    type: related_to
 ---
 
 # Spring AI + OpenTelemetry + Langfuse 生产级可观测方案
@@ -159,3 +161,4 @@ Langfuse 或网络不可用时，应允许丢弃 Span，而不是拖垮业务系
 - [[entities/langfuse-llm-observability]] — Langfuse LLM 可观测平台
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
 - [[references/opentelemetry-genai-agent-setup]] — OTel 在 Agent 场景中的实战配置
+- [[skills/langfuse-self-hosting]] — Langfuse 自托管部署指南

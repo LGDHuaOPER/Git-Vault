@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: "2026-07-22"
 relationships:
   - target: "[[concepts/observability-3-0]]"
-    type: describes
+    type: related_to
   - target: "[[entities/openobserve]]"
     type: related_to
 ---

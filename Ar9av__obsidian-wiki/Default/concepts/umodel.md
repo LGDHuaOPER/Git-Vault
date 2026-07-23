@@ -19,7 +19,7 @@ relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: implements
   - target: "[[entities/alicloud-cloudmonitor-ai-agent-observability]]"
-    type: used_by
+    type: related_to
 ---
 
 # UModel

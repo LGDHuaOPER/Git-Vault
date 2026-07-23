@@ -22,7 +22,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: "2026-07-22"
 relationships:
   - target: "[[entities/litefuse]]"
-    type: describes
+    type: related_to
   - target: "[[entities/apache-doris-agent-observability]]"
     type: related_to
 ---

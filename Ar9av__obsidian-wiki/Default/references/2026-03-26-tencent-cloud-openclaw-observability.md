@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: 2026-07-22T00:00:00+08:00
 relationships:
   - target: "[[entities/tencent-cloud-observability-llm]]"
-    type: describes
+    type: related_to
 ---
 
 # 告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼”

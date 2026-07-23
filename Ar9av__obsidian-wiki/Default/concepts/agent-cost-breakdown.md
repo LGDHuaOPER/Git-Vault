@@ -20,6 +20,9 @@ provenance:
   ambiguous: 0.1
 created: 2026-07-16
 updated: 2026-07-16
+relationships:
+  - target: "[[concepts/agent-observability-metrics]]"
+    type: related_to
 ---
 
 # Agent Cost Breakdown
@@ -73,3 +76,4 @@ Agent 的成本远不止一次模型调用的费用。它由四部分组成 ^[ex
 - [[agent-observability-fundamentals]] — 成本观测是可观测性的核心维度
 - [[agent-failure-taxonomy]] — 重试成本与失败模式的关系
 - [[ai-production-engineering-five-pillars]] — 成本在运行工程化框架中的位置
+- [[concepts/agent-observability-metrics]] — Agent 可观测指标体系

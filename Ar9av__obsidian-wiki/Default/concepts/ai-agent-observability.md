@@ -71,9 +71,9 @@ relationships:
   - target: "[[concepts/agent-failure-taxonomy]]"
     type: extends
   - target: "[[concepts/ai-production-engineering-five-pillars]]"
-    type: part_of
+    type: related_to
   - target: "[[concepts/evaluation-driven-development]]"
-    type: supports
+    type: related_to
   - target: "[[concepts/agent-online-evaluation]]"
     type: related_to
   - target: "[[concepts/agent-data-flywheel]]"
@@ -98,6 +98,28 @@ relationships:
     type: related_to
   - target: "[[entities/loongsuite-pilot]]"
     type: related_to
+  - target: "[[concepts/observability-3-0]]"
+    type: related_to
+  - target: "[[references/7-llm-observability-tools]]"
+    type: related_to
+  - target: "[[skills/openclaw-observability-setup-tencent-cloud]]"
+    type: related_to
+  - target: "[[concepts/agent-observability-metrics]]"
+    type: related_to
+  - target: "[[references/agent-observability-seeing-thoughts]]"
+    type: related_to
+  - target: "[[concepts/ai-coding-agent-observability]]"
+    type: related_to
+  - target: "[[concepts/genai-observability-2.0]]"
+    type: related_to
+  - target: "[[concepts/llm-observability-tool-selection]]"
+    type: related_to
+  - target: "[[references/agent-harness-observability]]"
+    type: related_to
+  - target: "[[references/ai-agent-observability-invisible-chain]]"
+    type: related_to
+  - target: "[[references/llm-observability-agent-interview]]"
+    type: related_to
 ---
 
 # AI Agent Observability
@@ -110,7 +132,7 @@ AI Agent 可观测性是理解 AI Agent 系统内部状态和行为的完整能�
 
 Agent 时代，这套逻辑彻底失效。
 
-某团队上线了一款客服 Agent：监控大盘全绿，HTTP 状态码 200，工具调用链路正常，模型响应时间达标。但系统把一个符合退款政策的订单直接回复为"根据政策无法退款"。从任何传统可观测指标看，没有异常。**但 Agent 在业务层给出了错误答案。**
+某团队上线了一款客服 Agent：监控大盘全绿，HTTP 状态码 200，工具调用链路正常，模型响应时间达标。但系统把一个符合退款政策的订单直接回复为"根据政策无法退款"。从任何传统[[concepts/agent-observability-metrics|可观测指标]]看，没有异常。**但 Agent 在业务层给出了错误答案。**
 
 核心问题转移了：**在系统正常运行的同时，任务真的做对了吗？**
 
@@ -161,7 +183,7 @@ Token 消耗、API 调用费用的实时监控，支持按应用、租户、模�
 实时监控关键指标：延迟（P50/P95/P99）、成功率、Token 消耗、质量评分。Agent metrics 需要多维度——按模型、按任务类型、按用户/租户拆分。
 
 ### 3. Logging（日志）
-结构化日志，支持搜索和分析。Agent 日志的特殊性在于推理链（Chain-of-Thought）本身也是重要的观测对象——"它在想什么"往往比"它做了什么"更能解释问题。
+结构化日志，支持搜索和分析。Agent 日志的特殊性在于推理链（Chain-of-Thought）本身也是重要的观测对象——[[references/agent-observability-seeing-thoughts|"它在想什么"]]往往比"它做了什么"更能解释问题。
 
 ### 4. Alerting（告警）
 异常检测和自动告警：质量下降（如 hallucination 率上升）、成本飙升（Token 消耗异常）、安全事件（越狱尝试）。告警阈值需要基于历史基线动态调整。
@@ -436,3 +458,18 @@ Agent 可观测平台建设不要一开始就追求平台化。更务实的做�
 ## eBPF：高质量可观测信号源
 
 eBPF 通过零侵扰、全栈采集能力，为可观测性智能体提供高质量数据基础设施。相比传统 APM，eBPF 能覆盖 APM 插桩无法覆盖的网关、中间件、数据库、DNS、K8s 网络等全链路组件。详见 [[concepts/ebpf-observability-agent]]。
+
+## Related
+
+- [[concepts/observability-3-0]] — 可观测性范式演进到 Observability 3.0（概率系统时代）
+- [[references/7-llm-observability-tools]] — 7 款 LLM 可观测与评测工具选型指南
+- [[skills/openclaw-observability-setup-tencent-cloud]] — OpenClaw 在腾讯云的可观测接入实操
+- [[concepts/ai-coding-agent-observability]] — AI Coding Agent 可观测性（端侧场景）
+- [[concepts/genai-observability-2.0]] — 生成式 AI 可观测性 2.0：成本、安全、质量三大支柱
+- [[concepts/llm-observability-tool-selection]] — LLM 可观测性工具选型方法论
+- [[references/agent-harness-observability]] — Agent Harness Engineering 可观测性与运维
+- [[references/ai-agent-observability-invisible-chain]] — AI Agent 可观测性：看不见的链路，才是最贵的技术债
+- [[references/llm-observability-agent-interview]] — LLM 可观测性在 Agent 系统中的应用（面试题视角）
+- [[synthesis/ai-agent-observability-x-langfuse-llm-observability]] — synthesis: theory vs implementation — the framework's ambition outpaces Langfuse's trace model
+- [[synthesis/ai-agent-observability-x-dify]] — synthesis: observability vs abstraction — low-code platforms create observability blind spots
+- [[synthesis/ai-agent-observability-x-arize-phoenix]] — synthesis: general framework vs RAG-specialized — the framework under-specifies RAG's four sub-layers

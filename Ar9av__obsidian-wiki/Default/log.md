@@ -1,6 +1,6 @@
 ---
 title: Wiki Log
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Wiki Log
@@ -29,3 +29,11 @@ updated: 2026-07-22
   - New pages (sample): concepts/agent-evaluation-framework, concepts/agent-observability-metrics, concepts/ai-coding-agent-observability, concepts/ai-observability-layered-architecture, concepts/ebpf-observability-agent, concepts/genai-observability-2.0, concepts/llm-observability-tool-selection, concepts/observability-3-0, concepts/umodel, entities/acs-agent-sandbox, entities/alicloud-cloudmonitor-ai-agent-observability, entities/automq, entities/bonree-one, entities/coze-loop, entities/deepflow, entities/dify, entities/greptimedb, entities/helicone, entities/langsmith, entities/loongsuite-pilot...
   - Updated pages (sample): concepts/agent-failure-taxonomy, concepts/agent-harness, concepts/agent-trace-span-taxonomy, concepts/ai-agent-observability, concepts/ai-production-engineering-five-pillars, concepts/genai-observability-semconv, concepts/llm-as-judge-evaluation, entities/ai-observe-stack, entities/apache-doris-agent-observability, entities/langfuse-llm-observability...
 - [2026-07-22] CROSS_LINK pages_scanned=101 links_added=96 typed_relations_written=96 pages_modified=54 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0
+
+- [2026-07-23] LINT issues_found=43 orphans=21 broken_links=0 stale=0 contradictions=0 prov_issues=0 missing_summary=4 fragmented_clusters=2 visibility_issues=0 promotion_candidates=0 synthesis_gaps=1 relationship_issues=20 lifecycle_issues=4
+- [2026-07-23] WIKI_SYNTHESIZE pages_scanned=101 synthesis_created=5 candidates_skipped=15 cluster=ai-agent(67) co_occurrence_pairs=69
+  - Created: synthesis/genai-observability-semconv-x-langfuse-llm-observability, synthesis/ai-agent-observability-x-langfuse-llm-observability, synthesis/ai-agent-observability-x-dify, synthesis/llm-as-judge-evaluation-x-langfuse-llm-observability, synthesis/ai-agent-observability-x-arize-phoenix
+  - Back-linked from: concepts/genai-observability-semconv, entities/langfuse-llm-observability, concepts/ai-agent-observability, entities/dify, concepts/llm-as-judge-evaluation, entities/arize-phoenix
+- [2026-07-23] CROSS_LINK pages_scanned=101 links_added=45 typed_relations_written=44 pages_modified=21 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0
+  - TARGET A (fragmented #observability cluster, 5 pages → connected): concepts/ai-agent-observability, concepts/observability-3-0, references/7-llm-observability-tools, skills/agent-observability-landing-guide, skills/openclaw-observability-setup-tencent-cloud. 13 cross-links + 13 typed relations.
+  - TARGET B (orphan rescue): 21 pages with 0 incoming content links rescued via 32 wikilinks (8 inline + 1 broken-link fix + 23 Related-section) + 31 typed relations. All 21 now have ≥1 incoming content link.

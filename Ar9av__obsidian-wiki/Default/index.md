@@ -1,11 +1,11 @@
 ---
 title: Wiki Index
-updated: 2026-07-22T14:41:40.469Z
+updated: 2026-07-23T00:00:00.000Z
 ---
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-07-22T14:41:40.469Z*
+*This index is automatically maintained. Last updated: 2026-07-23T00:00:00.000Z*
 
 ## Concepts
 
@@ -70,6 +70,14 @@ updated: 2026-07-22T14:41:40.469Z
 - [[entities/tencent-cloud-observability-llm]] — 腾讯云可观测平台面向 LLM 应用的可观测解决方案，通过 OpenTelemetry + 双插件协同为 OpenClaw 等 Agent 提供 Trace 与 Metrics 一体化监控。
 - [[entities/trulens]] — 以评测为中心的开源框架，提出 RAG Triad 从上下文相关性、回答相关性和事实依据三个维度系统评估 RAG 质量。
 - [[entities/vllm]] — 开源大模型推理加速框架，通过 PagedAttention、KV Cache 复用等技术提升推理效率，其 Python 程序特性使其可被 OpenTelemetry 探针无侵入观测。
+
+## Synthesis
+
+- [[synthesis/genai-observability-semconv-x-langfuse-llm-observability]] — Standard vs Product: the gap between evolving OTel GenAI SemConv telemetry fields and Langfuse's production workflow artifacts (Prompt versions, Datasets, Scores).
+- [[synthesis/ai-agent-observability-x-langfuse-llm-observability]] — Theory vs Implementation: the framework's six failure categories and closed-loop ambition vs Langfuse's three trace statuses and open-tool architecture.
+- [[synthesis/ai-agent-observability-x-dify]] — Observability vs Abstraction: Dify's low-code YAML orchestration that accelerates building is the same abstraction that creates observability blind spots.
+- [[synthesis/llm-as-judge-evaluation-x-langfuse-llm-observability]] — Evaluation-Observability Loop: LLM-as-Judge and Langfuse form a closed loop in theory but require explicit wiring in practice.
+- [[synthesis/ai-agent-observability-x-arize-phoenix]] — General vs RAG-specialized: the framework's four dimensions under-specify RAG's four sub-layers (Input/Recall/Rerank/Citation) that Phoenix's RAG analysis reveals.
 
 ## Skills
 

@@ -30,6 +30,8 @@ relationships:
     type: related_to
   - target: "[[entities/signoz]]"
     type: related_to
+  - target: "[[references/openobserve-otel-landing]]"
+    type: related_to
 ---
 
 # OpenObserve
@@ -144,3 +146,4 @@ OpenObserve 开源版只支持 Organization 级别的隔离（每个 org 用不�
 - [[concepts/genai-observability-semconv]] — OpenTelemetry 采集标准
 - [[concepts/ai-agent-observability]] — Agent 可观测性整体概念
 - [[entities/greptimedb]] — 另一个统一可观测性数据库
+- [[references/openobserve-otel-landing]] — 可观测性选型实录：从 OpenTelemetry 到 OpenObserve 的落地之路

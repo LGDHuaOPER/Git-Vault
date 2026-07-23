@@ -105,3 +105,4 @@ Agent 输出 → 质量评估 → 通过 → 返回用户
 - [[ai-production-engineering-five-pillars]] — 评估在运行工程化中的位置
 - [[agent-failure-taxonomy]] — 失败分类支撑评估维度
 - [[references/ai-customer-service-evaluation-alan]] — 七维 LLM Judge 工程实践
+- [[synthesis/llm-as-judge-evaluation-x-langfuse-llm-observability]] — synthesis: evaluation-observability loop — trace data feeds the Judge, but the wiring is manual

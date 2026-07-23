@@ -21,6 +21,8 @@ relationships:
     type: related_to
   - target: "[[concepts/evaluation-driven-development]]"
     type: implements
+  - target: "[[references/agent-observability-quality-evaluation-data-flywheel]]"
+    type: related_to
 provenance:
   extracted: 0.6
   inferred: 0.3
@@ -91,3 +93,4 @@ AIOps Agent 按数据形态分为三类，评估方法截然不同：
 - [[concepts/llm-as-judge-evaluation]] — LLM-as-Judge 方法论
 - [[concepts/agent-trace-cost-quality-architecture]] — Trace-Cost-Quality 架构
 - [[entities/loongsuite-platform]] — LoongSuite 平台
+- [[references/agent-observability-quality-evaluation-data-flywheel]] — 可观测与质量评测体系的数据飞轮实践

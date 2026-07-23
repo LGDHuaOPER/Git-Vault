@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: 2026-07-22T00:00:00+08:00
 relationships:
   - target: "[[entities/loongsuite-platform]]"
-    type: describes
+    type: related_to
 ---
 
 # 零代码改造！LoongSuite AI 采集套件观测实战

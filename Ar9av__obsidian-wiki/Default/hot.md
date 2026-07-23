@@ -1,19 +1,21 @@
 ---
 title: Hot Cache
-updated: 2026-07-22T23:30:00.000Z
+updated: 2026-07-23T16:30:00.000Z
 ---
 
 # Hot Cache
 
 ## Recent Activity
 
+- [2026-07-23] CROSS_LINK — Rescued all 21 orphan pages (0 incoming content links → ≥1 each, 79 incoming links total) and connected the fragmented 5-page #observability cluster (cohesion 0 → fully inter-linked). 45 wikilinks added across 21 pages with 44 typed relationships. Fixed a malformed wikilink in concepts/observability-3-0 pointing to references/2026-05-18-openobserve-llm-vs-traditional-observability.
+- [2026-07-23] WIKI_SYNTHESIZE — Synthesized 5 cross-cutting pages from the #ai-agent cluster (67 pages, 69 co-occurrence pairs): GenAI SemConv × Langfuse (standard vs product), AI Agent Observability × Langfuse (theory vs implementation), AI Agent Observability × Dify (observability vs abstraction), LLM-as-Judge × Langfuse (evaluation-observability loop), AI Agent Observability × Arize Phoenix (general vs RAG-specialized). Back-linked from 6 source pages. 15 candidates skipped for future runs.
 - [2026-07-22] CROSS_LINK — Cross-linked 96 mentions across 54 pages; 0 orphans remain. Connected newly ingested WeChat article pages to existing concepts/entities via inline wikilinks and typed relationships.
-- [2026-07-22] INGEST — 89 WeChat article clippings from WeChat Obsync + Inbox on AI/LLM observability. Created 65 new pages and updated 15 existing pages. Wiki expanded from 38 to 101 knowledge pages. Topics covered: Langfuse ecosystem, OpenTelemetry GenAI, eBPF-based observability, Alibaba Cloud LoongSuite/CloudMonitor, Agent evaluation frameworks, AI customer service evaluation, observability tool selection, and production-grade observability platforms.
 
 
 ## Active Threads
 
-- **AI Agent Observability** — 101 pages across 4 categories. Comprehensive coverage spans data collection (3-layer architecture), trace/span design, evaluation (offline + online + data flywheel + causal attribution + LLM-as-Judge), production engineering, platform comparisons, industry standards (CAICT), and OTel GenAI six-layer architecture.
+- **AI Agent Observability** — 106 pages across 5 categories (now includes synthesis/). Comprehensive coverage spans data collection (3-layer architecture), trace/span design, evaluation (offline + online + data flywheel + causal attribution + LLM-as-Judge), production engineering, platform comparisons, industry standards (CAICT), and OTel GenAI six-layer architecture. 5 synthesis pages now connect cross-cutting themes: standard-vs-product, theory-vs-implementation, observability-vs-abstraction, evaluation-observability loop, general-vs-RAG-specialized.
+- **Synthesis gaps** — 15 co-occurrence pairs identified but not yet synthesized. Top skipped: GenAI SemConv × Dify, LLM-as-Judge × Arize Phoenix, EDD × Langfuse, AI Agent Observability × Helicone, AI Agent Observability × Litefuse. Candidates for next synthesis run.
 - **Langfuse ecosystem** — Deep coverage of Langfuse deployment, integration patterns, self-hosting, lifecycle observability, and comparison with Litefuse.
 - **OpenTelemetry GenAI** — Standardized observability for LLM/Agent/MCP with six-layer semantic conventions.
 - **eBPF + LLM observability** — Kernel-level zero-instrumentation monitoring for MCP protocols and Agent behavior via DeepFlow, MCPSpy, and AutoMQ meetup insights.

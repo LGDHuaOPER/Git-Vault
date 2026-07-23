@@ -23,6 +23,10 @@ updated: 2026-07-22T00:00:00+08:00
 relationships:
   - target: "[[entities/langfuse-llm-observability]]"
     type: implements
+  - target: "[[references/2026-04-27-langfuse-lifecycle-observability]]"
+    type: related_to
+  - target: "[[references/langfuse-deployment-practice]]"
+    type: related_to
 ---
 
 # Langfuse Self-Hosting
@@ -199,3 +203,8 @@ curl http://localhost:9090/minio/health/live
 - **敏感字段**：Token、密钥、身份证、手机号、地址、用户上传文件全文等不应进入观测系统。
 - **Trace 维度**：至少保证 traceId、sessionId、userId、agentName、modelName、toolName、resultCode、duration、tokenUsage 可串起来。
 - **数据保留**：提前规划磁盘空间、ClickHouse 保留策略、备份和清理。
+
+## Related
+
+- [[references/2026-04-27-langfuse-lifecycle-observability]] — LLM 应用的全生命周期可观测性平台之 Langfuse
+- [[references/langfuse-deployment-practice]] — Langfuse 部署实战：搭建 Agent 可观测平台

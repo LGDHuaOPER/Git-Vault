@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: "2026-07-22"
 relationships:
   - target: "[[entities/alicloud-cloudmonitor-ai-agent-observability]]"
-    type: describes
+    type: related_to
   - target: "[[entities/dify]]"
     type: related_to
   - target: "[[entities/openclaw]]"

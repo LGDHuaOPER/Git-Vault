@@ -21,6 +21,11 @@ provenance:
   ambiguous: 0.10
 created: "2026-07-16"
 updated: "2026-07-17"
+relationships:
+  - target: "[[entities/opencompass]]"
+    type: related_to
+  - target: "[[references/agent-observability-quality-evaluation-data-flywheel]]"
+    type: related_to
 ---
 
 # 评估驱动开发 (EDD)
@@ -170,3 +175,5 @@ LLM 评估的四种方法：
 - [[concepts/agent-evaluation-framework]] — Agent 评估方法论（Anthropic Task/Trial/Grader + 阿里巴巴 P0/P1/P2 工程框架）
 - [[concepts/agent-causal-attribution]] — Agent 因果归因（从"错在哪一步"到"为什么错"）
 - [[concepts/rag-observability]] — RAG 可观测性（检索质量独立观测层）
+- [[entities/opencompass]] — 开源大模型评测框架
+- [[references/agent-observability-quality-evaluation-data-flywheel]] — 可观测与质量评测体系：从数据采集到数据飞轮

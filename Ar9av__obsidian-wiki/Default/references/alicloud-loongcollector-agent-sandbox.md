@@ -13,6 +13,8 @@ relationships:
     type: related_to
   - target: "[[entities/acs-agent-sandbox]]"
     type: related_to
+  - target: "[[references/2026-07-16-infoq-deepseek-chatbot-observability]]"
+    type: related_to
 sources:
   - "阿里云可观测: LoongCollector + ACS Agent Sandbox：构建 AI Agent 生产级运行平台 (2026-04-06)"
   - "阿里云可观测: 重磅发布丨云监控 AI Agent 可观测，企业生产级 Agent 首选全域观测平台 (2026-06-01)"
@@ -64,7 +66,7 @@ ACS（Alibaba Cloud Sandbox）Agent Sandbox 提供了 AI Agent 的生产级运�
 
 ## DeepSeek 对话机器人案例
 
-阿里云以 DeepSeek 对话机器人为例，展示了全栈可观测实践的完整链路：前端请求 → 后端 Agent 服务 → DeepSeek API → ARMS 全链路追踪。详见来源文档。
+阿里云以 [[references/2026-07-16-infoq-deepseek-chatbot-observability|DeepSeek 对话机器人]]为例，展示了全栈可观测实践的完整链路：前端请求 → 后端 Agent 服务 → DeepSeek API → ARMS 全链路追踪。详见来源文档。
 
 ## 相关页面
 

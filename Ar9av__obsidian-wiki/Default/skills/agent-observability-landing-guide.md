@@ -30,6 +30,12 @@ relationships:
     type: uses
   - target: "[[concepts/agent-cost-breakdown]]"
     type: uses
+  - target: "[[concepts/observability-3-0]]"
+    type: related_to
+  - target: "[[references/7-llm-observability-tools]]"
+    type: related_to
+  - target: "[[skills/openclaw-observability-setup-tencent-cloud]]"
+    type: related_to
 ---
 
 # Agent Observability Landing Guide
@@ -156,6 +162,9 @@ AI 可观测性平台建设容易"做大做重"，迟迟不落地。^[extracted]
 ## 相关页面
 
 - [[concepts/ai-agent-observability]] — Agent 可观测性整体概念
+- [[concepts/observability-3-0]] — 可观测性范式演进到 Observability 3.0
+- [[references/7-llm-observability-tools]] — 7 款 LLM 可观测与评测工具选型指南
+- [[skills/openclaw-observability-setup-tencent-cloud]] — OpenClaw 在腾讯云的可观测接入实操
 - [[concepts/agent-trace-span-taxonomy]] — Trace/Span 结构设计
 - [[concepts/agent-failure-taxonomy]] — 失败分类体系
 - [[concepts/agent-cost-breakdown]] — 成本构成与观测

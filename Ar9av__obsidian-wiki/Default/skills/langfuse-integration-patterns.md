@@ -12,6 +12,8 @@ relationships:
     type: related_to
   - target: "[[entities/langsmith]]"
     type: related_to
+  - target: "[[entities/coze-loop]]"
+    type: related_to
 sources:
   - "Git 拆解: Langfuse 实战：部署、埋点、评估，跑通 LLM 可观测全流程 (2026-06-28)"
   - "IMBoy技术笔记: 可观测性：Langfuse、Langsmith 集成 (2026-07-03)"
@@ -115,7 +117,7 @@ LangSmith 在 context 里维护 `LangsmithState`，记录 `TraceID`、`ParentRun
 
 ### 模式 5：Cozeloop 接入
 
-字节跳动 Coze 平台的可观测工具，接入方式类似 ^[extracted]：
+字节跳动 [[entities/coze-loop|Coze 平台的可观测工具]]，接入方式类似 ^[extracted]：
 
 ```go
 import (

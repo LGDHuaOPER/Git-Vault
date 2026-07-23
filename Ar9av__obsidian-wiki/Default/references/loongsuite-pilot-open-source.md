@@ -22,9 +22,9 @@ created: 2026-07-22T00:00:00+08:00
 updated: "2026-07-22"
 relationships:
   - target: "[[entities/loongsuite-pilot]]"
-    type: describes
+    type: related_to
   - target: "[[entities/loongsuite-platform]]"
-    type: part_of
+    type: related_to
   - target: "[[concepts/ai-coding-agent-observability]]"
     type: related_to
   - target: "[[references/loongsuite-genai-semconv]]"

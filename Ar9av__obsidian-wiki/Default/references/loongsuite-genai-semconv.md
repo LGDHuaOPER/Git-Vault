@@ -25,7 +25,7 @@ relationships:
   - target: "[[concepts/genai-observability-semconv]]"
     type: extends
   - target: "[[entities/loongsuite-platform]]"
-    type: part_of
+    type: related_to
   - target: "[[entities/dify]]"
     type: related_to
 ---

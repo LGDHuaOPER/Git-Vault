@@ -117,3 +117,4 @@ OpenAIInstrumentor().instrument(tracer_provider=tracer_provider)
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
 - [[entities/langfuse-llm-observability]] — Langfuse LLM 可观测平台
 - [[references/[[entities/dify|Dify]]-phoenix-integration]] — Dify 平台集成 Phoenix 实战
+- [[synthesis/ai-agent-observability-x-arize-phoenix]] — synthesis: general framework vs RAG-specialized — the framework under-specifies RAG's four sub-layers

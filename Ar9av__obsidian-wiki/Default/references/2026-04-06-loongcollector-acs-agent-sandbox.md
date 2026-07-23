@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: 2026-07-22T00:00:00+08:00
 relationships:
   - target: "[[entities/acs-agent-sandbox]]"
-    type: describes
+    type: related_to
 ---
 
 # LoongCollector + ACS Agent Sandbox：构建 AI Agent 生产级运行平台

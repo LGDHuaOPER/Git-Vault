@@ -52,6 +52,12 @@ relationships:
     type: related_to
   - target: "[[entities/vllm]]"
     type: related_to
+  - target: "[[references/2026-04-27-langfuse-lifecycle-observability]]"
+    type: related_to
+  - target: "[[references/langfuse-deployment-practice]]"
+    type: related_to
+  - target: "[[skills/langfuse-self-hosting]]"
+    type: related_to
 ---
 
 # Langfuse LLM Observability
@@ -321,3 +327,9 @@ LangSmith 的优势在于 LangChain 原生集成和回放/分支能力；Langfus
 - [[entities/greptimedb]] — 统一可观测性数据库（互补存储层）
 - [[entities/arize-phoenix]] — OTel 原生开源可观测平台
 - [[references/spring-ai-otel-langfuse]] — Spring AI + OTel + Langfuse 生产级方案
+- [[synthesis/genai-observability-semconv-x-langfuse-llm-observability]] — synthesis: standard vs product — the gap between SemConv telemetry and Langfuse workflow
+- [[synthesis/ai-agent-observability-x-langfuse-llm-observability]] — synthesis: theory vs implementation — the framework's six failure categories vs Langfuse's three trace statuses
+- [[synthesis/llm-as-judge-evaluation-x-langfuse-llm-observability]] — synthesis: evaluation-observability loop — trace data feeds the Judge, but the wiring is manual
+- [[references/2026-04-27-langfuse-lifecycle-observability]] — Langfuse 全生命周期可观测性平台
+- [[references/langfuse-deployment-practice]] — Langfuse 部署实战：搭建 Agent 可观测平台
+- [[skills/langfuse-self-hosting]] — Langfuse 自托管部署指南

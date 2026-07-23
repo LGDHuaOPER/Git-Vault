@@ -24,6 +24,16 @@ relationships:
     type: related_to
   - target: "[[entities/openobserve]]"
     type: related_to
+  - target: "[[references/7-llm-observability-tools]]"
+    type: related_to
+  - target: "[[skills/agent-observability-landing-guide]]"
+    type: related_to
+  - target: "[[skills/openclaw-observability-setup-tencent-cloud]]"
+    type: related_to
+  - target: "[[references/openobserve-otel-landing]]"
+    type: related_to
+  - target: "[[references/2026-05-18-openobserve-llm-vs-traditional-observability]]"
+    type: related_to
 ---
 
 # Observability 3.0
@@ -69,7 +79,11 @@ Observability 3.0 不是抛弃 1.0 和 2.0，而是在它们的能力底座上�
 
 ## Related
 
-- [[references/2026-05-18-[[entities/openobserve|OpenObserve]]-llm-vs-traditional-observability]] — 来源文章
+- [[references/2026-05-18-openobserve-llm-vs-traditional-observability]] — 来源文章
 - [[concepts/ai-agent-observability]] — Agent 可观测性范式
 - [[concepts/llm-as-judge-evaluation]] — LLM-as-Judge 评估
 - [[entities/langfuse-llm-observability]] — 典型 Observability 3.0 工作台
+- [[references/7-llm-observability-tools]] — 7 款 LLM 可观测与评测工具选型指南
+- [[skills/agent-observability-landing-guide]] — Agent 可观测性从 0 到 1 落地路径
+- [[skills/openclaw-observability-setup-tencent-cloud]] — OpenClaw 在腾讯云的可观测接入实操
+- [[references/openobserve-otel-landing]] — 可观测性选型实录：从 OpenTelemetry 到 OpenObserve 的落地之路

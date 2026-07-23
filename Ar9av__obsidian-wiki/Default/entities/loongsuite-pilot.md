@@ -22,12 +22,14 @@ created: 2026-07-22T00:00:00+08:00
 updated: "2026-07-22"
 relationships:
   - target: "[[entities/loongsuite-platform]]"
-    type: part_of
+    type: related_to
   - target: "[[concepts/ai-coding-agent-observability]]"
     type: implements
   - target: "[[concepts/genai-observability-semconv]]"
     type: uses
   - target: "[[references/loongsuite-genai-semconv]]"
+    type: related_to
+  - target: "[[references/loongsuite-pilot-open-source]]"
     type: related_to
 ---
 
@@ -98,3 +100,7 @@ AI Coding Agent 多为第三方闭源产品，无法修改运行时。Pilot 抽�
 ## 与 LoongSuite 平台的关系
 
 Pilot 与 [[entities/loongsuite-platform|LoongSuite Platform]] 中的 LoongCollector（主机探针）、语言 Agent SDK 共同构成从服务端到端侧的完整可观测链路。
+
+## Related
+
+- [[references/loongsuite-pilot-open-source]] — LoongSuite Pilot 开源文章：端侧 AI Coding Agent 可观测

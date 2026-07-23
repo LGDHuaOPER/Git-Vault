@@ -32,6 +32,8 @@ relationships:
     type: related_to
   - target: "[[entities/langfuse-llm-observability]]"
     type: related_to
+  - target: "[[concepts/ai-coding-agent-observability]]"
+    type: related_to
 ---
 
 # LoongSuite Platform
@@ -65,7 +67,7 @@ with ls.trace_llm_call(model="qwen-max", prompt=prompt) as span:
 通过 Context Manager 模式自动完成遥测数据的采集和输出，无需手动埋点。
 
 ### LoongSuite Pilot（端侧采集器）
-2026 年 6 月开源的**端侧 AI Coding Agent 可观测采集器**，专门解决 AI Coding Agent（Cursor、Claude Code、Codex、Qoder 等）运行在开发者本地机器上导致的"可观测盲区"问题。参见 [[entities/loongsuite-pilot]]。
+2026 年 6 月开源的**端侧 AI Coding Agent 可观测采集器**，专门解决 AI Coding Agent（Cursor、Claude Code、Codex、Qoder 等）运行在开发者本地机器上导致的"可观测盲区"问题。参见 [[concepts/ai-coding-agent-observability]] 与 [[entities/loongsuite-pilot]]。
 
 **设计选择：**
 

@@ -36,7 +36,7 @@ relationships:
   - target: "[[entities/loongsuite-platform]]"
     type: implements
   - target: "[[concepts/agent-trace-cost-quality-architecture]]"
-    type: supports
+    type: related_to
   - target: "[[entities/agenttrace]]"
     type: related_to
   - target: "[[entities/apache-doris-agent-observability]]"
@@ -50,6 +50,8 @@ relationships:
   - target: "[[entities/dify]]"
     type: related_to
   - target: "[[entities/greptimedb]]"
+    type: related_to
+  - target: "[[references/loongsuite-pilot-open-source]]"
     type: related_to
 ---
 
@@ -314,7 +316,7 @@ LoongSuite 基于 GenAI SemConv 实现了**零代码改造**的 AI 应用可观�
 
 - **LoongCollector** — 主机级探针，通过 eBPF 和插件机制实现无侵入采集
 - **语言 Agent** — Python、Java、Go 等语言的自动插桩 SDK
-- **LoongSuite Pilot** — 专门面向 AI Coding Agent 的端侧可观测采集器
+- [[references/loongsuite-pilot-open-source|LoongSuite Pilot]] — 专门面向 AI Coding Agent 的端侧可观测采集器
 
 参见 [[entities/loongsuite-platform]]。
 
@@ -331,3 +333,4 @@ LoongSuite 基于 GenAI SemConv 实现了**零代码改造**的 AI 应用可观�
 - [[entities/agenttrace]] — AgentTrace 的认知面如何补充 OTel 的操作面
 - [[entities/apache-doris-agent-observability]] — Doris 作为 OTel 后端的存储引擎
 - [[references/opentelemetry-genai-agent-setup]] — OTel 在 Agent 场景中的实战配置
+- [[synthesis/genai-observability-semconv-x-langfuse-llm-observability]] — synthesis: standard vs product — the gap between evolving SemConv and production-ready Langfuse

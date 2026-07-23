@@ -31,6 +31,8 @@ relationships:
     type: related_to
   - target: "[[entities/vllm]]"
     type: related_to
+  - target: "[[references/aliyun-python-probe-llm]]"
+    type: related_to
 ---
 
 # 阿里云：从 AI Agent 到模型推理的端到端 AI 可观测实践
@@ -76,3 +78,4 @@ AI 应用内部对 RAG、工具使用、模型调用等关键节点埋点；模�
 - [[entities/loongsuite-platform]] — 阿里云 LoongSuite 可观测产品体系
 - [[concepts/ai-agent-observability]] — Agent 可观测性整体概念
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
+- [[references/aliyun-python-probe-llm]] — 阿里云 Python 应用可观测：解决 LLM 落地最后一公里

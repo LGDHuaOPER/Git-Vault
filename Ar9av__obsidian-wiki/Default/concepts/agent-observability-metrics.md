@@ -24,7 +24,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: "2026-07-22"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
-    type: part_of
+    type: related_to
   - target: "[[concepts/agent-cost-breakdown]]"
     type: related_to
   - target: "[[entities/langfuse-llm-observability]]"

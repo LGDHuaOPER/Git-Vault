@@ -53,3 +53,4 @@ relationships:
 - [[entities/loongsuite-platform]] — 阿里云可观测对 Dify 的集成支持
 - [[references/aliyun-end-to-end-ai-observability]] — Dify 生产实践与可观测
 - [[references/aliyun-llm-observability-full-chain]] — Dify 自动化埋点实战
+- [[synthesis/ai-agent-observability-x-dify]] — synthesis: observability vs abstraction — low-code platforms create observability blind spots

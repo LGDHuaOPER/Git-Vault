@@ -34,6 +34,8 @@ relationships:
     type: related_to
   - target: "[[entities/langsmith]]"
     type: related_to
+  - target: "[[references/agent-harness-observability]]"
+    type: related_to
 ---
 
 # Agent Harness
@@ -286,3 +288,4 @@ def tool_call(name, args, fn):
 
 - [[entities/ai-observe-stack]] — Agent 可观测数据的存储后端，Harness 产生的运行时数据最终存储于此
 - [[entities/openclaw]] — OpenClaw 的安全危机是 Agent Harness 必要性的典型案例
+- [[references/agent-harness-observability]] — Agent Harness Engineering 可观测性与运维

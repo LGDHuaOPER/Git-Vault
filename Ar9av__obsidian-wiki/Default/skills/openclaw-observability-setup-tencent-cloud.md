@@ -2,6 +2,11 @@
 title: OpenClaw Observability Setup on Tencent Cloud
 category: skills
 tags: [observability, openclaw, tencent, setup, opentelemetry]
+relationships:
+  - target: "[[concepts/ai-agent-observability]]"
+    type: implements
+  - target: "[[skills/agent-observability-landing-guide]]"
+    type: related_to
 sources:
   - "腾讯云开发者: 告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼” (2026-03-26)"
 summary: 在腾讯云可观测平台上为 OpenClaw 接入 Trace 与 Metrics 监控的实操步骤：获取接入点、安装插件、修改配置、重启验证。
@@ -19,7 +24,7 @@ updated: 2026-07-22T00:00:00+08:00
 
 # OpenClaw Observability Setup on Tencent Cloud
 
-本指南介绍如何通过腾讯云可观测平台为 OpenClaw 接入全链路可观测能力，实现 Trace 链路追踪与 Metrics 指标监控。
+本指南介绍如何通过腾讯云可观测平台为 OpenClaw 接入全链路 [[concepts/ai-agent-observability|可观测能力]]，实现 Trace 链路追踪与 Metrics 指标监控。
 
 ## 前置条件
 
@@ -101,6 +106,8 @@ docker exec -it <container> openclaw plugins list
 
 ## Related
 
+- [[concepts/ai-agent-observability]] — Agent 可观测性整体概念（本指南的实现基础）
+- [[skills/agent-observability-landing-guide]] — Agent 可观测性从 0 到 1 落地路径
 - [[entities/tencent-cloud-observability-llm]] — 腾讯云可观测平台 LLM 可观测
 - [[entities/openclaw]] — OpenClaw 平台
 - [[references/2026-03-26-tencent-cloud-openclaw-observability]] — 官方接入文档来源

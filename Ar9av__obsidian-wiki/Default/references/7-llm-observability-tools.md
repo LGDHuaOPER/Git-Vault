@@ -34,6 +34,14 @@ relationships:
     type: related_to
   - target: "[[entities/trulens]]"
     type: related_to
+  - target: "[[concepts/observability-3-0]]"
+    type: related_to
+  - target: "[[skills/agent-observability-landing-guide]]"
+    type: related_to
+  - target: "[[concepts/llm-observability-tool-selection]]"
+    type: related_to
+  - target: "[[references/datadog-llm-observability]]"
+    type: related_to
 ---
 
 # 7 款 LLM 可观测性与评测工具选型指南
@@ -139,4 +147,8 @@ Phoenix 对 RAG 应用尤其友好。RAG 出问题时不只看最终答案，因
 - [[entities/trulens]] — RAG 评测框架
 - [[entities/helicone]] — LLM 网关与成本监控
 - [[concepts/ai-agent-observability]] — AI Agent 可观测性整体概念
+- [[concepts/observability-3-0]] — 可观测性范式演进到 Observability 3.0
+- [[skills/agent-observability-landing-guide]] — Agent 可观测性从 0 到 1 落地路径
 - [[concepts/llm-as-judge-evaluation]] — LLM-as-Judge 评测方法
+- [[concepts/llm-observability-tool-selection]] — LLM 可观测性工具选型方法论
+- [[references/datadog-llm-observability]] — Datadog LLM 可观测性介绍

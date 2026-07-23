@@ -17,7 +17,7 @@ created: 2026-07-22T00:00:00+08:00
 updated: 2026-07-22T00:00:00+08:00
 relationships:
   - target: "[[entities/nova-flow]]"
-    type: describes
+    type: related_to
 ---
 
 # AIDD 2026 | 让智能体可观察可评估可进化：面向智能体的新一代可观测评估体系
