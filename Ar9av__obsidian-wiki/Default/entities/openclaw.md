@@ -4,7 +4,7 @@ category: entities
 tags: [ai, agent, security, open-source]
 sources:
   - "SelectDB: 我们用 AI Observe Stack 观测了 OpenClaw (2026-03-04)"
-summary: OpenClaw 是 2026 年最受关注的开源 AI Agent 平台，支持多 Channel 交互和全能力工具调用，但上线初期暴露出严重的安全问题——近千个实例暴露、512 个漏洞、CVSS 8.8 的 RCE 漏洞。
+summary: OpenClaw 是 2026 年最受关注的开源 AI Agent 平台，支持多 Channel 交互和全能力工具调用，但上线初期暴露出严重的安全问题——近千个实例暴露、512 个漏洞、CVSS 8.8 的 RCE 漏洞。SelectDB 团队用 AI Observe Stack 对其 7 天全量审计，揭示了 Agent 的安全、成本、行为三大黑盒问题。
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-16T00:00:00+08:00
+updated: "2026-07-22"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: related_to
@@ -61,11 +61,43 @@ SelectDB 团队使用 **AI Observe Stack**（基于 Apache Doris）为 OpenClaw 
 - 按用户、Session、Task 维度聚合 Token 消耗
 - 提供 Timeline 回放完整推理链路
 
-这验证了"Agent 可观测性基础设施可以快速搭建"的假设，但也暴露了 Agent 安全的核心矛盾：**功能越强大的 Agent，其可观测需求越迫切** ^[inferred]。
+这验证了"[[concepts/ai-agent-observability|Agent 可观测性]]基础设施可以快速搭建"的假设，但也暴露了 Agent 安全的核心矛盾：**功能越强大的 Agent，其可观测需求越迫切** ^[inferred]。
+
+## AI Observe Stack 7 天审计关键发现
+
+SelectDB 团队使用 [[entities/ai-observe-stack|AI Observe Stack]] 对一个真实 OpenClaw 实例进行了 7 天全量可观测审计，记录了每一次 LLM 调用、每一次工具执行、每一条日志 ^[extracted]：
+
+| 指标 | 数值 |
+|------|------|
+| Agent 自主执行 shell 命令 | 31 次 |
+| Agent 访问外部网站 | 40 个 |
+| 单次提问触发 LLM 调用轮数 | 19 轮 |
+| 单次提问累计消耗 tokens | 784 万 |
+| 外部网页中检测到注入模式 | 存在 "ignore previous instructions" 等 |
+
+### 风险评分算法
+
+AI Observe Stack 的 Security & Audit Dashboard 使用以下风险评分算法 ^[extracted]：
+
+```
+风险评分 = exec×3 + web×2 + outbound×5 + error×1 + sensitive_file×10
+```
+
+得分越高越需优先审查。
+
+### 风险分类
+
+**危险命令分类**：DESTRUCTIVE / PRIVILEGE_ESCALATION / DATA_EXFIL / CREDENTIAL_ACCESS ^[extracted]
+
+**Prompt Injection 分类**：INJECTION_PATTERN / ROLE_HIJACK / HIDDEN_INSTRUCTION / JAILBREAK ^[extracted]
+
+**敏感文件分类**：SSH_KEY / ENV_FILE / CREDENTIALS ^[extracted]
 
 ## 行业意义
 
 OpenClaw 的安全事件是 AI Agent 进入生产环境的标志性事件——它证明 Agent 的安全问题不是理论上的，而是正在发生的。CVE-2026-25253 和近千个暴露实例的数据，为 Agent 可观测性和安全治理的必要性提供了实证案例。^[inferred]
+
+Cisco 的分析一针见血：OpenClaw 的安全问题不是配置问题，而是**架构问题**——它的官方文档自己都写着 "there is no 'perfectly secure' setup"。Trend Micro 也指出，这些问题**不是 OpenClaw 独有的**，而是 Agent AI 范式的固有问题。^[extracted]
 
 ## Related
 

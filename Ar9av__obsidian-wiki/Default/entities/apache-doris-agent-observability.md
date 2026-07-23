@@ -10,25 +10,32 @@ sources:
   - "数栖云间: Apache Doris 在 AI Agent 可观测性中的架构实践 (2026-03-12)"
   - "SelectDB: Litefuse 开源并推出单进程轻量模式 (2026-06-22)"
   - "一臻数据: 正式开源！Doris 驱动的Agent观测平台 (2026-07-05)"
+  - "SelectDB: Apache Doris 在 AgentLogsBench 中领先，支撑 Agent 可观测性生产负载 (2026-07-07)"
 summary: "Apache Doris 如何通过 VARIANT 类型、倒排索引、PipelineX 执行引擎和存算分离架构，成为 AI Agent 可观测性场景的理想存储分析引擎。"
 base_confidence: 0.63
 lifecycle: draft
 lifecycle_changed: "2026-07-16"
 tier: supporting
 provenance:
-  extracted: 0.65
-  inferred: 0.25
-  ambiguous: 0.10
+  extracted: 0.70
+  inferred: 0.23
+  ambiguous: 0.07
 created: "2026-07-16"
-updated: "2026-07-16"
+updated: "2026-07-22"
 relationships:
   - target: "[[litefuse]]"
     type: related_to
   - target: "[[agent-observability-paradigm]]"
     type: related_to
+  - target: "[[concepts/ai-agent-observability]]"
+    type: related_to
+  - target: "[[references/agentlogsbench]]"
+    type: related_to
+  - target: "[[entities/langfuse-llm-observability]]"
+    type: related_to
 ---
 
-# Apache Doris 在 Agent 可观测性中的应用
+# Apache Doris 在 [[concepts/ai-agent-observability|Agent 可观测性]]中的应用
 
 Apache Doris 是一个基于 MPP 架构的高性能实时分析型数据库。在 AI Agent 可观测性场景中，Doris 凭借四个核心能力成为理想的数据引擎。^[extracted]
 
@@ -104,8 +111,24 @@ Doris 通过标准协议融入云原生可观测生态 ^[extracted]：
 
 在 MiniMax、阶跃星辰、字节跳动、快手、腾讯、阿里、百度、网易等数百家公司的 PB 级生产环境中大规模应用。^[extracted]
 
+## [[references/agentlogsbench|AgentLogsBench]] 性能验证
+
+AgentLogsBench 是专门面向 Agent 可观测混合负载设计的 benchmark，使用单表 `agent_observations` 同时测试短语搜索、动态 JSON 过滤、有序 trace 回放和实时看板刷新 ^[extracted]。
+
+2026 年 5 月 M 级（约 1 亿行）测试结果：
+- **综合排行榜**：Doris 以 1.28 倍 slowdown 领先
+- **Hot 场景**：Doris 1.14 倍，比 Elasticsearch/OpenSearch 快约 3 倍，比 ClickHouse 快约 17 倍
+- **Cold 场景**：Doris 1.60 倍，略优于 Elasticsearch 的 1.65
+- **存储占用**：Doris 57.94 GiB，Elasticsearch/OpenSearch 需要 3-4 倍存储
+- **Trace 回放（Q03/Q04 hot）**：Doris 0.020s/0.036s vs ClickHouse 2.289s/2.411s
+- **多短语搜索（Q13/Q15 hot）**：Doris 0.088s/0.081s vs Elasticsearch 1.094s/1.392s vs ClickHouse 9.3s/9.5s
+- **动态 payload 过滤（Q16/Q17 hot）**：Doris 0.078s/0.030s ^[extracted]
+
+Doris 领先的四项架构能力：倒排索引、VARIANT 分层子列存储、HASH(trace_id) 分布 + DUPLICATE KEY 排序、分区裁剪与缓存机制。^[extracted]
+
 ## 相关页面
 
 - [[litefuse]] — 基于 Doris 构建的 Agent 可观测平台
 - [[agent-observability-paradigm]] — 为什么 Agent 需要新的数据引擎
 - [[langfuse]] — 基于 ClickHouse 的对比方案
+- [[references/apache-doris-agentlogsbench-leadership]] — AgentLogsBench 领先详情

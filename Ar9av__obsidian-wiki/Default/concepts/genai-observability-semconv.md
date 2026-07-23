@@ -12,10 +12,13 @@ tags:
   - standards
 sources:
   - "阿里云开发者: 阿里巴巴 & 蚂蚁 LoongSuite GenAI 可观测语义规范 (2026-05-12)"
+  - "阿里云可观测: Python 应用可观测重磅上线：解决 LLM 应用落地的“最后一公里”问题 (2024-11-08)"
   - "阿里云可观测: 零代码改造！LoongSuite AI 采集套件观测实战 (2025-09-01)"
   - "阿里云开发者: 详解大模型应用可观测全链路 (2025-03-13)"
   - "蒸馏大弟: OpenTelemetry CNCF毕业：Agent时代的可观测性标准已定 (2026-07-08)"
   - "程序猿架构之路: AI可观测性-Trace-Cost-质量三合一 (2026-07-01)"
+  - "CNCF: 一文看懂 OpenTelemetry GenAI：LLM、Agent、MCP 怎么做可观测性 (2026-05-25)"
+  - "GreptimeDB: 当 LLM 应用遇上可观测性：用 GreptimeDB 统一 Traces、Metrics 和对话记录 (2026-03-10)"
 summary: OpenTelemetry GenAI Semantic Conventions 是 OTel 社区为生成式 AI 场景制定的可观测数据采集标准，2026 年 5 月随 OTel CNCF 毕业进入稳定期。定义了 Model、Prompt、Token、Tool Calling、Agent、Session 等概念的统一字段命名和数据模型。中国社区（阿里/蚂蚁）在此基础上提出了 Entry/Step Span、Skill 语义、Token 级推理观测三项扩展。
 provenance:
   extracted: 0.65
@@ -26,7 +29,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-16T12:00:00+08:00
+updated: "2026-07-22"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: uses
@@ -41,6 +44,12 @@ relationships:
   - target: "[[entities/litefuse]]"
     type: uses
   - target: "[[references/agentlogsbench]]"
+    type: related_to
+  - target: "[[entities/arize-phoenix]]"
+    type: related_to
+  - target: "[[entities/dify]]"
+    type: related_to
+  - target: "[[entities/greptimedb]]"
     type: related_to
 ---
 
@@ -80,6 +89,90 @@ Agent 系统的遥测数据量比传统应用**多几个数量级**：
 | 日均总量 | GB 级 | TB 级 |
 
 传统监控工具的假设（短生命周期、无状态、独立 request-response）与 Agent 系统的现实（长运行会话、有状态、多步工作流、非确定性调用图）根本不匹配。标准化已从"建议"变成"刚需"。
+
+## OTel GenAI 语义规范六层结构
+
+OTel GenAI 语义规范从 v1.37 到 v1.41 快速迭代，形成了覆盖 LLM 应用全链路的六层结构 ^[extracted]：
+
+### Layer 1: Client Spans — 模型调用标准化
+
+每次 LLM 调用产生一个 span，`gen_ai.operation.name` 设为 `chat` 或 `text_completion`。核心属性：
+
+| 属性 | 含义 | 示例 |
+|------|------|------|
+| `gen_ai.provider.name` | 提供商标识 | `openai`、`anthropic`、`aws.bedrock` |
+| `gen_ai.request.model` | 请求时指定的模型 | `gpt-4o-mini` |
+| `gen_ai.response.model` | 实际响应的模型 | `gpt-4o-mini-2024-07-18` |
+| `gen_ai.usage.input_tokens` | 输入 token 数 | `142` |
+| `gen_ai.usage.output_tokens` | 输出 token 数 | `87` |
+| `gen_ai.response.finish_reasons` | 停止原因 | `["stop"]`、`["tool_calls"]` |
+
+Embeddings 新增 `gen_ai.embeddings.dimension.count` 记录向量维度数。Retrievals 覆盖 RAG pipeline 中的检索步骤。
+
+### Layer 2: Agent & Workflow Spans — 超越微服务的新概念
+
+传统分布式追踪没有"agent 调用"概念。GenAI 规范定义了全新操作类型 ^[extracted]：
+
+| Span 类型 | 含义 | Span Kind |
+|-----------|------|-----------|
+| `create_agent` | Agent 创建（远程服务） | `CLIENT` |
+| `invoke_agent` | Agent 调用（v1.41 拆分 CLIENT/INTERNAL） | `CLIENT`/`INTERNAL` |
+| `invoke_workflow` | 预定义流程执行（v1.41 新增） | `CLIENT` |
+| `execute_tool` | 工具执行（v1.41 起工具名必须出现在 span 名中） | `INTERNAL` |
+
+Agent span 让执行流程可以被标准化拆解：
+
+```
+invoke_agent research-assistant (INTERNAL)
+├── chat gpt-4o (CLIENT)                ← 模型决定需要搜索
+├── execute_tool web_search (INTERNAL)  ← 执行搜索
+├── chat gpt-4o (CLIENT)               ← 基于搜索结果继续推理
+├── execute_tool summarize (INTERNAL)   ← 摘要处理
+└── chat gpt-4o (CLIENT)               ← 生成最终回答
+```
+
+### Layer 3: MCP 语义约定 — 解决 Trace 断裂
+
+MCP（Model Context Protocol）在 2025 年快速普及，但 agent 端和 MCP server 端的 trace 是断的。OTel v1.39 引入 MCP 语义约定解决此问题 ^[extracted]：
+
+- 基于 JSON-RPC，但推荐用 MCP 约定而非通用 RPC 语义约定
+- 核心属性：`mcp.method.name`、`mcp.session.id`、`mcp.protocol.version`、`gen_ai.tool.name`
+- 去重逻辑：若外层 GenAI instrumentation 已追踪 tool 执行，MCP instrumentation 不创建重复 span，而是添加 MCP 属性
+- 定义四个 MCP metric：`mcp.client.operation.duration`、`mcp.server.operation.duration`、`mcp.client.session.duration`、`mcp.server.session.duration`
+
+### Layer 4: Events 与内容捕获 — 隐私与可观测性的平衡
+
+两个核心 Event ^[extracted]：
+
+1. **`gen_ai.client.inference.operation.details`**（v1.37 新增）：记录一次 GenAI 调用的完整输入输出（opt-in）
+2. **`gen_ai.evaluation.result`**：记录 GenAI 输出的质量评估结果，包含 `gen_ai.evaluation.score.value` 和 `gen_ai.evaluation.score.label`
+
+三种内容记录模式：
+
+| 模式 | 说明 | 适用场景 |
+|------|------|----------|
+| 不记录（默认） | `OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT` 默认 false | 最安全 |
+| Span 属性记录 | `gen_ai.input.messages` 和 `gen_ai.output.messages` 作为 span attributes | 方便查看，但有大小限制 |
+| 外部存储 + Span 引用 | 完整内容存到 S3/[[entities/greptimedb|GreptimeDB]] 等外部存储，span 上只保存引用地址 | 生产环境推荐，可单独设 IAM 和 retention |
+
+### Layer 5: Metrics — 两个最基础的 Client Histogram
+
+| Metric | 含义 | 单位 |
+|--------|------|------|
+| `gen_ai.client.operation.duration` | 每次 GenAI 操作的端到端延迟 | 秒 |
+| `gen_ai.client.token.usage` | 每次操作的 token 消耗 | `{token}` |
+
+Token 计量规则：提供商同时报告 used tokens 和 billable tokens 时，必须报告 billable tokens；无法高效获取时不应猜测。
+
+### Layer 6: 提供商专属约定 — 从通用到特化
+
+以 OpenAI 为例，在通用属性之外新增 ^[extracted]：
+
+- `gen_ai.usage.cache_read.input_tokens`：从提供商缓存读取的 token 数
+- `gen_ai.usage.cache_creation.input_tokens`：写入提供商缓存的 token 数
+- `gen_ai.usage.reasoning.output_tokens`：推理过程消耗的 token 数（o1/o3 系列，v1.41 新增）
+
+`gen_ai.provider.name` 作为鉴别器，决定该出现哪组专属属性。
 
 ## 标准 Span 类型与属性
 
@@ -123,17 +216,62 @@ Agent 系统的遥测数据量比传统应用**多几个数量级**：
 
 阿里巴巴和蚂蚁集团在 OTel GenAI SemConv 的基础上提出了三个核心扩展提案：
 
-1. **Entry/Step Span** — 引入两级 Span 层次：Entry Span 表示一次用户交互（Session 级别），Step Span 表示 Agent 的一个推理步骤，补全了从"单次调用"到"完整对话"的层级缺失。
+### 1. Entry/Step Span
 
-2. **Skill 语义** — 为 Agent 中可复用的技能（Skill）定义标准化属性，包括 skill 名称、版本、输入输出 schema，使跨 Agent 的技能调用可追踪。
+引入两级 Span 层次，补全从"单次调用"到"完整对话"的层级缺失：
 
-3. **Token 级推理观测** — 将观测粒度从"每次模型调用"细化到"每个 Token 的生成"，支持 TTFT（Time to First Token）和 TPOT（Time per Output Token）的精确测量。
+- **Entry Span**：Agent 调用入口处的 Span，还原模型和用户的原始输入输出，形成对话历史，避免被 System Prompt 或框架 Prompt 干扰。
+- **Step Span**：每次 ReAct 过程的层次化表达，支持 Top-down 排查——先定位哪一轮 ReAct 出问题，再深入该轮具体步骤。
+
+### 2. Skill 语义
+
+为 Agent 中可复用的技能（Skill）定义标准化属性，使跨 Agent 的技能调用可追踪：
+
+| 属性 | 说明 |
+|------|------|
+| `gen_ai.skill.name` | Skill 名称 |
+| `gen_ai.skill.id` | Skill 实例标识，区分灰度/A/B 实验 |
+| `gen_ai.skill.description` | Skill 功能描述 |
+| `gen_ai.skill.version` | Skill 版本号 |
+
+同时向 OTel 社区提交了独立 `invoke_skill` Span 的提案（[open-telemetry/semantic-conventions-genai#86](https://github.com/open-telemetry/semantic-conventions-genai/issues/86)）。
+
+### 3. Token 级推理观测
+
+将观测粒度从"每次模型调用"细化到"每个 Token 的生成"，支持 TTFT 和 TPOT 的精确测量：
+
+**Token 性能属性**：
+
+| 属性 | 描述 |
+|------|------|
+| `gen_ai.response.per_token_time_to_schedule` | 每个 Token 进入迭代的时间戳 |
+| `gen_ai.response.per_token_time_to_generate` | 每个 Token 出迭代的时间戳 |
+| `gen_ai.iteration.per_token_batch_size` | 每个 Token 所在迭代批的总请求数 |
+| `gen_ai.iteration.per_token_cumulative_count` | 每个 Token 所在迭代批的总 Token 数 |
+
+**Token 精度属性**：
+
+| 属性 | 描述 |
+|------|------|
+| `gen_ai.response.candidate.per_position_decoded_tokens` | 每个位置 top-k 候选 Token 字符串 |
+| `gen_ai.response.candidate.per_position_token_ids` | 每个位置 top-k 候选 Token ID |
+| `gen_ai.response.candidate.per_position_logprobs` | 每个位置 top-k 候选 Token logits |
 
 这些扩展通过 OTel 社区的 GenAI SIG 向上游贡献，并已在阿里云内部 170+ 业务线规模化落地。
 
+### GenAI Utils 工程化能力层
+
+为降低各框架插桩库重复实现遥测逻辑的成本，LoongSuite 在探针中实现了 **GenAI Utils**：
+
+- 插桩层只做数据提取，不直接操作 OTel API
+- ExtendedTelemetryHandler 统一收口 Span 创建、属性挂载、Metrics 记录、Event 发送、Context 管理
+- 语义规范升级时只改 Utils 一处，所有下游插桩库自动生效
+
+已支持 Python 和 JS 版本，以及 DashScope、[[entities/dify|Dify]]、AgentScope、Mem0、MCP、Agno、Google ADK、LangChain 等框架插桩。
+
 ## 生态采用
 
-所有主流 tracer 已采用 GenAI 语义约定：Langfuse、Arize Phoenix、OpenLLMetry、Laminar。
+所有主流 tracer 已采用 GenAI 语义约定：Langfuse、[[entities/arize-phoenix|Arize Phoenix]]、OpenLLMetry、Laminar。
 
 [[entities/litefuse|Litefuse]] 通过社区提供的 Doris Exporter 将 OTel Collector 采集的数据写入 Doris 的 VARIANT 列，实现与 OTel 生态的无缝对接。
 

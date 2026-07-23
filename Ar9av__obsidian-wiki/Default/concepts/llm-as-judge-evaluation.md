@@ -6,20 +6,29 @@ tags:
   - evaluation
   - llm-as-judge
   - quality-assurance
+
+relationships:
+  - target: "[[entities/arize-phoenix]]"
+    type: related_to
+  - target: "[[entities/langfuse-llm-observability]]"
+    type: related_to
+  - target: "[[entities/litefuse]]"
+    type: related_to
 sources:
   - "ThinkingAgent: AI安全和治理：AI Observability、Evaluation、治理、安全与成本 (2026-06-28)"
   - "阿里云可观测: AI 原生应用全栈可观测实践：以 DeepSeek 对话机器人为例"
+  - "自由的灵魂在路上: [Alan の测试] 从硬规则到 LLM Judge：如何搭建一套可落地的 AI 客服评测系统 (2026-07-22)"
 summary: "LLM-as-Judge 评估方法论：用 LLM 作为评判器对 Agent 输出进行自动化质量评估，涵盖忠实度、相关性、安全性等维度，以及三级评估体系（自动化/半自动/人工）。"
 base_confidence: 0.67
 lifecycle: draft
 lifecycle_changed: "2026-07-16"
 tier: supporting
 provenance:
-  extracted: 0.6
-  inferred: 0.3
-  ambiguous: 0.1
+  extracted: 0.65
+  inferred: 0.27
+  ambiguous: 0.08
 created: 2026-07-16
-updated: 2026-07-16
+updated: "2026-07-22"
 ---
 
 # LLM-as-Judge Evaluation
@@ -33,6 +42,22 @@ updated: 2026-07-16
 - **Relevance（相关性）**：回答是否切题
 - **Safety（安全性）**：回答是否包含有害内容
 - **Completeness（完整性）**：回答是否覆盖了问题的所有方面
+
+### 七维 LLM Judge（客服评测实践）
+
+来自 Alan 的 AI 客服评测项目，Judge 在执行 L1 硬规则后运行，必须返回结构化分数、理由、事实风险和适用性 ^[extracted]：
+
+| 维度 | 判断内容 |
+|------|----------|
+| 回答相关性 | 是否回应当前问题，防止只留资不回答 |
+| 事实准确性 | 是否忠实于 knowledge，发现同义改写和隐性编造 |
+| 必要信息覆盖 | 是否使用题目要求的知识点 |
+| 任务完成度 | 是否完成该类业务动作 |
+| 留资价值 | 是否说明联系后能得到什么 |
+| 清晰与语气 | 是否简洁、口语、自然 |
+| 上下文一致性 | 是否承接历史且不自相矛盾 |
+
+**判定口径**：回答相关性/事实准确性/任务完成度任一适用分数低于 3 分为 failed；不满足失败条件但任一适用维度低于 4 分为 review；所有适用维度不低于 4 且无事实风险为 passed；null 且明确不适用的维度不参与判定 ^[extracted]。
 
 ## 三级评估体系
 
@@ -72,10 +97,11 @@ Agent 输出 → 质量评估 → 通过 → 返回用户
 主流可观测平台都内置了评估能力：
 - [[langfuse-platform]] 支持将 trace 导出为评估数据集，在线运行 LLM-as-Judge 评估
 - [[litefuse-doris-native-observability]] 内置了基于 Doris 的批量评估引擎
-- Arize Phoenix 提供漂移检测——监控同输入下输出质量是否在下降
+- [[entities/arize-phoenix|Arize Phoenix]] 提供漂移检测——监控同输入下输出质量是否在下降
 
 ## 相关页面
 
 - [[agent-observability-fundamentals]] — 评估是可观测性的自然延伸
 - [[ai-production-engineering-five-pillars]] — 评估在运行工程化中的位置
 - [[agent-failure-taxonomy]] — 失败分类支撑评估维度
+- [[references/ai-customer-service-evaluation-alan]] — 七维 LLM Judge 工程实践

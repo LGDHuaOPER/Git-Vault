@@ -7,6 +7,12 @@ tags:
   - alibaba-cloud
   - production-platform
   - agent-sandbox
+
+relationships:
+  - target: "[[concepts/ai-agent-observability]]"
+    type: related_to
+  - target: "[[entities/acs-agent-sandbox]]"
+    type: related_to
 sources:
   - "阿里云可观测: LoongCollector + ACS Agent Sandbox：构建 AI Agent 生产级运行平台 (2026-04-06)"
   - "阿里云可观测: 重磅发布丨云监控 AI Agent 可观测，企业生产级 Agent 首选全域观测平台 (2026-06-01)"
@@ -21,10 +27,10 @@ provenance:
   inferred: 0.5
   ambiguous: 0.1
 created: 2026-07-16
-updated: 2026-07-16
+updated: "2026-07-22"
 ---
 
-# Alibaba Cloud LoongCollector and ACS Agent Sandbox
+# Alibaba Cloud LoongCollector and [[entities/acs-agent-sandbox|ACS Agent Sandbox]]
 
 阿里云的 AI Agent 可观测方案由两个核心组件构成 ^[extracted]：
 
@@ -62,7 +68,7 @@ ACS（Alibaba Cloud Sandbox）Agent Sandbox 提供了 AI Agent 的生产级运�
 
 ## 相关页面
 
-- [[agent-observability-fundamentals]] — Agent 可观测性概念
+- [[agent-observability-fundamentals]] — [[concepts/ai-agent-observability|Agent 可观测性]]概念
 - [[opentelemetry-genai-agent-setup]] — OpenTelemetry 标准方案
 - [[ai-production-engineering-five-pillars]] — 运行工程化框架
 - [[stepfun-selectdb-pb-observability]] — SelectDB 在生产可观测中的实践

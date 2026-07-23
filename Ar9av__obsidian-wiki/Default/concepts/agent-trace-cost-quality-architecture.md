@@ -7,6 +7,12 @@ tags:
   - trace
   - cost-management
   - quality
+
+relationships:
+  - target: "[[entities/helicone]]"
+    type: related_to
+  - target: "[[entities/vllm]]"
+    type: related_to
 sources:
   - "程序猿架构之路: AI可观测性-Trace-Cost-质量三合一 (2026-07-01)"
   - "AI Engineer编程微信公众号: Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践 (2026-07-12)"
@@ -20,7 +26,7 @@ provenance:
   inferred: 0.35
   ambiguous: 0.10
 created: "2026-07-16"
-updated: "2026-07-17"
+updated: "2026-07-22"
 ---
 
 # AI 可观测性 Trace-Cost-Quality 三合一架构
@@ -82,11 +88,11 @@ session_trace (root)
 |------|------|------|---------|
 | **Langfuse** | trace + eval + prompt 管理一体 | 自托管运维 | 默认主栈（开源可私有化） |
 | **Phoenix (Arize)** | 向量漂移、RAG eval | 商业功能分层 | RAG 质量深析 |
-| **Helicone** | 代理式成本日志极快 | 依赖代理链路 | API 流量侧快速接入 |
+| **[[entities/helicone|Helicone]]** | 代理式成本日志极快 | 依赖代理链路 | API 流量侧快速接入 |
 | **Datadog LLM** | 与现有 APM 统一 | 单价高 | 已有 DD 的企业 |
 | **Litefuse** | Doris 原生、存储成本低 88% | 较新 | 成本敏感 + 私有化部署 |
 
-推荐组合 ^[extracted]：Langfuse 做 trace + dataset + 在线 eval；Prometheus 抓 vLLM TTFT/TPOT/GPU；LiteLLM spend_logs 对账云账单；Phoenix 周度 RAG 漂移分析。
+推荐组合 ^[extracted]：Langfuse 做 trace + dataset + 在线 eval；Prometheus 抓 [[entities/vllm|vLLM]] TTFT/TPOT/GPU；LiteLLM spend_logs 对账云账单；Phoenix 周度 RAG 漂移分析。
 
 ## 质量评估矩阵
 

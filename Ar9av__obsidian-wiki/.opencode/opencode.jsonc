@@ -3,6 +3,7 @@
   "permission": {
     "external_directory": {
       ".env": "allow",
+	  "~/Documents/GitHub/Git-Vault_WeChat/Clippings/**": "allow",
       "~/.obsidian-wiki/**": "allow",
     },
   },

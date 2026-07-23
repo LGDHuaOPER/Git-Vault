@@ -8,7 +8,7 @@ tags:
   - debugging
 sources:
   - "小加号编程笔记: AI Agent 可观测性：如何记录推理、工具调用、失败与成本 (2026-07-13)"
-summary: "Agent 失败的分类体系：不只是 binary error，而是细分为工具失败、格式错误、超时、重试耗尽、幻觉输出等具体类别，每类有不同的根因和恢复策略。"
+summary: "Agent 失败的分类体系：不只是 binary error，而是细分为 LLM 错误、工具错误、检索错误、格式错误、权限错误、上下文错误、循环错误、安全错误、人工介入等具体类别，每类有不同的根因和恢复策略。"
 base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: "2026-07-16"
@@ -18,7 +18,7 @@ provenance:
   inferred: 0.4
   ambiguous: 0.1
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-22
 ---
 
 # Agent Failure Taxonomy
@@ -29,30 +29,69 @@ Agent 系统的失败不是二元的。简单标记 `status: ERROR` 丢失了关
 
 ## 失败分类
 
-### 1. 工具失败（Tool Failure）
-- **类型**：工具不可用、工具超时、工具返回格式错误、工具返回空结果
-- **根因**：外部服务故障、网络问题、API 限流
+### 1. LLM 错误（`llm_error`）
+- **例子**：模型 API 失败、限流、超时
+- **优先排查**：模型服务、重试策略
+
+### 2. 工具错误（`tool_error`）
+- **例子**：工具 500、超时、参数错误
+- **优先排查**：工具稳定性、参数 schema
 - **恢复策略**：自动重试（指数退避）、降级到备用工具、跳过该工具继续
 
-### 2. 格式错误（Format Error）
-- **类型**：模型返回的 JSON 解析失败、工具参数格式不符合 schema、输出不满足约束
-- **根因**：模型指令不清晰、温度过高、模型本身的结构化输出能力不足
+### 3. 检索错误（`retrieval_error`）
+- **例子**：没召回关键资料
+- **优先排查**：RAG、索引、query rewrite
+
+### 4. 格式错误（`format_error`）
+- **例子**：输出不是合法 JSON、工具参数格式不符合 schema
+- **优先排查**：输出约束、解析重试
 - **恢复策略**：格式修复 Prompt 重试（常见消耗 1-2 次额外 LLM 调用）
 
-### 3. 超时（Timeout）
-- **类型**：模型推理超时、工具执行超时、整体 Agent Run 超时
-- **根因**：模型响应慢、工具服务延迟高、任务过于复杂导致推理循环过长
-- **恢复策略**：设置合理的超时阈值，分解复杂任务
+### 5. 权限错误（`permission_error`）
+- **例子**：工具权限不足或越权拦截
+- **优先排查**：权限系统、工具策略
 
-### 4. 重试耗尽（Retry Exhausted）
-- **类型**：多次工具重试或格式修复后仍未成功，达到最大重试次数
-- **根因**：根本性问题（如工具确实不可用），重试无法解决
-- **恢复策略**：优雅降级返回部分结果，标记需要人工介入
+### 6. 上下文错误（`context_error`）
+- **例子**：上下文缺失、污染、过载
+- **优先排查**：Context Engineering
 
-### 5. 幻觉输出（Hallucination）
-- **类型**：模型编造了不存在的工具名、虚构的 API 参数、超出上下文的"知识"
-- **根因**：RAG 召回不足、Prompt 约束不明确、模型本身的幻觉倾向
-- **恢复策略**：增加事实校验步骤（Grounding check），交叉验证 ^[inferred]
+### 7. 循环错误（`loop_error`）
+- **例子**：Agent 重复调用、无法停止
+- **优先排查**：Planner、停止条件
+
+### 8. 安全错误（`safety_error`）
+- **例子**：触发安全规则
+- **优先排查**：安全策略、用户输入
+
+### 9. 人工介入（`human_intervention`）
+- **例子**：需要人工确认
+- **优先排查**：产品流程、风险动作
+
+^[extracted]
+
+## 失败记录结构
+
+除了基本的 `status: ERROR`，失败记录还应包含"恢复动作"字段，以区分：^[extracted]
+
+- 失败后成功降级
+- 失败后重试成功
+- 失败后直接终止
+- 失败后模型胡乱补全（最危险）
+
+示例：
+
+```json
+{
+  "failure_type": "tool_error",
+  "failure_stage": "query_order_status",
+  "error_code": "timeout",
+  "retry_count": 2,
+  "recovery_action": "fallback_to_cached_order_snapshot",
+  "final_status": "degraded_success"
+}
+```
+
+^[extracted]
 
 ## 失败观测的 Span 记录建议
 
@@ -68,6 +107,6 @@ failure.recovery: "fallback_to_cache"
 
 ## 相关页面
 
-- [[agent-observability-fundamentals]] — 失败观测是可观测性的核心场景
-- [[agent-trace-span-taxonomy]] — 失败信息在 Trace/Span 中的记录方式
-- [[agent-cost-breakdown]] — 重试失败直接导致成本膨胀
+- [[concepts/ai-agent-observability]] — 失败观测是可观测性的核心场景
+- [[concepts/agent-trace-span-taxonomy]] — 失败信息在 Trace/Span 中的记录方式
+- [[concepts/agent-cost-breakdown]] — 重试失败直接导致成本膨胀

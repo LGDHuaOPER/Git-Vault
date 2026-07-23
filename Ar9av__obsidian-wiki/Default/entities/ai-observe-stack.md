@@ -5,7 +5,7 @@ tags: [ai, observability, database, olap]
 sources:
   - "SelectDB: 我们用 AI Observe Stack 观测了 OpenClaw (2026-03-04)"
   - "SelectDB: Apache Doris 在 AgentLogsBench 中领先 (2026-07-07)"
-summary: AI Observe Stack 是基于 Apache Doris / SelectDB 构建的 AI Agent 可观测存储后端，提供大文本短语搜索、动态 JSON 过滤、有序 Trace 回放和实时聚合的混合负载能力，在 AgentLogsBench 基准测试中取得领先成绩。
+summary: AI Observe Stack 是基于 Apache Doris / SelectDB 构建的开源 AI Agent 可观测平台，通过 OpenTelemetry Collector + Doris + Grafana 提供 Traces/Metrics/Logs 三合一能力，5 分钟可完成部署。
 provenance:
   extracted: 0.60
   inferred: 0.35
@@ -15,7 +15,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-16T00:00:00+08:00
+updated: "2026-07-22"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: implements
@@ -26,6 +26,8 @@ relationships:
   - target: "[[concepts/agent-harness]]"
     type: related_to
   - target: "[[concepts/agent-trace-and-timeline]]"
+    type: related_to
+  - target: "[[entities/langfuse-llm-observability]]"
     type: related_to
 ---
 
@@ -46,7 +48,21 @@ Agent 可观测数据有四个传统 APM 存储难以满足的特征：
 
 ## 架构
 
-AI Observe Stack 使用 Apache Doris 作为统一存储引擎：
+AI Observe Stack 基于三个成熟开源项目构建 ^[extracted]：
+
+| 组件 | 作用 |
+|------|------|
+| **OpenTelemetry Collector** | 遥测数据网关，接收 OpenTelemetry 协议数据 |
+| **Apache Doris / SelectDB** | 存储层，VARIANT 类型 + 倒排索引，天然适配半结构化数据 |
+| **Grafana + Doris App 插件** | 可视化层，支持 SQL 查询和预置 Dashboard |
+
+核心优势 ^[extracted]：
+- **Traces + Metrics + Logs 三合一**：统一采集、统一存储、统一查询
+- **SQL 查询**：标准 SQL 即可分析所有数据
+- **实时分析**：数据写入即可查询，无需等待 ETL 或预聚合
+- **5 分钟部署**：一条 `docker compose up -d` 搞定
+
+### 数据流
 
 ```
 Agent 运行时 → OTel Collector / 自定义 Exporter
@@ -76,6 +92,43 @@ SelectDB 团队使用 AI Observe Stack 在**一天内**（由 AI 辅助开发）
 
 阶跃星辰（StepFun）基于 SelectDB 构建了 PB 级的 Agent 可观测平台，支撑其大规模 Agent 服务的生产运维。^[inferred]
 
+## 预置 Dashboard
+
+针对 OpenClaw 观测场景，AI Observe Stack 预置三个 Dashboard ^[extracted]：
+
+### Security & Audit Dashboard
+
+顶部四个核心指标卡片：
+- **Dangerous Commands**：检测到的危险 shell 命令数量（`rm -rf`、`sudo`、`chmod 777`、`curl | sh` 等）
+- **Prompt Injection**：外部内容中检测到的注入模式数量（`ignore previous instructions`、`you are now`、`DAN mode` 等）
+- **Outbound Actions**：Agent 主动发出的对外操作（发邮件、发消息、调用外部 API）
+- **Sensitive File Access**：Agent 访问敏感文件的次数（`.ssh/id_rsa`、`.env`、`credentials.json` 等）
+
+下钻面板包括：Security Event Timeline、Top Risk Sessions、Dangerous Command Detection、Prompt Injection Detection、Outbound Data Flow Audit、Sensitive File Access Log、User Message Audit Trail、Tool Execution Log、Tool Calls vs Errors Over Time。
+
+### Cost & Efficiency Dashboard
+
+- Token Usage Over Time：按模型分别统计 input/output tokens
+- Input Tokens per Turn（Context Window Growth）：展示上下文滚雪球效应
+- Per-Question Cost：把成本拆解到每个用户问题，包括 `ai_steps`、`total_input`、`user_question`
+
+### Agent Behavior Dashboard
+
+- 性能概览：Avg Request Latency、Avg Turn Duration、Total Spans、Trace Chains
+- Tool 调用分布：browser、exec、web_fetch 等工具的调用统计
+- Span Performance Summary：`openclaw.request` P95 远高于平均值提示长尾请求
+- Conversation Flow：完整对话流水表，按时间倒序展示交互生命周期
+
+## Doris App 插件增强
+
+### Discover（日志探索）
+
+类似 Kibana 的日志探索界面，支持 SQL 和 Lucene 两种查询模式。可展开单条日志查看完整结构化详情，包括 Table 视图、JSON 视图、原始数据结构，以及 "Surrounding items" 上下文还原。适用于即席查询、关键词搜索、数据验证。^[extracted]
+
+### Traces（Trace 分析）
+
+可按 Service、Operation、Tags、Duration 筛选，散点图展示 Trace 耗时分布。Waterfall 视图将 Agent 请求完整生命周期展开为调用链。适用于慢请求定位、异常行为取证、Agent 行为理解。^[extracted]
+
 ## 性能基准
 
 在 **AgentLogsBench** 基准测试中，Apache Doris 在综合排名中领先，尤其在 Hot Query Runtime（高并发查询延迟）场景表现突出。参见 [[references/agentlogsbench]]。
@@ -84,7 +137,7 @@ SelectDB 团队使用 AI Observe Stack 在**一天内**（由 AI 辅助开发）
 
 AI Observe Stack 是**存储层解决方案**，不绑定特定的采集或可视化层：
 
-- **采集层兼容**：OTel Collector、LoongCollector、Langfuse SDK 均可对接
+- **采集层兼容**：OTel Collector、LoongCollector、[[entities/langfuse-llm-observability|Langfuse]] SDK 均可对接
 - **可视化层开放**：通过标准 SQL 接口对接 Grafana、Superset、或自定义面板
 ## Related
 

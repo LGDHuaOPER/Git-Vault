@@ -18,17 +18,19 @@ provenance:
   inferred: 0.35
   ambiguous: 0.10
 created: "2026-07-16"
-updated: "2026-07-16"
+updated: "2026-07-22"
 relationships:
   - target: "[[agent-observability-paradigm]]"
     type: extends
   - target: "[[agent-trace-cost-quality-architecture]]"
     type: extends
+  - target: "[[concepts/ai-agent-observability]]"
+    type: related_to
 ---
 
 # AgentTrace
 
-**AgentTrace** 是 UC Berkeley 研究者提出的 LLM Agent 可观测性框架，核心理念：**把日志从调试工具升级为一等公民的基础设施层**——像数据库有 WAL、微服务有分布式追踪一样，Agent 也应该有自己结构化的 Trace。^[extracted]
+**AgentTrace** 是 UC Berkeley 研究者提出的 LLM [[concepts/ai-agent-observability|Agent 可观测性]]框架，核心理念：**把日志从调试工具升级为一等公民的基础设施层**——像数据库有 WAL、微服务有分布式追踪一样，Agent 也应该有自己结构化的 Trace。^[extracted]
 
 - **论文**：https://arxiv.org/pdf/2602.10133
 - **定位**：Agent 可观测性的基础层（foundational layer）

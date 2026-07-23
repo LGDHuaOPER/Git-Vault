@@ -31,17 +31,32 @@ sources:
   - "数栖云间: Apache Doris 在 AI Agent 可观测性中的架构实践 (2026-03-12)"
   - "一臻数据: Litefuse 正式发布！Doris 原生 Agent 可观测平台来了 (2026-05-21)"
   - "AI Engineer编程微信公众号: Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践 (2026-07-12)"
-summary: AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。核心问题是"任务有没有做对"而非"系统有没有崩"——从 HTTP 200 到语义正确性的范式跨越。涵盖四大观测维度（Trace/Prompt/Tool Call/Token）、三层架构设计（接入/计算存储/应用）、四大支柱（Tracing/Metrics/Logging/Alerting）、六层失败模型，以及观测→评估→归因→优化的闭环流程。
+  - "祥聊AI: AI Agent 可观测性：看不见的链路，才是最贵的技术债 (2026-04-12)"
+  - "机器之魂: LLM 可观测性：大多数生产级 AI 系统中缺失的那一层 (2026-04-17)"
+  - "智枢圈: 理论篇-14 大模型评估与可观测性 (2026-05-11)"
+  - "安全进化论: 让智能体可观察可评估可进化 (2026-06-15)"
+  - "企业大模型应用和开发: Agent Harness Engineering 可观测性与运维 (2026-06-07)"
+  - "随野录: Agent Harness 可观测性 (2026-06-03)"
+  - "云计算开源产业联盟: 中国信通院联合发布《面向LLM应用的可观测性能力要求》 (2025-07-31)"
+  - "阿里技术: 大模型可观测1-5-10：发现、定位、恢复的三层能力建设 (2025-09-21)"
+  - "自由的灵魂在路上: [Alan の测试] 从硬规则到 LLM Judge：如何搭建一套可落地的 AI 客服评测系统 (2026-07-22)"
+  - "架构驿站: 一文读懂 LLM 可观测性 (2024-01-13)"
+  - "Datadog: What Is LLM Observability & Monitoring (2024-04-23)"
+  - "可执行AI方案库: Spring AI 应用上生产，最先缺的不是模型，而是可观测性 (2026-04-18)"
+  - "腾讯云架构师技术同盟: 生成式 AI 可观测性 2.0：成本、安全、质量三大支柱 (2026-06-24)"
+  - "唧唧复急急: AI 智能体应用时代，可观测性怎么做？ (2026-03-27)"
+  - "小加号编程笔记: AI Agent 可观测性：如何记录推理、工具调用、失败与成本 (2026-07-13)"
+summary: AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。核心问题是"任务有没有做对"而非"系统有没有崩"——从 HTTP 200 到语义正确性的范式跨越。涵盖四大观测维度（Trace/Prompt/Tool Call/Token）、三层架构设计（接入/计算存储/应用）、四层开源生态（标准/语义/工作台/网关）、四大支柱（Tracing/Metrics/Logging/Alerting）、六层失败模型，以及观测→评估→归因→优化的闭环流程。
 provenance:
-  extracted: 0.65
-  inferred: 0.28
+  extracted: 0.67
+  inferred: 0.26
   ambiguous: 0.07
 base_confidence: 0.82
 lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: core
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-17
+updated: "2026-07-22"
 relationships:
   - target: "[[concepts/agent-trace-and-timeline]]"
     type: extends
@@ -68,6 +83,20 @@ relationships:
   - target: "[[references/alicloud-loongcollector-agent-sandbox]]"
     type: related_to
   - target: "[[references/stepfun-selectdb-pb-observability]]"
+    type: related_to
+  - target: "[[entities/signoz]]"
+    type: related_to
+  - target: "[[entities/openllmetry]]"
+    type: related_to
+  - target: "[[entities/dify]]"
+    type: related_to
+  - target: "[[entities/vllm]]"
+    type: related_to
+  - target: "[[entities/helicone]]"
+    type: related_to
+  - target: "[[entities/langsmith]]"
+    type: related_to
+  - target: "[[entities/loongsuite-pilot]]"
     type: related_to
 ---
 
@@ -245,13 +274,18 @@ Token 消耗、文本、图片、音频、视频等多模态内容的采集，�
 - [[entities/ai-observe-stack]] — 基于 Apache Doris 的 AI 可观测存储后端
 - [[entities/loongsuite-platform]] — 阿里云 LoongSuite 可观测体系
 - [[entities/litefuse]] — 基于 Doris 的开源 Agent 可观测与评估平台
+- [[entities/signoz]] — 天生支持 OpenTelemetry 的开源 APM
+- [[entities/openllmetry]] — 面向 LLM 生态的自动插桩 SDK
 - [[entities/agenttrace]] — UC Berkeley 三层结构化追踪框架
 - [[entities/mcpspy-ebpf-mcp-monitoring]] — 基于 eBPF 的 MCP 无侵入可观测
 - [[entities/deepseek-observability-agent]] — DeepSeek 在可观测性智能体中的实践
+- [[entities/dify]] — 开源 LLMOps 平台（常与可观测探针集成）
+- [[entities/vllm]] — 开源大模型推理加速框架（可被探针观测）
 
 ### 标准化
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
 - [[references/agentlogsbench]] — Agent 可观测存储基准测试
+- [[references/caict-llm-observability-standard]] — 中国信通院《面向LLM应用的可观测性能力要求》
 
 ### 工程模式
 - [[concepts/agent-harness]] — Agent 执行环境的工程框架
@@ -260,10 +294,145 @@ Token 消耗、文本、图片、音频、视频等多模态内容的采集，�
 ### 案例与部署
 - [[references/alicloud-loongcollector-agent-sandbox]] — 阿里云 ARMS AI 可观测方案
 - [[references/stepfun-selectdb-pb-observability]] — 阶跃星辰 PB 级 Agent 可观测平台
+- [[references/spring-ai-otel-langfuse]] — Spring AI + OpenTelemetry + Langfuse 生产级方案
+- [[references/dify-phoenix-integration]] — Dify 平台集成 Phoenix 实战
+- [[references/aliyun-end-to-end-ai-observability]] — 阿里云端到端 AI 可观测实践
+- [[references/agent-new-observability-paradigm-litefuse]] — Agent 新可观测范式
+- [[references/llm-observability-five-pillars]] — LLM 可观测性五大支柱
+- [[references/ai-customer-service-evaluation-alan]] — AI 客服评测工程实践
+
+## 行业标准与规范
+
+### 中国信通院《面向LLM应用的可观测性能力要求》
+
+2025 年 7 月，中国信息通信研究院联合阿里云、华为云、腾讯云、百度等 29 家单位发布**国内首个面向 LLM 应用的可观测性能力分级标准** ^[extracted]。标准以数据的采集、建模、存储、应用为主线，分为四大部分：
+
+| 层级 | 规范内容 |
+|------|----------|
+| **基础设施层** | 网络、存储、主机、操作系统、系统进程的指标 |
+| **中间件层** | RAG、语义缓存、MCP、向量数据库的指标 |
+| **模型层** | 模型指标、成本指标、评估指标、多模态评估指标 |
+| **模型服务层** | 性能指标（QPS、响应时间、Token 消耗、首 Token 延时、并发连接数、吞吐量）、失败指标（失效率、推理超时率、错误类型频率）、计量指标（按时间/消费者/模型维度的请求数和 Token 数） |
+| **应用层** | 性能指标、内容质量、用户体验指标、失败指标 |
+
+数据应用层要求支持会话分析能力：会话数据与用户终端信息整合、会话响应时间分析、会话准确性分析、会话一致性检查、用户行为模式识别。
+
+### 阿里巴巴可观测 1-5-10 框架
+
+阿里巴巴提出的**发现（1）、定位（5）、恢复（10）**三层能力建设框架 ^[extracted]：
+
+**发现（1）**：监控告警体系
+- 业务监控：自定义日志 + 日志服务/QuickBI/DataV/云监控构建业务大盘
+- 云产品监控：百炼模型观测 + 云监控 + ARMS 应用实时监控
+
+核心指标分三类：
+- **可用性**：资源水位（QPM/Token 使用率）、分析维度（应用、功能模块、模型、工作空间）
+- **性能**：调用量、延迟、成功率
+- **业务反馈**：用户差评率
+
+**定位（5）**：问题排查 SOP
+1. 应急发起：收集问题现象
+2. 确认应急类型：水位高/系统报错/延迟等
+3. 确认异常场景：429 错误/其他错误码/延迟
+4. 排查原因：结合业务监控和云产品监控定位
+5. 启动应急预案：限流/扩容/降级
+
+**恢复（10）**：预案执行
+- 业务系统侧限流
+- 工作空间配额调整
+- 联系云厂商扩容
+
+### 生成式 AI 可观测性 2.0：三大支柱
+
+腾讯云提出的**成本、安全、质量**三大支柱框架 ^[extracted]：
+
+**成本支柱**：
+- 风险：钱包拒绝服务攻击（Denial of Wallet）、模型漂移导致的账单暴涨
+- 应对：Token 配额与断路器（基于用户/租户维度的窗口期 Token 计数）、工具调用预算（Agent 思考链最大深度）
+
+**安全支柱**：
+- 输入端：语义扫描/越狱检测（Llama-Guard 或向量匹配）
+- 输出端：正则 + NER 混合扫描，敏感信息脱敏或拦截
+
+**质量支柱**：
+- LLM-as-a-Judge 机制，重点观测两个指标（参考 RAGAS 框架）：
+  - 上下文相关性（Context Relevance）：检索知识是否真能回答用户问题
+  - 忠实度（Faithfulness）：回答是否有严谨依据来源于检索上下文
+- 异步流评估：用户请求、检索上下文、模型回答推送到 Kafka，后置评估服务打分
+- 幻觉率趋势图和回答质量水位线，平均得分低于 0.8 触发工程告警
+
+## LLM 可观测性五大支柱
+
+来自 Arize 和业界早期实践总结的框架 ^[extracted]：
+
+| 支柱 | 关注点 |
+|------|--------|
+| **Evaluation** | 验证 LLM 性能，捕捉幻觉和问答问题 |
+| **LLM Traces and Spans** | 捕获 LangChain、LlamaIndex 等框架的执行路径 |
+| **Prompt Analysis and Troubleshooting** | 使用 Evals 和实时生产数据重现问题 |
+| **Search and Retrieval** | RAG 故障排除和评估 |
+| **Fine-tuning** | 收集真实/人工数据支持微调工作流 |
+
+## 硬规则与软质量分离
+
+在客服等高风险场景中，评测必须区分硬约束和软质量 ^[extracted]：
+- **硬规则**：能用字符串、结构化字段、顺序或知识字段确定的要求，由代码判断；事实编造、越界承诺、结束后营销等红线独立否决
+- **软质量**：需要理解语义、自然度、承接关系的要求，使用 LLM Judge
+- **不可冒充**：没有检索轨迹就不要报告检索 Recall，非流式接口就不要报告 TTFT
+
+## 开源生态的四层架构
+
+面向 Agent 的可观测开源工具可按职责分为四层，避免"一家全包"的选型误区。详见 [[concepts/ai-observability-layered-architecture]]：^[extracted]
+
+| 层级 | 代表 | 职责 | 边界 |
+|------|------|------|------|
+| **标准层** | OpenTelemetry | 统一 trace/span/metric/log 表达，接入现有 observability 栈 | 能记链路，但不天然理解 prompt、tool、retrieval、eval 等 AI 语义 |
+| **语义层** | OpenInference | 给 LLM、Agent、Tool、Retriever、Evaluator 补充统一语义 | 不是工作台；负责把现场描述清楚 |
+| **工作台层** | Phoenix、Langfuse | 把 trace、eval、dataset、experiment 放到日常使用的工作台 | 不是底层标准，也不是统一流量入口 |
+| **网关/成本层** | [[entities/helicone|Helicone]] | 统一入口、记账、配额、路由、审计 | 不擅长业务质量归因 |
+
+^[extracted]
+
+## 从 0 到 1 的最小落地路径
+
+Agent 可观测平台建设不要一开始就追求平台化。更务实的做法分五步：^[extracted]
+
+1. **定义最小任务单元**：选核心、高投诉、价值清晰的任务，统一 `trace_id`/`session_id`。^[extracted]
+2. **埋齐关键字段与事件**：请求标识、模型调用、检索信息、工具调用、Agent 过程、结果信息、评估信息，以及 8 类关键事件。^[extracted]
+3. **叠加轻量 evaluation**：规则评估 + 人工反馈 + 模型评审并行，能上什么先上什么。^[extracted]
+4. **沉淀失败数据集**：把投诉样本、eval 不通过样本、高成本样本、工具误调用样本等沉淀为带 trace 链接和故障标签的数据集。^[extracted]
+5. **用实验驱动迭代**：改 prompt/工具/检索前，先在失败数据集上做对照实验，盯住质量、成本、延迟、人工接管率四个维度。^[extracted]
+
+完整实操指南参见 [[skills/agent-observability-landing-guide]]。
+
+## 生产落地常见陷阱
+
+- **只采模型调用，不采业务语义**：不知道任务是什么、结果有没有业务价值，数据很难支持业务排障。解决办法是从第一天起带上 `task_type`、成功定义、失败分类。^[extracted]
+- **trace 很细，但没有版本信息**：没有 prompt 版本、工具 schema 版本、知识版本、评估器版本，团队难以判断波动是模型漂了还是配置改了。^[extracted]
+- **把 evaluation 当成一次性项目**：业务变了、知识变了、流程变了，评估标准还是旧的。evaluation 本身也是生产系统的一部分，需要持续维护。^[extracted]
+- **坏样本积累了，但没有统一标签**：今天"答偏了"，明天"工具乱调"，后天"知识有问题"，无法形成可统计、可回归的故障分类。建议第一版就用粗标签如 `retrieval_miss`、`stale_knowledge`、`tool_misfire`、`loop_runaway`、`unsafe_answer`、`should_handoff_but_not`。^[extracted]
+- **只盯质量，不盯成本**：准确率升了一点，但 loop 次数、token 和工具调用数一起飙升，最后无法规模化上线。任何改动都要同时过质量和成本两道门。^[extracted]
+- **敏感数据直接全量落库**：把用户原文、身份证号、合同内容、内部文档全量扔进 tracing 系统，后面一定会出合规问题。更稳妥的做法是分级存储、字段脱敏、敏感内容打标、原文按权限回看、设置保留周期。^[extracted]
 
 ## 开放性议题
 
-- Agent 可观测数据的存储方案选择：专用 OLAP（Doris/ClickHouse）vs 通用可观测后端（Elasticsearch/Loki）vs 专用平台（Langfuse/LangSmith）
-- 端侧 Agent（如 AI Coding Agent）的可观测盲区如何填补 — LoongSuite Pilot 是首个系统性尝试
+- Agent 可观测数据的存储方案选择：专用 OLAP（Doris/ClickHouse）vs 通用可观测后端（Elasticsearch/Loki）vs 专用平台（Langfuse/[[entities/langsmith|LangSmith]]）
+- 端侧 Agent（如 AI Coding Agent）的可观测盲区如何填补 — [[entities/loongsuite-pilot|LoongSuite Pilot]] 是首个系统性尝试
 - Agent 评估（Evaluation）与可观测性（Observability）的边界模糊化趋势
 - Timeline 可视化的交互设计仍在早期：如何在一个界面上同时展示推理逻辑、工具调用参数和 Token 成本分布
+
+## LLM 可观测性要解决的典型问题
+
+从生产实践看，LLM 应用常见的五类问题 ^[extracted]：
+
+| 问题 | 说明 |
+|------|------|
+| **幻觉** | LLM 偶尔产生虚假信息，尤其在面对无答案的查询时给出看似自信但实际有缺陷的回答 |
+| **性能和成本** | 依赖第三方模型导致 API 性能下降、算法变化不一致、大数据量下高成本 |
+| **提示词破解** | 用户通过 Prompt 注入影响 LLM 产生特定/有害内容 |
+| **安全和数据隐私** | 数据泄露、训练数据偏差导致的偏见、未经授权访问、生成包含敏感或个人数据的响应 |
+| **提示和响应差异** | 相同查询收到不同响应，导致混淆和不一致体验 |
+
+## eBPF：高质量可观测信号源
+
+eBPF 通过零侵扰、全栈采集能力，为可观测性智能体提供高质量数据基础设施。相比传统 APM，eBPF 能覆盖 APM 插桩无法覆盖的网关、中间件、数据库、DNS、K8s 网络等全链路组件。详见 [[concepts/ebpf-observability-agent]]。

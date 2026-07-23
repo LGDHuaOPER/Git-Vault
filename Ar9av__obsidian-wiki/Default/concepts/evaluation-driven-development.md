@@ -167,3 +167,6 @@ LLM 评估的四种方法：
 - [[concepts/llm-as-judge-evaluation]] — LLM-as-Judge 评估方法论
 - [[entities/litefuse]] — EDD 方法论的产品化实现
 - [[entities/langfuse-llm-observability]] — EDD 工具链中的评估和实验功能
+- [[concepts/agent-evaluation-framework]] — Agent 评估方法论（Anthropic Task/Trial/Grader + 阿里巴巴 P0/P1/P2 工程框架）
+- [[concepts/agent-causal-attribution]] — Agent 因果归因（从"错在哪一步"到"为什么错"）
+- [[concepts/rag-observability]] — RAG 可观测性（检索质量独立观测层）

@@ -6,6 +6,12 @@ tags:
   - observability
   - langfuse
   - instrumentation
+
+relationships:
+  - target: "[[entities/langfuse-llm-observability]]"
+    type: related_to
+  - target: "[[entities/langsmith]]"
+    type: related_to
 sources:
   - "Git 拆解: Langfuse 实战：部署、埋点、评估，跑通 LLM 可观测全流程 (2026-06-28)"
   - "IMBoy技术笔记: 可观测性：Langfuse、Langsmith 集成 (2026-07-03)"
@@ -19,12 +25,12 @@ provenance:
   inferred: 0.25
   ambiguous: 0.10
 created: "2026-07-16"
-updated: "2026-07-16"
+updated: "2026-07-22"
 ---
 
-# Langfuse 集成模式
+# [[entities/langfuse-llm-observability|Langfuse]] 集成模式
 
-## 四种埋点方式
+## 六种埋点方式
 
 ### 模式 1：OpenAI Drop-in 替换（最简）
 
@@ -93,7 +99,36 @@ chain.invoke({"query": "hello"}, config={"callbacks": [handler]})
 
 LlamaIndex 同理通过 callback manager 接入。^[extracted]
 
-### 模式 4：Eino callbacks.Handler（Go 深度集成）
+### 模式 4：[[entities/langsmith|LangSmith]] 接入
+
+```go
+import cbLangsmith "github.com/cloudwego/eino-ext/callbacks/langsmith"
+
+handler, err := cbLangsmith.NewLangsmithHandler(&cbLangsmith.Config{
+    APIKey: os.Getenv("LANGSMITH_API_KEY"),
+    APIURL: "https://api.smith.langchain.com",
+})
+callbacks.AppendGlobalHandlers(handler)
+```
+
+LangSmith 在 context 里维护 `LangsmithState`，记录 `TraceID`、`ParentRunID`、`ParentDottedOrder` 来重建 run tree 层级。每个节点运行对应一个 run，嵌套节点挂在父 run 下面，界面展示成树形 ^[extracted]。
+
+### 模式 5：Cozeloop 接入
+
+字节跳动 Coze 平台的可观测工具，接入方式类似 ^[extracted]：
+
+```go
+import (
+    "github.com/cloudwego/eino-ext/callbacks/cozeloop"
+    cozeloopcli "github.com/coze-dev/cozeloop-go"
+)
+
+client := cozeloopcli.New(cozeloopcli.WithAPIToken(os.Getenv("COZELOOP_TOKEN")))
+handler := cozeloop.NewLoopHandler(client, cozeloop.WithTracing(true))
+callbacks.AppendGlobalHandlers(handler)
+```
+
+### 模式 6：Eino callbacks.Handler（Go 深度集成）
 
 Eino 框架通过统一的 `callbacks.Handler` 接口实现 Langfuse 接入，覆盖 5 个执行时机 ^[extracted]：
 
@@ -150,6 +185,35 @@ runner.Invoke(ctx, input)
 
 **关键设计**：每个 Handler 方法返回的 `context.Context` 会传给同一 Handler 的下一个方法——`OnStart` 里存入 `traceID`，`OnEnd` 里就能取到，不依赖全局变量。^[extracted]
 
+### HandlerBuilder：自建轻量追踪
+
+不想依赖外部平台，只想本地打日志或推 metrics？用 `HandlerBuilder` ^[extracted]：
+
+```go
+handler := callbacks.NewHandlerBuilder().
+    OnStartFn(func(ctx context.Context, info *callbacks.RunInfo, input callbacks.CallbackInput) context.Context {
+        mi := model.ConvCallbackInput(input)
+        if mi != nil {
+            log.Printf("[%s] model call: %d messages", info.Name, len(mi.Messages))
+        }
+        return context.WithValue(ctx, startTimeKey{}, time.Now())
+    }).
+    OnEndFn(func(ctx context.Context, info *callbacks.RunInfo, output callbacks.CallbackOutput) context.Context {
+        start, _ := ctx.Value(startTimeKey{}).(time.Time)
+        mo := model.ConvCallbackOutput(output)
+        if mo != nil && mo.Message.ResponseMeta != nil {
+            usage := mo.Message.ResponseMeta.Usage
+            log.Printf("[%s] done in %v, tokens: %d+%d",
+                info.Name, time.Since(start), usage.PromptTokens, usage.CompletionTokens)
+        }
+        return ctx
+    }).
+    Build()
+callbacks.AppendGlobalHandlers(handler)
+```
+
+`model.ConvCallbackInput(input)` 安全转型，非 ChatModel 节点返回 nil。
+
 ## 模式选择指南
 
 | 场景 | 推荐模式 | 理由 |
@@ -157,6 +221,8 @@ runner.Invoke(ctx, input)
 | 只用 OpenAI SDK | Drop-in 替换 | 零代码改动 |
 | RAG / Agent 链 | @observe() 装饰器 | 灵活包裹自定义逻辑 |
 | LangChain / LlamaIndex | CallbackHandler | 框架原生集成 |
+| LangChain 团队 | LangSmith | 平台闭源但生态最丝滑 |
+| Coze 生态 | Cozeloop | 字节跳动平台原生 |
 | Go + Eino 框架 | callbacks.Handler | 类型安全 + 批量异步 |
 | 不依赖外部平台 | HandlerBuilder | 自定义日志/metrics |
 

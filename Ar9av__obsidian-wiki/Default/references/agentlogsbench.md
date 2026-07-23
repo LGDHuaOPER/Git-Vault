@@ -15,7 +15,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-16T00:00:00+08:00
+updated: "2026-07-22"
 relationships:
   - target: "[[entities/ai-observe-stack]]"
     type: related_to
@@ -73,7 +73,7 @@ Apache Doris 在综合排行榜中领先，尤其体现在：
 
 AgentLogsBench 表明：Agent 可观测的存储层选择**不是无差别的**——传统基于倒排索引的日志系统（Elasticsearch/Loki）在大文本短语搜索场景下膨胀严重，而通用 OLAP 数据库（Doris/ClickHouse）需要补充倒排索引和 VARIANT 类型才能高效处理动态 JSON 过滤和全文搜索。
 
-这也解释了为什么 SelectDB 的 AI Observe Stack 选择 Apache Doris 作为存储引擎：它通过倒排索引 + VARIANT + MPP 查询的组合，同时覆盖了搜索引擎、OLAP 和时序数据库的能力 ^[inferred]。
+这也解释了为什么 SelectDB 的 [[entities/ai-observe-stack|AI Observe Stack]] 选择 Apache Doris 作为存储引擎：它通过倒排索引 + VARIANT + MPP 查询的组合，同时覆盖了搜索引擎、OLAP 和时序数据库的能力 ^[inferred]。
 
 ## 局限性
 

@@ -18,7 +18,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: 2026-07-16T00:00:00+08:00
+updated: "2026-07-22"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: derived_from
@@ -28,11 +28,13 @@ relationships:
     type: related_to
   - target: "[[entities/openclaw]]"
     type: related_to
+  - target: "[[concepts/genai-observability-semconv]]"
+    type: related_to
 ---
 
 # Agent Trace and Timeline
 
-Agent Trace 是 AI Agent 可观测性的核心数据结构——它不是传统 APM 中的扁平 request-response span，而是**有序的、多层级嵌套的执行链路**，记录 Agent 从接收任务到完成输出的每一个推理步骤。
+Agent Trace 是 AI [[concepts/ai-agent-observability|Agent 可观测性]]的核心数据结构——它不是传统 APM 中的扁平 request-response span，而是**有序的、多层级嵌套的执行链路**，记录 Agent 从接收任务到完成输出的每一个推理步骤。
 
 ## 从日志到 Trace 的范式转变
 
@@ -94,7 +96,7 @@ ThinkingAgent 文章总结的四个必须追踪的维度：
 ### 工具与平台
 
 - **Langfuse** — 开源 LLM 可观测平台，提供 Trace 可视化、Prompt 版本管理、评估功能
-- **LoongSuite** — 阿里云可观测体系，通过 OpenTelemetry GenAI SemConv 实现标准化 Trace 采集
+- **LoongSuite** — 阿里云可观测体系，通过 [[concepts/genai-observability-semconv|OpenTelemetry GenAI SemConv]] 实现标准化 Trace 采集
 - **Honeycomb** — 2026 年率先提出 Agent Timeline 概念，基于 OTel 实现
 
 参见 [[entities/langfuse-llm-observability]]、[[entities/loongsuite-platform]]。

@@ -7,6 +7,12 @@ tags:
   - governance
   - safety
   - cost-management
+
+relationships:
+  - target: "[[entities/arize-phoenix]]"
+    type: related_to
+  - target: "[[entities/langfuse-llm-observability]]"
+    type: related_to
 sources:
   - "ThinkingAgent: AI安全和治理：AI Observability、Evaluation、治理、安全与成本 (2026-06-28)"
   - "阿里云可观测: LoongCollector + ACS Agent Sandbox：构建 AI Agent 生产级运行平台 (2026-04-06)"
@@ -20,7 +26,7 @@ provenance:
   inferred: 0.3
   ambiguous: 0.1
 created: 2026-07-16
-updated: 2026-07-16
+updated: "2026-07-22"
 ---
 
 # AI Production Engineering: Five Pillars
@@ -51,12 +57,24 @@ AI 系统从「实验品」变成「生产基础设施」后，运行工程化�
 五大威胁：Prompt 注入、数据泄露、模型滥用、对抗攻击、供应链风险。五层防护：输入过滤 → 模型安全 → 输出审查 → 运行时监控 → 审计回溯。定期红队测试是生产环境的必要实践。
 
 ### Cost（成本）
-七个优化策略：模型蒸馏、缓存复用、Prompt 压缩、智能路由（降本 40-60%）、批处理、Spot 实例、多模型分层。详见 [[agent-cost-breakdown]]。
+七个优化策略 ^[extracted]：
+
+| 策略 | 效果 |
+|------|------|
+| **智能模型路由** | 简单任务走小模型，复杂任务走大模型；成本降低 40-60% |
+| **语义缓存** | 相似查询复用结果；成本降低 30-50% |
+| **Prompt 优化** | 结构化 Prompt、动态上下文、压缩历史；Token 减少 20-40% |
+| **批量处理** | 非实时任务批量调用；成本降低 50%（OpenAI Batch API） |
+| **模型降级** | 在可接受质量损失下使用更便宜模型；如 GPT-4o → GPT-4o-mini 成本 -90% |
+| **Token 预算控制** | 为用户/项目/任务设置预算，超阈值告警或降级 |
+| **自托管模型** | 高频调用场景自托管开源模型；成本降低 10 倍 |
+
+详见 [[agent-cost-breakdown]]。
 
 ## 分阶段落地路线图
 
 ### 阶段 1：启动（0-1 月）
-- Observability：Langfuse Cloud / 开源自部署
+- Observability：[[entities/langfuse-llm-observability|Langfuse]] Cloud / 开源自部署
 - Evaluation：基础 LLM-as-Judge
 - 治理：基础日志
 - 安全：Prompt 注入防护
@@ -69,7 +87,7 @@ AI 系统从「实验品」变成「生产基础设施」后，运行工程化�
 - 成本：模型路由优化
 
 ### 阶段 3：企业（3-6 月）
-- Observability：自建 + Arize Phoenix
+- Observability：自建 + [[entities/arize-phoenix|Arize Phoenix]]
 - Evaluation：多层次评估 + 人工评估
 - 治理：合规认证 + AI 影响评估
 - 安全：专业红队 + SOC

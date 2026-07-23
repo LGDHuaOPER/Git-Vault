@@ -7,6 +7,12 @@ tags:
   - opentelemetry
   - tracing
   - genai
+
+relationships:
+  - target: "[[concepts/ai-agent-observability]]"
+    type: related_to
+  - target: "[[entities/langfuse-llm-observability]]"
+    type: related_to
 sources:
   - "AI Engineer编程: OpenTelemetry + Agent 可观测平台基础 (2026-07-11)"
   - "阿里云可观测: AI 原生应用全栈可观测实践：以 DeepSeek 对话机器人为例"
@@ -20,10 +26,10 @@ provenance:
   inferred: 0.3
   ambiguous: 0.1
 created: 2026-07-16
-updated: 2026-07-16
+updated: "2026-07-22"
 ---
 
-# OpenTelemetry for GenAI Agent Observability
+# OpenTelemetry for Gen[[concepts/ai-agent-observability|AI Agent Observability]]
 
 ## 三层架构
 
@@ -50,7 +56,7 @@ Span 结束后进入队列，积累到一定数量或时间后批量发送，减
 from opentelemetry.exporter.otlp.proto.grpc.trace_exporter import OTLPSpanExporter
 exporter = OTLPSpanExporter(endpoint="http://localhost:4317", insecure=True)
 ```
-将数据发送到后端（Jaeger、Langfuse、Prometheus 等）。
+将数据发送到后端（Jaeger、[[entities/langfuse-llm-observability|Langfuse]]、Prometheus 等）。
 
 ## 手动插桩模式
 

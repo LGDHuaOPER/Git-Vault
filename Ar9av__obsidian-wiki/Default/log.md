@@ -1,6 +1,6 @@
 ---
 title: Wiki Log
-updated: 2026-07-16
+updated: 2026-07-22
 ---
 
 # Wiki Log
@@ -19,3 +19,13 @@ updated: 2026-07-16
   - Updated: concepts/evaluation-driven-development (added offline pipeline, eval set, simulation env, evaluator layers), concepts/ai-agent-observability (added 3-layer architecture, TTFT/TPOT, UModel), concepts/agent-trace-cost-quality-architecture (added trajectory processing pipeline)
 - [2026-07-20] QUERY query="AI 应用全链路可观测" result_pages=8 mode=normal escalated=false qmd_used=true
 - [2026-07-21] QUERY query="AI 应用全链路可观测" experiments=3 result_pages=[3,8,0] mode=normal qmd_used=true qmd_transport=mcp note="escalated on last attempt due to MCP timeout"
+- [2026-07-22] INGEST source="Inbox + WeChat Obsync (56 files)" pages_created=8 pages_updated=3 mode=append
+  - Created: concepts/agent-causal-attribution, concepts/agent-evaluation-framework, concepts/rag-observability, references/caict-llm-observability-standard, entities/greptimedb, references/spring-ai-otel-langfuse, references/dify-phoenix-integration, entities/arize-phoenix
+  - Updated: concepts/ai-agent-observability (added CAICT standard, Alibaba 1-5-10 framework, GenAI observability 2.0 three pillars), concepts/genai-observability-semconv (added OTel GenAI six-layer structure), concepts/agent-harness (added ETCLOVG framework, 8-dimension capture model)
+  - Key new topics: CAICT LLM observability standard, OTel GenAI six-layer architecture (Client/Agent/MCP/Events/Metrics/Provider), GreptimeDB unified observability database, Spring AI production observability, Dify+Phoenix integration, Arize Phoenix platform, Agent causal attribution, Agent evaluation framework (Anthropic+Alibaba), RAG observability
+
+- [2026-07-22] INGEST source="WeChat Obsync + Inbox" files=89 pages_created=65 pages_updated=15 mode=append
+  - New by category: 9 concepts, 21 entities, 32 references, 3 skills
+  - New pages (sample): concepts/agent-evaluation-framework, concepts/agent-observability-metrics, concepts/ai-coding-agent-observability, concepts/ai-observability-layered-architecture, concepts/ebpf-observability-agent, concepts/genai-observability-2.0, concepts/llm-observability-tool-selection, concepts/observability-3-0, concepts/umodel, entities/acs-agent-sandbox, entities/alicloud-cloudmonitor-ai-agent-observability, entities/automq, entities/bonree-one, entities/coze-loop, entities/deepflow, entities/dify, entities/greptimedb, entities/helicone, entities/langsmith, entities/loongsuite-pilot...
+  - Updated pages (sample): concepts/agent-failure-taxonomy, concepts/agent-harness, concepts/agent-trace-span-taxonomy, concepts/ai-agent-observability, concepts/ai-production-engineering-five-pillars, concepts/genai-observability-semconv, concepts/llm-as-judge-evaluation, entities/ai-observe-stack, entities/apache-doris-agent-observability, entities/langfuse-llm-observability...
+- [2026-07-22] CROSS_LINK pages_scanned=101 links_added=96 typed_relations_written=96 pages_modified=54 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0

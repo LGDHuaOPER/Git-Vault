@@ -7,6 +7,12 @@ tags:
   - ebpf
   - mcp-protocol
   - kernel-tracing
+
+relationships:
+  - target: "[[concepts/ai-agent-observability]]"
+    type: related_to
+  - target: "[[entities/langfuse-llm-observability]]"
+    type: related_to
 sources:
   - "深入浅出BPF: AI 监控新视角 MCPSpy：基于 eBPF 技术实现 MCP 协议无侵入可观测 (2025-09-20)"
 summary: "MCPSpy——基于 eBPF 内核技术的 MCP 协议无侵入可观测工具。在操作系统内核层面拦截 MCP 协议的 JSON-RPC 通信，无需修改任何应用代码即可捕获完整的 MCP 交互轨迹。"
@@ -19,7 +25,7 @@ provenance:
   inferred: 0.5
   ambiguous: 0.2
 created: 2026-07-16
-updated: 2026-07-16
+updated: "2026-07-22"
 ---
 
 # MCPSpy: eBPF-based MCP Monitoring
@@ -67,7 +73,7 @@ eBPF（Extended Berkeley Packet Filter）允许在 Linux 内核中安全地运�
 
 ## 相关页面
 
-- [[agent-observability-fundamentals]] — Agent 可观测性基础
+- [[agent-observability-fundamentals]] — [[concepts/ai-agent-observability|Agent 可观测性]]基础
 - [[agent-trace-span-taxonomy]] — Trace/Span 结构
 - [[langfuse-platform]] — 应用层可观测平台
 - [[opentelemetry-genai-agent-setup]] — 标准化观测协议
