@@ -38,5 +38,5 @@
   "allowWorkspaceSplitOnPhone": false,
   "enableUpdateCheck": true,
   "newTabButtonPlacement": "group-toolbar",
-  "installationID": "KF8WOcan_U_hfMNmVKYTr"
+  "tabClosingBehavior": "active-right"
 }

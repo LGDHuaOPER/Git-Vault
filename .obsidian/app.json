@@ -1,3 +1,6 @@
 {
-  "focusNewTab": false
+  "focusNewTab": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "raw/assets"
 }

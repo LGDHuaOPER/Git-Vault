@@ -1,0 +1,36 @@
+{
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "Pictures/${notepath}/${notename}",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL",
+    "extensionOverride": [
+      {
+        "extension": "m4a|mp3|wav",
+        "attachmentRoot": "",
+        "saveAttE": "obsFolder",
+        "attachmentPath": "Audios/${notepath}/${notename}",
+        "attachFormat": "AUDIO-${date}"
+      },
+      {
+        "extension": "mp4|mov|avi|mkv|flv|m2ts|wmv|rmvb",
+        "attachmentRoot": "",
+        "saveAttE": "obsFolder",
+        "attachmentPath": "Videos/${notepath}/${notename}",
+        "attachFormat": "VIDEO-${date}"
+      }
+    ]
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "Clippings",
+  "excludePathsArray": [
+    "Clippings"
+  ],
+  "excludeSubpaths": true,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}
