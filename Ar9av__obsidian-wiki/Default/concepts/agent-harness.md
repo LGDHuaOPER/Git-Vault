@@ -18,7 +18,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: "2026-07-22"
+updated: "2026-07-25"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: implements
@@ -50,6 +50,16 @@ Harness 不是 Agent 框架本身（如 LangChain、LlamaIndex），也不是可
 - **向上**：为可观测平台提供标准化的数据输入，支撑排障、评估、优化
 
 > "现阶段所有围绕 Agent 工程架构的技术被称为 Harness。" — 叶小钗 (2026-05-25)
+
+### 一个真实案例：为什么 Harness 不是可选的
+
+开发者让 Agent 调用 `write_file` 工具写一篇文章，Agent 反复报错 `缺少 'path' 参数`。检查代码没发现问题——按传统软件开发经验，需要打日志看模型返回了什么。^[extracted]
+
+加上执行日志和模型日志面板后，立刻看到根因：**模型连续几次把工具参数包成了错误的 `_raw` 结构**——工具期待结构化参数（`path`、`content`），模型却把它们塞进了 `_raw` 字符串里，工具拿不到字段自然失败。^[extracted]
+
+这个问题很简单——程序做一下参数兼容就好。但关键在于：**如果没有 Harness 层的日志面板，排查这个问题可能需要数小时的人工猜测和代码翻查。** 而有了 Harness 的模型日志 + 工具调用日志，三分钟定位根因。^[extracted]
+
+这正是 Harness 的核心价值：将 Agent 的黑盒行为变成可检查、可追溯的白盒信号。
 
 ## Harness 的核心能力
 
@@ -206,7 +216,7 @@ ETCLOVG 的可观测层包含三大核心组件 ^[extracted]：
 | 评估为先 | Braintrust、W&B Weave | dataset/scorer/CI 流水线最完善 |
 | 企业 APM | Datadog LLM Obs、New Relic AI | 已有 APM 用户的统一面板 |
 
-另外还有 **Agent 原生**项目：AgentOps、Maxim，专门为多 agent 协作/工具调用/任务委派做了第一公民支持。^[extracted]
+另外还有 **Agent 原生**项目：**AgentOps**（`AgentOps-AI/agentops`，MIT 协议）是唯一从一开始就为 Agent 而生的项目，对 LangChain / CrewAI / AutoGen / OpenAI Agents SDK 有专门埋点，提供 session replay + 多 Agent 交接追踪 ^[extracted]；Maxim 也提供类似能力。
 
 ## 与 LangChain/Langfuse 的关系
 

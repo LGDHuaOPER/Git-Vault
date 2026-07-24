@@ -20,6 +20,7 @@ sources:
   - "叶小钗: Agent 可观测性：为什么有了 LangChain，还会出现 Langfuse？ (2026-06-10)"
   - "AI应用笔记本: 测 AI 智能体总靠瞎猜？LangFuse 搞定 99% 大模型应用观测与评估难题 (2026-06-24)"
   - "ThinkingAgent: AI可观测性：Prompt、Tool Call、Trace、Token全链路追踪 (2026-06-22)"
+  - "comqx技术杂货铺: 给 AI Agent 装上行车记录仪：Langfuse 可观测性完全指南 (2026-07-14)"
 summary: Langfuse 是目前最成熟的开源 LLM 可观测平台（约 29K Star，月 SDK 安装超 5000 万次），提供 Trace 可视化、Prompt 版本管理、数据集评估、Playground 调试环境等核心能力，支持自托管与 SaaS，被 63 家财富 500 强企业采用。
 provenance:
   extracted: 0.70
@@ -243,6 +244,20 @@ claude mcp add --transport http langfuse \
 | `ComponentOfChatModel` | **Generation** | model name、params、prompt messages、completion、token 用量 |
 | 其他节点（Lambda、Tool） | **Span** | 输入输出 JSON、耗时 |
 
+**三种注册方式** ^[extracted]：
+- **全局注册**：`callbacks.AppendGlobalHandlers(myHandler)` 对所有节点生效
+- **单次调用**：`runner.Invoke(ctx, input, compose.WithCallbacks(myHandler))` 仅此次 Invoke
+- **指定节点**：`compose.WithCallbacks(myHandler).DesignateNode("model")` 仅对特定节点
+
+**Cozeloop 接入**：字节跳动 Coze 平台的可观测工具也通过同一 `callbacks.Handler` 接口接入 ^[extracted]：
+```go
+client := cozeloopcli.New(cozeloopcli.WithAPIToken(os.Getenv("COZELOOP_TOKEN")))
+handler := cozeloop.NewLoopHandler(client, cozeloop.WithTracing(true))
+callbacks.AppendGlobalHandlers(handler)
+```
+
+**HandlerBuilder 自建追踪**：不依赖外部平台时，用 `HandlerBuilder` 自建轻量追踪，几行代码实现自定义追踪逻辑 ^[extracted]。
+
 ### 8. AI Coding Tool 集成（Langfuse Skills）
 
 Langfuse 提供官方 **Skills** 仓库（https://github.com/langfuse/skills），让 AI Coding Agent（如 Codex、Claude Code）可以自动把项目接入 Langfuse。^[extracted] 典型用法是直接把下面提示词丢给 Agent：^[extracted]
@@ -250,6 +265,16 @@ Langfuse 提供官方 **Skills** 仓库（https://github.com/langfuse/skills）�
 ```
 Read https://litefuse.ai/SKILL.md and follow the instructions to install and configure Litefuse.
 ```
+
+实际接入时，Agent 通常会在原有执行链路的关键节点上增加 trace、generation、tool span，而不会破坏原有执行流程。^[extracted] 一个常见的改造模式是：
+
+1. 新增统一的 Langfuse Service，集中管理 client、tracing、prompt、score、flush 等逻辑
+2. 每次真实请求大模型时生成 generation 记录（模型、输入、输出、tool calls、token usage）
+3. 每次工具调用记录 tool span（工具名、参数、返回结果、耗时）
+4. 用 traceId 把一次完整聊天请求中的模型调用和工具执行串起来
+5. 把系统提示词抽象成 Langfuse prompt，运行时优先读取 production 版本，失败则回退到本地模板
+
+> ⚠️ 接入后如果 cost 一直显示为 0，常见原因是 SDK 同步时没有把模型接口返回的 usage 一起上报。修复方式是在 SDK 调用处把 token 消耗同步给 Langfuse。^[extracted]
 
 实际接入时，Agent 通常会在原有执行链路的关键节点上增加 trace、generation、tool span，而不会破坏原有执行流程。^[extracted] 一个常见的改造模式是：
 

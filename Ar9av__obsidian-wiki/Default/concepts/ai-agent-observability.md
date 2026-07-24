@@ -16,7 +16,8 @@ sources:
   - "阿里云开发者: 当 AI Coding Agent 成为基础设施：我们为什么要开源 LoongSuite Pilot (2026-06-12)"
   - "阿里云开发者: 阿里巴巴 & 蚂蚁 LoongSuite GenAI 可观测语义规范 (2026-05-12)"
   - "阿里云开发者: 详解大模型应用可观测全链路 (2025-03-13)"
-  - "阿里云开发者社区: 从 AI Agent 到模型推理：端到端 AI 可观测实践"
+  - "阿里云开发者社区: 从 AI Agent 到模型推理：端到端 AI 可观测实践 (2026-07-16)"
+  - "InfoQ: AI 原生应用全栈可观测实践：以 DeepSeek 对话机器人为例 (2026-07-16)"
   - "SelectDB: 我们用 AI Observe Stack 观测了 OpenClaw (2026-03-04)"
   - "SelectDB: Apache Doris 在 AgentLogsBench 中领先 (2026-07-07)"
   - "ThinkingAgent: AI可观测性：Prompt、Tool Call、Trace、Token全链路追踪 (2026-06-22)"
@@ -46,7 +47,11 @@ sources:
   - "腾讯云架构师技术同盟: 生成式 AI 可观测性 2.0：成本、安全、质量三大支柱 (2026-06-24)"
   - "唧唧复急急: AI 智能体应用时代，可观测性怎么做？ (2026-03-27)"
   - "小加号编程笔记: AI Agent 可观测性：如何记录推理、工具调用、失败与成本 (2026-07-13)"
-summary: AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。核心问题是"任务有没有做对"而非"系统有没有崩"——从 HTTP 200 到语义正确性的范式跨越。涵盖四大观测维度（Trace/Prompt/Tool Call/Token）、三层架构设计（接入/计算存储/应用）、四层开源生态（标准/语义/工作台/网关）、四大支柱（Tracing/Metrics/Logging/Alerting）、六层失败模型，以及观测→评估→归因→优化的闭环流程。
+  - "AI随记: 【大模型应用开发从零做起】第28篇：你的AI应用正在裸奔——2026年，可观测性从可选项变成必选项 (2026-07-22)"
+  - "Python技术Gang: 【AI白皮书】AI可观测 (2025-12-31)"
+  - "前端早读课: AI可观测性：大语言模型与智能体的全链路透视 (2026-05-14)"
+  - "云云众生s: LLM在可观测性中制造新盲区 (2026-02-12)"
+summary: AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。涵盖了三大架构视角：(1)四层工具生态（标准/语义/工作台/网关），(2)三层数据架构（接入/计算存储/应用），以及 (3)全栈覆盖架构（应用层/AI网关/推理引擎/MCP服务），形成从黑盒到透明的完整观测方案。 AI Agent 可观测性是理解、调试和治理 AI Agent 系统内部状态与行为的完整能力体系。核心问题是"任务有没有做对"而非"系统有没有崩"——从 HTTP 200 到语义正确性的范式跨越。涵盖四大观测维度（Trace/Prompt/Tool Call/Token）、三层架构设计（接入/计算存储/应用）、四层开源生态（标准/语义/工作台/网关）、四大支柱（Tracing/Metrics/Logging/Alerting）、六层失败模型，以及观测→评估→归因→优化的闭环流程。
 provenance:
   extracted: 0.67
   inferred: 0.26
@@ -56,7 +61,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: core
 created: 2026-07-16T00:00:00+08:00
-updated: "2026-07-22"
+updated: "2026-07-25"
 relationships:
   - target: "[[concepts/agent-trace-and-timeline]]"
     type: extends
@@ -201,6 +206,18 @@ Token 消耗、API 调用费用的实时监控，支持按应用、租户、模�
 | 故障模型 | 超时、5xx、OOM | Prompt 注入、幻觉、工具误调用、推理循环 |
 | 排障方式 | 查日志、看监控面板 | 回放 Timeline、检索嵌套路径、对比多轮推理 |
 
+## 传统可观测性的三个结构性错位
+
+来自支付宝 AIDD 2026 演讲中对 Agent 可观测性挑战的系统性总结 ^[extracted]：
+
+1. **链路错位**：Agent 可能循环调用工具、回退重试，传统 Trace 图画出来"全是一团乱麻"——线性链路无法表达循环与回退，Agent 的执行图更像决策树而非调用链。
+
+2. **指标失灵**：系统不报错、延迟低，但 Agent 可能在"一本正经地胡说八道"。"答对"才是 Agent 的唯一健康指标，但传统指标无法感知语义正确性。
+
+3. **黑盒困境**：LLM 是个黑盒，只知道给出了离谱答案，却无法定位中间哪一步推理"跑偏"了——传统日志只能看到最终输出，看不到推理轨迹、工具调用决策和记忆状态变化。
+
+这三个错位倒逼可观测性目标从"系统是否正常运行"升维为"系统是否正确思考与行动"。
+
 ## Agent 的六层失败模型
 
 来自 Honeycomb 的 Agent Timeline 实践框架，将 Agent 的失败位置分为六层：
@@ -214,18 +231,67 @@ Token 消耗、API 调用费用的实时监控，支持按应用、租户、模�
 
 Timeline 的核心价值在于**从"它错了"定位到"错在哪一步"**。详见 [[concepts/agent-failure-taxonomy]]。
 
+## 全栈可观测架构：四层覆盖
+
+除了上述三层数据架构，业界（阿里云等）还提出了按 **观测对象** 划分的全栈覆盖视角，将 AI 系统的可观测性分为四个层次 ^[extracted]：
+
+### 1. AI 原生应用可观测
+
+面向 LLM 应用开发者，解决四大痛点：工具选择盲区（Agent 选择了错误工具）、错误排除困难（非确定性的多步推理中定位失败点）、Token 消耗黑洞（隐形成本失控）、循环调用陷阱（Agent 陷入推理死循环）。^[extracted]
+
+所需能力：零代码接入、可视化工具选择过程、精准故障定位、Token 成本分析、端到端链路追踪。^[extracted]
+
+### 2. AI 网关可观测
+
+AI 网关位于应用和模型之间，需覆盖五个维度的观测 ^[extracted]：
+
+| 维度 | 观测内容 |
+|------|---------|
+| **性能与稳定性** | QPS、成功率、响应时间、流式/非流式请求分布 |
+| **资源消耗与成本** | Token 消耗数/s、按模型/消费者维度的 Token 统计 |
+| **安全与合规审计** | 内容安全拦截日志、风险类型统计、异常消费者检测 |
+| **治理策略执行** | 限流统计、缓存命中率、Fallback 执行路径 |
+| **多租户与权限** | 消费者身份识别、消费者级指标、异常消费者检测 |
+
+^[extracted]
+
+### 3. 推理引擎可观测
+
+推理引擎（如 [[entities/vllm|vLLM]]、SGLang）是 AI 算法与硬件之间的桥梁。四个核心观测维度 ^[extracted]：
+
+| 维度 | 观测项 |
+|------|--------|
+| **API Server** | 请求速率、并发数、错误率 |
+| **模型输入输出** | Token 数、prompt/completion 长度、TTFT |
+| **推理过程** | Scheduler 队列深度、prefill/decode 耗时、KV Cache 命中率 |
+| **引擎状态** | GPU 利用率、显存使用、批处理大小 |
+
+^[extracted]
+
+TTFT（首 Token 时间）直接影响用户体验，高 TTFT 可从提示词长度、并发排队、KV Cache 使用率等维度优化。^[extracted]
+
+### 4. MCP 服务可观测
+
+MCP（Model Context Protocol）服务器作为 Agent 调用外部工具和数据源的桥梁，其可观测数据（调用参数、返回结果、耗时、失败重试）会自动采集到可观测平台中，与 Agent 的核心 Trace 整合为统一视图。^[extracted]
+
+> 一个典型演示场景：LangChain Agent + Qwen Turbo 通过 SLS MCP 服务器访问日志接口，Agent 与 MCP 服务器的所有观测数据自动采集到统一可观测平台。^[extracted]
+
+## 多语言插桩技术
+
+面向 AI 应用的多语言链路插桩，不同语言采用不同的无侵入/低侵入策略 ^[extracted]：
+
+| 语言 | 技术 | 策略 |
+|------|------|------|
+| **Python** | Monkey Patch | 运行时动态替换函数实现，无需修改源码 |
+| **Java** | 字节码增强 | 通过 Java Agent 在类加载时注入埋点 |
+| **Go** | 编译时插桩 | 在编译阶段注入追踪代码 |
+| **其他** | OpenTelemetry SDK | 通过 OTel 开源框架手动/自动接入 |
+
+^[extracted]
+
 ## 观测→评估闭环
 
 面向 Agent 的可观测与效果评估深度融合，形成闭环：
-
-1. **上线前**：通过测试集与评估器量化对比不同版本的回答效果
-2. **上线后**：持续采集真实用户的交互轨迹与 Agent 内部执行路径
-3. **异常排查**：发现 Bad Case 后自动或半自动归因至 Prompt、上下文、模型或工具问题
-4. **持续迭代**：将 Bad Case 转化为评测样本，在下一轮验证优化效果
-
-这个闭环就是 **观测 → 评估 → 归因 → 优化 → 再评估**。方法论层面参见 [[concepts/evaluation-driven-development]] 和 [[concepts/llm-as-judge-evaluation]]。
-
-## 全链路可观测架构：三层设计
 
 面向 Agent 原生的全链路可观测体系，分为三层 ^[extracted]：
 
@@ -303,6 +369,7 @@ Token 消耗、文本、图片、音频、视频等多模态内容的采集，�
 - [[entities/deepseek-observability-agent]] — DeepSeek 在可观测性智能体中的实践
 - [[entities/dify]] — 开源 LLMOps 平台（常与可观测探针集成）
 - [[entities/vllm]] — 开源大模型推理加速框架（可被探针观测）
+- [[entities/agentloop]] — 阿里云 AgentLoop 自进化平台（Agent 级全栈观测与评估）
 
 ### 标准化
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
@@ -318,10 +385,11 @@ Token 消耗、文本、图片、音频、视频等多模态内容的采集，�
 - [[references/stepfun-selectdb-pb-observability]] — 阶跃星辰 PB 级 Agent 可观测平台
 - [[references/spring-ai-otel-langfuse]] — Spring AI + OpenTelemetry + Langfuse 生产级方案
 - [[references/dify-phoenix-integration]] — Dify 平台集成 Phoenix 实战
-- [[references/aliyun-end-to-end-ai-observability]] — 阿里云端到端 AI 可观测实践
+- [[references/aliyun-end-to-end-ai-observability]] — 阿里云端到端 AI 可观测实践（含 Dify 生产优化）
 - [[references/agent-new-observability-paradigm-litefuse]] — Agent 新可观测范式
 - [[references/llm-observability-five-pillars]] — LLM 可观测性五大支柱
 - [[references/ai-customer-service-evaluation-alan]] — AI 客服评测工程实践
+- [[references/2026-07-16-infoq-deepseek-chatbot-observability]] — QCon 演讲：DeepSeek 对话机器人全栈可观测实践
 
 ## 行业标准与规范
 
@@ -435,6 +503,20 @@ Agent 可观测平台建设不要一开始就追求平台化。更务实的做�
 - **坏样本积累了，但没有统一标签**：今天"答偏了"，明天"工具乱调"，后天"知识有问题"，无法形成可统计、可回归的故障分类。建议第一版就用粗标签如 `retrieval_miss`、`stale_knowledge`、`tool_misfire`、`loop_runaway`、`unsafe_answer`、`should_handoff_but_not`。^[extracted]
 - **只盯质量，不盯成本**：准确率升了一点，但 loop 次数、token 和工具调用数一起飙升，最后无法规模化上线。任何改动都要同时过质量和成本两道门。^[extracted]
 - **敏感数据直接全量落库**：把用户原文、身份证号、合同内容、内部文档全量扔进 tracing 系统，后面一定会出合规问题。更稳妥的做法是分级存储、字段脱敏、敏感内容打标、原文按权限回看、设置保留周期。^[extracted]
+
+## 2026 年行业转向：可观测性从"可选项"变成"必选项"
+
+2026 年是大模型应用从"能不能用"进入"稳不稳定"阶段的分水岭 ^[extracted]：
+
+- **阿里云**：2026 年 7 月 30 日，正式将"LLM 应用监控"更名为"AI Agent 可观测"，入口迁至云监控 2.0 ^[extracted]
+- **LangChain 行业报告**：《2026 年 AI Agent 行业报告》显示，近 89% 的受访者已为 Agent 部署了可观测性能力 ^[extracted]
+- **IBM**：在 Think 2026 大会上正式发布 Instana GenAI Observability 升级版，助力团队从被动故障排查转型为主动合规式 AI 运行 ^[extracted]
+
+传统 APM 的两个根本失效 ^[extracted]：
+1. **监控对象变了**：传统监控关注代码路径（确定性），Agent 监控关注推理路径（非确定性）——同样的 Prompt，每次结果都可能不同
+2. **评判维度变了**：HTTP 200 ≠ 业务正确。监控面板全绿，但 Agent 可能在业务层给出了错误答案
+
+因此，可观测性在 2026 年已从技术栈的可选项变为生产部署的必选项。如果团队不能回答"上次 Prompt 改动后质量变了多少""最近一周在哪类请求上表现最差""成本上涨是哪个环节的 Token 增加了"这三个问题，说明 LLM 应用仍在裸奔。
 
 ## 开放性议题
 

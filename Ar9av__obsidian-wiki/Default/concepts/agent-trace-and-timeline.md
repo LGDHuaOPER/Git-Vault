@@ -8,6 +8,7 @@ sources:
   - "叶小钗: Agent Harness 可观测性 (2026-05-25)"
   - "SelectDB: Apache Doris 在 AgentLogsBench 中领先 (2026-07-07)"
   - "阿里云开发者: 详解大模型应用可观测全链路 (2025-03-13)"
+  - "小加号编程笔记: AI Agent 可观测性：如何记录推理、工具调用、失败与成本 (2026-07-13)"
 summary: Agent Trace 是有序的、多层级嵌套的执行链路记录，区别于传统 APM 的扁平 request-response trace。Agent Timeline 将 Trace 可视化为时间轴，支持按执行顺序回放完整推理过程。
 provenance:
   extracted: 0.55
@@ -18,7 +19,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-16
 tier: supporting
 created: 2026-07-16T00:00:00+08:00
-updated: "2026-07-22"
+updated: "2026-07-24"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: derived_from
@@ -106,7 +107,33 @@ ThinkingAgent 文章总结的四个必须追踪的维度：
 - Agent Trace 的存储成本远高于传统 Trace：每条 Trace 可能包含 MB 级文本 payload。OLAP 数据库（Doris/ClickHouse）vs 专用平台（Langfuse）的取舍尚未有定论 ^[ambiguous]
 - Timeline 可视化的交互设计仍在早期：如何在一个界面上同时展示推理逻辑、工具调用参数和 Token 成本分布 ^[inferred]
 
+## Trace Span 分类体系
+
+一次 Agent Run 应被记录为一棵多层级的 Trace 树 ^[extracted]，根节点记录任务整体信息，下面挂载各类 Span：
+
+| 层级 | 记录对象 | 关键字段 |
+|------|---------|---------|
+| Root Trace | 一次 Agent Run | `request_id`, `user_id_hash`, `session_id`, `goal`, `status`, `total_cost` |
+| Planner Span | 计划生成 | `plan_id`, `steps_count`, `selected_strategy` |
+| LLM Span | 一次模型调用 | `model`, `input_tokens`, `output_tokens`, `latency_ms`, `finish_reason` |
+| Tool Span | 一次工具调用 | `tool_name`, `args_schema`, `duration_ms`, `status`, `result_size` |
+| Memory Span | 记忆检索或写入 | `query`, `top_k`, `hit_ids`, `scores` |
+| RAG Span | 检索增强 | `retriever`, `document_ids`, `scores`, `rerank_model` |
+| Eval Span | 质量评估 | `score`, `label`, `judge_model`, `failure_reason` |
+
+两个核心原则 ^[extracted]：(1) **不要只记录最终答案**——最终答案是结果，不是过程，真正能帮你 debug 的是每一步看到了什么、选择了什么；(2) **不要把所有内容都明文记录**——用户隐私、完整 Prompt、完整工具返回可能包含敏感信息，可记录 hash、摘要、字段 schema、脱敏片段、引用 ID。
+
+### 推理记录策略
+
+不推荐记录完整思维链（CoT），而应记录**可审计的决策摘要** ^[extracted]：
+
+- ✅ 记录：`{step: "select_tool", decision: "call_order_status_tool", reason_summary: "...", confidence: 0.78}`
+- ❌ 不记录：`{chain_of_thought: "非常长的逐字推理过程..."}`
+
+原因：安全（链式推理可能泄露系统提示）、噪声（长文本难以稳定分析）、成本（存储查询成本高）、可用性（工程排查更需要"决策点+依据摘要+输入输出 ID"）。
+
 ## Related
 
 - [[entities/ai-observe-stack]] — Agent Trace 数据的存储和检索基础设施
 - [[entities/openclaw]] — OpenClaw 的 Timeline 回放需求是 Agent Trace 的典型应用场景
+- [[concepts/llm-gpu-observability]] — LLM 推理层的 GPU 级观测

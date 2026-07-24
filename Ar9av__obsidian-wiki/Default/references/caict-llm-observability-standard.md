@@ -10,6 +10,7 @@ sources:
   - "云计算开源产业联盟: 重磅！中国信通院联合发布《面向LLM应用的可观测性能力要求》，助力AI+应用高质量发展 (2025-07-31)"
   - "塞讯科技: 塞讯科技参编，信通院《面向LLM应用的可观测性能力要求》正式发布！ (2025-07-22)"
   - "InfoQ: 塞讯科技参编，信通院《面向LLM应用的可观测性能力要求》正式发布 (2025-07-22)"
+  - "InfoQ写作社区: 塞讯科技参编，信通院《面向LLM应用的可观测性能力要求》正式发布 (2025-07-22)"
 summary: 中国信息通信研究院联合阿里云、华为云、腾讯云、百度等 29 家单位发布的国内首个面向 LLM 应用的可观测性能力分级标准，以数据采集、建模、存储、应用为主线，规范了基础设施层、中间件层、模型层、模型服务层和应用层的可观测能力要求。
 base_confidence: 0.85
 lifecycle: draft
@@ -20,7 +21,7 @@ provenance:
   inferred: 0.1
   ambiguous: 0.0
 created: "2026-07-22"
-updated: "2026-07-22"
+updated: "2026-07-25"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: related_to
@@ -127,3 +128,7 @@ relationships:
 - [[concepts/ai-agent-observability]] — AI Agent 可观测性整体概念
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
 - [[references/opentelemetry-genai-agent-setup]] — OTel 在 Agent 场景中的实战配置
+
+## 参编单位产品
+
+**塞讯科技 Lighthouse**：塞讯科技打造的全栈可观测平台，提供 LLM 调用链追踪、Prompt 管理、Token 分析、大模型评估等核心能力，帮助团队构建更可靠的大模型系统。是 CAICT 标准的参编方之一。^[extracted]

@@ -287,6 +287,45 @@ eval_results = run_evals(
 - **告警与自动化**：结合 Prometheus + Grafana 构建基于 Phoenix 指标的告警体系
 - **与 CI/CD 集成**：在部署流水线中集成 Phoenix 评估，实现 Prompt 变更的自动化回归测试
 
+## 实战案例：构建可观测的 RAG 智能客服（6 步流程）
+
+### 1. 场景设计
+用户输入 → 知识库检索 → Prompt 组装 → LLM 生成回答 → 内容审核 → 返回结果
+
+### 2. Trace 分析关键指标
+- 知识库检索召回质量（相关性分数）
+- LLM Token 消耗和延迟
+- 内容审核拦截率
+- 端到端响应时间
+
+### 3. RAG 客服完整 Trace
+```
+📋 workflow_rag_customer_service (5.2s, 2048 tokens)
+├── 🔍 dataset_retrieval (1.1s)
+│   ├── Query: "如何退换货？"
+│   ├── Retrieved: 3 docs, Top Score: 0.95
+├── 🤖 llm_generate_answer (3.5s, 1856 tokens)
+│   ├── Model: gpt-4, Input: 1024, Output: 832
+├── ✅ moderation (0.4s, Flagged: false)
+└── 📤 response (0.2s)
+```
+
+### 4. 性能瓶颈识别
+- LLM 调用耗时占比最大（约 67%）：考虑更快的模型（如 gpt-4o-mini）或优化 Prompt
+- 知识库检索偶尔超时：检查向量数据库索引配置
+- 检索相关性分数偏低：使用 **Phoenix Span Replay** 重放 LLM 调用过程、修改 Prompt 对比输出效果
+
+### 5. Span Replay 调试
+无需重新发起完整请求即可快速验证 Prompt 修改效果：在 Traces 中找回答质量不佳的请求 → 点击 LLM Span → 使用 Span Replay 修改 Prompt 或模型参数 → 对比修改前后输出。
+
+### 6. 运维状态验证
+```
+docker compose port phoenix 4317        # 确认 OTLP 端口
+curl -v http://localhost:6006/healthz   # 验证 Phoenix 健康
+docker compose logs -f phoenix          # 实时跟踪日志
+```
+正常影响：启用 Phoenix 对 Dify 性能影响应在 5% 以内 ^[extracted]。
+
 ## 相关页面
 
 - [[concepts/ai-agent-observability]] — AI Agent 可观测性整体概念

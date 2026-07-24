@@ -85,10 +85,32 @@ OpenTelemetry 自 2024 年初推动 GenAI Semantic Conventions，目标是为 Mo
 
 案例显示，该能力帮助定位慢 Token 的根因为其他租户请求的 prefill 中断了当前 decode，以及通过 BOS Token 异常定位"答非所问"问题。
 
-## GenAI Utils 工程化能力层
+### 引擎并发分析案例 ^[extracted]
 
-为降低各框架插桩库重复实现遥测逻辑的成本，LoongSuite 在探针中实现了 **GenAI Utils**：
+Token 分析可进一步关联到**引擎并发剖析**，实现从"哪个 Token 慢"到"为什么慢"的因果闭环：
 
+1. 通过 Token 分析页面发现某请求的 decode 阶段被中断 6s+（对应第 125 个 Token 生成异常慢）
+2. 点击右上角"引擎并发分析"跳转到对应引擎实例的并发剖析页面
+3. 发现根因：**其他租户的请求 prefill 中断了当前请求的 decode 过程**
+4. 解决方案建议：做 Prefill-Decode (PD) 分离部署，避免跨请求干扰
+
+### BOS Token 异常检测案例 ^[extracted]
+
+另一个典型案例：某次模型输出"答非所问"——用户的 Prompt 和模型回答完全不相关。
+
+- 通过 Token 分析页面发现生成的第一个 Token 是 `begin_of_sentence` (BOS)
+- BOS 是用于分割两个不相关语料的特殊 Token——一旦出现，后续回答与 Prompt 无关联
+- **关键**：BOS 在用户回复、引擎日志、网关日志中均显示为空串，没有 Token 级分析几乎无法定位
+
+## GenAI Utils 三步编程模型 ^[extracted]
+
+LoongSuite 在探针中实现了 GenAI Utils 工程化能力层，采用三步编程模型让插桩开发者无需直接操作 OTel API：
+
+1. **获取 Handler 单例**：`handler = ExtendedTelemetryHandler.get_instance()`
+2. **选择对应 Invocation 数据类，填充业务数据**：如 `LlmInvocation(model="gpt-4o", messages=[...], tokens=150)` 
+3. **使用 Context Manager 完成遥测输出**：`with handler.trace(invocation) as span: ...`
+
+**设计价值**：
 - 插桩层只做数据提取，不直接操作 OTel API
 - ExtendedTelemetryHandler 统一收口 Span 创建、属性挂载、Metrics 记录、Event 发送、Context 管理
 - 语义规范升级时只改 Utils 一处，所有下游插桩库自动生效

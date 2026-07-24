@@ -14,12 +14,12 @@ provenance:
   extracted: 0.72
   inferred: 0.23
   ambiguous: 0.05
-base_confidence: 0.55
+base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-07-22
 tier: supporting
 created: 2026-07-22T00:00:00+08:00
-updated: "2026-07-22"
+updated: "2026-07-24"
 relationships:
   - target: "[[entities/loongsuite-platform]]"
     type: related_to
@@ -89,6 +89,50 @@ AI Coding Agent 多为第三方闭源产品，无法修改运行时。Pilot 抽�
 | Codex | 会话启动、用户提问、工具调用前后、任务完成 |
 | Cursor | 12 种事件，覆盖会话生命周期、工具调用、提问、子 Agent |
 | Qoder / Qoder Work | Hook 日志 + IDE 历史记录 + 数据库 + 会话文件多路并行采集 |
+
+## AgentActivityEntry OTel Trace 输出示例
+
+Pilot 将所有 Agent 原始数据归一化为统一的 OTel 格式 ^[extracted]：
+
+```json
+{
+  "event.name": "tool.call",
+  "gen_ai.agent.type": "claude-code",
+  "gen_ai.session.id": "8e06a611-d9ae-4c43-b03d-a285e8bda3ab",
+  "gen_ai.turn.id": "...:t1",
+  "gen_ai.step.id": "...:t1:s3",
+  "gen_ai.tool.name": "Bash",
+  "gen_ai.tool.call.id": "toolu_vrtx_0115QdGCWqoQ4Mnj6aKwcEuy",
+  "gen_ai.tool.call.parameters": "{\"command\":\"ls -la\"}",
+  "trace_id": "09f11db9fca4348e70ad34aa620e810c"
+}
+```
+
+保留完整的 `session → turn → step → response/tool_call` 层级结构，支持通过 SQL 按用户/Agent类型/模型/Token量多维聚合查询。
+
+## 多 Agent 横向对比发现 ^[extracted]
+
+基于 Pilot 统一 Schema 采集的生产数据，阿里云团队对三种主流 AI Coding Agent 做了横向对比：
+
+| 维度 | Claude Code | Cursor | Qoder |
+|------|------------|--------|-------|
+| 总耗时 | **最短** — LLM 单轮推理最快 | 最长 — 深度思考模式 | 居中 |
+| 工具调用风格 | Bash 为主，精确定位后一次写出 | Shell+Read+Grep+Write，搜索-阅读-理解-编写四步流 | API 轻量级（Glob/Read），时间几乎全花在推理 |
+| LLM 调用次数 | 中等 | **最少** — 但单轮时间最长 | **最多** — "小步快跑"风格 |
+| Token 消耗 | 中等 | 最高 — 输出 Token 最多，代码更详尽 | **最低** — 上下文管理最紧凑 |
+| 自我修正特征 | 较少 | 每 12 轮中有 2 轮自我回退重写（~15% Token） | 频繁迭代 |
+
+> 没有普适的最优解 — 每个团队应基于自己的实际数据找到"甜蜜区"：代码质量优先选 Cursor，速度优先选 Claude Code，成本敏感选 Qoder。^[inferred]
+
+## 一键安装
+
+```bash
+curl -fsSL https://loongcollector-community-edition.oss-cn-shanghai.aliyuncs.com/loongsuite-pilot/installer.sh \
+  | bash -s -- install --sls-endpoint "https://cn-xx.log.aliyuncs.com" \
+  --sls-project "my-project" --sls-logstore "my-logstore"
+```
+
+安装后自动下载最新版本、部署到 `~/.loongsuite-pilot/`、安装 Hook 脚本并启动后台进程，即刻开始扫描 AI Coding Agent。^[extracted]
 
 ## 数据驱动的四个关键问题
 

@@ -30,9 +30,10 @@ collections:
     context:
       "": 基于 `Ar9av/obsidian-wiki` 工具创建的 `Default` Vault 的知识库
   Default__papers:
-    path: D:\Users\HuaFEEng\Documents\GitHub\Git-Vault_WeChat\Clippings
+    path: D:\Users\HuaFEEng\Documents\GitHub\Git-Vault_WeChat
     pattern: "**/*.md"
     ignore: # glob patterns to exclude from indexing
       - ".obsidian/**"
+      - "**/Inbox/**"
     context:
       "": 基于 `Ar9av/obsidian-wiki` 工具创建的 `Default` Vault 的原始资料

@@ -16,8 +16,9 @@ sources:
   - "小加号编程笔记: AI Agent 可观测性：如何记录推理、工具调用、失败与成本 (2026-07-13)"
   - "阿里云可观测: AI 原生应用全栈可观测实践：以 DeepSeek 对话机器人为例"
   - "阿里云开发者: 阿里巴巴 & 蚂蚁 LoongSuite GenAI 可观测语义规范 (2026-05-12)"
-summary: "Agent Run 的 Trace/Span 结构设计：树状层次模型、SpanKind 映射规则、推理过程与工具调用的记录策略、以及 Attribute vs Event 的正确使用边界。"
-base_confidence: 0.67
+  - "阿里云云原生: LLM 应用可观测性：从 Trace 视角展开的探索与实践之旅 (2024-07-24)"
+summary: "Agent Run 的 Trace/Span 结构设计：树状层次模型、SpanKind 映射规则、阿里云 8 种 LLM Span Kind 分类体系、推理过程与工具调用的记录策略、以及 Attribute vs Event 的正确使用边界。"
+base_confidence: 0.70
 lifecycle: draft
 lifecycle_changed: "2026-07-16"
 tier: supporting
@@ -26,7 +27,7 @@ provenance:
   inferred: 0.3
   ambiguous: 0.1
 created: 2026-07-16
-updated: "2026-07-22"
+updated: "2026-07-24"
 ---
 
 # Agent Trace and Span Taxonomy
@@ -99,9 +100,41 @@ Agent 的推理链（Chain-of-Thought）是否应该作为 Span 记录？
 
 工具调用失败的 Span 不应简单标记为 ERROR，而应按 [[agent-failure-taxonomy]] 中的分类体系记录具体失败类型。
 
+## 阿里云 LLM Span Kind 分类体系
+
+阿里云 ARMS 在 2024 年提出了面向 LLM 应用的领域化 Trace 语义，定义了 8 种核心操作类型（LLM Span Kind），以会话串联用户交互、以 Trace 承载全链路节点 ^[extracted]：
+
+| Span Kind | 含义 | 典型场景 |
+|-----------|------|----------|
+| **CHAIN** | 静态流程编排 | LangChain SequentialChain、Dify Workflow 中的编排节点，可嵌套包含 Retrieval、Embedding、LLM 调用等子 Span |
+| **EMBEDDING** | 文本嵌入处理 | 对文本嵌入模型的操作，用于向量化查询文本或文档分片，支持后续相似度检索 |
+| **RETRIEVER** | RAG 检索 | 从向量数据库获取补充上下文，提升 LLM 响应准确性。记录 document chunk 内容及相关度评分 |
+| **RERANKER** | 文档重排序 | 对多个候选文档结合提问内容判断相关性并排序，返回 TopK 文档作为 LLM 上下文 |
+| **TASK** | 自定义内部方法 | 本地 function 调用等应用自定义逻辑，如数据预处理、格式转换等非 LLM/工具操作 |
+| **LLM** | 大模型调用 | 基于 SDK 或 OpenAPI 请求不同大模型进行推理或文本生成。记录 Prompt、模型请求参数、响应、Token 消耗 |
+| **TOOL** | 外部工具调用 | 调用计算器、搜索 API、天气 API 等外部工具以获取实时信息。记录工具名称、入参、返回结果、耗时 |
+| **AGENT** | 智能体动态编排 | 基于模型推理结果决策下一步执行的动态编排场景，可能涉及多轮 LLM + Tool 的循环调用 |
+
+### 与 OTel GenAI 语义的对应关系
+
+| 阿里云 Span Kind | OTel GenAI Span Kind（v1.41） | 说明 |
+|------------------|------------------------------|------|
+| CHAIN | —（框架层抽象） | OTel 不使用 CHAIN，而是依赖嵌套 Span 结构表达编排 |
+| EMBEDDING | `gen_ai.embeddings` | OTel 通过 `gen_ai.operation.name = "embeddings"` 标识 |
+| RETRIEVER | `retrieve` / `gen_ai.retrieval` | OTel v1.41 覆盖 RAG pipeline 中的检索步骤 |
+| RERANKER | —（未有独立约定） | 阿里云将其独立为一种操作类型 |
+| TASK | —（应用层自定义） | 应用层自定义 Span，无 GenAI 特定语义 |
+| LLM | `gen_ai.chat` / `gen_ai.text_completion` | 对应 OTel Client Span（Layer 1） |
+| TOOL | `execute_tool` (INTERNAL) | OTel v1.41 起工具名必须出现在 span 名中 |
+| AGENT | `invoke_agent` (CLIENT/INTERNAL) | OTel 的 Agent 与 Workflow Span（Layer 2） |
+
+阿里云的分类比 OTel GenAI 更早地引入了 RERANKER 和 TASK 等操作类型，反映了一种"从实际工程场景出发定义语义"而非"从协议规范出发"的思路 ^[inferred]。这一分类已被阿里云 ARMS Python Agent 完整实现，开发者可通过 `aliyun-instrumentation-llama-index` 等 SDK 自动接入。
+
 ## 相关页面
 
-- [[agent-observability-fundamentals]] — [[concepts/ai-agent-observability|Agent 可观测性]]基础概念
-- [[agent-failure-taxonomy]] — Agent 失败分类
-- [[agent-cost-breakdown]] — 成本观测
-- [[opentelemetry-genai-agent-setup]] — OTel SDK 实际配置
+- [[concepts/ai-agent-observability]] — Agent 可观测性基础概念
+- [[concepts/genai-observability-semconv]] — OTel GenAI 语义规范（标准层）
+- [[concepts/agent-failure-taxonomy]] — Agent 失败分类
+- [[concepts/agent-cost-breakdown]] — 成本观测
+- [[references/opentelemetry-genai-agent-setup]] — OTel SDK 实际配置
+- [[references/aliyun-end-to-end-ai-observability]] — 阿里云端到端 AI 可观测实践

@@ -1,11 +1,11 @@
 ---
 title: Wiki Index
-updated: 2026-07-23T00:00:00.000Z
+updated: 2026-07-24T21:30:00.000Z
 ---
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-07-23T00:00:00.000Z*
+*This index is automatically maintained. Last updated: 2026-07-25T14:00:00.000Z*
 
 ## Concepts
 
@@ -31,7 +31,9 @@ updated: 2026-07-23T00:00:00.000Z
 - [[concepts/genai-observability-2.0]] — 面向 LLM 和 AI Agent 的新一代可观测范式，在传统 APM 之外新增成本、安全、质量三大支柱，解决
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI Semantic Conventions 是 OTel 社区为生成式 AI 场景制定的可观测数据采集标准，2026 年 5 月随 OTel CNCF 毕业进入稳定期。定义了 Model、Prompt、Token、Tool Calling、Agent、Session 等概念的统一字段命名和数据模型。中国社区（阿里/蚂蚁）在此基础上提出了 Entry/Step Span、Skill 语义、Token 级推理观测三项扩展。
 - [[concepts/llm-as-judge-evaluation]] — LLM-as-Judge 评估方法论：用 LLM 作为评判器对 Agent 输出进行自动化质量评估，涵盖忠实度、相关性、安全性等维度，以及三级评估体系（自动化/半自动/人工）。
+- [[concepts/llm-gpu-observability]] — LLM 推理场景下的 GPU 级监控——从传统请求数监控转向 Token 维度（TTFT/TPOT/Token 吞吐量），覆盖 vLLM 指标采集、NVIDIA DCGM/AMD ROCm/Intel XPU 三厂商 GPU 监控工具链，以及模型质量与安全护栏的联合观测。
 - [[concepts/llm-observability-tool-selection]] — 基于 LangSmith、Langfuse、Arize Phoenix、Datadog、Lunary、TruLens、Helicone 七款主流 LLM 可观测性平台的能力差异与适用场景，建立按现有技术栈、数据要求和当前痛点三维度选型的决策框架。
+- [[concepts/observability-1-5-10-framework]] — 阿里云提出的企业级 SLO 驱动可观测框架：1 分钟发现问题、5 分钟定位根因、10 分钟恢复服务，通过日志标准化、监控告警、分析诊断三层能力逐级建设。
 - [[concepts/observability-3-0]] — 可观测性的第三代演进，从“还活着吗”到“为什么答错了、怎么改、改完会不会更好”，将 Trace/Metric/Log/Prompt/Score/Dataset/Experiment 纳入统一底座。
 - [[concepts/rag-observability]] — RAG 可观测性将检索层作为独立观测对象——覆盖检索输入、召回结果、重排结果、引用片段四个信号层，以及 Context Precision、Faithfulness、Answer Relevance 三个 RAGAS 核心指标。RAG 质量是生产环境中最常被低估的故障源。
 - [[concepts/umodel]] — 阿里云云监控 AI Agent 可观测产品的统一建模体系，将基础设施、AI 服务、AI 资产等实体默认关联，实现全域数据无缝关联。
@@ -39,6 +41,7 @@ updated: 2026-07-23T00:00:00.000Z
 ## Entities
 
 - [[entities/acs-agent-sandbox]] — 阿里云容器服务推出的 AI Agent 运行沙箱环境，基于 Kubernetes 提供安全、隔离、可扩展的 Agent 运行平台。
+- [[entities/agentloop]] — 阿里云 AgentLoop 自进化平台：Agent 全栈观测与审计、Agent-as-a-Judge 评估、Trace2Dataset 数据飞轮、记忆与经验库，兼容主流 Agent 框架和运行时。
 - [[entities/agenttrace]] — UC Berkeley 提出的 LLM Agent 三层结构化追踪框架——操作面（做了什么）、认知面（为什么这样做）、上下文面（与外部世界的交互）——统一为一个共享信封 Schema。
 - [[entities/ai-observe-stack]] — AI Observe Stack 是基于 Apache Doris / SelectDB 构建的开源 AI Agent 可观测平台，通过 OpenTelemetry Collector + Doris + Grafana 提供 Traces/Metrics/Logs 三合一能力，5 分钟可完成部署。
 - [[entities/alicloud-cloudmonitor-ai-agent-observability]] — 阿里云云监控 2026 年发布的 AI Agent 可观测产品，定位为企业生产级 Agent 首选全域观测平台，采用四层架构覆盖接入/数据/分析/应用。
@@ -112,6 +115,7 @@ updated: 2026-07-23T00:00:00.000Z
 - [[references/aliyun-python-probe-llm]] — 阿里云 2024 年 11 月推出 Python 探针，面向 Langchain、Llama-index、Dify、PromptFlow、OpenAI、Dashscope 等 Python LLM 应用提供零代码改造的可观测接入。
 - [[references/apache-doris-agentlogsbench-leadership]] — 2026 年 5 月 AgentLogsBench 结果显示 Apache Doris 在面向 Agent 可观测的混合负载 benchmark 中以 1.28 倍 slowdown 领先，支撑短语搜索、动态 JSON 过滤、trace 回放和实时看板刷新。
 - [[references/caict-llm-observability-standard]] — 中国信息通信研究院联合阿里云、华为云、腾讯云、百度等 29 家单位发布的国内首个面向 LLM 应用的可观测性能力分级标准，以数据采集、建模、存储、应用为主线，规范了基础设施层、中间件层、模型层、模型服务层和应用层的可观测能力要求。
+- [[references/llm-observability-us-china-divergence]] — 中美 LLM 可观测性市场的结构性差异：美国十亿美金成熟市场 vs 中国"自建 Langfuse + 2 OPS"的现实。分析 SaaS 付费文化、IT 标准化、自研外购激励结构等深层土壤问题。
 - [[references/datadog-llm-observability]] — Datadog 知识中心对 LLM 可观测性的定义：覆盖输入输出监控、请求链路追踪、延迟与 Token 追踪，以及幻觉、成本超支、安全漏洞等问题的提前发现。
 - [[references/deepflow-automq-greptimedb-meetup]] — 2026 年 4 月上海 Meetup 回顾，DeepFlow、AutoMQ、GreptimeDB 三家公司分别从 eBPF 零侵扰采集、Diskless Kafka 传输、统一存储与 LLM 分析三个层面讨论下一代可观测数据栈的工程实践。
 - [[references/dify-phoenix-integration]] — Dify 低代码平台通过内置 OpsTrace 事件机制与 Arize Phoenix 集成，以 OpenTelemetry 标准格式将 Workflow/Agent 执行过程中的 LLM 调用、工具调用、知识库检索等关键节点信息发送至 Phoenix，实现全链路可观测。
@@ -127,4 +131,11 @@ updated: 2026-07-23T00:00:00.000Z
 - [[references/opentelemetry-signoz-llm-observability]] — 使用 OpenTelemetry 与 SigNoz 为 LangChain 应用构建开源 LLM 可观测性栈，支持手动插桩和 OpenLLMetry 自动插桩，并提供成本与性能监控仪表板。
 - [[references/spring-ai-otel-langfuse]] — 基于 Spring AI + OpenTelemetry + 自托管 Langfuse 的生产级 LLM 应用可观测方案，通过 OTLP 将 LLM 调用封装为 Trace/Span 导出到 Langfuse，实现 Prompt、Token、延迟、成本和错误的统一观测。
 - [[references/stepfun-selectdb-pb-observability]] — 阶跃星辰（StepFun）基于 SelectDB（Apache Doris）构建 PB 级 Agent 可观测平台 StepTrace 的架构实践，包括 Agent Trace 数据模型、检索分析、成本治理、评测闭环和基础设施关联六大能力要求。
+
+## Projects
+
+- [[projects/aliyun-agentloop/agentloop]] — 阿里云 AgentLoop 一站式 Agent 自进化平台，提供 Agent 全栈观测与审计、评估与实验、资产管理与持续优化。含 4 页精简参考：API 参考（75+ 端点）、集成指南（8 种框架）、产品功能详解。
+  - [[projects/aliyun-agentloop/references/agentloop-api-reference]] — AgentLoop REST API v2026-05-20 完整参考：上下文库/实验/Pipeline/数据集/AgentSpace/评估任务/评估器共 7 大领域 75+ 端点
+  - [[projects/aliyun-agentloop/references/agentloop-integration-guide]] — AgentLoop 集成指南：QuickStart 全流程 + 8 种框架接入（AgentScope/Dify/Hermes/LangChain/OpenClaw/AI Coding Agent/通用 AI Agent）
+  - [[projects/aliyun-agentloop/references/agentloop-product-features]] — AgentLoop 产品功能详解：AI Agent 可观测、审计、评估/实验、Agent 资产、经验库、数据中心
 

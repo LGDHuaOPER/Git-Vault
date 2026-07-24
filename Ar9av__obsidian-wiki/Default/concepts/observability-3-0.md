@@ -4,6 +4,7 @@ category: concepts
 tags: [observability, llm, agent, evolution, paradigm]
 sources:
   - "OpenObserve: LLM 可观测 vs 传统可观测：到底有什么不同？ (2026-05-18)"
+  - "云上架构: 生产级可观测平台建设：基于 OpenTelemetry 打通 Trace、Metric 与 Log (2026-05-23)"
 summary: 可观测性的第三代演进，从“还活着吗”到“为什么答错了、怎么改、改完会不会更好”，将 Trace/Metric/Log/Prompt/Score/Dataset/Experiment 纳入统一底座。
 provenance:
   extracted: 0.72
@@ -14,7 +15,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-22
 tier: supporting
 created: 2026-07-22T00:00:00+08:00
-updated: "2026-07-22"
+updated: "2026-07-25"
 relationships:
   - target: "[[concepts/ai-agent-observability]]"
     type: extends
@@ -62,6 +63,19 @@ Observability 3.0 在传统 Metric / Log / Trace 之上，引入 LLM 应用特�
 - **Dataset**：把 bad case 沉淀为回归测试集
 - **Experiment**：新 Prompt / 模型在 Dataset 上跑分对比，是 LLM 时代的统计学灰度发布
 - **Playground**：工程师快速试错多个 Prompt 变体的对比台
+
+## 从 2.0 到 3.0：三信号关联是地基
+
+Observability 3.0 的前提是 2.0 时代的三个信号已经通过 `trace_id`、`span_id`、`service.name` 等维度统一起来。经典的反面案例 ^[extracted]：
+
+某支付接口 P99 延迟从 80ms 升到 3.2s，错误率无明显升高：
+- **Prometheus + Grafana** 显示 CPU/内存/QPS 正常，只能说明"慢了"，不能直接说明"哪里慢"
+- **ELK / Loki** 无 ERROR 日志，只能说明"没报错"，不能说明"没异常"
+- **Jaeger / Tempo** 显示 Redis、线程池、DB 都有波动，但 Trace 与指标、日志割裂
+
+最终根因是支付服务内部线程池队列堆积——拒绝策略没有触发 ERROR，请求只是在队列中长时间等待。三类信号如果没有通过统一维度关联，排障仍是人工拼图。
+
+这个案例揭示了 Observability 2.0 的完成态——Metric 告诉你慢了，Trace 告诉你经过了哪些节点，Log 告诉你业务逻辑发生了什么，**三者通过统一维度打通**——才是 3.0 跃迁的基础。
 
 ## 统一底座的必要性
 

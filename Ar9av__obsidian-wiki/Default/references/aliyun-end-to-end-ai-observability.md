@@ -19,7 +19,7 @@ provenance:
   inferred: 0.20
   ambiguous: 0.05
 created: "2026-07-22"
-updated: "2026-07-22"
+updated: "2026-07-25"
 relationships:
   - target: "[[entities/loongsuite-platform]]"
     type: related_to
@@ -73,9 +73,76 @@ AI 应用内部对 RAG、工具使用、模型调用等关键节点埋点；模�
 
 使用 MCP 工具的 Agent 可能最终输出 1000 Token，但背后调用几十次模型、大量 MCP Tools，实际消耗上万个 Token。中间每次调用都把历史对话和工具结果作为 input 再发给大模型，Token 消耗不断叠加。因此需要采集每个 MCP Tool 的调用耗时和 Token 消耗 ^[extracted]。
 
+## Dify 生产环境优化实践
+
+阿里云在实践中发现 [[entities/dify|Dify]] 在生产环境存在多个架构层面问题 ^[extracted]：
+
+| 问题 | 表现 | 建议 |
+|------|------|------|
+| **Nginx 上传限制** | RAG 文档上传超过默认 Nginx body size 限制 | 调大 `NGINX_CLIENT_MAX_BODY_SIZE` |
+| **PGSQL 连接池打满** | Dify workflow 每个请求保持一个 DB 连接，默认连接池过小导致业务卡住 | 调大 PGSQL 连接池至 300+ |
+| **Redis 轮询过度** | Dify 通过 Redis 管理任务状态，一次 workflow 请求可能访问上千次 Redis（轮询任务状态直到结束），本质上应使用消息队列 | 大规模场景用 RocketMQ 替换 Redis 作为消息队列 |
+| **gevent 协程挂死** | 挂载开源 OTel 探针时，gevent 模式导致进程 hang 住，业务无法运行 | 使用阿里云探针（已修复 gevent 兼容性） |
+| **内置存储可靠性** | Dify 默认本地存储和内置向量数据库在高可用性和稳定性上存在问题 | 替换为云存储和第三方向量数据库 |
+| **可观测数据孤立** | Dify 原生可观测需每个应用单独配置，数据存 PGSQL 查询效率低，无法与外部微服务串联 | 使用 OpenTelemetry 探针统一采集，支持多应用拆分、端到端串联 |
+
+^[extracted]
+
+## TTFT 与 TPOT 深度解析
+
+模型推理的两个核心阶段及其关键指标 ^[extracted]：
+
+### Prefill 阶段（TTFT）
+
+从提示词输入 → tokenize → 计算 Token 间相似度 → 结果保存到 KV Cache → 模型吐出第一个 Token。**TTFT（Time to First Token）** 衡量此阶段耗时，是推理效率的核心指标。^[extracted]
+
+### Decode 阶段（TPOT）
+
+从第二个 Token 开始，每个新 Token 都需将过去生成结果作为输入重新喂给模型计算下一个 Token——这是一个不断迭代的过程。**TPOT（Time Per Output Token）** 衡量每个 Token 的平均生成间隔。^[extracted]
+
+总推理耗时 ≈ `TTFT + TPOT × (总Token数 - 1)` ^[inferred]
+
+### 在线 vs 离线场景的权衡
+
+三个关键指标（TTFT、TPOT、吞吐率）无法同时最优 ^[extracted]：
+- **在线推理**：优先关注更快的 TTFT 和 TPOT
+- **离线分析**：优先追求更高的吞吐率，TTFT 反而没那么关注
+
+## vLLM 推理性能定位实战
+
+一个通过全链路可观测定位 DeepSeek 模型推理超时的真实案例 ^[extracted]：
+
+1. 通过全链路追踪分析调用链，定位到问题在模型推理层而非应用层
+2. 观察模型侧黄金指标：TTFT 正常（排除 Prefill 阶段问题），TPOT 正常（排除 Decode 阶段问题）
+3. 进一步检查推理引擎排队情况 → 确认是请求队列大小不足导致排队耗时升高
+4. 解决：调大推理引擎请求队列大小配置
+
+> 这个案例展示了"端到端串接 + 推理层指标分层下钻"的排障方法论：先做层间定界，再做层内细分。^[extracted]
+
+## MCP Token 黑洞机制
+
+使用 MCP 工具的 Agent 面临 **Token 黑洞**问题——最终输出可能只消耗 1,000 Token，但背后调用几十次模型和大量 MCP Tools，实际消耗数万 Token。每次与模型对话时，历史对话和 MCP Tools 调用结果都作为 input 堆积给大模型，Token 消耗不断叠加。^[extracted]
+
+因此需要采集每个 MCP Tool 的调用耗时和 Token 消耗，将 MCP 的"隐形开销"显性化。^[extracted]
+
+## 模型质量评估管道
+
+基于采集的模型 input/output 数据进行评估 ^[extracted]：
+
+1. 将模型 input/output 全量采集到日志平台
+2. 筛选目标记录，通过数据加工引用外部裁判员模型
+3. 使用内置评估模板（质量检测/安全检测/意图提取）进行打分
+4. 对评估结果进行**分类和聚类**——语义化标签孵化（如"友善回答""文化类问题"）
+5. 未来支持自定义评估模板（如幻觉检测、MCP 投毒攻击检测）
+
+^[extracted]
+
 ## 相关页面
 
+- [[entities/agentloop]] — 阿里云 AgentLoop 自进化平台（同体系产品）
 - [[entities/loongsuite-platform]] — 阿里云 LoongSuite 可观测产品体系
+- [[entities/dify]] — Dify 开源 LLMOps 平台
+- [[entities/vllm]] — vLLM 推理加速框架
 - [[concepts/ai-agent-observability]] — Agent 可观测性整体概念
 - [[concepts/genai-observability-semconv]] — OpenTelemetry GenAI 语义规范
 - [[references/aliyun-python-probe-llm]] — 阿里云 Python 应用可观测：解决 LLM 落地最后一公里

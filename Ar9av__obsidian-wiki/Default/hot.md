@@ -1,50 +1,38 @@
 ---
 title: Hot Cache
-updated: 2026-07-23T16:30:00.000Z
+updated: 2026-07-25T15:45:00.000Z
 ---
 
 # Hot Cache
 
 ## Recent Activity
 
-- [2026-07-23] CROSS_LINK — Rescued all 21 orphan pages (0 incoming content links → ≥1 each, 79 incoming links total) and connected the fragmented 5-page #observability cluster (cohesion 0 → fully inter-linked). 45 wikilinks added across 21 pages with 44 typed relationships. Fixed a malformed wikilink in concepts/observability-3-0 pointing to references/2026-05-18-openobserve-llm-vs-traditional-observability.
-- [2026-07-23] WIKI_SYNTHESIZE — Synthesized 5 cross-cutting pages from the #ai-agent cluster (67 pages, 69 co-occurrence pairs): GenAI SemConv × Langfuse (standard vs product), AI Agent Observability × Langfuse (theory vs implementation), AI Agent Observability × Dify (observability vs abstraction), LLM-as-Judge × Langfuse (evaluation-observability loop), AI Agent Observability × Arize Phoenix (general vs RAG-specialized). Back-linked from 6 source pages. 15 candidates skipped for future runs.
-- [2026-07-22] CROSS_LINK — Cross-linked 96 mentions across 54 pages; 0 orphans remain. Connected newly ingested WeChat article pages to existing concepts/entities via inline wikilinks and typed relationships.
-
+- [2026-07-25] CROSS_LINK — Cross-linked 9 mentions across 7 pages from today's ingest. Key connections: Dify↔1-5-10-framework, Litefuse↔US-China-divergence, UModel/Dify/OpenClaw↔AgentLoop entity, LLM-as-Judge↔GPU-observability, AgentLoop sub-pages↔project root. 11 typed relationships written. 0 orphans.
+- [2026-07-25] INGEST batch-6 — 15 articles distilled (4 standalone + 11 AgentLoop). Created: entities/agentloop (Agent self-evolution platform: Agent-as-a-Judge, Trace2Dataset, Memory/Experience). Updated: references/aliyun-end-to-end-ai-observability (Dify 6 production issues, TTFT/TPOT Prefill/Decode, vLLM inference debugging, MCP Token黑洞, evaluation pipeline), references/2026-07-16-infoq-deepseek-chatbot-observability (Dify obs gaps + Problem Insights). 338 total sources.
+- [2026-07-24] PROJECT_CONSOLIDATION — 129 Alibaba Cloud AgentLoop official docs consolidated into 4 project pages under projects/aliyun-agentloop/. Pages: agentloop.md (overview), references/agentloop-api-reference.md (75+ endpoints across 7 domains), references/agentloop-integration-guide.md (8 framework integrations), references/agentloop-product-features.md (full feature catalog). Cross-linked to ai-agent-observability, alicloud-cloudmonitor, loongsuite-platform, agent-data-flywheel, agent-evaluation-framework, genai-observability-semconv.
 
 ## Active Threads
 
-- **AI Agent Observability** — 106 pages across 5 categories (now includes synthesis/). Comprehensive coverage spans data collection (3-layer architecture), trace/span design, evaluation (offline + online + data flywheel + causal attribution + LLM-as-Judge), production engineering, platform comparisons, industry standards (CAICT), and OTel GenAI six-layer architecture. 5 synthesis pages now connect cross-cutting themes: standard-vs-product, theory-vs-implementation, observability-vs-abstraction, evaluation-observability loop, general-vs-RAG-specialized.
-- **Synthesis gaps** — 15 co-occurrence pairs identified but not yet synthesized. Top skipped: GenAI SemConv × Dify, LLM-as-Judge × Arize Phoenix, EDD × Langfuse, AI Agent Observability × Helicone, AI Agent Observability × Litefuse. Candidates for next synthesis run.
-- **Langfuse ecosystem** — Deep coverage of Langfuse deployment, integration patterns, self-hosting, lifecycle observability, and comparison with Litefuse.
-- **OpenTelemetry GenAI** — Standardized observability for LLM/Agent/MCP with six-layer semantic conventions.
-- **eBPF + LLM observability** — Kernel-level zero-instrumentation monitoring for MCP protocols and Agent behavior via DeepFlow, MCPSpy, and AutoMQ meetup insights.
-- **Production platforms** — Alibaba Cloud (LoongSuite, CloudMonitor, ARMS), Tencent Cloud, OpenObserve, GreptimeDB, Arize Phoenix, SigNoz, and open-source deployment patterns.
-
+- **AgentLoop (Alibaba Cloud)** — NEW: 4 consolidated project pages covering Alibaba Cloud's one-stop Agent self-evolution platform. API reference (75+ endpoints), integration guide (8 frameworks), product features (observability/audit/evaluation/assets). Cross-linked to AI observability concept pages and LoongSuite entities.
+- **AI Agent Observability** — 101+ pages across 5 categories. Comprehensive coverage of data collection, trace/span design, evaluation, production engineering, platform comparisons, industry standards, and OTel GenAI six-layer architecture. 5 synthesis pages connect cross-cutting themes.
+- **Langfuse ecosystem** — Deep coverage of deployment, integration patterns (including Eino callbacks, Cozeloop, HandlerBuilder), self-hosting, evaluation, and tool comparison.
+- **eBPF + LLM observability** — Kernel-level zero-instrumentation monitoring. DeepFlow's AI Agent scenarios: ticket auto-triage, change performance analysis, vulnerability scanning.
+- **2026 Industry shift** — Observability has become mandatory: 89% adoption (LangChain report), Alibaba Cloud's "LLM App Monitoring" → "AI Agent Observability" rename, IBM Instana GenAI upgrade.
+- **NEW: US-China market divergence** — LLM observability is a $10B+ market in the US (Datadog $10.06B annual revenue, OpenAI spends $150-200M on Datadog) but effectively non-existent as a commercial market in China. Root cause: SaaS payment culture, IT standardization gaps, and labor cost dynamics.
 
 ## Key Takeaways
 
-- Agent failures are semantic, not system-level — HTTP 200 can mask wrong answers
-- EDD (Evaluation Driven Development): observe → evaluate → attribute → optimize
-- **NEW**: Agent causal attribution goes beyond failure location to "why it failed" — AgentRx, TraceElephant, Causal Agent Replay (CAR) with structural causal models
-- **NEW**: RAG observability is a distinct layer — Context Precision, Faithfulness, Answer Relevance, silent retrieval failure detection
-- **NEW**: OTel GenAI SemConv six-layer structure: Client Spans → Agent & Workflow Spans → MCP → Events → Metrics → Provider-specific
-- **NEW**: CAICT standard defines five-layer observability capability model: Infrastructure → Middleware → Model → Model Service → Application
-- Litefuse's single-process mode (358MB binary, 25s) dramatically lowers private deployment barriers
-- OpenTelemetry GenAI Semantic Conventions are now the industry standard post-CNCF graduation
-- Langfuse v3 multi-component deployment requires careful container networking (service names vs host IPs)
-- MCPSpy demonstrates that eBPF can provide zero-instrumentation MCP protocol monitoring at kernel level
-- Cost optimization is not just reducing spend — 40-60% savings via intelligent model routing
-- **NEW**: GreptimeDB unifies traces/metrics/logs in one database with cross-signal SQL queries and Flow stream processing
-- **NEW**: Arize Phoenix offers OTel-native observability with deep RAG analysis (document chunk visualization, relevance scoring)
-
-- **NEW**: 89 WeChat articles distilled into 101-page wiki — major expansion of AI/LLM observability coverage
-- **NEW**: Langfuse ecosystem now includes deployment guides, integration patterns, self-hosting, and comparison with Litefuse
-- **NEW**: OpenTelemetry GenAI six-layer architecture (Client/Agent/MCP/Events/Metrics/Provider) is the emerging standard
-- **NEW**: eBPF enables zero-instrumentation observability for AI Agents at the kernel level (DeepFlow, MCPSpy)
-- **NEW**: Agent evaluation spans offline metrics, online monitoring, data flywheels, causal attribution, and LLM-as-Judge
-- **NEW**: Production observability platforms from Alibaba Cloud, Tencent Cloud, OpenObserve, GreptimeDB, and Arize Phoenix offer differentiated approaches
-- **NEW**: AI customer service evaluation requires moving from hard rules to LLM Judge for semantic correctness
+- 2026 is the tipping point: AI observability has gone from optional to mandatory for production LLM deployments
+- **NEW**: Aliyun defines 8 LLM Span Kinds (CHAIN/EMBEDDING/RETRIEVER/RERANKER/TASK/LLM/TOOL/AGENT) - more granular than OTel GenAI's 3 core types
+- **NEW**: AI 客服 evaluation requires 4-layer architecture: L1 deterministic rules (code), L2 intent classification (P/R/F1), L3 7-dim LLM Judge, L4 multi-turn regression
+- **NEW**: Aliyun Python Agent (August 2024) provides zero-code LLM app instrumentation for LlamaIndex/LangChain/DashScope/OpenAI
+- **NEW**: LLM GPU observability needs Token-level metrics (TTFT/TPOT/TPS) — vLLM + Prometheus + GPU vendor toolchains (DCGM/ROCm SMI/XPU Manager)
+- **NEW**: Aliyun AgentLoop is a production-grade Agent self-evolution platform with data flywheel architecture. Key design: AgentSpace (workspace isolation), Pipeline (Trace→Trajectory→Dataset), Evaluator (LLM-as-Judge + Agent-as-Judge), Experiment (offline + online A/B). API version 2026-05-20, 75+ REST endpoints across 7 domains. Supports 8 framework integrations + LoongSuite Pilot for AI Coding Agents.
+- DeepFlow's eBPF + LLM approach compresses ticket triage from 1+ hour to 1 minute using autonomous AI Agents
+- Langfuse's Eino callback handler supports Langfuse, Langsmith, and Cozeloop through the same `callbacks.Handler` interface
+- OTel Collector Gateway Mode is essential for production: decouples backend, enables unified sampling, handles PII sanitization
+- GreptimeDB's Flow engine eliminates dual-write: metrics derived directly from traces via streaming SQL, with PromQL coexistence
+- uddsketch in GreptimeDB 1.0 enables p50/p95/p99 queries without scanning full raw traces
 
 ## Flagged Contradictions
 

@@ -25,7 +25,7 @@ provenance:
   inferred: 0.5
   ambiguous: 0.2
 created: 2026-07-16
-updated: "2026-07-22"
+updated: "2026-07-24"
 ---
 
 # MCPSpy: eBPF-based MCP Monitoring
@@ -66,10 +66,29 @@ eBPF（Extended Berkeley Packet Filter）允许在 Linux 内核中安全地运�
 
 ## 局限性
 
-- 仅支持 Linux（eBPF 依赖 Linux 内核 4.x+）
+- 仅支持 Linux（eBPF 依赖 Linux 内核 4.x+）；Windows/macOS 不支持 ^[extracted]
 - 需要 CAP_BPF 或 root 权限
-- 协议解析依赖 MCP 规范的稳定性——协议变更需要更新 eBPF 程序
-- 对于加密通信（TLS），eBPF 需要在加密前/解密后的 Hook 点捕获 ^[inferred]
+- 协议解析依赖 MCP 规范的稳定性——协议变更需更新 eBPF 程序
+- 对于加密通信（TLS），eBPF 需要在加密前/解密后的 Hook 点捕获。当前第一版仅覆盖 Stdio 传输，流式 HTTP 传输留待后续章节 ^[extracted]
+- 不覆盖恶意 MCP 服务器检测——MCPSpy 监控协议使用情况而非验证服务器本身
+- 不涉及 MCP 服务器漏洞（如注入导致的 RCE）
+
+## 架构分层
+
+MCPSpy 采用五层逻辑架构 ^[extracted]：
+
+1. **eBPF 程序和 Maps**：核心监控程序，挂载到 `vfs_read`/`vfs_write` 内核函数
+2. **eBPF 加载器（用户空间）**：使用 cilium/eBPF 的 `bpf2go` 工具将 eBPF 程序加载到内核
+3. **事件处理程序**：在独立 goroutine 中运行的事件循环，从内核 ring buffer 消费事件
+4. **MCP 解析器**：解析捕获的原始数据，识别 JSON-RPC 2.0 消息格式（`method`/`id`/`result` 字段）
+5. **展示层**：以可读格式输出解析后的 MCP 交互信息
+
+### eBPF Hook 策略
+
+选择 `fexit/vfs_read` 而非 `kprobe/kretprobe` 的原因 ^[extracted]：
+- `fentry/fexit` 比 `kprobe/kretprobe` 性能更高
+- `fexit` 上下文中可访问入口参数，无需将参数从 entry hook 传递到 exit hook
+- 内核验证器在加载前检查 eBPF 程序安全性——无无限循环、有界内存访问
 
 ## 相关页面
 

@@ -12,13 +12,14 @@ tags:
   - standards
 sources:
   - "阿里云开发者: 阿里巴巴 & 蚂蚁 LoongSuite GenAI 可观测语义规范 (2026-05-12)"
-  - "阿里云可观测: Python 应用可观测重磅上线：解决 LLM 应用落地的“最后一公里”问题 (2024-11-08)"
+  - "阿里云可观测: Python 应用可观测重磅上线：解决 LLM 应用落地的"最后一公里"问题 (2024-11-08)"
   - "阿里云可观测: 零代码改造！LoongSuite AI 采集套件观测实战 (2025-09-01)"
   - "阿里云开发者: 详解大模型应用可观测全链路 (2025-03-13)"
   - "蒸馏大弟: OpenTelemetry CNCF毕业：Agent时代的可观测性标准已定 (2026-07-08)"
   - "程序猿架构之路: AI可观测性-Trace-Cost-质量三合一 (2026-07-01)"
   - "CNCF: 一文看懂 OpenTelemetry GenAI：LLM、Agent、MCP 怎么做可观测性 (2026-05-25)"
   - "GreptimeDB: 当 LLM 应用遇上可观测性：用 GreptimeDB 统一 Traces、Metrics 和对话记录 (2026-03-10)"
+  - "AI Engineer编程: OpenTelemetry + Agent 可观测平台基础 (2026-07-11)"
 summary: OpenTelemetry GenAI Semantic Conventions 是 OTel 社区为生成式 AI 场景制定的可观测数据采集标准，2026 年 5 月随 OTel CNCF 毕业进入稳定期。定义了 Model、Prompt、Token、Tool Calling、Agent、Session 等概念的统一字段命名和数据模型。中国社区（阿里/蚂蚁）在此基础上提出了 Entry/Step Span、Skill 语义、Token 级推理观测三项扩展。
 provenance:
   extracted: 0.65
@@ -319,6 +320,46 @@ LoongSuite 基于 GenAI SemConv 实现了**零代码改造**的 AI 应用可观�
 - [[references/loongsuite-pilot-open-source|LoongSuite Pilot]] — 专门面向 AI Coding Agent 的端侧可观测采集器
 
 参见 [[entities/loongsuite-platform]]。
+
+## OTel Collector 部署与采样策略
+
+在生产环境中，建议使用 **OTel Collector Gateway Mode** 集中处理遥测数据，而非应用直连后端 ^[extracted]：
+
+### 为什么需要 Collector
+
+| 场景 | 直接发送到后端 | 经过 Collector |
+|------|---------------|---------------|
+| 换后端 | 改代码，重启应用 | 改 Collector 配置，应用无感知 |
+| 数据脱敏 | 每个应用自己实现 | Collector 统一处理 |
+| 采样控制 | 各自配置 | 统一配置 |
+| 多后端同时发送 | 应用发多份 | Collector 一份变多份 |
+
+### 采样策略
+
+| 策略 | 原理 | 适用场景 |
+|------|------|---------|
+| **头部采样** | 请求入口处决策，下游跟随 | 简单，减少发送量 |
+| **尾部采样** | 等 Trace 完成后按内容决策 | 保留错误、慢请求 |
+| **混合采样** | 头部降采样 + 尾部精细决策 | 生产推荐 |
+
+Agent 系统推荐：基准采样 5%，错误/慢请求 100% 采集。真实案例：SaaS 应用 400 万请求/天，基准采样 5%，遥测成本降低 70%，SRE 团队仍有完整事故可视性。^[extracted]
+
+### 动态采样降级
+
+高流量下使用自适应采样器 ^[extracted]：
+```python
+class AdaptiveSampler(Sampler):
+    def should_sample(self, ...):
+        cpu = psutil.cpu_percent()
+        if cpu > 90: return TraceIdRatioBased(0.001)  # 0.1%
+        elif cpu > 70: return TraceIdRatioBased(0.01)  # 1%
+        return TraceIdRatioBased(0.1)                   # 10%
+```
+
+### 分布式环境常见问题
+
+- **时钟漂移**：子 Span 显示在父 Span 之前。解决：NTP/Chrony 同步 + OTel SDK 用单调时钟计算 duration。关键原则：只比较 Duration，不比较绝对时间戳。^[extracted]
+- **高基数问题**：`user.id` 作为 Attribute 导致索引爆炸。解决：低基数字段（service、method）存 Span Attribute，高基数字段（user.id、request.id）存 Span Event 或 Log。查询流程：先查日志系统获得 trace_id 列表，再在 Trace 系统中查询完整链路。^[extracted]
 
 ## 开放性议题
 

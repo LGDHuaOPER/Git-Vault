@@ -120,6 +120,43 @@ WHERE "span_attributes.gen_ai.system" IS NOT NULL
 GROUP BY "span_attributes.gen_ai.request.model", time_window;
 ```
 
+**uddsketch 分位数聚合**：GreptimeDB 1.0 RC1 支持 `uddsketch_state(buckets, error_rate, value)` 保存分位数草图，通过 `uddsketch_calc(percentile, sketch)` 查询 p50/p95/p99 延迟，无需扫全量原始 traces ^[extracted]：
+
+```sql
+-- 延迟分布聚合
+CREATE FLOW genai_latency_flow
+SINK TO genai_latency_1m
+EXPIRE AFTER '24h'
+AS
+SELECT
+  "span_attributes.gen_ai.request.model" AS model,
+  uddsketch_state(128, 0.01, duration_nano) AS duration_sketch,
+  date_bin('1 minute'::INTERVAL, "timestamp") AS time_window
+FROM opentelemetry_traces
+WHERE "span_attributes.gen_ai.system" IS NOT NULL
+GROUP BY "span_attributes.gen_ai.request.model", time_window;
+
+-- 查询分位数
+SELECT model,
+  ROUND(uddsketch_calc(0.50, duration_sketch) / 1000000, 1) AS p50_ms,
+  ROUND(uddsketch_calc(0.95, duration_sketch) / 1000000, 1) AS p95_ms
+FROM genai_latency_1m;
+```
+
+### 2b. PromQL 查询共存
+
+GreptimeDB 同时支持 SQL 和 PromQL，Grafana dashboard 里两种查询方式并列，共用同一套数据 ^[extracted]。OTel SDK 生成的 histogram metrics 可直接用 PromQL：
+
+```promql
+# token 消耗的 p95 分布
+histogram_quantile(0.95,
+  sum(rate(gen_ai_client_token_usage_bucket[5m])) by (le, gen_ai_token_type)
+)
+
+# 各模型请求速率
+sum(rate(gen_ai_client_operation_duration_seconds_count[5m])) by (gen_ai_request_model)
+```
+
 ### 3. 原始对话可搜索，点击直达 Trace
 
 开启 `OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT=true` 后，每条用户输入和模型输出都作为一条 log 记录写入 `genai_conversations` 表。GreptimeDB 接收 OTLP 日志时会自动创建该表，并对 `body` 列启用**全文索引**：
