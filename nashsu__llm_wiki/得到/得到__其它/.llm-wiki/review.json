@@ -661,5 +661,1711 @@
     "id": "review-6e03fc23",
     "resolved": false,
     "createdAt": 1785342095943
+  },
+  {
+    "type": "suggestion",
+    "title": "冥想练习对学习效能影响的实证研究",
+    "description": "当前Wiki中，“与山同坐”等冥想练习与“注意力管理”、“正反馈”等学习概念的关联仅停留在理论层面，缺乏实证证据。补充关于正念冥想如何具体提升学习效率、工作记忆或缓解考试焦虑的科学研究，能显著增强Wiki的说服力和实用性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.1.心情焦虑｜冥想练习 与山同坐.md",
+    "affectedPages": [
+      "wiki/concepts/与山同坐.md",
+      "wiki/concepts/注意力管理.md"
+    ],
+    "searchQueries": [
+      "正念冥想 学习效率 实证研究",
+      "mindfulness meditation learning performance meta-analysis",
+      "冥想 缓解考试焦虑 随机对照试验"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0b2f51c5",
+    "resolved": false,
+    "createdAt": 1785343917652
+  },
+  {
+    "type": "suggestion",
+    "title": "意象冥想与其他正念技术的比较",
+    "description": "Wiki中已创建“意象冥想”概念页，并将其与“观察呼吸”等方法做了初步区分。但未深入比较“与山同坐”这类意象冥想与身体扫描、正念呼吸等其他主流正念技术在缓解焦虑、提升专注力效果上的异同。补充此比较能帮助用户根据自身情况选择更合适的练习。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.1.心情焦虑｜冥想练习 与山同坐.md",
+    "affectedPages": [
+      "wiki/concepts/意象冥想.md",
+      "wiki/concepts/与山同坐.md"
+    ],
+    "searchQueries": [
+      "意象冥想 身体扫描 效果比较",
+      "visualization meditation vs breath awareness anxiety",
+      "与山同坐 正念认知疗法 MBCT"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-90e5f399",
+    "resolved": false,
+    "createdAt": 1785343917652
+  },
+  {
+    "type": "suggestion",
+    "title": "“与山同坐”品质向学习场景的具体迁移路径",
+    "description": "“与山同坐”旨在培养“安稳”和“超越评判”的品质，但如何将这些在冥想垫上获得的品质，具体迁移到应对学习中的挫败感、拖延症或对外界负面评价的恐惧中，Wiki中尚未阐明。设计具体的迁移练习或行动清单，将极大提升该概念的实践价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.1.心情焦虑｜冥想练习 与山同坐.md",
+    "affectedPages": [
+      "wiki/concepts/与山同坐.md",
+      "wiki/concepts/操作清单法.md"
+    ],
+    "searchQueries": [
+      "冥想 心理韧性 学习挫败感 迁移",
+      "如何将正念品质应用到日常生活",
+      "应对负面评价 心理练习 行动指南"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8dee883b",
+    "resolved": false,
+    "createdAt": 1785343917652
+  },
+  {
+    "type": "suggestion",
+    "title": "钱炜冥想练习体系总览",
+    "description": "当前Wiki已收录钱炜的两个冥想练习（\"与山同坐\"和\"创造内在空间\"），但缺乏对其整体冥想教学体系的梳理。钱炜在得到App上可能发布了系列课程，了解其完整体系（有多少练习、分类逻辑、进阶路径）有助于更系统地理解各练习之间的关系和定位。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.2.感到沉闷｜冥想练习 创造内在空间.md",
+    "affectedPages": [
+      "wiki/entities/钱炜.md",
+      "wiki/concepts/与山同坐.md",
+      "wiki/concepts/内在空间.md"
+    ],
+    "searchQueries": [
+      "钱炜 得到App 冥想 系列课程",
+      "钱炜 正念 练习 体系",
+      "得到App 冥想课程 钱炜 全部"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b3c70296",
+    "resolved": false,
+    "createdAt": 1785343975544
+  },
+  {
+    "type": "suggestion",
+    "title": "\"内在空间\"与\"与山同坐\"的对比分析",
+    "description": "两个冥想练习分别使用\"原野\"和\"山\"的意象，应对\"沉闷\"和\"焦虑\"两种不同情绪。但两者在心理机制、适用场景边界、以及是否存在其他意象冥想（如\"水\"\"天空\"等）方面尚不清晰。一个对比页面或补充研究可帮助用户根据自身状态选择合适的练习。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.2.感到沉闷｜冥想练习 创造内在空间.md",
+    "affectedPages": [
+      "wiki/concepts/内在空间.md",
+      "wiki/concepts/与山同坐.md",
+      "wiki/concepts/意象冥想.md"
+    ],
+    "searchQueries": [
+      "意象冥想 心理机制 对比",
+      "冥想 山 意象 原野 意象 区别",
+      "正念 不同情绪 冥想练习 选择"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5d018c74",
+    "resolved": false,
+    "createdAt": 1785343975544
+  },
+  {
+    "type": "suggestion",
+    "title": "意象冥想对比页面",
+    "description": "四种意象冥想（山、灯塔、心湖、乘浪）已分别建立概念页面，建议创建横向对比页面，系统比较适用场景、练习者角色定位、核心机制和局限性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.5.突发变故｜冥想练习 乘浪.md",
+    "affectedPages": [
+      "wiki/concepts/乘浪意象.md",
+      "wiki/concepts/心湖意象.md",
+      "wiki/concepts/灯塔意象.md",
+      "wiki/concepts/与山同坐.md"
+    ],
+    "searchQueries": [
+      "意象冥想 对比 正念 情绪调节",
+      "guided imagery meditation types comparison",
+      "冥想意象 山 水 灯塔 心理机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5672a4ab",
+    "resolved": false,
+    "createdAt": 1785344152351
+  },
+  {
+    "type": "missing-page",
+    "title": "水域恐惧与冥想替代方案",
+    "description": "用户Sophia的反馈揭示了乘浪意象对水域恐惧者的局限性，目前wiki中缺乏针对这一问题的替代方案或调适策略的讨论。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.5.突发变故｜冥想练习 乘浪.md",
+    "affectedPages": [
+      "wiki/concepts/乘浪意象.md"
+    ],
+    "searchQueries": [
+      "水域恐惧 冥想 替代意象",
+      "thalassophobia meditation alternative imagery",
+      "恐惧症 正念练习 调适策略"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c69f2aea",
+    "resolved": true,
+    "createdAt": 1785344152351,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "意象冥想中稳定与突破的平衡",
+    "description": "“植根生长”同时强调向下扎根的稳定与向上生长的突破，与“与山同坐”的纯静态稳定形成对比。这两种意象在心理效果上有何差异？是否值得作为对比研究的问题进行追踪？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.6.寻求突破｜冥想练习 植根生长.md",
+    "affectedPages": [
+      "wiki/concepts/植根生长.md",
+      "wiki/concepts/与山同坐.md"
+    ],
+    "searchQueries": [
+      "意象冥想 稳定 突破 心理效果 对比",
+      "扎根冥想 与山同坐 差异 研究",
+      "grounding meditation vs mountain meditation psychological effects"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-21c98c30",
+    "resolved": false,
+    "createdAt": 1785344215099
+  },
+  {
+    "type": "missing-page",
+    "title": "钱炜学术背景与实证研究来源",
+    "description": "发刊词中钱炜提及\"心理学科研表明\"但未引用具体研究。建议追踪其学术背景以补充实证支撑，或查找正念冥想对心理能量影响的实证研究文献。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.发刊词｜让我们一起学会冥想.md",
+    "searchQueries": [
+      "钱炜 心理学 正念 研究",
+      "心理能量 冥想 实证研究",
+      "default mode network 冥想 自动驾驶模式"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0a556dda",
+    "resolved": false,
+    "createdAt": 1785344272116
+  },
+  {
+    "type": "suggestion",
+    "title": "自动驾驶模式与心理学概念对应",
+    "description": "\"自动驾驶模式\"可能与认知行为疗法中的\"自动思维\"（automatic thoughts）或神经科学中的\"默认模式网络\"（default mode network）存在概念对应，值得进一步探究并补充到[[自动驾驶模式]]页面中。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/跟钱炜练习冥想/MD/1628697600.发刊词｜让我们一起学会冥想.md",
+    "searchQueries": [
+      "automatic thoughts cognitive behavioral therapy",
+      "default mode network meditation mindfulness",
+      "自动驾驶模式 自动思维 默认模式网络"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7db562c0",
+    "resolved": false,
+    "createdAt": 1785344272116
+  },
+  {
+    "type": "missing-page",
+    "title": "波士顿咨询",
+    "description": "发刊词中引用了波士顿咨询的报告数据（共享无人车可减少90%道路交通事故），但波士顿咨询作为实体尚未建立页面。若后续有更多引用，建议创建。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/001.发刊词 智能交通改变未来出行.md",
+    "searchQueries": [
+      "波士顿咨询 自动驾驶 共享无人车 报告",
+      "BCG autonomous driving shared mobility report"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4aa50835",
+    "resolved": false,
+    "createdAt": 1785344365080
+  },
+  {
+    "type": "missing-page",
+    "title": "《科学》杂志2018年仿真试验",
+    "description": "发刊词引用了《科学》杂志2018年刊登的仿真试验文章（14辆车中加入1辆自动驾驶车可使车流速度翻倍），该研究作为智能交通效率提升的关键证据，值得建立独立source页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/001.发刊词 智能交通改变未来出行.md",
+    "searchQueries": [
+      "Science 2018 autonomous vehicle traffic flow simulation",
+      "14 vehicles 1 autonomous car traffic speed double",
+      "Science magazine self-driving car traffic efficiency experiment"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-79faf732",
+    "resolved": false,
+    "createdAt": 1785344365080
+  },
+  {
+    "type": "suggestion",
+    "title": "城市规划与智能交通的关系",
+    "description": "留言\"沛文沛语\"指出通勤需求源于城市规划不合理（如北京回龙观、天通苑的职住分离），技术手段只能解决短期问题。这一视角与李彦宏的技术乐观主义形成张力，值得进一步探索。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/001.发刊词 智能交通改变未来出行.md",
+    "searchQueries": [
+      "城市规划 职住分离 通勤需求 智能交通",
+      "回龙观 天通苑 交通拥堵 城市更新",
+      "雄安新区 15分钟生活圈 交通需求管理"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1ef52242",
+    "resolved": false,
+    "createdAt": 1785344365080
+  },
+  {
+    "type": "suggestion",
+    "title": "智能交通\"去人化\"路径中的人的因素研究",
+    "description": "发刊词中李彦宏强调自动驾驶可消除人为因素事故，但留言指出课程对\"人\"这一要素（行人、非机动车驾驶员、传统驾驶员、乘客）着墨较少。智能交通的过渡期必然存在人机混行阶段，这一维度的研究对评估智能交通落地时间表至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/001.发刊词 智能交通改变未来出行.md",
+    "affectedPages": [
+      "wiki/concepts/智能交通.md",
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--17-001发刊词-智能交通改变未来出行--3w9m0v.md"
+    ],
+    "searchQueries": [
+      "人机混行 自动驾驶 安全 过渡期",
+      "智能交通 行人 非机动车 交互",
+      "mixed traffic autonomous vehicle pedestrian safety"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-1d998843",
+    "resolved": false,
+    "createdAt": 1785344365080
+  },
+  {
+    "type": "suggestion",
+    "title": "百度智能交通50+城市落地深度验证",
+    "description": "发刊词称百度智能交通方案已在全国50多个城市落地，但未说明落地深度。广州黄埔\"一路绿灯通过12个路口\"的案例存在归因模糊（是否包含道路选择、时段选择等混杂因素），需要第三方验证或更详细的案例拆解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/001.发刊词 智能交通改变未来出行.md",
+    "affectedPages": [
+      "wiki/entities/百度.md",
+      "wiki/concepts/智能交通.md",
+      "wiki/concepts/自适应交通信号控制.md"
+    ],
+    "searchQueries": [
+      "百度 智能交通 50城市 落地 效果 验证",
+      "广州黄埔 智能信控 第三方评估",
+      "百度ACE智能交通 实际效果 数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-31404431",
+    "resolved": false,
+    "createdAt": 1785344365080
+  },
+  {
+    "type": "contradiction",
+    "title": "李彦宏5年/10年预测 vs 行业共识",
+    "description": "李彦宏预测5年内一线城市不再需要限购限行、10年内基本解决拥堵，这一时间表与多数交通研究机构和行业专家的预测存在显著差异。需要用户判断：是将此视为愿景性表达，还是需要寻找行业共识时间表进行对比。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/001.发刊词 智能交通改变未来出行.md",
+    "affectedPages": [
+      "wiki/entities/李彦宏.md",
+      "wiki/concepts/智能交通.md"
+    ],
+    "searchQueries": [
+      "自动驾驶 限购限行 取消 时间预测 行业共识",
+      "交通拥堵 基本解决 时间表 专家预测",
+      "智能交通 落地时间 乐观 悲观 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-331d3b43",
+    "resolved": false,
+    "createdAt": 1785344365080
+  },
+  {
+    "type": "suggestion",
+    "title": "车路协同事故率降低99%的推演依据",
+    "description": "百度推演\"车路协同可使自动驾驶事故率降低99%\"，但未披露推演方法、假设条件和数据来源。这一数字是论证安全优势的核心证据，缺乏透明度会削弱说服力。建议查找百度相关技术白皮书或第三方评估报告。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/002.01 导论 车路协同为什么重要？.md",
+    "affectedPages": [
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--18-00201-导论-车路协同为什么重要--c83d4r.md",
+      "wiki/concepts/车路协同.md"
+    ],
+    "searchQueries": [
+      "百度 车路协同 事故率 降低99% 推演",
+      "车路协同 安全 事故率 量化 研究",
+      "Apollo 车路协同 安全 评估 白皮书"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c10fedb5",
+    "resolved": false,
+    "createdAt": 1785344444521
+  },
+  {
+    "type": "suggestion",
+    "title": "智能交通运营商模式的国际对比",
+    "description": "李彦宏提出\"智能交通运营商\"作为数据安全解决方案，广州和北京亦庄已开始探索。建议调研国际上类似的城市交通数据运营模式（如新加坡、欧洲的MaaS运营商），对比治理结构和数据安全框架。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/002.01 导论 车路协同为什么重要？.md",
+    "affectedPages": [
+      "wiki/concepts/智能交通运营商.md",
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--18-00201-导论-车路协同为什么重要--c83d4r.md"
+    ],
+    "searchQueries": [
+      "智能交通运营商 广州 车城网 进展",
+      "城市交通数据运营 模式 国际对比",
+      "MaaS 数据安全 治理 框架 新加坡 欧洲"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-aa6e9da4",
+    "resolved": false,
+    "createdAt": 1785344444521
+  },
+  {
+    "type": "suggestion",
+    "title": "车路协同路端改造成本的实际测算",
+    "description": "文中测算\"每车节省1.98万元即可在每公里道路投入100万元\"，但未说明路端改造的实际总成本和分摊机制。建议查找已落地项目（如京雄高速、保定）的实际投资数据和成本效益分析。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/002.01 导论 车路协同为什么重要？.md",
+    "affectedPages": [
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--18-00201-导论-车路协同为什么重要--c83d4r.md",
+      "wiki/entities/京雄高速.md"
+    ],
+    "searchQueries": [
+      "京雄高速 车路协同 投资 成本 每公里",
+      "车路协同 路侧改造 成本 效益 分析",
+      "百度 智能交通 项目 投资 金额 保定"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9228706d",
+    "resolved": false,
+    "createdAt": 1785344444521
+  },
+  {
+    "type": "missing-page",
+    "title": "美国公路安全管理局",
+    "description": "文中引用了美国公路安全管理局（NHTSA）公布的\"94%事故由人为因素导致\"这一关键数据，该机构是自动驾驶安全标准与事故统计的核心权威来源，值得建立专门页面以追踪其政策与研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/003.02 汽车 自动驾驶怎样提升交通安全？.md",
+    "affectedPages": [
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--21-00302-汽车-自动驾驶怎样提升交通安全--kk8j0p.md"
+    ],
+    "searchQueries": [
+      "NHTSA 94% crashes human error source",
+      "美国公路安全管理局 自动驾驶 安全标准",
+      "NHTSA autonomous vehicle safety framework"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fdc71d61",
+    "resolved": true,
+    "createdAt": 1785344524673,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "自动驾驶系统安全性的综合评估框架",
+    "description": "用户\"一瞬繁华\"的质疑揭示了当前论述的核心漏洞：仅以\"消除人为失误\"论证自动驾驶更安全，却未量化系统自身失效风险。需要研究如何将硬件故障率、软件Bug、网络安全威胁纳入统一的安全评估模型，并与人类驾驶事故率进行公平比较。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/003.02 汽车 自动驾驶怎样提升交通安全？.md",
+    "affectedPages": [
+      "wiki/queries/自动驾驶系统故障率如何量化.md",
+      "wiki/concepts/高级别自动驾驶.md",
+      "wiki/concepts/万车死亡率.md"
+    ],
+    "searchQueries": [
+      "autonomous vehicle system failure rate vs human error",
+      "自动驾驶 功能安全 ISO 26262 故障率 量化",
+      "Waymo Cruise safety report disengagement rate",
+      "自动驾驶 网络安全 攻击 风险 量化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-373867cb",
+    "resolved": false,
+    "createdAt": 1785344524673
+  },
+  {
+    "type": "suggestion",
+    "title": "自动驾驶渗透率与事故降低率的实证研究",
+    "description": "文中关于\"渗透率50%可减少50%-80%事故\"的结论来自仿真测算，缺乏现实世界验证。需要追踪是否有基于实际道路测试数据或自然实验（如特定区域高渗透率试点）的实证研究，以验证或修正这一关键量化关系。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/003.02 汽车 自动驾驶怎样提升交通安全？.md",
+    "affectedPages": [
+      "wiki/concepts/自动驾驶渗透率.md",
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--21-00302-汽车-自动驾驶怎样提升交通安全--kk8j0p.md"
+    ],
+    "searchQueries": [
+      "autonomous vehicle penetration rate accident reduction empirical study",
+      "自动驾驶 渗透率 事故率 实证 研究",
+      "impact of autonomous vehicles on traffic safety real-world data"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a64ee7ef",
+    "resolved": false,
+    "createdAt": 1785344524673
+  },
+  {
+    "type": "missing-page",
+    "title": "麻省理工学院预约出行测试详情",
+    "description": "李彦宏引述麻省理工学院学者在特定路段的测试，称60%车辆参与预约出行时平均效率提高50%，但未提供论文、学者姓名、测试条件等具体信息。该测试是预约出行概念的关键证据，缺少原始来源会影响论证可信度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/004.03 信控 怎样让路口的通行更高效？.md",
+    "affectedPages": [
+      "wiki/concepts/预约出行.md",
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--20-00403-信控-怎样让路口的通行更高效--fiqqzf.md"
+    ],
+    "searchQueries": [
+      "MIT reservation-based traffic control study 60% participation 50% efficiency",
+      "预约出行 麻省理工学院 测试 60% 效率 50%",
+      "MIT scholars pre-booking travel efficiency test"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-51292a81",
+    "resolved": true,
+    "createdAt": 1785344608171,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "AIR智能道路系统2023年部署目标达成情况",
+    "description": "李彦宏在2022年的课程中称AIR智能道路系统预计2023年部署超过100个城市、1万多个路口。该目标是否达成、实际部署规模如何，是评估百度智能信控方案进展的关键信息，但当前Wiki中缺乏后续跟踪数据。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/004.03 信控 怎样让路口的通行更高效？.md",
+    "affectedPages": [
+      "wiki/entities/AIR智能道路系统.md",
+      "wiki/entities/百度.md"
+    ],
+    "searchQueries": [
+      "百度 AIR智能道路系统 2023 部署 城市 路口",
+      "AIR智能道路系统 落地 进展 2024",
+      "百度智能信控 路口 数量 2023 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9dfa8d7c",
+    "resolved": false,
+    "createdAt": 1785344608171
+  },
+  {
+    "type": "contradiction",
+    "title": "预约出行的可行性争议",
+    "description": "李彦宏将预约出行作为未来方向推荐，但留言区用户指出两个现实障碍：本地人日常不开导航，不同地图厂商数据不互通。这两个障碍是否已被后续研究或实践所回应，需要进一步查证，否则预约出行的可行性存疑。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/004.03 信控 怎样让路口的通行更高效？.md",
+    "affectedPages": [
+      "wiki/concepts/预约出行.md",
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--20-00403-信控-怎样让路口的通行更高效--fiqqzf.md"
+    ],
+    "searchQueries": [
+      "预约出行 可行性 地图数据互通 障碍",
+      "导航覆盖率 本地出行 不开启导航 比例",
+      "多地图厂商 数据共享 智能交通 方案"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43b8a7c9",
+    "resolved": false,
+    "createdAt": 1785344608171
+  },
+  {
+    "type": "missing-page",
+    "title": "广汽、蔚来、吉利作为百度高精地图合作方应创建实体页",
+    "description": "这三家车企在文中被提及为百度高精地图量产合作方，但目前Wiki中尚无对应实体页。建议创建以完善产业生态图谱。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/005.04 地图 怎样为用户节省时间？.md",
+    "affectedPages": [
+      "wiki/entities/广汽.md",
+      "wiki/entities/蔚来.md",
+      "wiki/entities/吉利.md"
+    ],
+    "searchQueries": [
+      "广汽 百度 高精地图 合作",
+      "蔚来 百度 高精地图 自动驾驶",
+      "吉利 百度 高精地图 量产"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-344a57be",
+    "resolved": true,
+    "createdAt": 1785344694385,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "未来出行ETA作为百度地图特色功能应创建概念页",
+    "description": "\"未来出行ETA\"是百度地图的通行时间智能预估系统，文中作为地图精准度提升的关键例证，具有独立概念价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/005.04 地图 怎样为用户节省时间？.md",
+    "affectedPages": [
+      "wiki/concepts/未来出行ETA.md"
+    ],
+    "searchQueries": [
+      "百度地图 未来出行ETA 通行时间智能预估",
+      "ETA estimated time of arrival 导航 预测",
+      "百度地图 ETA 算法 深度学习"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ab6fab76",
+    "resolved": false,
+    "createdAt": 1785344694385
+  },
+  {
+    "type": "suggestion",
+    "title": "高精地图与单车智能的依赖关系值得深入探讨",
+    "description": "用户\"胖子\"留言指出：高清地图虽然可以降低车端智能的要求，但也会消减车端智能发展的压力，似乎容易上瘾。这与[[单车智能]]概念形成张力，值得进一步研究两者在自动驾驶技术路线中的权重分配。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/005.04 地图 怎样为用户节省时间？.md",
+    "affectedPages": [
+      "wiki/concepts/高精地图.md",
+      "wiki/concepts/单车智能.md"
+    ],
+    "searchQueries": [
+      "高精地图 单车智能 技术路线 依赖 权衡",
+      "HD map vs onboard perception autonomous driving",
+      "特斯拉 视觉方案 高精地图 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a3ddf385",
+    "resolved": false,
+    "createdAt": 1785344694385
+  },
+  {
+    "type": "missing-page",
+    "title": "僵尸车执法与停车管理跨部门协调机制",
+    "description": "课程留言中Tara指出僵尸车处置存在职能交叉、互相扯皮的问题：\"法无授权不可为\"，占用道路的才能管，停在停车位上的即使达到报废标准交管部门也无权处置。这是一个重要的制度障碍，值得建立专门页面跟踪相关政策和实践进展。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/006.05 停车 怎样利用好车位资源？.md",
+    "affectedPages": [
+      "wiki/concepts/智慧停车.md",
+      "wiki/concepts/车位周转率.md"
+    ],
+    "searchQueries": [
+      "僵尸车执法 跨部门协调 停车管理",
+      "城市停车管理条例 僵尸车处置",
+      "智慧停车 制度障碍 权属问题"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1fcd9351",
+    "resolved": true,
+    "createdAt": 1785344785321,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "错峰停车与车位共享机制",
+    "description": "课程留言中魏红亮提出商场写字楼夜间车位与居民区白天车位的错峰互补思路，lincoln提出\"泊车银行\"概念。这是盘活存量的重要方向，涉及商业模式和激励机制设计，值得建立专门概念页。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/006.05 停车 怎样利用好车位资源？.md",
+    "affectedPages": [
+      "wiki/concepts/智慧停车.md",
+      "wiki/concepts/车位周转率.md"
+    ],
+    "searchQueries": [
+      "错峰停车 车位共享 商业模式",
+      "泊车银行 共享停车",
+      "居民区车位 白天闲置 盘活机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9ac77d55",
+    "resolved": true,
+    "createdAt": 1785344785321,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "美国高速公路管理局",
+    "description": "文中引用美国高速公路管理局预测车联网可减少80%碰撞事故，并在I-80州际高速测试，但该实体尚无独立页面，其职能与研究成果值得记录。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/007.06 高速 怎样让出行更安全？.md",
+    "affectedPages": [
+      "wiki/sources/9-李彦宏智能交通7讲--2-md--17-00706-高速-怎样让出行更安全--1ulnp1h.md",
+      "wiki/concepts/全天候通行.md"
+    ],
+    "searchQueries": [
+      "美国高速公路管理局 车联网 预测",
+      "FHWA connected vehicle 80% crash reduction",
+      "I-80 smart highway test deployment"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c61d23f5",
+    "resolved": true,
+    "createdAt": 1785344880671,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "智慧高速成本效益量化对比",
+    "description": "文中承认“完全依靠新建设备成本太高”，但未给出智慧灯杆、AI摄像头改造、北斗自由流收费的具体成本与效益量化数据，缺乏经济性分析将影响方案可推广性的判断。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/007.06 高速 怎样让出行更安全？.md",
+    "affectedPages": [
+      "wiki/concepts/智慧高速.md",
+      "wiki/concepts/智慧灯杆.md",
+      "wiki/queries/智慧高速的成本效益如何平衡.md"
+    ],
+    "searchQueries": [
+      "智慧灯杆 单杆成本 建设 维护",
+      "高速公路 AI 事件检测 改造成本 效益",
+      "北斗自由流收费 部署成本 ETC 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ff655e79",
+    "resolved": false,
+    "createdAt": 1785344880671
+  },
+  {
+    "type": "suggestion",
+    "title": "全天候通行技术成熟度与气象阈值",
+    "description": "全天候通行是智慧高速两大前沿方向之一，但文中未说明车路协同在何种恶劣天气等级下仍可安全通行，缺乏技术边界条件将影响该概念的落地预期。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/007.06 高速 怎样让出行更安全？.md",
+    "affectedPages": [
+      "wiki/concepts/全天候通行.md",
+      "wiki/concepts/车路协同.md"
+    ],
+    "searchQueries": [
+      "全天候通行 恶劣天气 技术边界 能见度 阈值",
+      "车路协同 雨雪雾 安全通行 测试 标准",
+      "connected vehicle adverse weather operational limits"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8bae79fc",
+    "resolved": false,
+    "createdAt": 1785344880671
+  },
+  {
+    "type": "suggestion",
+    "title": "高速公路自动驾驶专用车道标准与演进路径",
+    "description": "京雄高速已建成L2-L4自动驾驶专用车道，但文中未涉及专用车道的技术标准、与普通车道隔离方式、以及从L2到L4的演进路径，这对评估高速自动驾驶落地节奏至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/007.06 高速 怎样让出行更安全？.md",
+    "affectedPages": [
+      "wiki/entities/京雄高速.md",
+      "wiki/concepts/高级别自动驾驶.md"
+    ],
+    "searchQueries": [
+      "京雄高速 自动驾驶专用车道 技术标准",
+      "高速公路 自动驾驶专用车道 设计规范",
+      "L2 L4 高速 自动驾驶 演进 路径"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9a6ff4be",
+    "resolved": false,
+    "createdAt": 1785344880671
+  },
+  {
+    "type": "missing-page",
+    "title": "赫尔辛基MaaS实践",
+    "description": "赫尔辛基作为MaaS模式的早期实践城市，在课程中被多次引用作为对比样本。当前Wiki中尚无赫尔辛基的实体页面，其MaaS实践经验（2016年启动、统一票务、出行结构变化数据等）对理解MaaS全球发展有参考价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/008.07 MaaS 怎样实现一站式出行？.md",
+    "affectedPages": [
+      "wiki/entities/赫尔辛基.md"
+    ],
+    "searchQueries": [
+      "Helsinki MaaS mobility as a service 2016",
+      "Whim app Helsinki MaaS results",
+      "赫尔辛基 出行即服务 MaaS 实践"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dbc52948",
+    "resolved": false,
+    "createdAt": 1785344976918
+  },
+  {
+    "type": "missing-page",
+    "title": "世界经济论坛自动驾驶共享化预测",
+    "description": "课程引用了世界经济论坛关于“到2040年53%的自动驾驶汽车将实现共享”的预测数据，该预测对理解自动驾驶与共享出行融合趋势有重要意义。当前Wiki中无相关来源页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/008.07 MaaS 怎样实现一站式出行？.md",
+    "affectedPages": [
+      "wiki/sources/wef-autonomous-vehicle-sharing-forecast.md"
+    ],
+    "searchQueries": [
+      "World Economic Forum autonomous vehicle sharing 2040 forecast",
+      "WEF shared autonomous vehicles prediction 53%",
+      "世界经济论坛 自动驾驶 共享化 预测 2040"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-309b3092",
+    "resolved": false,
+    "createdAt": 1785344976918
+  },
+  {
+    "type": "suggestion",
+    "title": "MaaS对就业市场的冲击与应对",
+    "description": "课程和用户留言均提及自动驾驶共享化可能对网约车司机等就业岗位产生冲击，但未展开讨论。这是智能交通社会影响评估的关键维度，值得深入研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/008.07 MaaS 怎样实现一站式出行？.md",
+    "affectedPages": [
+      "wiki/concepts/共享无人车.md",
+      "wiki/queries/超大城市MaaS如何落地.md"
+    ],
+    "searchQueries": [
+      "autonomous vehicles impact on ride-hailing drivers employment",
+      "自动驾驶 共享化 网约车司机 就业冲击",
+      "MaaS social impact job displacement transportation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b0b3f995",
+    "resolved": false,
+    "createdAt": 1785344976918
+  },
+  {
+    "type": "contradiction",
+    "title": "无人驾驶是否需要依赖道路智能设备",
+    "description": "用户留言中提出“只有当路上无任何智能设备与其配合，就能安全行使，才合格叫‘无人’”的观点，与课程强调的车路协同理念存在张力。这一分歧涉及自动驾驶技术路线的根本争论（单车智能 vs 车路协同），值得作为独立问题追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/李彦宏·智能交通7讲/MD/008.07 MaaS 怎样实现一站式出行？.md",
+    "affectedPages": [
+      "wiki/concepts/单车智能.md",
+      "wiki/concepts/车路协同.md",
+      "wiki/concepts/高级别自动驾驶.md"
+    ],
+    "searchQueries": [
+      "单车智能 vs 车路协同 技术路线 争论",
+      "autonomous driving vehicle-to-infrastructure vs vehicle-only debate",
+      "无人驾驶 是否需要 道路智能设备 争议"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7df21501",
+    "resolved": false,
+    "createdAt": 1785344976918
+  },
+  {
+    "type": "suggestion",
+    "title": "适老化教学效果评估研究",
+    "description": "本课程提出了适老化教学的方案，但缺乏效果评估数据。建议关注相关研究或用户反馈数据，以验证适老化视频教学的实际效果。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/003.发刊词 智能手机时代，别把爸妈落下.md",
+    "searchQueries": [
+      "老年人智能手机教学效果评估研究",
+      "适老化视频课程完成率转化率",
+      "数字鸿沟弥合干预措施效果 meta分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-56a43423",
+    "resolved": false,
+    "createdAt": 1785345049218
+  },
+  {
+    "type": "missing-page",
+    "title": "苏世民",
+    "description": "留言区引用了苏世民的名言\"解决问题的途径通常在于你如何解决别人的问题\"，该人物在现有Wiki中尚无页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/003.发刊词 智能手机时代，别把爸妈落下.md",
+    "searchQueries": [
+      "苏世民 黑石集团 人物介绍",
+      "苏世民 我的经验与教训 书籍",
+      "Stephen Schwarzman Blackstone biography"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-67aca23b",
+    "resolved": false,
+    "createdAt": 1785345049218
+  },
+  {
+    "type": "suggestion",
+    "title": "不同品牌手机适老化教学的一致性",
+    "description": "课程中多次提到不同手机设置路径的差异（如“有的手机也叫...”），这可能导致老年用户在实际操作中遇到困惑。建议研究主流品牌（华为、小米、OPPO、vivo）的适老化模式或简易模式，看是否有统一的简化路径。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/004.01 玩转智能手机的实用小技巧.md",
+    "searchQueries": [
+      "华为小米OPPO老年模式设置路径对比",
+      "主流手机品牌适老化简易模式差异",
+      "智能手机老年用户操作一致性研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-49f5a337",
+    "resolved": false,
+    "createdAt": 1785345143811
+  },
+  {
+    "type": "missing-page",
+    "title": "微信",
+    "description": "课程中微信作为核心案例被多次提及（卡顿处理、存储清理），但当前Wiki中尚无微信的实体页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/004.01 玩转智能手机的实用小技巧.md",
+    "searchQueries": [
+      "微信适老化设计",
+      "微信老年用户使用痛点",
+      "微信缓存清理机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-45488b00",
+    "resolved": true,
+    "createdAt": 1785345143811,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "老年用户智能手机学习的主要障碍",
+    "description": "课程内容聚焦操作技巧，但未深入探讨老年用户学习智能手机的根本障碍是操作复杂性还是心理畏惧。研究此问题有助于优化适老化教学策略。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/004.01 玩转智能手机的实用小技巧.md",
+    "searchQueries": [
+      "老年人智能手机学习障碍心理因素",
+      "老年数字素养教育难点",
+      "适老化教学效果影响因素"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b26616b2",
+    "resolved": false,
+    "createdAt": 1785345143811
+  },
+  {
+    "type": "suggestion",
+    "title": "支付宝与微信支付的适老化功能对比",
+    "description": "本课同时教授支付宝和微信支付，但仅详细介绍了支付宝的暖洋洋专线。微信支付在适老化方面有哪些对应的举措（如客服专线、关怀模式等）值得进一步探究，以形成更完整的对比。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/005.02 如何在微信和支付宝绑卡.md",
+    "searchQueries": [
+      "微信支付 适老化 客服专线 老年人",
+      "微信关怀模式 支付 老年人",
+      "支付宝 微信 适老化功能 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e6b41fdf",
+    "resolved": false,
+    "createdAt": 1785345228875
+  },
+  {
+    "type": "missing-page",
+    "title": "嘉兴图书馆",
+    "description": "留言中提及嘉兴图书馆作为适老化服务的先行者，曾举办一系列帮助老年人使用智能手机的讲座。这是一个值得记录的实体，可作为适老化教学的社会实践案例。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/005.02 如何在微信和支付宝绑卡.md",
+    "affectedPages": [
+      "wiki/entities/嘉兴图书馆.md"
+    ],
+    "searchQueries": [
+      "嘉兴图书馆 老年人 智能手机 培训",
+      "嘉兴图书馆 适老化 服务",
+      "罗振宇 跨年演讲 嘉兴图书馆"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9a0ea656",
+    "resolved": false,
+    "createdAt": 1785345228875
+  },
+  {
+    "type": "missing-page",
+    "title": "114电话挂号平台",
+    "description": "用户留言中提及的114电话挂号服务（拨打114转人工，可挂号可取消，24小时服务）是老年用户的重要替代渠道，但wiki中尚未建立独立页面记录其功能、覆盖范围和与手机挂号的关系。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/006.03 如何用手机挂号.md",
+    "affectedPages": [
+      "wiki/concepts/手机挂号.md",
+      "wiki/sources/8-如何玩转智能手机--2-md--13-00603-如何用手机挂号--yb6byr.md"
+    ],
+    "searchQueries": [
+      "114电话挂号 服务介绍 覆盖城市",
+      "114预约挂号 操作流程 适老化",
+      "114挂号 与 微信挂号 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9498936f",
+    "resolved": true,
+    "createdAt": 1785345292275,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "各地手机挂号平台差异与通用查找指南",
+    "description": "课程和用户留言均指出不同城市、不同医院的手机挂号平台差异较大（微信、支付宝、114、医院自有App等入驻情况不一）。wiki目前缺乏一个通用指南，帮助用户（尤其是老年用户）快速定位本地可用的挂号渠道。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/006.03 如何用手机挂号.md",
+    "affectedPages": [
+      "wiki/concepts/手机挂号.md",
+      "wiki/entities/微信医疗健康.md"
+    ],
+    "searchQueries": [
+      "全国统一挂号平台 各地差异",
+      "如何查找本地医院 手机挂号渠道",
+      "支付宝 微信 挂号 城市覆盖 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1356f49d",
+    "resolved": false,
+    "createdAt": 1785345292275
+  },
+  {
+    "type": "missing-page",
+    "title": "亲密付",
+    "description": "课程热门留言中\"手可摘星陈·澍\"提到为父母开通亲密付，张维也建议设置限额和风险提示。亲密付是支付宝的一项代付功能，在适老化购物场景中具有重要辅助作用，建议创建独立概念页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/007.04 如何用手机购物.md",
+    "searchQueries": [
+      "支付宝亲密付 功能介绍 使用方法",
+      "亲密付 老年人 适老化 购物辅助",
+      "支付宝亲情卡 代付 限额设置"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-056e1d53",
+    "resolved": false,
+    "createdAt": 1785345371169
+  },
+  {
+    "type": "suggestion",
+    "title": "适老化购物辅助工具",
+    "description": "热门留言中张维建议为老人配备电容笔、调整大字版本、设置限额和风险提示，这些辅助手段可整合为一个概念页面，系统梳理适老化购物的硬件和软件辅助策略。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/007.04 如何用手机购物.md",
+    "searchQueries": [
+      "老年人 智能手机 电容笔 辅助工具",
+      "淘宝 大字版本 适老化 设置",
+      "老年人 网购 安全 限额 风险提示"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1d7b563e",
+    "resolved": false,
+    "createdAt": 1785345371169
+  },
+  {
+    "type": "contradiction",
+    "title": "支付宝挂号与微信挂号的覆盖差异",
+    "description": "留言中WJJJ指出\"微信里面的挂号好多大医院没有，支付宝里面基本都有\"，这与[[sources/8-如何玩转智能手机--2-md--13-00603-如何用手机挂号--yb6byr]]中以微信为主的挂号教学形成对比，建议创建对比页面或更新相关概念页面记录这一差异。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/007.04 如何用手机购物.md",
+    "affectedPages": [
+      "wiki/sources/8-如何玩转智能手机--2-md--13-00603-如何用手机挂号--yb6byr.md",
+      "wiki/concepts/手机挂号.md"
+    ],
+    "searchQueries": [
+      "支付宝 挂号 医院覆盖 对比 微信",
+      "微信 支付宝 医疗健康 挂号 差异",
+      "各大医院 在线挂号 平台 支持情况"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3319e16f",
+    "resolved": false,
+    "createdAt": 1785345371169
+  },
+  {
+    "type": "missing-page",
+    "title": "饿了么",
+    "description": "课程以美团为核心演示平台，但饿了么作为另一主流外卖平台，其操作流程、优惠策略和适老化支持是否存在差异，值得建立独立页面进行对比。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/008.05 如何用手机点外卖.md",
+    "affectedPages": [
+      "wiki/entities/美团.md",
+      "wiki/concepts/手机点外卖.md"
+    ],
+    "searchQueries": [
+      "饿了么 适老化 长辈模式",
+      "饿了么 外卖 操作教程 老年人",
+      "美团 饿了么 功能对比 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5fc27cc0",
+    "resolved": true,
+    "createdAt": 1785345443409,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "老年用户使用外卖服务的实际障碍调研",
+    "description": "课程内容为理想化操作教程，但老年用户在实际使用中可能面临配送地址定位不准、与骑手沟通困难、误操作等问题。补充相关用户研究或调查报告，能更全面地反映数字鸿沟的具体表现。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/008.05 如何用手机点外卖.md",
+    "affectedPages": [
+      "wiki/concepts/手机点外卖.md",
+      "wiki/concepts/数字鸿沟.md"
+    ],
+    "searchQueries": [
+      "老年人 外卖 使用障碍 调研",
+      "适老化 外卖平台 用户体验 痛点",
+      "老年用户 数字生活 困难 实证研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6b238d61",
+    "resolved": false,
+    "createdAt": 1785345443409
+  },
+  {
+    "type": "missing-page",
+    "title": "轶男",
+    "description": "课程主讲人轶男作为得到App讲师，在适老化教学系列中多次出现，建议创建实体页面记录其教学贡献。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/009.06 如何用手机查地图.md",
+    "affectedPages": [
+      "wiki/sources/8-如何玩转智能手机--2-md--14-00906-如何用手机查地图--1prtv.md"
+    ],
+    "searchQueries": [
+      "轶男 得到App 讲师",
+      "得到App 适老化教学 轶男",
+      "如何玩转智能手机 得到 轶男"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-306c4b2a",
+    "resolved": true,
+    "createdAt": 1785345525698,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "哪款地图软件最适合老年人使用",
+    "description": "课程提及高德地图、百度地图、腾讯地图三款应用，但未对比其适老化设计差异。可创建查询页面探讨不同地图软件在字体大小、语音提示清晰度、操作简化程度等方面的适老化表现。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/009.06 如何用手机查地图.md",
+    "affectedPages": [
+      "wiki/entities/高德地图.md",
+      "wiki/entities/百度地图.md",
+      "wiki/entities/腾讯地图.md"
+    ],
+    "searchQueries": [
+      "高德地图 百度地图 腾讯地图 适老化对比",
+      "老年人 地图导航软件 哪个好用",
+      "地图App 老年模式 大字版 语音导航"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-336af546",
+    "resolved": false,
+    "createdAt": 1785345525698
+  },
+  {
+    "type": "missing-page",
+    "title": "滴滴出行助老模式",
+    "description": "课程提到滴滴出行是核心教学平台，但未涉及滴滴是否提供“助老模式”“一键叫车”或电话叫车等适老化专属功能。这对评估老年用户独立使用门槛至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/010.07 如何用手机打车.md",
+    "affectedPages": [
+      "wiki/entities/滴滴出行.md",
+      "wiki/concepts/手机打车.md",
+      "wiki/concepts/适老化教学.md"
+    ],
+    "searchQueries": [
+      "滴滴出行 助老模式 一键叫车 2024",
+      "滴滴 老年版 适老化改造 功能",
+      "网约车 老年人 使用障碍 解决方案"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8d945981",
+    "resolved": true,
+    "createdAt": 1785345590308,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "老年用户无智能手机时的替代打车方案",
+    "description": "课程完全围绕智能手机操作，但部分老年人可能没有智能手机或无法使用移动网络。探索电话叫车、社区代叫等替代方案，能完善“适老化出行”的知识覆盖。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/010.07 如何用手机打车.md",
+    "affectedPages": [
+      "wiki/concepts/手机打车.md",
+      "wiki/concepts/适老化教学.md",
+      "wiki/concepts/数字鸿沟.md"
+    ],
+    "searchQueries": [
+      "老年人 无智能手机 打车 方法",
+      "电话叫车 出租车 老年服务",
+      "社区 助老打车 代叫服务"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0db20edf",
+    "resolved": false,
+    "createdAt": 1785345590308
+  },
+  {
+    "type": "contradiction",
+    "title": "出租车价格描述存在矛盾",
+    "description": "课程称“出租车的价格一般最实惠”，但同时指出高峰期和恶劣天气会涨价。这种表述可能让老年用户对最终支付价格产生困惑，需要更清晰的解释或补充“动态调价”概念。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/010.07 如何用手机打车.md",
+    "affectedPages": [
+      "wiki/concepts/网约车类型.md",
+      "wiki/concepts/手机打车.md"
+    ],
+    "searchQueries": [
+      "滴滴 出租车 计价规则 高峰期涨价",
+      "网约车 动态调价 机制 解释",
+      "老年人 理解 网约车 价格变动"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c5f200f0",
+    "resolved": false,
+    "createdAt": 1785345590308
+  },
+  {
+    "type": "missing-page",
+    "title": "12306适老化设计评估",
+    "description": "现有页面记录了12306的功能和操作流程，但未涉及该App本身的适老化设计质量（如字体大小、语音辅助、简化界面等）。这对于评估老年人独立使用12306的实际障碍至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/011.08 如何用手机订火车票.md",
+    "affectedPages": [
+      "wiki/entities/12306.md",
+      "wiki/concepts/适老化教学.md"
+    ],
+    "searchQueries": [
+      "12306 适老化 设计 评价",
+      "铁路12306 老年版 无障碍",
+      "12306 accessibility elderly"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3fc776ff",
+    "resolved": true,
+    "createdAt": 1785345659920,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "主流购票平台适老化对比：12306 vs 支付宝 vs 微信",
+    "description": "用户留言提到支付宝可替代12306购票，但未展开对比。不同平台的适老化设计、操作流程差异和退改签规则一致性，是影响老年人选择的关键。建议进行横向对比研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/011.08 如何用手机订火车票.md",
+    "affectedPages": [
+      "wiki/entities/12306.md",
+      "wiki/entities/支付宝.md",
+      "wiki/entities/微信支付.md",
+      "wiki/concepts/手机订火车票.md"
+    ],
+    "searchQueries": [
+      "12306 支付宝 微信 购票 对比 老年人",
+      "第三方平台 火车票 退改签 规则 差异",
+      "适老化 购票App 评测"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9704b18a",
+    "resolved": false,
+    "createdAt": 1785345659920
+  },
+  {
+    "type": "missing-page",
+    "title": "携程关怀版与适老化酒店预订App对比",
+    "description": "当前Wiki仅覆盖微信支付内的酒店预订入口，但未涉及其他主流平台（如携程关怀版、美团、支付宝等）的适老化酒店预订功能。不同平台的取消政策、退款时效和界面适老化程度可能存在显著差异，对中老年用户选择最优工具至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/012.09 如何用手机订酒店.md",
+    "affectedPages": [
+      "wiki/concepts/手机订酒店.md",
+      "wiki/entities/微信.md"
+    ],
+    "searchQueries": [
+      "携程关怀版 适老化 酒店预订",
+      "美团 酒店预订 老年人 界面",
+      "支付宝 酒店预订 取消政策 退款时效"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-10ca23b5",
+    "resolved": true,
+    "createdAt": 1785345742298,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "微信酒店预订底层服务商与政策一致性分析",
+    "description": "课程中微信支付内的酒店预订功能实际接入的是第三方服务（如同程艺龙），但不同服务商的取消政策、退款时效和房源覆盖可能存在差异。用户在不同微信版本或不同地区可能看到不同的底层服务商，这直接影响操作体验和权益保障。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/012.09 如何用手机订酒店.md",
+    "affectedPages": [
+      "wiki/concepts/手机订酒店.md",
+      "wiki/entities/微信支付.md"
+    ],
+    "searchQueries": [
+      "微信支付 酒店预订 服务商 同程艺龙",
+      "微信酒店 取消政策 退款时效 差异",
+      "微信 酒店入口 第三方 接入 变化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5c67945c",
+    "resolved": false,
+    "createdAt": 1785345742298
+  },
+  {
+    "type": "suggestion",
+    "title": "适老化出行技能组合的完整性与教学路径优化",
+    "description": "当前Wiki已覆盖打车、订火车票、订酒店三项出行技能，但课程中提到的“全套出门新方法”是否还应包含景点门票预订、行程规划工具等技能？评估现有技能组合的完整性，有助于优化适老化教学路径设计。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/012.09 如何用手机订酒店.md",
+    "affectedPages": [
+      "wiki/concepts/手机订酒店.md",
+      "wiki/concepts/手机订火车票.md",
+      "wiki/concepts/手机地图导航.md"
+    ],
+    "searchQueries": [
+      "老年人 手机 景点门票 预订 教程",
+      "适老化 行程规划 App 推荐",
+      "全套出门 数字技能 老年人 教学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-716aa51e",
+    "resolved": false,
+    "createdAt": 1785345742298
+  },
+  {
+    "type": "missing-page",
+    "title": "剪映作为相册制作工具的对比分析",
+    "description": "本课以抖音为例教授相册制作，但用户留言中提及剪映也是常用工具。剪映作为字节跳动旗下的专业视频编辑工具，可能在相册制作功能上比抖音更丰富。建议创建剪映实体页，并与抖音进行功能对比。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/如何玩转智能手机/MD/014.11 如何制作手机相册.md",
+    "affectedPages": [
+      "wiki/entities/抖音.md"
+    ],
+    "searchQueries": [
+      "剪映 电子相册 制作 老年人 教程",
+      "剪映 vs 抖音 相册制作 功能对比",
+      "老年人 视频编辑 工具 易用性 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1eb0e7ce",
+    "resolved": true,
+    "createdAt": 1785345864056,
+    "resolvedAction": "auto-resolved"
   }
 ]
