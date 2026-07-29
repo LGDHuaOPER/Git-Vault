@@ -1,31 +1,416 @@
 {
   "version": 1,
-  "updatedAt": 1785341000295,
+  "updatedAt": 1785342096726,
   "files": {
     "purpose.md": {
       "hash": "77546dadbea32fdcf671400051e18f56",
       "size": 324,
       "mtimeMs": 1785340999546
     },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/001.欢迎词 让我们一起学会学习.md": {
+      "hash": "e62fbfd5d272dd3cbcaaf299235a06e2",
+      "size": 22612,
+      "mtimeMs": 1785313510970
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/002.01 怎样找到更好的学习资源.md": {
+      "hash": "ca52827be502c66e8682d187fac9bcea",
+      "size": 44209,
+      "mtimeMs": 1785313511941
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/003.02 怎样制定更有价值的学习目标.md": {
+      "hash": "e8f3587467ef74cf8e40cce694613209",
+      "size": 34980,
+      "mtimeMs": 1785313512929
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/004.03 怎样学得更快更好.md": {
+      "hash": "f1f50365cef16b18688ae6c350aed4c5",
+      "size": 28325,
+      "mtimeMs": 1785313513803
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/005.04 怎样学以致用.md": {
+      "hash": "bfaa822d9be22f496a47ce1dc02d75dd",
+      "size": 43218,
+      "mtimeMs": 1785313514535
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/006.05 怎样让学习过程更愉快.md": {
+      "hash": "581ad8791f08225d6473a71ce63ba25a",
+      "size": 24564,
+      "mtimeMs": 1785313515351
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/007.06 大礼包 不同人生阶段，可以在得到学什么.md": {
+      "hash": "498c63d838814280e0f15cb5ac7ce2d9",
+      "size": 31669,
+      "mtimeMs": 1785313516046
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/008.答疑 怎么快速了解一个新领域？.md": {
+      "hash": "d7b2f3e31efd3fe6679de0e87714e166",
+      "size": 35858,
+      "mtimeMs": 1785313516612
+    },
+    "raw/sources/脱不花·怎样成为高效学习的人/MD/1617120000.关于学习，你可以坚持的5个行动.md": {
+      "hash": "2d000a104f6fbf10ef11acb91d0142ac",
+      "size": 23986,
+      "mtimeMs": 1785313517175
+    },
     "schema.md": {
       "hash": "74be8ad21cdd66495b0e39508ee783b9",
       "size": 2078,
       "mtimeMs": 1785340999534
     },
+    "wiki/concepts/三级导师制.md": {
+      "hash": "1a3f384178abad25a88f4e121abbd06e",
+      "size": 1869,
+      "mtimeMs": 1785341495074
+    },
+    "wiki/concepts/两轮笔记法.md": {
+      "hash": "71461647ac9698349dd9acdace40abd0",
+      "size": 2114,
+      "mtimeMs": 1785341759500
+    },
+    "wiki/concepts/人生阶段学习路径.md": {
+      "hash": "85ea63638152be9ce84d7081f1202fc8",
+      "size": 2064,
+      "mtimeMs": 1785341940063
+    },
+    "wiki/concepts/任务式学习.md": {
+      "hash": "f2007f7c7089451b1b5620bbf6bc6129",
+      "size": 1750,
+      "mtimeMs": 1785341426079
+    },
+    "wiki/concepts/偶遇式学习.md": {
+      "hash": "ae3987066fecca5b4a4d0cc2a56b272f",
+      "size": 1765,
+      "mtimeMs": 1785341940052
+    },
+    "wiki/concepts/全职妈妈的学习策略.md": {
+      "hash": "7a757195b5e4bb56f4724035963d9608",
+      "size": 1728,
+      "mtimeMs": 1785342034574
+    },
+    "wiki/concepts/刷书法.md": {
+      "hash": "b88d77cff48998b1f0515e531be4a0cc",
+      "size": 1900,
+      "mtimeMs": 1785341681803
+    },
+    "wiki/concepts/十岁假设法.md": {
+      "hash": "8ab9b801ff8b4a189433d9f72f63fce8",
+      "size": 2325,
+      "mtimeMs": 1785341759512
+    },
+    "wiki/concepts/口述学习法.md": {
+      "hash": "f08a7386914d4b265a2758ae0d758a40",
+      "size": 1464,
+      "mtimeMs": 1785342095884
+    },
+    "wiki/concepts/基础扫盲.md": {
+      "hash": "e1a8fd1ef1d13bc3733cea7d7c980c44",
+      "size": 1578,
+      "mtimeMs": 1785342034519
+    },
+    "wiki/concepts/多环境输入法.md": {
+      "hash": "3a8854ee2a3334f7aa13d92147f13156",
+      "size": 1530,
+      "mtimeMs": 1785341681782
+    },
+    "wiki/concepts/好问题清单.md": {
+      "hash": "6465051b941fb0ca0c819c50ace03881",
+      "size": 2988,
+      "mtimeMs": 1785341495084
+    },
+    "wiki/concepts/对标学习法.md": {
+      "hash": "55ac22ad529dbac410fdfbac20db8046",
+      "size": 2865,
+      "mtimeMs": 1785342034508
+    },
+    "wiki/concepts/小本子原理.md": {
+      "hash": "823c76685dfb348a73428192ccbc04d2",
+      "size": 1109,
+      "mtimeMs": 1785341849767
+    },
+    "wiki/concepts/小步子原理.md": {
+      "hash": "1ba461bbd00ff577d4bc7e1e809fbf48",
+      "size": 1529,
+      "mtimeMs": 1785341572727
+    },
+    "wiki/concepts/幻灭感.md": {
+      "hash": "d13bc233f67598c97dc51423cfa4ba13",
+      "size": 1196,
+      "mtimeMs": 1785342034530
+    },
+    "wiki/concepts/惊奇日记.md": {
+      "hash": "0119af4fb5c93137286670a0ae38762e",
+      "size": 1146,
+      "mtimeMs": 1785341849792
+    },
+    "wiki/concepts/指读法.md": {
+      "hash": "22bbc0d9f265e55e936f3a908de8d627",
+      "size": 1787,
+      "mtimeMs": 1785341681771
+    },
+    "wiki/concepts/搜索技巧.md": {
+      "hash": "56e993b3db408fd987dabcc1dfbcf39a",
+      "size": 2276,
+      "mtimeMs": 1785341495094
+    },
+    "wiki/concepts/操作清单法.md": {
+      "hash": "a1a842e83b3edf95c96b2fd0e8d73339",
+      "size": 2283,
+      "mtimeMs": 1785341759536
+    },
+    "wiki/concepts/有场景.md": {
+      "hash": "de842ec56445f0b25668c587ca653c35",
+      "size": 1626,
+      "mtimeMs": 1785341572678
+    },
+    "wiki/concepts/有抓手.md": {
+      "hash": "4e4e96ddeb434e4546bfccd87921c1a7",
+      "size": 1908,
+      "mtimeMs": 1785341572703
+    },
+    "wiki/concepts/有距离.md": {
+      "hash": "250b87e0dbe12ee4844c8d47368cdf45",
+      "size": 1480,
+      "mtimeMs": 1785341572690
+    },
+    "wiki/concepts/有阶梯.md": {
+      "hash": "f955b82d127ec7b5e39a498f5b56e4cc",
+      "size": 2049,
+      "mtimeMs": 1785341572715
+    },
+    "wiki/concepts/正反馈.md": {
+      "hash": "3f117dc1bc6abab9d07e17252121ecd2",
+      "size": 1747,
+      "mtimeMs": 1785341849746
+    },
+    "wiki/concepts/注意力管理.md": {
+      "hash": "38391f52551ca409f60e61fe70823b92",
+      "size": 1427,
+      "mtimeMs": 1785341426104
+    },
+    "wiki/concepts/测试前置法.md": {
+      "hash": "ee2dbf6d7d81872e50ca0778c3131c2f",
+      "size": 2046,
+      "mtimeMs": 1785341681761
+    },
+    "wiki/concepts/环境场.md": {
+      "hash": "24396f6b880d50d626aa13e7fbad5b9b",
+      "size": 1425,
+      "mtimeMs": 1785341849779
+    },
+    "wiki/concepts/知识导游.md": {
+      "hash": "705bc87ef605358d631bea7c6522381a",
+      "size": 1562,
+      "mtimeMs": 1785341940041
+    },
+    "wiki/concepts/知识迁移.md": {
+      "hash": "f8c3bede5d247778340237e8efff9d60",
+      "size": 2071,
+      "mtimeMs": 1785341759524
+    },
+    "wiki/concepts/秘密基地-学习社区.md": {
+      "hash": "baf80c57a67ff4d52d779032afd3e808",
+      "size": 1684,
+      "mtimeMs": 1785341849803
+    },
+    "wiki/concepts/终身学习.md": {
+      "hash": "25846d28d9a2fd815f6408c442f7a9d1",
+      "size": 1635,
+      "mtimeMs": 1785341426091
+    },
+    "wiki/concepts/自驱力.md": {
+      "hash": "56b43f4bc67b74e176105911029b5a67",
+      "size": 1472,
+      "mtimeMs": 1785341849756
+    },
+    "wiki/concepts/记忆宫殿法.md": {
+      "hash": "b8abde2012d6d863034aa387922cde08",
+      "size": 2193,
+      "mtimeMs": 1785341681793
+    },
+    "wiki/concepts/课题意识.md": {
+      "hash": "ca1f219fab848f53a79488abae764b24",
+      "size": 1356,
+      "mtimeMs": 1785342095861
+    },
+    "wiki/concepts/野鸭清单.md": {
+      "hash": "a1a10b6551b4215c31225abfaaca013a",
+      "size": 1391,
+      "mtimeMs": 1785342095872
+    },
+    "wiki/entities/Coursera.md": {
+      "hash": "c597aece462d6a13bf82a69e781638fb",
+      "size": 552,
+      "mtimeMs": 1785341495150
+    },
+    "wiki/entities/刘晗.md": {
+      "hash": "f12d8f8d87bfb71859d40e50a966d687",
+      "size": 631,
+      "mtimeMs": 1785341495124
+    },
+    "wiki/entities/利玛窦.md": {
+      "hash": "2720704ab1fef2b48819266096c43cb0",
+      "size": 685,
+      "mtimeMs": 1785341681844
+    },
+    "wiki/entities/可汗学院.md": {
+      "hash": "b8203ce306d2f0fb0a3d0d71a4b29d9b",
+      "size": 656,
+      "mtimeMs": 1785341495141
+    },
+    "wiki/entities/张小龙.md": {
+      "hash": "3452ed627c77d275aace60019c4b701f",
+      "size": 541,
+      "mtimeMs": 1785341495105
+    },
+    "wiki/entities/得到app.md": {
+      "hash": "dfd12fdf1ed46c68cc5029348bf4dd0b",
+      "size": 1415,
+      "mtimeMs": 1785341426067
+    },
+    "wiki/entities/得到电子书.md": {
+      "hash": "e7e324dfcb6775a95e8205cbb37315d1",
+      "size": 1234,
+      "mtimeMs": 1785341940018
+    },
+    "wiki/entities/得到锦囊.md": {
+      "hash": "c32baa5883f09812eb0653883b6375ec",
+      "size": 1455,
+      "mtimeMs": 1785341940029
+    },
+    "wiki/entities/梁贵柏.md": {
+      "hash": "eb74513e6a30be4ffd5d2ada47f4dba0",
+      "size": 855,
+      "mtimeMs": 1785342034542
+    },
+    "wiki/entities/楼夷.md": {
+      "hash": "469f68f1db2904fdb8afded946927634",
+      "size": 639,
+      "mtimeMs": 1785342034563
+    },
+    "wiki/entities/每天听本书.md": {
+      "hash": "2834afd09ff1eb88d8c5a83062979072",
+      "size": 1401,
+      "mtimeMs": 1785341940008
+    },
+    "wiki/entities/沈祖芸.md": {
+      "hash": "558a2b4bae65e94e05fcba3327796687",
+      "size": 671,
+      "mtimeMs": 1785342034552
+    },
+    "wiki/entities/知识城邦.md": {
+      "hash": "c949aaa739301fa6802e8e82ea76f5d5",
+      "size": 1471,
+      "mtimeMs": 1785341849828
+    },
+    "wiki/entities/罗伯特-比约克.md": {
+      "hash": "4248283e10a9e3f97cdd797efb48d8cf",
+      "size": 1051,
+      "mtimeMs": 1785341681814
+    },
+    "wiki/entities/罗振宇.md": {
+      "hash": "8813b626b3c589ee994ab9ba55f6b1e3",
+      "size": 844,
+      "mtimeMs": 1785341681825
+    },
+    "wiki/entities/脱不花.md": {
+      "hash": "628d31c1bf4d3bea8263e1238e8cf429",
+      "size": 1276,
+      "mtimeMs": 1785341426054
+    },
+    "wiki/entities/蔡钰.md": {
+      "hash": "381b6a71844fe4a24a844d542d17aee7",
+      "size": 609,
+      "mtimeMs": 1785341495132
+    },
+    "wiki/entities/薛兆丰.md": {
+      "hash": "d7f7e3d452591caede705b4ebe2b5986",
+      "size": 519,
+      "mtimeMs": 1785341495114
+    },
+    "wiki/entities/西蒙尼德斯.md": {
+      "hash": "c9645163c3b80bad251caad777692f20",
+      "size": 1074,
+      "mtimeMs": 1785341681835
+    },
+    "wiki/entities/讯飞语记.md": {
+      "hash": "a55c49b6a4034f3894b225b8d802f1fd",
+      "size": 868,
+      "mtimeMs": 1785341759545
+    },
+    "wiki/entities/陈海贤.md": {
+      "hash": "dbadd444a26be2739634051edaab628c",
+      "size": 1029,
+      "mtimeMs": 1785341572737
+    },
+    "wiki/entities/麦肯锡.md": {
+      "hash": "7235ed0a805ce94c557d5f9229d23c7c",
+      "size": 1026,
+      "mtimeMs": 1785341572746
+    },
+    "wiki/entities/黄碧云.md": {
+      "hash": "3c55238bf87650f6097e9981c47b6c3b",
+      "size": 1711,
+      "mtimeMs": 1785341849816
+    },
     "wiki/index.md": {
-      "hash": "d91e1fb23c75e4ae861b00fd75a7aee1",
-      "size": 93,
-      "mtimeMs": 1785340999484
+      "hash": "57c072eabb09a8597b72b4d8f74b5342",
+      "size": 4555,
+      "mtimeMs": 1785342095923
     },
     "wiki/log.md": {
-      "hash": "df07c92d8f23ee5efa4470159141ef25",
-      "size": 49,
-      "mtimeMs": 1785340999485
+      "hash": "5d711c407a8b50331b20d186d3cbdd0e",
+      "size": 5708,
+      "mtimeMs": 1785342095896
     },
     "wiki/overview.md": {
       "hash": "3a6b8de12b70516be93fe9f2f947b45c",
       "size": 210,
       "mtimeMs": 1785340999486
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--12-00504-怎样学以致用--1bns1k1.md": {
+      "hash": "bcb432e1034116e6d1b6478687bda379",
+      "size": 2469,
+      "mtimeMs": 1785341759489
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--14-00403-怎样学得更快更好--qomtix.md": {
+      "hash": "37265fa1c492eb322cad06938908b56a",
+      "size": 2395,
+      "mtimeMs": 1785341681750
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--16-001欢迎词-让我们一起学会学习--aumm31.md": {
+      "hash": "d8a6e2e0cf9b5712d2b2a715ccfcf47a",
+      "size": 2571,
+      "mtimeMs": 1785341426041
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--16-00605-怎样让学习过程更愉快--px6nwp.md": {
+      "hash": "a98ebf9e796c1427b9aa53cc23b58825",
+      "size": 2788,
+      "mtimeMs": 1785341849734
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--17-00201-怎样找到更好的学习资源--rpcnyb.md": {
+      "hash": "32c18f4628160867606346ba6cc076d6",
+      "size": 3074,
+      "mtimeMs": 1785341495064
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--17-008答疑-怎么快速了解一个新领域--keuy7y.md": {
+      "hash": "0adcfdc0a119d9baff2d8387c22cbd84",
+      "size": 6793,
+      "mtimeMs": 1785342034497
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--19-00302-怎样制定更有价值的学习目标--rby5i3.md": {
+      "hash": "5cbdcc9db5b81c8913753f794aa70862",
+      "size": 2139,
+      "mtimeMs": 1785341572665
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--24-00706-大礼包-不同人生阶段可以在得到学什么--yuazkn.md": {
+      "hash": "f9bbd6bf953598cdb29c852798b150a1",
+      "size": 3824,
+      "mtimeMs": 1785341939997
+    },
+    "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--24-1617120000关于学习你可以坚持的5个行动--sgy8x3.md": {
+      "hash": "ba433e4fadc3276457b72fa3cf171287",
+      "size": 2739,
+      "mtimeMs": 1785342095848
     }
   }
 }

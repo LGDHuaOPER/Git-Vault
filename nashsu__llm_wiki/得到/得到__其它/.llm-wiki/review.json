@@ -1,0 +1,665 @@
+[
+  {
+    "type": "suggestion",
+    "title": "任务式学习与项目式学习(PBL)的异同辨析",
+    "description": "课程将“任务式学习”宣称为“公认的最好学习方式”，但未提供任何学术引用，也未与教育学界成熟的“项目式学习(Project-Based Learning)”和“问题式学习(Problem-Based Learning)”进行区分。这导致该核心概念的理论基础模糊，可能只是已有理论的重新包装。澄清这一关系对于评估课程方法论的有效性至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/001.欢迎词 让我们一起学会学习.md",
+    "affectedPages": [
+      "wiki/concepts/任务式学习.md"
+    ],
+    "searchQueries": [
+      "任务式学习 项目式学习 区别",
+      "task-based learning vs project-based learning",
+      "脱不花 任务式学习 理论来源"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-afdc9839",
+    "resolved": false,
+    "createdAt": 1785341426178
+  },
+  {
+    "type": "suggestion",
+    "title": "注意力涣散与学业成绩关联的原始研究溯源",
+    "description": "课程引用“每天多用一个小时手机，期末考试成绩下降0.3分”的国外统计数据，但未注明具体来源。这一数据是支撑“注意力涣散是学习最大拦路虎”这一核心诊断的关键证据。核实其出处、样本范围和效应量，对于判断该论断的可靠性至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/001.欢迎词 让我们一起学会学习.md",
+    "affectedPages": [
+      "wiki/concepts/注意力管理.md",
+      "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--16-001欢迎词-让我们一起学会学习--aumm31.md"
+    ],
+    "searchQueries": [
+      "每天多用一个小时手机 期末考试成绩下降 0.3分 研究",
+      "mobile phone use academic performance meta-analysis",
+      "smartphone screen time exam scores effect size"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-354d29d2",
+    "resolved": false,
+    "createdAt": 1785341426178
+  },
+  {
+    "type": "missing-page",
+    "title": "罗振宇",
+    "description": "罗振宇（罗胖）作为得到的联合创始人，在课程中被提及，是理解得到App创立背景和知识服务行业的关键人物。当前Wiki中尚无其专属页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/001.欢迎词 让我们一起学会学习.md",
+    "affectedPages": [
+      "wiki/entities/得到app.md",
+      "wiki/entities/脱不花.md"
+    ],
+    "searchQueries": [
+      "罗振宇 得到App 创业经历",
+      "罗振宇 跨年演讲 知识服务",
+      "罗胖 罗辑思维 影响力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2b40bd04",
+    "resolved": true,
+    "createdAt": 1785341426178,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "任务式学习",
+    "description": "文中多次提及“任务式学习”作为核心学习理念，但该概念页面尚未创建，需补充其定义、方法论及与三级导师制的关系。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/002.01 怎样找到更好的学习资源.md",
+    "affectedPages": [
+      "wiki/concepts/三级导师制.md",
+      "wiki/concepts/好问题清单.md"
+    ],
+    "searchQueries": [
+      "任务式学习 脱不花",
+      "任务式学习 方法论",
+      "task-based learning 成人学习"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-10193b9c",
+    "resolved": true,
+    "createdAt": 1785341495215,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "三级导师制的局限性及补充方案",
+    "description": "文中坦诚“跟人学”对社交能力要求高，但未探讨内向者或资源匮乏者的替代或补充方案，这关系到方法论的普适性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/002.01 怎样找到更好的学习资源.md",
+    "affectedPages": [
+      "wiki/concepts/三级导师制.md"
+    ],
+    "searchQueries": [
+      "内向者 如何跟人学",
+      "社交焦虑 学习策略",
+      "三级导师制 局限性 补充"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e6f94e55",
+    "resolved": false,
+    "createdAt": 1785341495215
+  },
+  {
+    "type": "missing-page",
+    "title": "注意力管理",
+    "description": "用户留言中提及“学习资源多了也焦虑”，脱不花回应需根据任务拣选资源，这直接关联“注意力管理”概念，但该页面缺失。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/002.01 怎样找到更好的学习资源.md",
+    "affectedPages": [
+      "wiki/sources/13-脱不花怎样成为高效学习的人--2-md--17-00201-怎样找到更好的学习资源--rpcnyb.md"
+    ],
+    "searchQueries": [
+      "注意力管理 学习焦虑",
+      "信息过载 应对策略",
+      "脱不花 注意力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-30626a0a",
+    "resolved": true,
+    "createdAt": 1785341495215,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "\"四有\"框架与OKR、SMART原则的对比研究",
+    "description": "脱不花提出的\"四有\"框架（有场景、有距离、有抓手、有阶梯）与成熟的OKR、SMART原则等目标管理框架存在相似之处。留言区用户已指出这一关联，但作者未主动建立对比。建议后续研究探索三者之间的异同、互补关系及适用场景差异。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/003.02 怎样制定更有价值的学习目标.md",
+    "searchQueries": [
+      "OKR目标管理方法 四有框架 对比",
+      "SMART原则 学习目标制定 应用",
+      "脱不花 四有目标法 OKR 关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-e6cd0526",
+    "resolved": false,
+    "createdAt": 1785341572830
+  },
+  {
+    "type": "missing-page",
+    "title": "任务式学习页面需更新",
+    "description": "[[任务式学习]]概念页已存在，但尚未纳入本讲的核心内容。建议更新该页面，将\"四有\"目标制定法作为任务式学习的核心子方法论纳入，建立与[[有场景]]、[[有距离]]、[[有抓手]]、[[有阶梯]]的链接。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/003.02 怎样制定更有价值的学习目标.md",
+    "affectedPages": [
+      "wiki/concepts/任务式学习.md"
+    ],
+    "searchQueries": [
+      "任务式学习 目标制定 方法论",
+      "脱不花 任务式学习 四有框架"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-e4714f9d",
+    "resolved": true,
+    "createdAt": 1785341572830,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "《如何阅读一本书》实体页",
+    "description": "课程留言区用户\"UVW\"引用了《如何阅读一本书》中关于指读法原理的说明（眼睛\"逗留\"与\"倒退\"现象），该书是阅读方法领域的经典著作，建议创建实体页记录其核心贡献。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/004.03 怎样学得更快更好.md",
+    "affectedPages": [
+      "wiki/concepts/指读法.md"
+    ],
+    "searchQueries": [
+      "《如何阅读一本书》莫提默·艾德勒 核心方法",
+      "How to Read a Book Mortimer Adler reading levels",
+      "如何阅读一本书 指读法 逗留 倒退 原理"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c76b2c33",
+    "resolved": true,
+    "createdAt": 1785341681944,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "《与爱因斯坦月球漫步》实体页",
+    "description": "课程正文推荐了《与爱因斯坦月球漫步：三步唤醒你的惊人记忆力》作为记忆宫殿法的训练资源，建议创建实体页。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/004.03 怎样学得更快更好.md",
+    "affectedPages": [
+      "wiki/concepts/记忆宫殿法.md"
+    ],
+    "searchQueries": [
+      "《与爱因斯坦月球漫步》乔舒亚·福尔 记忆训练",
+      "Moonwalking with Einstein Joshua Foer memory palace",
+      "与爱因斯坦月球漫步 三步唤醒惊人记忆力 核心方法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f6c98c29",
+    "resolved": true,
+    "createdAt": 1785341681944,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "比约克实验的实证细节查证",
+    "description": "课程引用的比约克实验仅提供了\"成绩高出10%\"的结论，未给出样本量、效应量、可重复性等关键参数。建议进一步查证原始研究以评估证据强度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/004.03 怎样学得更快更好.md",
+    "affectedPages": [
+      "wiki/entities/罗伯特-比约克.md",
+      "wiki/concepts/测试前置法.md"
+    ],
+    "searchQueries": [
+      "Robert Bjork pretesting effect experiment parameters sample size",
+      "testing effect meta-analysis learning efficiency",
+      "Bjork desirable difficulties pretest learning outcomes"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4cdce35d",
+    "resolved": false,
+    "createdAt": 1785341681944
+  },
+  {
+    "type": "missing-page",
+    "title": "费曼学习法与十岁假设法对比",
+    "description": "十岁假设法与费曼学习法（Feynman Technique）高度相似，都强调\"通过教别人来验证自己是否真正理解\"。建议创建对比页面，分析两者是否为同一方法的不同表述，以及各自的特点和适用场景。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/005.04 怎样学以致用.md",
+    "affectedPages": [
+      "wiki/comparisons/费曼学习法与十岁假设法.md"
+    ],
+    "searchQueries": [
+      "Feynman Technique vs teaching a ten year old method comparison",
+      "费曼学习法 十岁假设法 区别",
+      "脱不花 十岁假设法 费曼技巧"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7c3961b0",
+    "resolved": false,
+    "createdAt": 1785341759604
+  },
+  {
+    "type": "suggestion",
+    "title": "两轮笔记法与康奈尔笔记法等主流笔记法的系统对比",
+    "description": "两轮笔记法强调\"缝合\"和个人感受记录，与康奈尔笔记法、卡片盒笔记法等主流笔记方法在结构、目的和适用场景上存在差异。建议创建对比页面，分析各方法的异同、优劣及适用场景，帮助用户根据自身学习需求选择或组合使用。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/005.04 怎样学以致用.md",
+    "affectedPages": [
+      "wiki/concepts/两轮笔记法.md"
+    ],
+    "searchQueries": [
+      "两轮笔记法 康奈尔笔记法 对比",
+      "Cornell note taking method vs two-round note taking",
+      "脱不花 笔记方法 对比 主流笔记法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64ab59b1",
+    "resolved": false,
+    "createdAt": 1785341759604
+  },
+  {
+    "type": "suggestion",
+    "title": "操作清单法与认知科学中“程序性知识”形成机制的关系探究",
+    "description": "操作清单法旨在将知识固化为能力，这与认知科学中陈述性知识向程序性知识转化的理论高度相关。建议探究操作清单法背后的认知心理学原理，如刻意练习、心理表征等，为该方法提供更坚实的理论支撑。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/005.04 怎样学以致用.md",
+    "affectedPages": [
+      "wiki/concepts/操作清单法.md"
+    ],
+    "searchQueries": [
+      "操作清单 程序性知识 内化 认知心理学",
+      "procedural knowledge acquisition checklist method",
+      "脱不花 操作清单法 理论依据 刻意练习"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ff810e41",
+    "resolved": false,
+    "createdAt": 1785341759604
+  },
+  {
+    "type": "missing-page",
+    "title": "刘润实体页面",
+    "description": "刘润作为得到课程《5分钟商学院》主理人，在黄碧云案例中被提及为回复留言的老师之一。当前Wiki中尚无刘润的实体页面，建议评估是否需要创建。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/006.05 怎样让学习过程更愉快.md",
+    "searchQueries": [
+      "刘润 得到 5分钟商学院",
+      "刘润 商业顾问 简介",
+      "刘润 著作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64e7738b",
+    "resolved": false,
+    "createdAt": 1785341849923
+  },
+  {
+    "type": "suggestion",
+    "title": "正反馈适应效应研究",
+    "description": "本讲未讨论正反馈机制是否存在“适应效应”（即需要不断增强刺激才能维持效果）。这是一个值得探索的开放问题，建议后续寻找相关心理学或行为经济学研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/006.05 怎样让学习过程更愉快.md",
+    "searchQueries": [
+      "hedonic adaptation learning motivation",
+      "positive feedback desensitization gamification",
+      "self-determination theory feedback frequency"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-458bc587",
+    "resolved": false,
+    "createdAt": 1785341849923
+  },
+  {
+    "type": "missing-page",
+    "title": "快刀青衣、马想、夏生等得到高管实体页面",
+    "description": "本讲提及得到App联合创始人快刀青衣、COO马想、运营负责人夏生，目前Wiki中尚无对应实体页面。是否需要创建？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/007.06 大礼包 不同人生阶段，可以在得到学什么.md",
+    "searchQueries": [
+      "快刀青衣 得到App 联合创始人",
+      "马想 得到App COO",
+      "夏生 得到App 运营负责人"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-720e69d9",
+    "resolved": false,
+    "createdAt": 1785341940130
+  },
+  {
+    "type": "missing-page",
+    "title": "古典、万维钢、吴军等课程主理人实体页面",
+    "description": "本讲推荐了多位得到App课程主理人（古典、万维钢、吴军、刘润、武志红、施展、李筠、徐弃郁、熊太行、熊逸、贾行家、香帅、何帆），其中仅薛兆丰、陈海贤、刘晗已在Wiki中。是否需要为其他主理人创建实体页面？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/007.06 大礼包 不同人生阶段，可以在得到学什么.md",
+    "searchQueries": [
+      "古典 超级个体 得到App",
+      "万维钢 精英日课 得到App",
+      "吴军 硅谷来信 得到App"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3a3bdf7e",
+    "resolved": false,
+    "createdAt": 1785341940130
+  },
+  {
+    "type": "suggestion",
+    "title": "偶遇式学习与算法推荐的平衡研究",
+    "description": "偶遇式学习概念涉及平台如何在精准推荐和意外发现之间取得平衡，这是一个值得深入探讨的设计问题。建议后续关注相关研究或案例。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/007.06 大礼包 不同人生阶段，可以在得到学什么.md",
+    "searchQueries": [
+      "serendipitous learning algorithm recommendation balance",
+      "偶遇式学习 算法推荐 知识平台",
+      "information discovery vs personalization trade-off"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0d7f8c2d",
+    "resolved": false,
+    "createdAt": 1785341940130
+  },
+  {
+    "type": "missing-page",
+    "title": "梁贵柏的得到课程或著作",
+    "description": "脱不花在答疑中引用梁贵柏作为“输出倒逼输入”的典范，但Wiki中仅记录了其身份（药物学家、得到老师），未建立其具体课程或著作的页面。了解梁贵柏在得到App上的具体输出内容，有助于丰富“输出倒逼输入”的案例库。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/008.答疑 怎么快速了解一个新领域？.md",
+    "affectedPages": [
+      "entities/梁贵柏.md",
+      "concepts/输出倒逼输入.md"
+    ],
+    "searchQueries": [
+      "梁贵柏 得到App 课程",
+      "梁贵柏 药物学家 著作",
+      "梁贵柏 商学院 带课"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-69639529",
+    "resolved": true,
+    "createdAt": 1785342034648,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“跟自己比”与“跟导师对标”的整合框架",
+    "description": "Wiki中已记录[[小步子原理]]（强调自我比较、逐步推进）与[[对标学习法]]（强调以导师为参照物进行外部对标）之间的潜在冲突。虽然已初步辨析两者适用阶段不同，但缺乏一个清晰的整合框架来指导学习者在不同阶段切换策略。这值得作为一个研究问题深入探讨。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/008.答疑 怎么快速了解一个新领域？.md",
+    "affectedPages": [
+      "concepts/对标学习法.md",
+      "concepts/小步子原理.md"
+    ],
+    "searchQueries": [
+      "自我比较 与 外部对标 学习策略 整合",
+      "小步子原理 对标学习 阶段切换",
+      "学习中的自我参照 与 他人参照 心理学研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-799f2b30",
+    "resolved": false,
+    "createdAt": 1785342034648
+  },
+  {
+    "type": "missing-page",
+    "title": "用户成功部",
+    "description": "脱不花以组建“用户成功部”作为任务式学习的核心案例，详细描述了其如何围绕该任务进行阅读、请教和输出。这是一个生动的“任务式学习”实践样本，但Wiki中尚未建立该部门的独立页面来记录其背景、定义及与得到App战略的关联。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/008.答疑 怎么快速了解一个新领域？.md",
+    "affectedPages": [
+      "concepts/任务式学习.md",
+      "sources/13-脱不花怎样成为高效学习的人--2-md--17-008答疑-怎么快速了解一个新领域--keuy7y.md"
+    ],
+    "searchQueries": [
+      "得到App 用户成功部",
+      "用户成功 部门 职责",
+      "脱不花 用户成功部 演讲"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1e1efbbf",
+    "resolved": true,
+    "createdAt": 1785342034648,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "陈凯的“野鸭清单”交易哲学原始出处与完整体系",
+    "description": "“野鸭清单”概念源自得到App老师陈凯的证券交易哲学，但当前知识库仅记录了脱不花的转述。陈凯本人的交易体系、方法论细节及其在投资领域的原始应用场景尚不明确，补充其原始出处有助于更深入地理解该概念的底层逻辑和迁移边界。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/1617120000.关于学习，你可以坚持的5个行动.md",
+    "affectedPages": [
+      "wiki/concepts/野鸭清单.md"
+    ],
+    "searchQueries": [
+      "陈凯 野鸭清单 交易哲学",
+      "陈凯 得到App 证券交易 方法论",
+      "野鸭清单 投资 猎人 哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0350fa2d",
+    "resolved": false,
+    "createdAt": 1785342095943
+  },
+  {
+    "type": "suggestion",
+    "title": "“课题意识”与设计思维（Design Thinking）中“问题定义”阶段的比较研究",
+    "description": "“课题意识”强调将模糊问题转化为有边界、可交付的课题，这与设计思维中“定义问题”（Define）阶段高度相似。探究两者在方法论、工具和适用场景上的异同，可以提升“课题意识”的理论深度，并为用户提供更丰富的实操工具。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/1617120000.关于学习，你可以坚持的5个行动.md",
+    "affectedPages": [
+      "wiki/concepts/课题意识.md"
+    ],
+    "searchQueries": [
+      "课题意识 设计思维 问题定义 对比",
+      "Design Thinking problem definition vs课题",
+      "如何定义有边界的问题 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5afe7c9f",
+    "resolved": false,
+    "createdAt": 1785342095943
+  },
+  {
+    "type": "suggestion",
+    "title": "“口述学习法”与“费曼学习法”的实操效果对比研究",
+    "description": "文章指出“口述学习法”与费曼学习法原理相通，但两者在具体操作（如对象选择、反馈机制、输出形式）上存在差异。寻找关于这两种方法在记忆留存、理解深度等方面效果的实证研究或系统性对比分析，能帮助用户在不同场景下做出更优选择。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__其它/raw/sources/脱不花·怎样成为高效学习的人/MD/1617120000.关于学习，你可以坚持的5个行动.md",
+    "affectedPages": [
+      "wiki/concepts/口述学习法.md"
+    ],
+    "searchQueries": [
+      "口述学习法 费曼学习法 对比 效果",
+      "以教为学 口述 书面 记忆 效果 研究",
+      "费曼技巧 口述 实证 研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6e03fc23",
+    "resolved": false,
+    "createdAt": 1785342095943
+  }
+]
