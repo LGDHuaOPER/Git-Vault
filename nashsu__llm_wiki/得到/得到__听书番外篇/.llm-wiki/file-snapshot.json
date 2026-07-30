@@ -1,0 +1,3576 @@
+{
+  "version": 1,
+  "updatedAt": 1785433217904,
+  "files": {
+    "purpose.md": {
+      "hash": "77546dadbea32fdcf671400051e18f56",
+      "size": 324,
+      "mtimeMs": 1785424966989
+    },
+    "raw/sources/听书番外篇/MD/001.《领导力》番外篇.md": {
+      "hash": "08ecd1b870ab9b1348b6d85252960945",
+      "size": 14930,
+      "mtimeMs": 1785342778382
+    },
+    "raw/sources/听书番外篇/MD/002.《规模》番外篇.md": {
+      "hash": "f22fb373bcecb8602c5b6732f8440d92",
+      "size": 7354,
+      "mtimeMs": 1785342778793
+    },
+    "raw/sources/听书番外篇/MD/003.《人类网络》番外篇.md": {
+      "hash": "7388c10b13db7748ba03fa9f26f68afa",
+      "size": 4654,
+      "mtimeMs": 1785342779172
+    },
+    "raw/sources/听书番外篇/MD/004.《千面英雄》番外篇.md": {
+      "hash": "91fb124a7ed2721b04df05168811ff34",
+      "size": 5988,
+      "mtimeMs": 1785342779565
+    },
+    "raw/sources/听书番外篇/MD/005.《魔球》番外篇.md": {
+      "hash": "3a0e9a7e7c79c34edc3461491e1ad4b0",
+      "size": 5785,
+      "mtimeMs": 1785342779907
+    },
+    "raw/sources/听书番外篇/MD/006.《模型思维》番外篇.md": {
+      "hash": "227df93d2b4641c3e7a2c73e665676f0",
+      "size": 5084,
+      "mtimeMs": 1785342780253
+    },
+    "raw/sources/听书番外篇/MD/007.《论大战略》番外篇.md": {
+      "hash": "31262a79ee6d90eba279455cf7d9a3db",
+      "size": 4409,
+      "mtimeMs": 1785342780593
+    },
+    "raw/sources/听书番外篇/MD/008.《为什么》番外篇.md": {
+      "hash": "9bea35e0e05ef6253e1a0813252a968a",
+      "size": 5886,
+      "mtimeMs": 1785342780948
+    },
+    "raw/sources/听书番外篇/MD/009.《黑客与画家》番外篇.md": {
+      "hash": "52027e06716d658f945f09f2c0e28fbb",
+      "size": 4456,
+      "mtimeMs": 1785342781270
+    },
+    "raw/sources/听书番外篇/MD/010.《有限与无限的游戏》番外篇.md": {
+      "hash": "43574281703eaed3d61d3387ebe06c2f",
+      "size": 7469,
+      "mtimeMs": 1785342781596
+    },
+    "raw/sources/听书番外篇/MD/011.《灭火》番外篇.md": {
+      "hash": "6f7dd2451ba3afaa5d023b22f43dfe1f",
+      "size": 4842,
+      "mtimeMs": 1785342781936
+    },
+    "raw/sources/听书番外篇/MD/012.《原则》番外篇.md": {
+      "hash": "7287612935725c2659e2a1c77b3a6825",
+      "size": 6462,
+      "mtimeMs": 1785342782369
+    },
+    "raw/sources/听书番外篇/MD/013.《卓有成效的管理者》番外篇.md": {
+      "hash": "82edbf295d05b94c4e8a28bfdfacd4c2",
+      "size": 7311,
+      "mtimeMs": 1785342782717
+    },
+    "raw/sources/听书番外篇/MD/014.《21世纪资本论》番外篇.md": {
+      "hash": "d19ba9acc7b0db41933970d9304de57d",
+      "size": 8285,
+      "mtimeMs": 1785342783047
+    },
+    "raw/sources/听书番外篇/MD/015.《财富的起源》番外篇.md": {
+      "hash": "f9b21a67741d90fe4a34f2b6cc3abbf1",
+      "size": 4694,
+      "mtimeMs": 1785342783379
+    },
+    "raw/sources/听书番外篇/MD/016.《大空头》番外篇.md": {
+      "hash": "40ec933b2cce0c88e322044d693705c7",
+      "size": 5733,
+      "mtimeMs": 1785342783724
+    },
+    "raw/sources/听书番外篇/MD/017.《赋能》番外篇.md": {
+      "hash": "273338e4cc17951202fd57aa7405898e",
+      "size": 4676,
+      "mtimeMs": 1785342784055
+    },
+    "raw/sources/听书番外篇/MD/018.《大转型》番外篇.md": {
+      "hash": "67a1b7aef379ca6f466a69ec2430dd5b",
+      "size": 7810,
+      "mtimeMs": 1785342784395
+    },
+    "raw/sources/听书番外篇/MD/019.《微观动机与宏观行为》番外篇.md": {
+      "hash": "07517b3431bccf72daa82d7c5425b302",
+      "size": 6616,
+      "mtimeMs": 1785342784782
+    },
+    "raw/sources/听书番外篇/MD/020.《成就》番外篇.md": {
+      "hash": "eda7339256ba047c68c657e0c0269ed4",
+      "size": 8953,
+      "mtimeMs": 1785342785135
+    },
+    "raw/sources/听书番外篇/MD/021.《艾希曼在耶路撒冷》番外篇.md": {
+      "hash": "48f805b24fae83c189200b9edce39939",
+      "size": 6024,
+      "mtimeMs": 1785342785503
+    },
+    "raw/sources/听书番外篇/MD/022.《自由的基因》番外篇.md": {
+      "hash": "c74514f34a38e7020a2f71e995e53c6c",
+      "size": 6566,
+      "mtimeMs": 1785342785864
+    },
+    "raw/sources/听书番外篇/MD/023.《文明的冲突与世界秩序的重建》番外篇.md": {
+      "hash": "83e44ebdfba9140b51459c48f1efed00",
+      "size": 5562,
+      "mtimeMs": 1785342786202
+    },
+    "raw/sources/听书番外篇/MD/024.《政治秩序的起源》番外篇.md": {
+      "hash": "0250ac2e6b610c0dc5ebeebc89d034d5",
+      "size": 7808,
+      "mtimeMs": 1785342786561
+    },
+    "raw/sources/听书番外篇/MD/025.《日常生活中的自我呈现》番外篇.md": {
+      "hash": "2790f340a77e2e0f9398e7135a661ba1",
+      "size": 5804,
+      "mtimeMs": 1785342786952
+    },
+    "raw/sources/听书番外篇/MD/026.《走向新建筑》番外篇.md": {
+      "hash": "36839e169dacd60394d2f050ac58d3ad",
+      "size": 7265,
+      "mtimeMs": 1785342787282
+    },
+    "raw/sources/听书番外篇/MD/027.《技术的本质》番外篇.md": {
+      "hash": "d52b8a2f0f4f2b38a710f5ef28f59edd",
+      "size": 7415,
+      "mtimeMs": 1785342787622
+    },
+    "raw/sources/听书番外篇/MD/028.《想象的共同体》番外篇.md": {
+      "hash": "d7164bbee296c00ee30b81b8073c98bd",
+      "size": 4609,
+      "mtimeMs": 1785342787952
+    },
+    "raw/sources/听书番外篇/MD/029.《规训与惩罚》番外篇.md": {
+      "hash": "5fcc776b82baaa7f40fdda44e72bbe8f",
+      "size": 8173,
+      "mtimeMs": 1785342788312
+    },
+    "raw/sources/听书番外篇/MD/030.《理解媒介》番外篇.md": {
+      "hash": "eac272fb41ee4ea294636c170622de2f",
+      "size": 6328,
+      "mtimeMs": 1785342788652
+    },
+    "raw/sources/听书番外篇/MD/031.《棉花帝国》番外篇.md": {
+      "hash": "5b402c8354b81675520a6dabf8ad75c3",
+      "size": 4570,
+      "mtimeMs": 1785342789032
+    },
+    "raw/sources/听书番外篇/MD/032.《枢纽》番外篇.md": {
+      "hash": "4ae48d0817054b8efc749a703083cbaf",
+      "size": 6419,
+      "mtimeMs": 1785342789572
+    },
+    "raw/sources/听书番外篇/MD/033.《说中国》番外篇.md": {
+      "hash": "fa99b05dc1f28ec2d51baf55c51b771f",
+      "size": 4932,
+      "mtimeMs": 1785342789902
+    },
+    "raw/sources/听书番外篇/MD/034.《枪炮、病菌与钢铁》番外篇.md": {
+      "hash": "35cb55c16407b9f0c93dda9e327836d5",
+      "size": 5315,
+      "mtimeMs": 1785342790242
+    },
+    "raw/sources/听书番外篇/MD/035.《天朝的崩溃》番外篇.md": {
+      "hash": "cd79b8d1e2dc9cbfcf17c1ebdcf151bc",
+      "size": 5991,
+      "mtimeMs": 1785342790586
+    },
+    "raw/sources/听书番外篇/MD/036.《万历十五年》番外篇.md": {
+      "hash": "ba9019745ced36bc24c3a9c869d499fb",
+      "size": 5705,
+      "mtimeMs": 1785342790932
+    },
+    "raw/sources/听书番外篇/MD/037.《乡土中国》番外篇.md": {
+      "hash": "4f862d987a11f4de59105843979adbce",
+      "size": 6029,
+      "mtimeMs": 1785342791284
+    },
+    "raw/sources/听书番外篇/MD/038.《人类简史》番外篇.md": {
+      "hash": "7e141f0fe201544c97464c6f7b716b91",
+      "size": 4694,
+      "mtimeMs": 1785342791619
+    },
+    "raw/sources/听书番外篇/MD/039.《历史的教训》番外篇.md": {
+      "hash": "c7eb4a2207b8e8f39a86d22e776b15e0",
+      "size": 4125,
+      "mtimeMs": 1785342791974
+    },
+    "raw/sources/听书番外篇/MD/040.《战争史》番外篇.md": {
+      "hash": "67fa38e8767ccc67f44637bc394efc06",
+      "size": 8153,
+      "mtimeMs": 1785342792312
+    },
+    "raw/sources/听书番外篇/MD/041.《锦灰堆》番外篇.md": {
+      "hash": "47fdd16f2d04d139b84cf08455668926",
+      "size": 4264,
+      "mtimeMs": 1785342792681
+    },
+    "raw/sources/听书番外篇/MD/042.《艺术品如何定价》番外篇.md": {
+      "hash": "92f6148db93f78230363f12a6b1af0d7",
+      "size": 4462,
+      "mtimeMs": 1785342792992
+    },
+    "raw/sources/听书番外篇/MD/043.《隐秘的知识》番外篇.md": {
+      "hash": "35065b2c4816dff1496c3f80205601c3",
+      "size": 4147,
+      "mtimeMs": 1785342793341
+    },
+    "raw/sources/听书番外篇/MD/044.《中国社会中的宗教》番外篇.md": {
+      "hash": "e46c5c2e9f0560ae68a5d6b63010df78",
+      "size": 3951,
+      "mtimeMs": 1785342793682
+    },
+    "raw/sources/听书番外篇/MD/045.《文字的力量》番外篇.md": {
+      "hash": "c272f6b6e21eb274ef86e778323e8978",
+      "size": 3788,
+      "mtimeMs": 1785342794011
+    },
+    "raw/sources/听书番外篇/MD/046.《从混沌到秩序》番外篇.md": {
+      "hash": "b024622b8139d1abae3036e4784e290c",
+      "size": 4370,
+      "mtimeMs": 1785342794341
+    },
+    "raw/sources/听书番外篇/MD/047.《美术、神话与祭祀》番外篇.md": {
+      "hash": "269388a7928c8dab97ad6add6242cac7",
+      "size": 4810,
+      "mtimeMs": 1785342794662
+    },
+    "raw/sources/听书番外篇/MD/048.《去圣乃得真孔子》番外篇.md": {
+      "hash": "ad68f774bb71dbc107224378ddf7947a",
+      "size": 4307,
+      "mtimeMs": 1785342794982
+    },
+    "raw/sources/听书番外篇/MD/049.《为什么佛学是真的》番外篇.md": {
+      "hash": "4f1607c2ffbfebf48a31af55fc44d97b",
+      "size": 4518,
+      "mtimeMs": 1785342795332
+    },
+    "raw/sources/听书番外篇/MD/050.《小说的艺术》番外篇.md": {
+      "hash": "8b7ac4442344fd477811cb7fee30a8cd",
+      "size": 3716,
+      "mtimeMs": 1785342795721
+    },
+    "raw/sources/听书番外篇/MD/051.《集装箱改变世界》番外篇.md": {
+      "hash": "74ec1665d331633decfb66566d86651c",
+      "size": 4545,
+      "mtimeMs": 1785342796082
+    },
+    "raw/sources/听书番外篇/MD/052.《闪电式扩张》番外篇.md": {
+      "hash": "e726b931636ecfbbf09c30bc2aa47114",
+      "size": 6375,
+      "mtimeMs": 1785342796441
+    },
+    "raw/sources/听书番外篇/MD/053.《反脆弱》番外篇.md": {
+      "hash": "ab24193db5f660dcb5c36e8cf29b7f42",
+      "size": 4675,
+      "mtimeMs": 1785342796783
+    },
+    "raw/sources/听书番外篇/MD/054.《失控》番外篇.md": {
+      "hash": "0b8b2dd9573a3a45e324e90c02592727",
+      "size": 4345,
+      "mtimeMs": 1785342797091
+    },
+    "raw/sources/听书番外篇/MD/055.《引爆流行》番外篇.md": {
+      "hash": "04bd37018aa669e36e6f84db76bbd752",
+      "size": 6472,
+      "mtimeMs": 1785342797465
+    },
+    "raw/sources/听书番外篇/MD/056.《天才与算法》番外篇.md": {
+      "hash": "bd69cab1aec5d254429a1bcf1127084f",
+      "size": 6743,
+      "mtimeMs": 1785342797814
+    },
+    "raw/sources/听书番外篇/MD/057.《知识的边界》番外篇.md": {
+      "hash": "ddfdba33a1182b187decbf7677a18e12",
+      "size": 5937,
+      "mtimeMs": 1785342798173
+    },
+    "raw/sources/听书番外篇/MD/058.《智能商业》番外篇.md": {
+      "hash": "7045f6c37fb91c69fb44380ebfe87708",
+      "size": 4429,
+      "mtimeMs": 1785342798524
+    },
+    "raw/sources/听书番外篇/MD/059.《生命3.0》番外篇.md": {
+      "hash": "14666168180d2b3242903d3b445f9eee",
+      "size": 7755,
+      "mtimeMs": 1785342798883
+    },
+    "raw/sources/听书番外篇/MD/060.《信号与噪声》番外篇.md": {
+      "hash": "81928bfa4061e7807a924d7a5c8ffcb6",
+      "size": 5635,
+      "mtimeMs": 1785342799233
+    },
+    "raw/sources/听书番外篇/MD/061.《具身认知》番外篇.md": {
+      "hash": "c0ce24f41c26750b476ff99e7dd6c6f8",
+      "size": 5374,
+      "mtimeMs": 1785342799583
+    },
+    "raw/sources/听书番外篇/MD/062.《我是个怪圈》番外篇.md": {
+      "hash": "4d890a5044b56731e3b780d7b2341a1a",
+      "size": 6175,
+      "mtimeMs": 1785342799932
+    },
+    "raw/sources/听书番外篇/MD/063.《学校如何运转》番外篇.md": {
+      "hash": "3afb292a04d697ad10f81b477b8797ba",
+      "size": 4612,
+      "mtimeMs": 1785342800272
+    },
+    "raw/sources/听书番外篇/MD/064.《梳毛、八卦及语言的进化》番外篇.md": {
+      "hash": "f4eef100cb34e8c1956fe469b35a9048",
+      "size": 6361,
+      "mtimeMs": 1785342800612
+    },
+    "raw/sources/听书番外篇/MD/065.《思考，快与慢》番外篇.md": {
+      "hash": "d2dc0c1021200ce0b344525e071ad085",
+      "size": 4371,
+      "mtimeMs": 1785342801122
+    },
+    "raw/sources/听书番外篇/MD/066.《心智探奇》番外篇.md": {
+      "hash": "d995c842a7d6bbf4779ee2901dff2a43",
+      "size": 5037,
+      "mtimeMs": 1785342801521
+    },
+    "raw/sources/听书番外篇/MD/067.《我们赖以生存的隐喻》番外篇.md": {
+      "hash": "cbccde1024ac20e9cc6141332635ec7b",
+      "size": 4116,
+      "mtimeMs": 1785342801893
+    },
+    "raw/sources/听书番外篇/MD/068.《行为》番外篇.md": {
+      "hash": "70e8b854a68bb2870526efab4154dc5b",
+      "size": 4488,
+      "mtimeMs": 1785342802261
+    },
+    "raw/sources/听书番外篇/MD/069.《脑与阅读》番外篇.md": {
+      "hash": "2086ccfbf330babdf264963a99ba8905",
+      "size": 4107,
+      "mtimeMs": 1785342802672
+    },
+    "raw/sources/听书番外篇/MD/070.《为什么学生不喜欢上学？》番外篇.md": {
+      "hash": "a149d79bd9166f6afdb925a0ab5b67b3",
+      "size": 4409,
+      "mtimeMs": 1785342803024
+    },
+    "raw/sources/听书番外篇/MD/071.《科学革命的结构》番外篇.md": {
+      "hash": "088c11ea789d5ec2ee39d5503db852ce",
+      "size": 4611,
+      "mtimeMs": 1785342803372
+    },
+    "raw/sources/听书番外篇/MD/072.《大设计》番外篇.md": {
+      "hash": "bd4eb3041058258624a340f0a3a33006",
+      "size": 3900,
+      "mtimeMs": 1785342803650
+    },
+    "raw/sources/听书番外篇/MD/073.《超级合作者》番外篇.md": {
+      "hash": "e6934c4a3df09d93bc9d30e5a02dadba",
+      "size": 5210,
+      "mtimeMs": 1785342804011
+    },
+    "raw/sources/听书番外篇/MD/074.《女士品茶》番外篇.md": {
+      "hash": "f91d7bcf970cf3d4a0b914f75b664925",
+      "size": 4518,
+      "mtimeMs": 1785342804381
+    },
+    "raw/sources/听书番外篇/MD/075.《宇宙的琴弦》番外篇.md": {
+      "hash": "a656cf3d8d68925b267672395bee2017",
+      "size": 3982,
+      "mtimeMs": 1785342804651
+    },
+    "raw/sources/听书番外篇/MD/076.《自私的基因》番外篇.md": {
+      "hash": "8291dbd0269b2fa70acaf4cd2728249e",
+      "size": 3153,
+      "mtimeMs": 1785342805001
+    },
+    "raw/sources/听书番外篇/MD/077.《最初三分钟》番外篇.md": {
+      "hash": "f3705c4e5432b9c0c80168f7bec5127f",
+      "size": 4446,
+      "mtimeMs": 1785342805346
+    },
+    "raw/sources/听书番外篇/MD/078.《魔鬼出没的世界》番外篇.md": {
+      "hash": "8b9ffd2ddbf334f3210076bca2620c0c",
+      "size": 4291,
+      "mtimeMs": 1785342805681
+    },
+    "raw/sources/听书番外篇/MD/079.《裸猿》番外篇.md": {
+      "hash": "3193dd4e658826ae3581620265c177a2",
+      "size": 4059,
+      "mtimeMs": 1785342805941
+    },
+    "raw/sources/听书番外篇/MD/080.《大图景》番外篇.md": {
+      "hash": "76eeecff15440aab28a6bb8263d36787",
+      "size": 3489,
+      "mtimeMs": 1785342806282
+    },
+    "raw/sources/听书番外篇/MD/081.《端粒效应》番外篇.md": {
+      "hash": "218c8c5840182e883fdaa3bb841d5409",
+      "size": 5949,
+      "mtimeMs": 1785342806615
+    },
+    "raw/sources/听书番外篇/MD/082.《风景与记忆》番外篇.md": {
+      "hash": "75d2e3f1f3968542765e1b366167a384",
+      "size": 3869,
+      "mtimeMs": 1785342806951
+    },
+    "raw/sources/听书番外篇/MD/083.《格调》番外篇.md": {
+      "hash": "093acd5aa43f810b91c4604f3e08e4df",
+      "size": 3180,
+      "mtimeMs": 1785342807293
+    },
+    "raw/sources/听书番外篇/MD/084.《爱的多重奏》番外篇.md": {
+      "hash": "ceaa573efcb94fb91165d870d1fd2089",
+      "size": 4144,
+      "mtimeMs": 1785342807651
+    },
+    "raw/sources/听书番外篇/MD/085.《百岁人生》番外篇.md": {
+      "hash": "cf3692626ed1991f5d097bba6f6deb51",
+      "size": 5791,
+      "mtimeMs": 1785342807991
+    },
+    "raw/sources/听书番外篇/MD/086.《非暴力沟通》番外篇.md": {
+      "hash": "3310b1d85fad466849853723a20d169d",
+      "size": 5002,
+      "mtimeMs": 1785342808364
+    },
+    "raw/sources/听书番外篇/MD/087.《众病之王 癌症传》番外篇.md": {
+      "hash": "5a8179ab2a4ff97462f528a11900486c",
+      "size": 3653,
+      "mtimeMs": 1785342808683
+    },
+    "raw/sources/听书番外篇/MD/088.《园丁与木匠》番外篇.md": {
+      "hash": "7673d31e406bf47b734219baea63f7c6",
+      "size": 4979,
+      "mtimeMs": 1785342809061
+    },
+    "raw/sources/听书番外篇/MD/089.《游客的凝视》番外篇.md": {
+      "hash": "02c939622061d7f4319d8a34957051b9",
+      "size": 4414,
+      "mtimeMs": 1785342809404
+    },
+    "raw/sources/听书番外篇/MD/090.《何为良好生活》番外篇.md": {
+      "hash": "5431227b1384f73a5571755cf0e82a06",
+      "size": 4084,
+      "mtimeMs": 1785342809751
+    },
+    "raw/sources/听书番外篇/MD/091.《被讨厌的勇气》番外篇.md": {
+      "hash": "fb1729431ca12c06ad88253459182777",
+      "size": 7372,
+      "mtimeMs": 1785342810113
+    },
+    "raw/sources/听书番外篇/MD/092.《清单革命》番外篇.md": {
+      "hash": "53dca285cdf26cc796f70ea48a150096",
+      "size": 5193,
+      "mtimeMs": 1785342810451
+    },
+    "raw/sources/听书番外篇/MD/093.《穷查理宝典》番外篇.md": {
+      "hash": "ae9b4d51a0e89f06cc8e9d8f7918ed06",
+      "size": 5600,
+      "mtimeMs": 1785342810771
+    },
+    "raw/sources/听书番外篇/MD/094.《深度工作》番外篇.md": {
+      "hash": "b05d6f457b505328e01d44854975f4a5",
+      "size": 4521,
+      "mtimeMs": 1785342811133
+    },
+    "raw/sources/听书番外篇/MD/095.《事实》番外篇.md": {
+      "hash": "0aa1bb9cf0e411a93e98562b77c1d9f5",
+      "size": 5011,
+      "mtimeMs": 1785342811493
+    },
+    "raw/sources/听书番外篇/MD/096.《怎样解题》番外篇.md": {
+      "hash": "f310fc6752e3413fe88d8320037c8785",
+      "size": 8978,
+      "mtimeMs": 1785342811831
+    },
+    "raw/sources/听书番外篇/MD/097.《助推》番外篇.md": {
+      "hash": "8512c1d75434f3a88463865883436e21",
+      "size": 5108,
+      "mtimeMs": 1785342812191
+    },
+    "raw/sources/听书番外篇/MD/098.《合作的进化》番外篇.md": {
+      "hash": "964ad44bd4be7a6100fbd25cfe8fed68",
+      "size": 4215,
+      "mtimeMs": 1785342812584
+    },
+    "raw/sources/听书番外篇/MD/099.《见机》番外篇.md": {
+      "hash": "c426c88513791a9522556f679f2f0e39",
+      "size": 4837,
+      "mtimeMs": 1785342813053
+    },
+    "raw/sources/听书番外篇/MD/100.《巨人的工具》番外篇.md": {
+      "hash": "500ed2d1e6419b3b13b5696a2d7ad2e9",
+      "size": 7849,
+      "mtimeMs": 1785342813436
+    },
+    "schema.md": {
+      "hash": "74be8ad21cdd66495b0e39508ee783b9",
+      "size": 2078,
+      "mtimeMs": 1785424966979
+    },
+    "wiki/concepts/H指数.md": {
+      "hash": "7d7fba8046f0d0425eef5bb06fe1ea0b",
+      "size": 1080,
+      "mtimeMs": 1785431107864
+    },
+    "wiki/concepts/maya法则.md": {
+      "hash": "3c3d7345e0c8ad69d341cc7b6b1bcb84",
+      "size": 1961,
+      "mtimeMs": 1785429646127
+    },
+    "wiki/concepts/一报还一报.md": {
+      "hash": "8f3ff41440e6bf205cafaed374e292a2",
+      "size": 2460,
+      "mtimeMs": 1785433060293
+    },
+    "wiki/concepts/三阶段时机管理法.md": {
+      "hash": "60532e86ba5b53f99be1eeb6496710a5",
+      "size": 1740,
+      "mtimeMs": 1785433134692
+    },
+    "wiki/concepts/不可通约性.md": {
+      "hash": "bb4f80e8a15fddfb0c8082b1cc7b58d7",
+      "size": 1839,
+      "mtimeMs": 1785430975357
+    },
+    "wiki/concepts/不完美的勇气.md": {
+      "hash": "5d25c5e022adc360a374deba6eda1ffe",
+      "size": 1367,
+      "mtimeMs": 1785432594335
+    },
+    "wiki/concepts/丧家狗.md": {
+      "hash": "d6a48ffb85c20a8250677fed05f01249",
+      "size": 1011,
+      "mtimeMs": 1785428925667
+    },
+    "wiki/concepts/个别人物法则.md": {
+      "hash": "6496059475a99dfd2b7621adca84277c",
+      "size": 1343,
+      "mtimeMs": 1785429646143
+    },
+    "wiki/concepts/个性化学习.md": {
+      "hash": "ca39158d1197b566adaf00a77c5abb26",
+      "size": 1784,
+      "mtimeMs": 1785430305779
+    },
+    "wiki/concepts/中西方艺术传统差异.md": {
+      "hash": "8bf6948e803a73b5b3d3b2b1c3e124c8",
+      "size": 1171,
+      "mtimeMs": 1785428392820
+    },
+    "wiki/concepts/临界规模.md": {
+      "hash": "63d703c84bb9c2d38546fc477e85d43f",
+      "size": 1251,
+      "mtimeMs": 1785429369471
+    },
+    "wiki/concepts/主人翁意识.md": {
+      "hash": "3164aeb8281b490bbe93df1233ec423e",
+      "size": 1613,
+      "mtimeMs": 1785425136712
+    },
+    "wiki/concepts/习惯的神经基础.md": {
+      "hash": "59352594d8078cb5d744dcb5e06a5120",
+      "size": 1508,
+      "mtimeMs": 1785430454895
+    },
+    "wiki/concepts/事实-思维误区.md": {
+      "hash": "816e3c467849173a1c7cde48f1e238b8",
+      "size": 1458,
+      "mtimeMs": 1785432848271
+    },
+    "wiki/concepts/人口结构分析.md": {
+      "hash": "5d38bba687b633023e5296d85ff13d4f",
+      "size": 1255,
+      "mtimeMs": 1785430083021
+    },
+    "wiki/concepts/人工智能的自我意识.md": {
+      "hash": "99e7ff8945d8a4171729c0294eee15ef",
+      "size": 1414,
+      "mtimeMs": 1785429738239
+    },
+    "wiki/concepts/人类网络.md": {
+      "hash": "a2697d7f6d537f5d7bb7b26f383d66a0",
+      "size": 1599,
+      "mtimeMs": 1785425302173
+    },
+    "wiki/concepts/从混沌到秩序.md": {
+      "hash": "29dadbcc5403ce975663f078918d7826",
+      "size": 1278,
+      "mtimeMs": 1785428691835
+    },
+    "wiki/concepts/从经历中汲取营养.md": {
+      "hash": "3c687f23fca06f842c86bb4d5cd9d649",
+      "size": 1592,
+      "mtimeMs": 1785426250171
+    },
+    "wiki/concepts/以直报怨.md": {
+      "hash": "b06c25a76500a812b087f3181b8f36f0",
+      "size": 1418,
+      "mtimeMs": 1785433060309
+    },
+    "wiki/concepts/传统文化三特性.md": {
+      "hash": "c6cc913108bc0b5e4b16512a11876ba0",
+      "size": 1102,
+      "mtimeMs": 1785428753097
+    },
+    "wiki/concepts/佛学在美国的传播.md": {
+      "hash": "3061f087a7b41961e51c3f9407dc0bfd",
+      "size": 1951,
+      "mtimeMs": 1785429111444
+    },
+    "wiki/concepts/作者意图的失控.md": {
+      "hash": "8579e04e79fbe83c3b62288dbe1d9343",
+      "size": 1117,
+      "mtimeMs": 1785432018382
+    },
+    "wiki/concepts/依赖模型的实在论.md": {
+      "hash": "d28149ebd4462fd90c918ba89428f886",
+      "size": 1550,
+      "mtimeMs": 1785431035708
+    },
+    "wiki/concepts/侯世达定律.md": {
+      "hash": "689be02a6db52b46dad8510a3f6d36f2",
+      "size": 1268,
+      "mtimeMs": 1785430217702
+    },
+    "wiki/concepts/信号与噪声.md": {
+      "hash": "dd353becc75ab38de0f22bf2e3856a69",
+      "size": 1317,
+      "mtimeMs": 1785430082997
+    },
+    "wiki/concepts/信号是找相同噪声是找不同.md": {
+      "hash": "e1bc5a316d32a4caa705f0130def343a",
+      "size": 1296,
+      "mtimeMs": 1785430083010
+    },
+    "wiki/concepts/信息共享.md": {
+      "hash": "ef12a9bf8dce47f48de5bf6e2a9f4168",
+      "size": 2176,
+      "mtimeMs": 1785426662110
+    },
+    "wiki/concepts/信息茧房.md": {
+      "hash": "556075a3c0ad4469c8b9224fe2c9ed03",
+      "size": 841,
+      "mtimeMs": 1785432970780
+    },
+    "wiki/concepts/信息过载.md": {
+      "hash": "0d0f15efb3614c7f7b414b971b0acd3a",
+      "size": 1478,
+      "mtimeMs": 1785429845057
+    },
+    "wiki/concepts/借用.md": {
+      "hash": "e2fdf1f52d7f174a3d41117276409ee1",
+      "size": 1153,
+      "mtimeMs": 1785427357669
+    },
+    "wiki/concepts/偏见的机会红利.md": {
+      "hash": "497a8f82389b1f2ab1a4d7bb4fcceb8b",
+      "size": 2063,
+      "mtimeMs": 1785432848254
+    },
+    "wiki/concepts/光学仪器与绘画.md": {
+      "hash": "b1d6617c52a57ff31c746a6a2f3f117e",
+      "size": 1672,
+      "mtimeMs": 1785428481966
+    },
+    "wiki/concepts/全球供应链.md": {
+      "hash": "fb9d2317f05f7786e6e09bb13ea46dcd",
+      "size": 1380,
+      "mtimeMs": 1785429256290
+    },
+    "wiki/concepts/全脑神经工作空间假说.md": {
+      "hash": "6c8a222fbdb244b8fa878676eabbce99",
+      "size": 1584,
+      "mtimeMs": 1785430600028
+    },
+    "wiki/concepts/全身反应教学法.md": {
+      "hash": "6ecd29664705f544c5ec97a29e07f41c",
+      "size": 1690,
+      "mtimeMs": 1785430149434
+    },
+    "wiki/concepts/共识.md": {
+      "hash": "68b40b0c200360fb8b828749afc5250b",
+      "size": 1151,
+      "mtimeMs": 1785427398413
+    },
+    "wiki/concepts/共识写作.md": {
+      "hash": "db523dd7323b768e4ca797039037eb52",
+      "size": 1159,
+      "mtimeMs": 1785425379398
+    },
+    "wiki/concepts/具身认知.md": {
+      "hash": "151db8ef030375d4022dd5fd9bd4b3a6",
+      "size": 1826,
+      "mtimeMs": 1785430149400
+    },
+    "wiki/concepts/内容与形式的颠覆.md": {
+      "hash": "f3dd758ce47358d89e61e73b9e560fd6",
+      "size": 1623,
+      "mtimeMs": 1785427497271
+    },
+    "wiki/concepts/写作作为第二技能.md": {
+      "hash": "3eddb0b767f38e8cf406b08a5cbad0bc",
+      "size": 1488,
+      "mtimeMs": 1785433216389
+    },
+    "wiki/concepts/写作六步法.md": {
+      "hash": "c47601e90a0cba49b797bc3f88740b4f",
+      "size": 1589,
+      "mtimeMs": 1785425842018
+    },
+    "wiki/concepts/冷战史学三派.md": {
+      "hash": "d3df7acf8d911a9d9516eaf04a0ce70d",
+      "size": 1380,
+      "mtimeMs": 1785425666924
+    },
+    "wiki/concepts/凝视.md": {
+      "hash": "43dce874cba24ed1b49e060240cd089c",
+      "size": 2090,
+      "mtimeMs": 1785432440488
+    },
+    "wiki/concepts/分形.md": {
+      "hash": "fd40690d2ce52a61922102d2ea8da541",
+      "size": 1103,
+      "mtimeMs": 1785425224912
+    },
+    "wiki/concepts/分散性宗教.md": {
+      "hash": "712a56f5a03779699715f71c1bae5b4c",
+      "size": 2076,
+      "mtimeMs": 1785428539556
+    },
+    "wiki/concepts/分析哲学传统.md": {
+      "hash": "dc47495b3ee84e9dabed3ba30d83ebaa",
+      "size": 1772,
+      "mtimeMs": 1785430975389
+    },
+    "wiki/concepts/分段法.md": {
+      "hash": "2d2d0ccc47c603a5b475c8f95ed4f706",
+      "size": 1103,
+      "mtimeMs": 1785433134707
+    },
+    "wiki/concepts/制度惰性.md": {
+      "hash": "451bd85a220f19a15b8babe4ee66f08c",
+      "size": 1443,
+      "mtimeMs": 1785427204087
+    },
+    "wiki/concepts/制度正义.md": {
+      "hash": "c1216e45b5436ec2a8fa56fd6064942e",
+      "size": 1317,
+      "mtimeMs": 1785427451541
+    },
+    "wiki/concepts/助推.md": {
+      "hash": "3cf77153cc5d224063e9c6b210606521",
+      "size": 2579,
+      "mtimeMs": 1785432970733
+    },
+    "wiki/concepts/医学凝视.md": {
+      "hash": "340b0d9ec213570432a5b0a3744df8e6",
+      "size": 1587,
+      "mtimeMs": 1785432440522
+    },
+    "wiki/concepts/博弈循环.md": {
+      "hash": "d04eac98ec9eb42064b6fd10cc6d389c",
+      "size": 1392,
+      "mtimeMs": 1785426817303
+    },
+    "wiki/concepts/博弈行为.md": {
+      "hash": "a403be7eb8a3b6988824cf2d13426456",
+      "size": 921,
+      "mtimeMs": 1785426817321
+    },
+    "wiki/concepts/印象派的技术推动.md": {
+      "hash": "70bbab5be5c7691e6c1c8d3d88828f51",
+      "size": 1037,
+      "mtimeMs": 1785431949758
+    },
+    "wiki/concepts/印象管理.md": {
+      "hash": "78bb42dbf571ff241909f763f7948b92",
+      "size": 1099,
+      "mtimeMs": 1785427244821
+    },
+    "wiki/concepts/危机领导力.md": {
+      "hash": "20b48a231e5aa4f2ace04ed388fdb97d",
+      "size": 2586,
+      "mtimeMs": 1785426662123
+    },
+    "wiki/concepts/历史中的偶然性.md": {
+      "hash": "1ca791ea23db6693a5cf36fd5f214bf1",
+      "size": 1953,
+      "mtimeMs": 1785427711056
+    },
+    "wiki/concepts/历史的教训概念.md": {
+      "hash": "12fc70094c67e10cbf70b502d3eecb33",
+      "size": 1621,
+      "mtimeMs": 1785428172605
+    },
+    "wiki/concepts/历史研究的客观性原则.md": {
+      "hash": "62481e384f1fd96d264e04353a75b275",
+      "size": 1682,
+      "mtimeMs": 1785427782319
+    },
+    "wiki/concepts/历史终结论.md": {
+      "hash": "f565fe2347adab81ef258f3afdb64442",
+      "size": 1916,
+      "mtimeMs": 1785427204071
+    },
+    "wiki/concepts/压力心态.md": {
+      "hash": "3ecaeefa2dedaa0ef39ea2b3e11531ef",
+      "size": 1739,
+      "mtimeMs": 1785431859237
+    },
+    "wiki/concepts/去圣.md": {
+      "hash": "7c8cd60d5f587e1b746d1346bdbb1108",
+      "size": 991,
+      "mtimeMs": 1785428925629
+    },
+    "wiki/concepts/去西方化.md": {
+      "hash": "526f276044f0d7920fed84f62bb6f649",
+      "size": 1455,
+      "mtimeMs": 1785432086234
+    },
+    "wiki/concepts/反理论哲学.md": {
+      "hash": "d55d1afefaae8e9e420a6e4392dae511",
+      "size": 1261,
+      "mtimeMs": 1785432514089
+    },
+    "wiki/concepts/反脆弱.md": {
+      "hash": "b2fe9be60cb8701b43b00f9b913753c3",
+      "size": 1875,
+      "mtimeMs": 1785429468741
+    },
+    "wiki/concepts/受保护的未成熟期.md": {
+      "hash": "867b8d8a58051f1dcac71d05b9ebbd67",
+      "size": 1356,
+      "mtimeMs": 1785432362288
+    },
+    "wiki/concepts/口语传播与文字传播.md": {
+      "hash": "7211b04771f9be8a4038a0a3ee35ee13",
+      "size": 1684,
+      "mtimeMs": 1785428616320
+    },
+    "wiki/concepts/合作作为进化原则.md": {
+      "hash": "64198df02c43bff27342258de7f5f1f1",
+      "size": 1588,
+      "mtimeMs": 1785431107830
+    },
+    "wiki/concepts/向批评者学习.md": {
+      "hash": "a57435e481cd7e66cd0d0930153e0590",
+      "size": 1600,
+      "mtimeMs": 1785426250186
+    },
+    "wiki/concepts/品行信用轨迹.md": {
+      "hash": "af16116f8b7e3b3985b65228b1d1bd80",
+      "size": 2034,
+      "mtimeMs": 1785433060324
+    },
+    "wiki/concepts/哲学作为反思活动.md": {
+      "hash": "3fa021df6842e8eed1ba72da5b7014a4",
+      "size": 1254,
+      "mtimeMs": 1785432514106
+    },
+    "wiki/concepts/哲学说中国话.md": {
+      "hash": "6f2414479c6564ece7f070ec5813e6e6",
+      "size": 1132,
+      "mtimeMs": 1785432514073
+    },
+    "wiki/concepts/商业作为无限游戏.md": {
+      "hash": "f7f39e2bd654d60f487a58bf02021c91",
+      "size": 1912,
+      "mtimeMs": 1785425939485
+    },
+    "wiki/concepts/四种基本作用力.md": {
+      "hash": "820a3acbc1e8327bfb00d712c9d31f6a",
+      "size": 1586,
+      "mtimeMs": 1785431233522
+    },
+    "wiki/concepts/回音室效应.md": {
+      "hash": "86fe0773f98989a87b6487fb21723474",
+      "size": 865,
+      "mtimeMs": 1785432970797
+    },
+    "wiki/concepts/因果关系.md": {
+      "hash": "dfb574ea3c13bf3d6a8f5e7d85148b88",
+      "size": 1494,
+      "mtimeMs": 1785425750618
+    },
+    "wiki/concepts/因果科学语言.md": {
+      "hash": "b387a5fea9d64b43716d529788662382",
+      "size": 1117,
+      "mtimeMs": 1785425750628
+    },
+    "wiki/concepts/团体格局.md": {
+      "hash": "e6e332f7de94c61e3fbe5c38160d92f4",
+      "size": 1534,
+      "mtimeMs": 1785428027740
+    },
+    "wiki/concepts/园丁与木匠.md": {
+      "hash": "34cc72846cdb8bd9b8a2ecc9be07938d",
+      "size": 1683,
+      "mtimeMs": 1785432362270
+    },
+    "wiki/concepts/圈内定价与粉丝定价.md": {
+      "hash": "99ace03b1e13337f7ba12650c82ede4b",
+      "size": 1233,
+      "mtimeMs": 1785428392804
+    },
+    "wiki/concepts/地理思想史.md": {
+      "hash": "71bffdccb44e40f02e4798a0edc97175",
+      "size": 1256,
+      "mtimeMs": 1785428691818
+    },
+    "wiki/concepts/基准线.md": {
+      "hash": "e72e9312d72209d5c531c587ef228fce",
+      "size": 1439,
+      "mtimeMs": 1785427302324
+    },
+    "wiki/concepts/基因中心论.md": {
+      "hash": "34d94f7c24dcab9550f6471de9adc7e7",
+      "size": 952,
+      "mtimeMs": 1785431292346
+    },
+    "wiki/concepts/士绅阶层.md": {
+      "hash": "3c0a84977a362d0ae4b05841eec0abb4",
+      "size": 919,
+      "mtimeMs": 1785427645102
+    },
+    "wiki/concepts/复杂经济学.md": {
+      "hash": "6fca3d49873bd397b2b41a4663d6041b",
+      "size": 1819,
+      "mtimeMs": 1785426441361
+    },
+    "wiki/concepts/复杂问题简单解决.md": {
+      "hash": "b8220a9185f91d27be43c366cdc86154",
+      "size": 1997,
+      "mtimeMs": 1785426063791
+    },
+    "wiki/concepts/外部效应.md": {
+      "hash": "8065c3ce315b71bf739ebd9896e0f732",
+      "size": 1232,
+      "mtimeMs": 1785426817268
+    },
+    "wiki/concepts/大历史观.md": {
+      "hash": "68308b1c6e3febbb31ce3f29c34c0e85",
+      "size": 2434,
+      "mtimeMs": 1785427941951
+    },
+    "wiki/concepts/大城市社交压力.md": {
+      "hash": "abbd3de1770a07d08cf4dbd096d8f37e",
+      "size": 1234,
+      "mtimeMs": 1785430375920
+    },
+    "wiki/concepts/大战略.md": {
+      "hash": "7a68f5ee412313abd4053028c5d8a055",
+      "size": 1453,
+      "mtimeMs": 1785425666911
+    },
+    "wiki/concepts/大数据棒球.md": {
+      "hash": "101d07aa32182b814640ccbb647602e5",
+      "size": 1866,
+      "mtimeMs": 1785425489874
+    },
+    "wiki/concepts/大统一理论.md": {
+      "hash": "d5dd5a1d3b5c2e4c0254c54eb11b8c05",
+      "size": 1893,
+      "mtimeMs": 1785431233510
+    },
+    "wiki/concepts/大脑避免思考.md": {
+      "hash": "6877c47d9b23375cdf708737a3988fd4",
+      "size": 1623,
+      "mtimeMs": 1785430888596
+    },
+    "wiki/concepts/大陆孤立发展论.md": {
+      "hash": "53e6ad770f501bbda51862f9015160c9",
+      "size": 1535,
+      "mtimeMs": 1785427711035
+    },
+    "wiki/concepts/天下国家.md": {
+      "hash": "7519dd05fce1b04bc2e1a78102dc0ec2",
+      "size": 811,
+      "mtimeMs": 1785427645067
+    },
+    "wiki/concepts/天人分裂.md": {
+      "hash": "bdb68e3dd7c7a54cca79f1944a071c2c",
+      "size": 1326,
+      "mtimeMs": 1785428691865
+    },
+    "wiki/concepts/天人合一.md": {
+      "hash": "dc92cd5c2a3c7f1a1dd7f8efb5956707",
+      "size": 1222,
+      "mtimeMs": 1785428691849
+    },
+    "wiki/concepts/天才的怀疑精神.md": {
+      "hash": "e16af28081de130be2d1b1b22ed70dd7",
+      "size": 1087,
+      "mtimeMs": 1785426339111
+    },
+    "wiki/concepts/头部效应.md": {
+      "hash": "daddd5464610938fbd1f61e8209df951",
+      "size": 1626,
+      "mtimeMs": 1785433134673
+    },
+    "wiki/concepts/契约精神与国家能力.md": {
+      "hash": "8da18eb4d5456d7391f14cdfbd41616b",
+      "size": 1644,
+      "mtimeMs": 1785427782303
+    },
+    "wiki/concepts/奥数起源.md": {
+      "hash": "ed5eb4aca85b159bba03fe4560b17764",
+      "size": 1531,
+      "mtimeMs": 1785432895866
+    },
+    "wiki/concepts/好奇与理性的结合.md": {
+      "hash": "1fdc9baec45f41c997894f22fa561594",
+      "size": 1408,
+      "mtimeMs": 1785431422336
+    },
+    "wiki/concepts/媒介即信息.md": {
+      "hash": "3a3c303275bc28bdd1f09240c4abc429",
+      "size": 2485,
+      "mtimeMs": 1785427497255
+    },
+    "wiki/concepts/孔子生平分期.md": {
+      "hash": "b9a6d4dbbec4eba712df9919cabefc19",
+      "size": 907,
+      "mtimeMs": 1785428925694
+    },
+    "wiki/concepts/孔子的后世工具化.md": {
+      "hash": "500c994f8b90a4c1de1f403eb3f5dc0d",
+      "size": 931,
+      "mtimeMs": 1785428925708
+    },
+    "wiki/concepts/存量与增量.md": {
+      "hash": "b20e263ac2f75822c6baad571df46bd2",
+      "size": 1937,
+      "mtimeMs": 1785432673533
+    },
+    "wiki/concepts/学与习的分离.md": {
+      "hash": "77a0dbc6de783f8e8a880949f2d279d0",
+      "size": 1461,
+      "mtimeMs": 1785432362304
+    },
+    "wiki/concepts/学术与通俗的夹缝.md": {
+      "hash": "374d0f762657e219cd17528c99af3712",
+      "size": 1854,
+      "mtimeMs": 1785427941967
+    },
+    "wiki/concepts/完美时机.md": {
+      "hash": "dd6854466e309558d487844e9f0e0869",
+      "size": 1421,
+      "mtimeMs": 1785433134644
+    },
+    "wiki/concepts/宗教的社会功能.md": {
+      "hash": "73c1796f9a502ff2b1233ec90e64a595",
+      "size": 1342,
+      "mtimeMs": 1785428539573
+    },
+    "wiki/concepts/官僚制度的信息失真.md": {
+      "hash": "3d03ed4029f41787ba1f424400f71587",
+      "size": 1926,
+      "mtimeMs": 1785427782285
+    },
+    "wiki/concepts/客边.md": {
+      "hash": "af188132e97799824923de9d1fb7c0d3",
+      "size": 1213,
+      "mtimeMs": 1785428027772
+    },
+    "wiki/concepts/对非洲的偏见.md": {
+      "hash": "64d4a7e4b8c017fef07cafdda8e96ca3",
+      "size": 1621,
+      "mtimeMs": 1785432848287
+    },
+    "wiki/concepts/小说作为认知手段.md": {
+      "hash": "f2b8a379c5be3f2d5f93567f30ce7a5e",
+      "size": 1801,
+      "mtimeMs": 1785429177679
+    },
+    "wiki/concepts/小说的无用之用.md": {
+      "hash": "5edfb461f1fa924e100ca9cda8dff0e6",
+      "size": 1710,
+      "mtimeMs": 1785429177695
+    },
+    "wiki/concepts/崇古心态.md": {
+      "hash": "73838f5fe7aad6b2f86ea7d89296ff39",
+      "size": 1035,
+      "mtimeMs": 1785428104802
+    },
+    "wiki/concepts/工具固化.md": {
+      "hash": "98ea0bcb11da56a149977bd0c8b75544",
+      "size": 1842,
+      "mtimeMs": 1785425489891
+    },
+    "wiki/concepts/巫文化.md": {
+      "hash": "a857c3be67de44ebf7581e780d0946ab",
+      "size": 1956,
+      "mtimeMs": 1785428753087
+    },
+    "wiki/concepts/差序格局.md": {
+      "hash": "4e2ee25ac027fa0ffc7631ea9df45d13",
+      "size": 2807,
+      "mtimeMs": 1785428027723
+    },
+    "wiki/concepts/平克与塔勒布的争论.md": {
+      "hash": "f0749a33b1425bac840be0590596ab74",
+      "size": 2303,
+      "mtimeMs": 1785430600060
+    },
+    "wiki/concepts/平庸的恶.md": {
+      "hash": "690b6dc4423ee21a63462c1174f06265",
+      "size": 1871,
+      "mtimeMs": 1785426970933
+    },
+    "wiki/concepts/建立系统而非目标.md": {
+      "hash": "61740db659c937030504cc1d48dbcc81",
+      "size": 1751,
+      "mtimeMs": 1785433216371
+    },
+    "wiki/concepts/开源学科.md": {
+      "hash": "7e03462799a881124cd6f63136fedff2",
+      "size": 749,
+      "mtimeMs": 1785427645118
+    },
+    "wiki/concepts/弦理论.md": {
+      "hash": "9936d62917428fa8d46f867cbb278dd5",
+      "size": 1725,
+      "mtimeMs": 1785431233496
+    },
+    "wiki/concepts/弱电统一理论.md": {
+      "hash": "4859898692333c4171a11c221fb39d14",
+      "size": 1474,
+      "mtimeMs": 1785431355700
+    },
+    "wiki/concepts/强人的人生哲学.md": {
+      "hash": "0725e450d0f0a8bf683a9a6b8d798061",
+      "size": 1174,
+      "mtimeMs": 1785432594352
+    },
+    "wiki/concepts/当事人中心疗法.md": {
+      "hash": "7752bf6025bbf86223464ed42b6b542e",
+      "size": 1352,
+      "mtimeMs": 1785432219302
+    },
+    "wiki/concepts/微观动机与宏观行为.md": {
+      "hash": "06388850fb9c905fe4ecf938c21533f1",
+      "size": 1424,
+      "mtimeMs": 1785426817252
+    },
+    "wiki/concepts/心态好.md": {
+      "hash": "9f5cfefe31b1866c37e11ed888ce825d",
+      "size": 1009,
+      "mtimeMs": 1785432163365
+    },
+    "wiki/concepts/心智模型的隐喻依赖.md": {
+      "hash": "b308cc7ddf3d89434bbb0cec60ea0c1b",
+      "size": 1483,
+      "mtimeMs": 1785430600044
+    },
+    "wiki/concepts/心智的计算模型.md": {
+      "hash": "014cb2130581c24fa64159b858afeab6",
+      "size": 1526,
+      "mtimeMs": 1785430600011
+    },
+    "wiki/concepts/快速阅读的生理极限.md": {
+      "hash": "398c6d0c0fc4f182d1969c7eaa48d041",
+      "size": 1411,
+      "mtimeMs": 1785430803735
+    },
+    "wiki/concepts/性情与气节.md": {
+      "hash": "eeffdd3d11644296c3b8904faf999d6a",
+      "size": 820,
+      "mtimeMs": 1785428311195
+    },
+    "wiki/concepts/想象的共同体.md": {
+      "hash": "9c6c0d74bc5dfd81854a556548dabea9",
+      "size": 1999,
+      "mtimeMs": 1785427398397
+    },
+    "wiki/concepts/意识与自我.md": {
+      "hash": "190a4417330071f96d21df329bc6d9e2",
+      "size": 1408,
+      "mtimeMs": 1785430217719
+    },
+    "wiki/concepts/战争是政治的延续.md": {
+      "hash": "a9d417d009632100f99c38db5ecdf289",
+      "size": 1061,
+      "mtimeMs": 1785428251922
+    },
+    "wiki/concepts/战争是文化的体现.md": {
+      "hash": "b0167d978f2c1223088ae83ea4bf3618",
+      "size": 1759,
+      "mtimeMs": 1785428251906
+    },
+    "wiki/concepts/战争的四个阶段.md": {
+      "hash": "6610ba1b973fb6fc11a3b7669e18f779",
+      "size": 1035,
+      "mtimeMs": 1785428251940
+    },
+    "wiki/concepts/战略即平衡.md": {
+      "hash": "87d0ce14d61dc9668912e87a11907a48",
+      "size": 1752,
+      "mtimeMs": 1785425666901
+    },
+    "wiki/concepts/执拗的认真.md": {
+      "hash": "5676e9a7861d6e20b69dca85c1e7ebc5",
+      "size": 675,
+      "mtimeMs": 1785428311161
+    },
+    "wiki/concepts/承重柱不能倒.md": {
+      "hash": "09d6c751fc377760c9b285972e0f2cb9",
+      "size": 2282,
+      "mtimeMs": 1785426063775
+    },
+    "wiki/concepts/技术工具与艺术的合法性.md": {
+      "hash": "d063c74d08ed64c437e2c9f4766be5d4",
+      "size": 1690,
+      "mtimeMs": 1785428481982
+    },
+    "wiki/concepts/技术界.md": {
+      "hash": "1d2f4ec248a274d607b77a942da307a1",
+      "size": 982,
+      "mtimeMs": 1785427357636
+    },
+    "wiki/concepts/技术的本质.md": {
+      "hash": "efda51c0e1c017bf8ebd903d78363c45",
+      "size": 2390,
+      "mtimeMs": 1785427357620
+    },
+    "wiki/concepts/拟剧论.md": {
+      "hash": "96d1625cef5a17eacfeff3c6ff81fdde",
+      "size": 2086,
+      "mtimeMs": 1785427244805
+    },
+    "wiki/concepts/收藏无用论.md": {
+      "hash": "d3c94fd2b9b06393e26540ac83626a9c",
+      "size": 1552,
+      "mtimeMs": 1785425597528
+    },
+    "wiki/concepts/故事作为算法.md": {
+      "hash": "4690ebf874450959b184b72fb329898c",
+      "size": 1741,
+      "mtimeMs": 1785429738174
+    },
+    "wiki/concepts/故事化教学.md": {
+      "hash": "ec800f62edbde412e72c7aa05a6e7965",
+      "size": 1876,
+      "mtimeMs": 1785430888613
+    },
+    "wiki/concepts/故事范式.md": {
+      "hash": "77078cfa6ebd15b7f4c126f8aefc3f31",
+      "size": 1035,
+      "mtimeMs": 1785425379413
+    },
+    "wiki/concepts/教育与真实世界的连接.md": {
+      "hash": "4d1a06afb7c167a8296712c6cb814990",
+      "size": 1156,
+      "mtimeMs": 1785430305812
+    },
+    "wiki/concepts/散热假说.md": {
+      "hash": "07264f45fb5916eca19414f5459c438f",
+      "size": 1841,
+      "mtimeMs": 1785431493653
+    },
+    "wiki/concepts/文字作为文明载体.md": {
+      "hash": "1bf066d8256eb1455f665da4a7d5519c",
+      "size": 1594,
+      "mtimeMs": 1785428616304
+    },
+    "wiki/concepts/文明冲突理论.md": {
+      "hash": "c1f44d0fec24091f7ccc989043db072b",
+      "size": 2341,
+      "mtimeMs": 1785427132541
+    },
+    "wiki/concepts/文明层级划分.md": {
+      "hash": "c9827469e764f2295bfc770b3b8286c9",
+      "size": 1613,
+      "mtimeMs": 1785427052707
+    },
+    "wiki/concepts/无关紧要的一年.md": {
+      "hash": "f4ff7b20e2c01e1b2cd57ca715b6a7d5",
+      "size": 1725,
+      "mtimeMs": 1785427941983
+    },
+    "wiki/concepts/无缝运输.md": {
+      "hash": "92211a381d2272892a2e8e6fc7a27a13",
+      "size": 1780,
+      "mtimeMs": 1785429256272
+    },
+    "wiki/concepts/无门槛的精致感受.md": {
+      "hash": "84ab146988e6cb3fd7252d7caa6eb52b",
+      "size": 1837,
+      "mtimeMs": 1785429550358
+    },
+    "wiki/concepts/无限游戏.md": {
+      "hash": "53551edd07bc033bb363fa154316a861",
+      "size": 2418,
+      "mtimeMs": 1785425939473
+    },
+    "wiki/concepts/时机敏感度.md": {
+      "hash": "1206d3a685409909151a1a76cabbc4f8",
+      "size": 1362,
+      "mtimeMs": 1785433134657
+    },
+    "wiki/concepts/时间旅行.md": {
+      "hash": "00203e17d0d193c6a7f55e611a594dae",
+      "size": 1095,
+      "mtimeMs": 1785431035742
+    },
+    "wiki/concepts/普世价值的文明局限性.md": {
+      "hash": "e856a6e2eb344546edaac24a9a0c6ea7",
+      "size": 1175,
+      "mtimeMs": 1785427132559
+    },
+    "wiki/concepts/智能商业.md": {
+      "hash": "8abab1dc7be9bc8bcce07da30fddff74",
+      "size": 1678,
+      "mtimeMs": 1785429922987
+    },
+    "wiki/concepts/智能的定义.md": {
+      "hash": "161bf5bf0a1e0edc5b9cedbf5320d652",
+      "size": 1238,
+      "mtimeMs": 1785430007646
+    },
+    "wiki/concepts/暴力的道德相对性.md": {
+      "hash": "ad8cd063d5d680d7834b473fa30f4bae",
+      "size": 1673,
+      "mtimeMs": 1785430753173
+    },
+    "wiki/concepts/暴力转移.md": {
+      "hash": "0f4649bddd3752056fcc0525e078521a",
+      "size": 1373,
+      "mtimeMs": 1785427451528
+    },
+    "wiki/concepts/有原则的好人.md": {
+      "hash": "4589b0534eaea888d056a528d224ead4",
+      "size": 2566,
+      "mtimeMs": 1785433060275
+    },
+    "wiki/concepts/有限游戏.md": {
+      "hash": "79013b9b20175732e5bdd7840d78fa03",
+      "size": 1532,
+      "mtimeMs": 1785425939462
+    },
+    "wiki/concepts/服务型管理.md": {
+      "hash": "3db2961a925f117aff0c8245c10f4322",
+      "size": 988,
+      "mtimeMs": 1785426891295
+    },
+    "wiki/concepts/未来观.md": {
+      "hash": "da4f0d64fe24e4a3ae9e335d34569809",
+      "size": 1640,
+      "mtimeMs": 1785428104754
+    },
+    "wiki/concepts/机器美学.md": {
+      "hash": "6bf929b835e275629d9daaf492864f8e",
+      "size": 1503,
+      "mtimeMs": 1785427302350
+    },
+    "wiki/concepts/杏仁核劫持.md": {
+      "hash": "47b23f3cb52525733f308d952472e27d",
+      "size": 1755,
+      "mtimeMs": 1785430753137
+    },
+    "wiki/concepts/极度求真与极度透明.md": {
+      "hash": "bfc72e339c987d4751d91538be11e120",
+      "size": 1957,
+      "mtimeMs": 1785426158437
+    },
+    "wiki/concepts/枪炮病菌与钢铁.md": {
+      "hash": "1ceb4aa10f7885a6c9550a641a7c5b4e",
+      "size": 2107,
+      "mtimeMs": 1785427711019
+    },
+    "wiki/concepts/框架理论.md": {
+      "hash": "6127327511b20bf49fe8b9d5d025555a",
+      "size": 1772,
+      "mtimeMs": 1785430680408
+    },
+    "wiki/concepts/棉花与工业革命.md": {
+      "hash": "b07f608679795b92aebda592d1b4494c",
+      "size": 1382,
+      "mtimeMs": 1785427544649
+    },
+    "wiki/concepts/棉花作为战略资源.md": {
+      "hash": "71917e55466edd34ce472402efa75729",
+      "size": 1562,
+      "mtimeMs": 1785427544666
+    },
+    "wiki/concepts/榜样传承.md": {
+      "hash": "53767576b9652e730174b71ceb9bdd9f",
+      "size": 1242,
+      "mtimeMs": 1785426540524
+    },
+    "wiki/concepts/模因.md": {
+      "hash": "b3e162c48a7bd66047caac08310e369f",
+      "size": 1633,
+      "mtimeMs": 1785431292331
+    },
+    "wiki/concepts/模块化.md": {
+      "hash": "c9e856ee43c35c90239d4bcf36857db0",
+      "size": 1284,
+      "mtimeMs": 1785427357653
+    },
+    "wiki/concepts/模型思维.md": {
+      "hash": "3bb745e83e31102cae7136d477556f2e",
+      "size": 2011,
+      "mtimeMs": 1785425597477
+    },
+    "wiki/concepts/正反馈驱动.md": {
+      "hash": "9830ba4ad8b745dd84de21daf4272cda",
+      "size": 1269,
+      "mtimeMs": 1785433216405
+    },
+    "wiki/concepts/水猿假说.md": {
+      "hash": "b601affe9be0a39f082dfec38caacbe1",
+      "size": 1361,
+      "mtimeMs": 1785431493670
+    },
+    "wiki/concepts/涌现.md": {
+      "hash": "8b0eb004d505e06a508d8b85a9f24a29",
+      "size": 3653,
+      "mtimeMs": 1785431790442
+    },
+    "wiki/concepts/深度学习.md": {
+      "hash": "bc2057333fd351f2fa4ee01e2ef9eb59",
+      "size": 1860,
+      "mtimeMs": 1785432787666
+    },
+    "wiki/concepts/深度工作.md": {
+      "hash": "e046cc3b9d1ea40ee915553afdebbc24",
+      "size": 2039,
+      "mtimeMs": 1785432787616
+    },
+    "wiki/concepts/清单革命.md": {
+      "hash": "ec75c0300d0a681652fbe604dad4338c",
+      "size": 2643,
+      "mtimeMs": 1785432673516
+    },
+    "wiki/concepts/游客的凝视.md": {
+      "hash": "4ae192d3da30a8e01bbab5dc5aa4326e",
+      "size": 1819,
+      "mtimeMs": 1785432440505
+    },
+    "wiki/concepts/源头解决问题.md": {
+      "hash": "2e716d86f1dec4d3648ff66f16ed9f93",
+      "size": 1339,
+      "mtimeMs": 1785425842029
+    },
+    "wiki/concepts/炎症与癌症.md": {
+      "hash": "d2161efe9a5dcb3cd491797ec8876533",
+      "size": 1153,
+      "mtimeMs": 1785432273083
+    },
+    "wiki/concepts/烘云托月定价机制.md": {
+      "hash": "2c1b553e7cb32af8900acea6ca3bf99f",
+      "size": 1173,
+      "mtimeMs": 1785428392789
+    },
+    "wiki/concepts/爱作为对真理的探寻.md": {
+      "hash": "19e6ea28dde545b40e7a36fbe932a5e3",
+      "size": 2176,
+      "mtimeMs": 1785432086218
+    },
+    "wiki/concepts/玩家精神与学术转化.md": {
+      "hash": "27938a074bd4b82049ecef492c3eb521",
+      "size": 1056,
+      "mtimeMs": 1785428311144
+    },
+    "wiki/concepts/现代主义建筑.md": {
+      "hash": "4ba17334ce9195c2c419ff980b338e33",
+      "size": 1571,
+      "mtimeMs": 1785427302340
+    },
+    "wiki/concepts/现代艺术的真实图像.md": {
+      "hash": "f5bab04167c191b3558196c92cb2edbb",
+      "size": 1406,
+      "mtimeMs": 1785428481998
+    },
+    "wiki/concepts/理论实践检验标准.md": {
+      "hash": "2b694f3822008d39c139b8404d9875de",
+      "size": 1132,
+      "mtimeMs": 1785432970813
+    },
+    "wiki/concepts/理论简洁性原则.md": {
+      "hash": "b339f91df3814414eaf765cdb0d23ce7",
+      "size": 2217,
+      "mtimeMs": 1785431233538
+    },
+    "wiki/concepts/生存意义.md": {
+      "hash": "f3bcec57b1b250aaf436a0829d697368",
+      "size": 1531,
+      "mtimeMs": 1785426250208
+    },
+    "wiki/concepts/生活黑客.md": {
+      "hash": "a399c29abbc3d50051f69e75891c6e78",
+      "size": 1237,
+      "mtimeMs": 1785425842042
+    },
+    "wiki/concepts/电子商务生态系统.md": {
+      "hash": "c77540e78f44404cdcc4790ff606f09a",
+      "size": 1651,
+      "mtimeMs": 1785429923020
+    },
+    "wiki/concepts/画布策略.md": {
+      "hash": "1f00ecb56166c82d87cc86bdcba344e1",
+      "size": 1668,
+      "mtimeMs": 1785433216354
+    },
+    "wiki/concepts/癌症的基因突变论.md": {
+      "hash": "58de66d01c032d6d16e72728777f67a2",
+      "size": 1427,
+      "mtimeMs": 1785432273071
+    },
+    "wiki/concepts/百岁人生.md": {
+      "hash": "242a7b01e4c298ec8f9b55bd85b87be8",
+      "size": 1681,
+      "mtimeMs": 1785432163334
+    },
+    "wiki/concepts/皇权不下县.md": {
+      "hash": "f449f48115156142bab00e3684aceb94",
+      "size": 1033,
+      "mtimeMs": 1785427645083
+    },
+    "wiki/concepts/盎格鲁圈.md": {
+      "hash": "0239a01c0b8c07a57b80fc83e1ef174e",
+      "size": 1782,
+      "mtimeMs": 1785427052677
+    },
+    "wiki/concepts/监管对冲非理性.md": {
+      "hash": "546976634a086899272ee3e736b35670",
+      "size": 1961,
+      "mtimeMs": 1785426063809
+    },
+    "wiki/concepts/目标对齐问题.md": {
+      "hash": "049c72d9a2983338575a00a9c77bb0a9",
+      "size": 1643,
+      "mtimeMs": 1785430007631
+    },
+    "wiki/concepts/相关性与因果的区分.md": {
+      "hash": "2f92e5ed34a79b6abbcf6aef532262ba",
+      "size": 1418,
+      "mtimeMs": 1785425750637
+    },
+    "wiki/concepts/看十年做一年.md": {
+      "hash": "1f8c059450aac525190e79dc545f43f0",
+      "size": 2387,
+      "mtimeMs": 1785429923004
+    },
+    "wiki/concepts/知识使用能力.md": {
+      "hash": "4e30fc61d3f5cda9c48b4ec8ac064312",
+      "size": 1731,
+      "mtimeMs": 1785432673550
+    },
+    "wiki/concepts/知识内化.md": {
+      "hash": "3f8ad10a0fead9cdaca001b298c0934e",
+      "size": 1794,
+      "mtimeMs": 1785425597502
+    },
+    "wiki/concepts/知识型员工管理.md": {
+      "hash": "0e4706b1161660f815d2630e5c2c56cf",
+      "size": 1228,
+      "mtimeMs": 1785426891319
+    },
+    "wiki/concepts/知识无边界.md": {
+      "hash": "98b14256b7babc91ff77a0a3786da506",
+      "size": 2197,
+      "mtimeMs": 1785429845003
+    },
+    "wiki/concepts/知识网络.md": {
+      "hash": "e71d7e25ffc3f359b113b6ff738f5a1a",
+      "size": 1547,
+      "mtimeMs": 1785429845035
+    },
+    "wiki/concepts/礼崩乐坏.md": {
+      "hash": "985b5babe15ac1a680cffd9b272dc6b0",
+      "size": 946,
+      "mtimeMs": 1785428251956
+    },
+    "wiki/concepts/礼贤下士.md": {
+      "hash": "22c9b847a564a5a7ee9fc48de8a93354",
+      "size": 912,
+      "mtimeMs": 1785428251971
+    },
+    "wiki/concepts/社会网络关键节点.md": {
+      "hash": "f3e9aa26d36da30a2854b8506ff8d27f",
+      "size": 1328,
+      "mtimeMs": 1785429646177
+    },
+    "wiki/concepts/神圣经典.md": {
+      "hash": "3f5b77a3bcce526e01c19ec4ee3bfda7",
+      "size": 1573,
+      "mtimeMs": 1785428616287
+    },
+    "wiki/concepts/科学哲学.md": {
+      "hash": "b5a5c4317926584a37b56866eba2990e",
+      "size": 1555,
+      "mtimeMs": 1785431035725
+    },
+    "wiki/concepts/科学砖厂.md": {
+      "hash": "73a7ee937f1b0d7a0a9ae0ec61c864fe",
+      "size": 1680,
+      "mtimeMs": 1785429845018
+    },
+    "wiki/concepts/科学革命.md": {
+      "hash": "0317243757586c9a46c5d2507e8cfd3e",
+      "size": 1472,
+      "mtimeMs": 1785430975373
+    },
+    "wiki/concepts/科技天下大同与文明不可同化.md": {
+      "hash": "6f50d7e16a466477f1d29bbba51113ae",
+      "size": 1220,
+      "mtimeMs": 1785427132575
+    },
+    "wiki/concepts/科普与学术圈的张力.md": {
+      "hash": "d516f8b7956eedfa40857aa6502dcf6f",
+      "size": 1325,
+      "mtimeMs": 1785431422353
+    },
+    "wiki/concepts/端粒效应.md": {
+      "hash": "787c4f7f77f3e74edb44c173655dce8f",
+      "size": 1334,
+      "mtimeMs": 1785431859221
+    },
+    "wiki/concepts/管理即管理人性.md": {
+      "hash": "b49894705292c1f2e7de0b6403d478bf",
+      "size": 1662,
+      "mtimeMs": 1785426158447
+    },
+    "wiki/concepts/系统1与系统2.md": {
+      "hash": "17c3e9c69adda8d81812c8646d98534a",
+      "size": 2001,
+      "mtimeMs": 1785430454861
+    },
+    "wiki/concepts/系统对抗.md": {
+      "hash": "13d7ebff38f9b9d79698d5c8f34b16ae",
+      "size": 1936,
+      "mtimeMs": 1785425489902
+    },
+    "wiki/concepts/素材学习法.md": {
+      "hash": "00e258f376d0c45d72eecf76e1e2245f",
+      "size": 1843,
+      "mtimeMs": 1785432787648
+    },
+    "wiki/concepts/线上社交与线下社交的差异.md": {
+      "hash": "ae44c95cef0ba76fce19f755ec44fe8c",
+      "size": 1443,
+      "mtimeMs": 1785430375909
+    },
+    "wiki/concepts/线性思维模式.md": {
+      "hash": "62ac3b4a7c237e6b6fbd906ccb1b5942",
+      "size": 1347,
+      "mtimeMs": 1785429845046
+    },
+    "wiki/concepts/终身学习.md": {
+      "hash": "36842411dd37d0e823ae5a839dd918c3",
+      "size": 1076,
+      "mtimeMs": 1785430305829
+    },
+    "wiki/concepts/经济与财政的区分.md": {
+      "hash": "a736d2c6cfae28125b42445de7804436",
+      "size": 1564,
+      "mtimeMs": 1785428172588
+    },
+    "wiki/concepts/经验归纳法.md": {
+      "hash": "61f44241a44c87abcb733c7b36e806d5",
+      "size": 1895,
+      "mtimeMs": 1785429468791
+    },
+    "wiki/concepts/结构洞.md": {
+      "hash": "5848710afae5578596fec37af29eecf2",
+      "size": 1107,
+      "mtimeMs": 1785425302185
+    },
+    "wiki/concepts/绝地天通.md": {
+      "hash": "5518397f190a4d9145f10c7de90f29dd",
+      "size": 1052,
+      "mtimeMs": 1785428691882
+    },
+    "wiki/concepts/统计学与概率论的区别.md": {
+      "hash": "b2778f04ec265a6d9a22b7df31d2e10e",
+      "size": 1398,
+      "mtimeMs": 1785431160187
+    },
+    "wiki/concepts/统计学的认识论基础.md": {
+      "hash": "75c34e2a8cfa088d8f449e1e02e5a556",
+      "size": 1690,
+      "mtimeMs": 1785431160205
+    },
+    "wiki/concepts/网络社会.md": {
+      "hash": "4a6b7c963759758bac0b0e12a5528fb4",
+      "size": 1125,
+      "mtimeMs": 1785425302200
+    },
+    "wiki/concepts/翻译的政治.md": {
+      "hash": "70a2d3d58a2c7f966a52228b2290c890",
+      "size": 1271,
+      "mtimeMs": 1785432018398
+    },
+    "wiki/concepts/联名款.md": {
+      "hash": "96f28bfc6fef7cf1426acc7c5d387004",
+      "size": 1122,
+      "mtimeMs": 1785429646194
+    },
+    "wiki/concepts/肤浅学习.md": {
+      "hash": "aa4b7084ae2705ec7d8864a25986e4dd",
+      "size": 1260,
+      "mtimeMs": 1785432787681
+    },
+    "wiki/concepts/自发调节市场.md": {
+      "hash": "1e9c6920ba79756008e99f5d6b3b6018",
+      "size": 1041,
+      "mtimeMs": 1785426750748
+    },
+    "wiki/concepts/自我赋予意义.md": {
+      "hash": "6711f786bb071593be75ff8581c02d6d",
+      "size": 1224,
+      "mtimeMs": 1785432594369
+    },
+    "wiki/concepts/自由的发明.md": {
+      "hash": "e600f74ce393489b1efb6732e1775649",
+      "size": 1830,
+      "mtimeMs": 1785427052691
+    },
+    "wiki/concepts/自由过剩的危机.md": {
+      "hash": "771c3528f7f849ff60e9db012eb42fcb",
+      "size": 1979,
+      "mtimeMs": 1785429738221
+    },
+    "wiki/concepts/良好生活.md": {
+      "hash": "34e56b493c16e2771eef6f17a21911a4",
+      "size": 1541,
+      "mtimeMs": 1785432514056
+    },
+    "wiki/concepts/艺术品定价的社会网络.md": {
+      "hash": "bea5f0b13fb28fc6d577303695a3fcab",
+      "size": 2045,
+      "mtimeMs": 1785428392774
+    },
+    "wiki/concepts/苦.md": {
+      "hash": "d05e63a8f4df86cf42f41de82cdb2669",
+      "size": 1537,
+      "mtimeMs": 1785429111410
+    },
+    "wiki/concepts/英雄之旅.md": {
+      "hash": "e78fc8ae6951fde888598fef33ee8cd7",
+      "size": 1630,
+      "mtimeMs": 1785425379387
+    },
+    "wiki/concepts/范式.md": {
+      "hash": "2c4362223fd5740116fb4c6caad01727",
+      "size": 1806,
+      "mtimeMs": 1785430975340
+    },
+    "wiki/concepts/萨丕尔-沃尔夫假说.md": {
+      "hash": "edfc042c26ff9e05246d1cdaa4557b78",
+      "size": 1982,
+      "mtimeMs": 1785430680424
+    },
+    "wiki/concepts/血缘圈子.md": {
+      "hash": "aa6ec1187ebe0b7bcfc427c6277749fd",
+      "size": 1460,
+      "mtimeMs": 1785428027755
+    },
+    "wiki/concepts/行为的多因素决定论.md": {
+      "hash": "5bf6d1cd9046a1e3261cbf91bcd3582f",
+      "size": 2131,
+      "mtimeMs": 1785430753123
+    },
+    "wiki/concepts/行为经济学.md": {
+      "hash": "c29ef293c2f9c55da3599f776146b155",
+      "size": 1163,
+      "mtimeMs": 1785430454877
+    },
+    "wiki/concepts/街集.md": {
+      "hash": "a82f96209843c7853c6e2bf975caa628",
+      "size": 1158,
+      "mtimeMs": 1785428027788
+    },
+    "wiki/concepts/衣在衣食住行中的优先性.md": {
+      "hash": "f1c5f77ce03e4cf7f87645cd742b3ce7",
+      "size": 1291,
+      "mtimeMs": 1785427544682
+    },
+    "wiki/concepts/表扬与批评的黄金比例.md": {
+      "hash": "9d8f20cb66e1737502820412cb0f1387",
+      "size": 1502,
+      "mtimeMs": 1785430888645
+    },
+    "wiki/concepts/被讨厌的勇气.md": {
+      "hash": "77895885dac9fe6c6642e757893557b7",
+      "size": 1245,
+      "mtimeMs": 1785432594319
+    },
+    "wiki/concepts/裸猿.md": {
+      "hash": "6c46354b6ce8cacbc073df1470a1c036",
+      "size": 1938,
+      "mtimeMs": 1785431493637
+    },
+    "wiki/concepts/规模效应.md": {
+      "hash": "81d53a2387913ec71fbbf68e5ea96a27",
+      "size": 2199,
+      "mtimeMs": 1785425224888
+    },
+    "wiki/concepts/规训与惩罚.md": {
+      "hash": "b6bb152938432bce4d8213689136dc1f",
+      "size": 1773,
+      "mtimeMs": 1785427451516
+    },
+    "wiki/concepts/解题思维策略.md": {
+      "hash": "8e95699ba29a02f04e7a5cb3a618462d",
+      "size": 1505,
+      "mtimeMs": 1785432895851
+    },
+    "wiki/concepts/订单式课程.md": {
+      "hash": "bfaa4a45043ca11110515dc4fd86c524",
+      "size": 1133,
+      "mtimeMs": 1785430305796
+    },
+    "wiki/concepts/认知扭转.md": {
+      "hash": "22486f698cbe34efbb21afce4406abf5",
+      "size": 1823,
+      "mtimeMs": 1785432787633
+    },
+    "wiki/concepts/认知状态识别.md": {
+      "hash": "4386d44b1a6a72bed45f1c1c7947c456",
+      "size": 1335,
+      "mtimeMs": 1785432362320
+    },
+    "wiki/concepts/让自己忙起来.md": {
+      "hash": "c6a44f35540540ede2db8f43792b19e1",
+      "size": 1261,
+      "mtimeMs": 1785432163349
+    },
+    "wiki/concepts/记忆是思考的残留物.md": {
+      "hash": "83cb1677298b21081f66363839f33c69",
+      "size": 1748,
+      "mtimeMs": 1785430888629
+    },
+    "wiki/concepts/讲故事.md": {
+      "hash": "2cdb6c114127f13850e107587aee3ab0",
+      "size": 1454,
+      "mtimeMs": 1785428104769
+    },
+    "wiki/concepts/证伪主义.md": {
+      "hash": "d00ec01999eed8077a031d4893793422",
+      "size": 2021,
+      "mtimeMs": 1785429468774
+    },
+    "wiki/concepts/诗性自然主义.md": {
+      "hash": "a92dc8aa53c574c6e5f6f6b94af78dd7",
+      "size": 2830,
+      "mtimeMs": 1785431562406
+    },
+    "wiki/concepts/课题分离.md": {
+      "hash": "91a900b9b4acaf50ac773571eaa7617b",
+      "size": 1358,
+      "mtimeMs": 1785432594302
+    },
+    "wiki/concepts/财富的多元定义.md": {
+      "hash": "c6a7f98bd1879a9240b6f6da48191221",
+      "size": 1404,
+      "mtimeMs": 1785426441386
+    },
+    "wiki/concepts/财富的进化观.md": {
+      "hash": "41e66d3a00faae875d962259bf60fc2e",
+      "size": 1805,
+      "mtimeMs": 1785426441376
+    },
+    "wiki/concepts/赋能.md": {
+      "hash": "2a046c11fa40e8a9711ed8ce64fd0eb2",
+      "size": 2473,
+      "mtimeMs": 1785426662097
+    },
+    "wiki/concepts/赢家不报复.md": {
+      "hash": "fb59fdfd86b5fd0f4cdbb2752402137d",
+      "size": 1548,
+      "mtimeMs": 1785431107848
+    },
+    "wiki/concepts/赢家通吃市场.md": {
+      "hash": "df2b69e1aac2a263839290ee5fab8244",
+      "size": 1210,
+      "mtimeMs": 1785429369454
+    },
+    "wiki/concepts/走廊地带.md": {
+      "hash": "5545cd0afda93cf57c41a356a26869b1",
+      "size": 1486,
+      "mtimeMs": 1785427590458
+    },
+    "wiki/concepts/超大规模性.md": {
+      "hash": "3d40f71abaf8b2395f75b7cbb56f2d70",
+      "size": 1777,
+      "mtimeMs": 1785427590468
+    },
+    "wiki/concepts/跨书联读.md": {
+      "hash": "5e9467f93558b358366cc595adef0c58",
+      "size": 1532,
+      "mtimeMs": 1785425597544
+    },
+    "wiki/concepts/辉格史观.md": {
+      "hash": "99f3453bc563c306cf107db90c64930d",
+      "size": 1474,
+      "mtimeMs": 1785428104786
+    },
+    "wiki/concepts/达尔文的斗犬.md": {
+      "hash": "f75cedc46f8732b8079f381338ad4404",
+      "size": 746,
+      "mtimeMs": 1785431292363
+    },
+    "wiki/concepts/过度解释.md": {
+      "hash": "d2d176bbae9a3544eb316ac0c4e74271",
+      "size": 1116,
+      "mtimeMs": 1785425750651
+    },
+    "wiki/concepts/运气与成功.md": {
+      "hash": "65112412d2f43fee60f59c5bfb4ad946",
+      "size": 1334,
+      "mtimeMs": 1785426540513
+    },
+    "wiki/concepts/还原态度.md": {
+      "hash": "04519986280d9bf9bc71c1c1d664e4f0",
+      "size": 951,
+      "mtimeMs": 1785428925680
+    },
+    "wiki/concepts/进化心理学与佛学.md": {
+      "hash": "0e502478fcd705359b13953c7b6dce6e",
+      "size": 1317,
+      "mtimeMs": 1785429111425
+    },
+    "wiki/concepts/连接.md": {
+      "hash": "cbd153d6d1ca523a452f2239a89b92d1",
+      "size": 944,
+      "mtimeMs": 1785425302220
+    },
+    "wiki/concepts/迷恋新奇事物症与恐惧陌生事物症.md": {
+      "hash": "49d52b8a6dccaef530c301b533a0517e",
+      "size": 1165,
+      "mtimeMs": 1785429646211
+    },
+    "wiki/concepts/选择性阅读.md": {
+      "hash": "75311fa60dd592b9785bf7e4f3994ed1",
+      "size": 1630,
+      "mtimeMs": 1785426339095
+    },
+    "wiki/concepts/通用人工智能.md": {
+      "hash": "3fe9c138adaad27bb8938a262ba5f724",
+      "size": 1386,
+      "mtimeMs": 1785430007662
+    },
+    "wiki/concepts/邓巴数字.md": {
+      "hash": "cb6213c4511d180d358c6f9ada3499b1",
+      "size": 1566,
+      "mtimeMs": 1785430375893
+    },
+    "wiki/concepts/错误日记.md": {
+      "hash": "cc09d27a14b3aab24f9fe41d9db65c97",
+      "size": 1504,
+      "mtimeMs": 1785426158461
+    },
+    "wiki/concepts/长期主义.md": {
+      "hash": "da4e4d5a2b1b9625bf6731178b1a3b07",
+      "size": 1764,
+      "mtimeMs": 1785425136703
+    },
+    "wiki/concepts/闪电式扩张.md": {
+      "hash": "54458543de0ae77481e4511e05c9724c",
+      "size": 4186,
+      "mtimeMs": 1785429369387
+    },
+    "wiki/concepts/闪电战.md": {
+      "hash": "39f2d6a08ee88bfeb4693917f23ba47f",
+      "size": 2057,
+      "mtimeMs": 1785429369403
+    },
+    "wiki/concepts/阅读的神经机制.md": {
+      "hash": "ca0202e620a9c06ac1367d99e7b37722",
+      "size": 1779,
+      "mtimeMs": 1785430803719
+    },
+    "wiki/concepts/阿姆达尔定律.md": {
+      "hash": "8a9245734860850e39051f325951d818",
+      "size": 1430,
+      "mtimeMs": 1785425224901
+    },
+    "wiki/concepts/隐喻作为认知机制.md": {
+      "hash": "1ad4b4ad32a32b97e334e0e2b6f40416",
+      "size": 1878,
+      "mtimeMs": 1785430680390
+    },
+    "wiki/concepts/隐形领导者.md": {
+      "hash": "d7f9a6c1a69d815054dfed83fdc4c0ef",
+      "size": 1331,
+      "mtimeMs": 1785426891305
+    },
+    "wiki/concepts/隐性技能显性化.md": {
+      "hash": "41e70e6c49444c3747eaa7bd477c5fa0",
+      "size": 1736,
+      "mtimeMs": 1785425597516
+    },
+    "wiki/concepts/隐秘的知识.md": {
+      "hash": "12f64529fe6fab16d23813f28612163c",
+      "size": 1928,
+      "mtimeMs": 1785428481948
+    },
+    "wiki/concepts/隔离教育.md": {
+      "hash": "09bd9b7b37f22e56d063b68b3ba4038f",
+      "size": 1038,
+      "mtimeMs": 1785426750776
+    },
+    "wiki/concepts/集体潜意识.md": {
+      "hash": "4cec628d7b164f4470d5cad34e3d6884",
+      "size": 975,
+      "mtimeMs": 1785425302246
+    },
+    "wiki/concepts/集装箱标准化.md": {
+      "hash": "283db19e7dd035c01c4401556111f9b3",
+      "size": 1666,
+      "mtimeMs": 1785429256256
+    },
+    "wiki/concepts/非暴力沟通.md": {
+      "hash": "95c7f968f101b7913ba7d7b70b58ace4",
+      "size": 2124,
+      "mtimeMs": 1785432219253
+    },
+    "wiki/concepts/领导者与管理者的区别.md": {
+      "hash": "040e0a8e5d4349eeba61fbfdb20a660d",
+      "size": 1629,
+      "mtimeMs": 1785425136693
+    },
+    "wiki/concepts/风景画作为再现.md": {
+      "hash": "22131e06a0c39f75c62e459dd73324d4",
+      "size": 816,
+      "mtimeMs": 1785431949743
+    },
+    "wiki/concepts/风景画作为情感与想象的载体.md": {
+      "hash": "27b0ad47788d4f94ef4cc55d5faa950a",
+      "size": 897,
+      "mtimeMs": 1785431949725
+    },
+    "wiki/concepts/风景画的地位变迁.md": {
+      "hash": "e0e73d42a1f936efd91734799258cc74",
+      "size": 1995,
+      "mtimeMs": 1785431949692
+    },
+    "wiki/concepts/风景第一历史第二.md": {
+      "hash": "207d18b6b1df5bbe9324836956a4fbde",
+      "size": 835,
+      "mtimeMs": 1785431949709
+    },
+    "wiki/concepts/黑天鹅.md": {
+      "hash": "3d6d26a1f0077f175a6fa029083aa51a",
+      "size": 1777,
+      "mtimeMs": 1785429468758
+    },
+    "wiki/concepts/黑客思维.md": {
+      "hash": "ba05c11e1314dee2cdb45df35cfe790c",
+      "size": 2024,
+      "mtimeMs": 1785425842007
+    },
+    "wiki/concepts/默会知识.md": {
+      "hash": "11e439e41c3b122fd6be0f9586f28bef",
+      "size": 935,
+      "mtimeMs": 1785426750764
+    },
+    "wiki/entities/y-combinator.md": {
+      "hash": "37c4787ad638cd75e9c857fffea7bf71",
+      "size": 1082,
+      "mtimeMs": 1785425841994
+    },
+    "wiki/entities/万历皇帝.md": {
+      "hash": "70721b239bc09a4d858c16c6556e294c",
+      "size": 1290,
+      "mtimeMs": 1785427942018
+    },
+    "wiki/entities/万维钢.md": {
+      "hash": "0675d88f231fcfdb0a57b375bb9ad987",
+      "size": 1617,
+      "mtimeMs": 1785429111394
+    },
+    "wiki/entities/丹尼尔-T-威林厄姆.md": {
+      "hash": "50603268af896b8c6df8868d9c724b29",
+      "size": 1422,
+      "mtimeMs": 1785430888579
+    },
+    "wiki/entities/丹尼尔-卡尼曼.md": {
+      "hash": "909300df2472960d93dd90c11fdefaf7",
+      "size": 1239,
+      "mtimeMs": 1785430454845
+    },
+    "wiki/entities/丹尼尔-汉南.md": {
+      "hash": "256971c6959e6848997366939ca64e21",
+      "size": 1419,
+      "mtimeMs": 1785427052665
+    },
+    "wiki/entities/乔治-波利亚.md": {
+      "hash": "3006965f1886b184278dd1d0184da210",
+      "size": 1909,
+      "mtimeMs": 1785432895834
+    },
+    "wiki/entities/乔治-莱考夫.md": {
+      "hash": "972e15a5d2b73f6a2cb0a1e58b736e60",
+      "size": 1797,
+      "mtimeMs": 1785430680374
+    },
+    "wiki/entities/亨利-保尔森.md": {
+      "hash": "a187b723bf10ea4a86fa9f2292a528ff",
+      "size": 797,
+      "mtimeMs": 1785426063838
+    },
+    "wiki/entities/亨廷顿.md": {
+      "hash": "0b9739cff6d985f10af2a1a5c2172583",
+      "size": 1491,
+      "mtimeMs": 1785427132529
+    },
+    "wiki/entities/伊丽莎白-布莱克本.md": {
+      "hash": "40560334b2e966ccb73c26f63c9d7524",
+      "size": 960,
+      "mtimeMs": 1785431859192
+    },
+    "wiki/entities/伦敦政治经济学院.md": {
+      "hash": "e0b360b41be99d3398168b973774a4dc",
+      "size": 642,
+      "mtimeMs": 1785426540499
+    },
+    "wiki/entities/何帆.md": {
+      "hash": "40fc20fdcd1229ce6fcf5f3c9633323a",
+      "size": 640,
+      "mtimeMs": 1785426750803
+    },
+    "wiki/entities/佩里-安德森.md": {
+      "hash": "53c94599cb475aebbbb38fd87e5b513b",
+      "size": 2033,
+      "mtimeMs": 1785427204054
+    },
+    "wiki/entities/侯世达.md": {
+      "hash": "ef054fac66b0f61eafd636300d284b9f",
+      "size": 1945,
+      "mtimeMs": 1785430217686
+    },
+    "wiki/entities/保罗-格雷厄姆.md": {
+      "hash": "859c0170a00f83d997aec3b03bfe75e2",
+      "size": 1341,
+      "mtimeMs": 1785425841980
+    },
+    "wiki/entities/保罗-福塞尔.md": {
+      "hash": "0da3fcc916e8969d732926a22ed5c94f",
+      "size": 990,
+      "mtimeMs": 1785432018349
+    },
+    "wiki/entities/傅斯年.md": {
+      "hash": "058793b2088ab428123a86a98e166935",
+      "size": 419,
+      "mtimeMs": 1785427644970
+    },
+    "wiki/entities/克劳塞维茨.md": {
+      "hash": "edcb9a505a118d20273e758769dc6c81",
+      "size": 1183,
+      "mtimeMs": 1785428251889
+    },
+    "wiki/entities/兰波.md": {
+      "hash": "66648f07e8abb9fb90b1c6f375dd26d1",
+      "size": 1236,
+      "mtimeMs": 1785432086251
+    },
+    "wiki/entities/写索托伊.md": {
+      "hash": "744a0fc3040a003a897eaf60eea77acc",
+      "size": 981,
+      "mtimeMs": 1785429738255
+    },
+    "wiki/entities/冯启娜.md": {
+      "hash": "ecd31749914c29a47bb406e68ec9d675",
+      "size": 539,
+      "mtimeMs": 1785427357684
+    },
+    "wiki/entities/凯恩斯.md": {
+      "hash": "99eb80f758731f0e7b3f75956572225e",
+      "size": 892,
+      "mtimeMs": 1785429738288
+    },
+    "wiki/entities/凯文-凯利.md": {
+      "hash": "656f9076d0dfe0159d1ffcd5da37c497",
+      "size": 930,
+      "mtimeMs": 1785427132591
+    },
+    "wiki/entities/凯斯-桑斯坦.md": {
+      "hash": "237850913a993399495d1c96ced81845",
+      "size": 1513,
+      "mtimeMs": 1785432970765
+    },
+    "wiki/entities/刘慈欣.md": {
+      "hash": "c9c2bb4c2f38d5a8462544c23542f343",
+      "size": 1087,
+      "mtimeMs": 1785429738272
+    },
+    "wiki/entities/刘擎.md": {
+      "hash": "91ace2e4890a504b2b220d709ade3998",
+      "size": 1002,
+      "mtimeMs": 1785427132608
+    },
+    "wiki/entities/勒-柯布西耶.md": {
+      "hash": "a73d04e17f904e2c8286a7754996640d",
+      "size": 1977,
+      "mtimeMs": 1785427302295
+    },
+    "wiki/entities/北京十一学校.md": {
+      "hash": "84bdc829224ae3b6d7cc3bf67155426b",
+      "size": 1306,
+      "mtimeMs": 1785430305746
+    },
+    "wiki/entities/南开大学.md": {
+      "hash": "fdade8bfd32b9926390f6b800272d6fa",
+      "size": 666,
+      "mtimeMs": 1785427942078
+    },
+    "wiki/entities/卡尔-波兰尼.md": {
+      "hash": "7fed201d5db6f263e96094326e4f1b98",
+      "size": 1627,
+      "mtimeMs": 1785426750686
+    },
+    "wiki/entities/卡尔-罗杰斯.md": {
+      "hash": "039d547f04e63544ef282070741ac4af",
+      "size": 1108,
+      "mtimeMs": 1785432219286
+    },
+    "wiki/entities/卡尔-萨根.md": {
+      "hash": "707dbd2c85fd05034629207ba6cd3ad8",
+      "size": 1986,
+      "mtimeMs": 1785431422320
+    },
+    "wiki/entities/卡拉奇.md": {
+      "hash": "55f517a2cf6a961f555ceec3fb85f1aa",
+      "size": 967,
+      "mtimeMs": 1785431949625
+    },
+    "wiki/entities/印象派.md": {
+      "hash": "af27f2ae328ce3543d138eef3e212a5b",
+      "size": 1043,
+      "mtimeMs": 1785431949675
+    },
+    "wiki/entities/古德里安.md": {
+      "hash": "6a3aed356736521e1f31eb167c51b3b4",
+      "size": 1084,
+      "mtimeMs": 1785429369437
+    },
+    "wiki/entities/史蒂文-温伯格.md": {
+      "hash": "55cd99ca8721e6461dc03f0e20061796",
+      "size": 1669,
+      "mtimeMs": 1785431355687
+    },
+    "wiki/entities/史蒂芬-平克.md": {
+      "hash": "1b30949056f78bdb960a3dcf4255dfde",
+      "size": 2526,
+      "mtimeMs": 1785430599994
+    },
+    "wiki/entities/史蒂芬-霍金.md": {
+      "hash": "1d849e65e6eeaaa869cbaba3ea5945d3",
+      "size": 1439,
+      "mtimeMs": 1785431035692
+    },
+    "wiki/entities/吴伯凡.md": {
+      "hash": "0100107da8698eaa98761933060e434a",
+      "size": 533,
+      "mtimeMs": 1785426891283
+    },
+    "wiki/entities/吴军.md": {
+      "hash": "5a75448de07086924698657bd166217c",
+      "size": 543,
+      "mtimeMs": 1785426891270
+    },
+    "wiki/entities/周有光.md": {
+      "hash": "328e124b2a3fba4f29a422923c45089a",
+      "size": 685,
+      "mtimeMs": 1785432163400
+    },
+    "wiki/entities/唐晓峰.md": {
+      "hash": "6ab9aa8fb7a09aecdcac3bd101dd5063",
+      "size": 1196,
+      "mtimeMs": 1785428691787
+    },
+    "wiki/entities/圣塔菲研究所.md": {
+      "hash": "0434b1cb1d25e09dde6d7655b0b42c8d",
+      "size": 1104,
+      "mtimeMs": 1785426441337
+    },
+    "wiki/entities/埃尔-格列柯.md": {
+      "hash": "9d98248542e7259e234453745efcfafe",
+      "size": 891,
+      "mtimeMs": 1785431949609
+    },
+    "wiki/entities/埃里克-拜因霍克.md": {
+      "hash": "e9ebf0035753766535509671326188e7",
+      "size": 1519,
+      "mtimeMs": 1785426441312
+    },
+    "wiki/entities/大公报.md": {
+      "hash": "62fec7d204571241b4e980de3d492788",
+      "size": 659,
+      "mtimeMs": 1785427942064
+    },
+    "wiki/entities/大卫-休谟.md": {
+      "hash": "2072070d543fc9d1158bef71d5308a65",
+      "size": 1472,
+      "mtimeMs": 1785432362254
+    },
+    "wiki/entities/大卫-霍克尼.md": {
+      "hash": "43f4834936c934fb8546c8b5d74bbf74",
+      "size": 2006,
+      "mtimeMs": 1785428481932
+    },
+    "wiki/entities/奕山.md": {
+      "hash": "7ee3c522effaee5efe5e53afb21889b5",
+      "size": 1153,
+      "mtimeMs": 1785427782269
+    },
+    "wiki/entities/奥克兰运动家队.md": {
+      "hash": "844230076006e623a1eb7352d72b4cb0",
+      "size": 1284,
+      "mtimeMs": 1785425489914
+    },
+    "wiki/entities/奥拉夫-维尔苏斯.md": {
+      "hash": "f3bee7b2187bcc6c2a268d51332ad9b9",
+      "size": 1018,
+      "mtimeMs": 1785428392743
+    },
+    "wiki/entities/威尔-杜兰特.md": {
+      "hash": "de5df7ee17df348574afa10639c8aa5a",
+      "size": 1933,
+      "mtimeMs": 1785428172572
+    },
+    "wiki/entities/孔子.md": {
+      "hash": "c9315ea11530ecf6a626951ef2b6523a",
+      "size": 1441,
+      "mtimeMs": 1785428925597
+    },
+    "wiki/entities/密歇根大学.md": {
+      "hash": "ced8121a2909fac3961399d0c363b1d3",
+      "size": 640,
+      "mtimeMs": 1785427942034
+    },
+    "wiki/entities/小小sha.md": {
+      "hash": "613bba3977a8de760aa1e106d0be0281",
+      "size": 1479,
+      "mtimeMs": 1785432787699
+    },
+    "wiki/entities/尼德霍夫.md": {
+      "hash": "b26e86685c23d70a3c2aa3e5ca8c4171",
+      "size": 1884,
+      "mtimeMs": 1785429468809
+    },
+    "wiki/entities/岸见一郎.md": {
+      "hash": "5248a0469f86a9294bf3aa499fb4fb46",
+      "size": 1264,
+      "mtimeMs": 1785432594285
+    },
+    "wiki/entities/巨人的工具.md": {
+      "hash": "933fc0124ddf7ebf2d9602a1d597ca8c",
+      "size": 1301,
+      "mtimeMs": 1785433216337
+    },
+    "wiki/entities/巴黎经济学院.md": {
+      "hash": "dfca4fab8d798423068319a3f7707a9a",
+      "size": 855,
+      "mtimeMs": 1785426339078
+    },
+    "wiki/entities/布莱恩-格林.md": {
+      "hash": "6cfe8bbe4d88548b6e4c0049ece5796c",
+      "size": 1309,
+      "mtimeMs": 1785431233462
+    },
+    "wiki/entities/布莱恩-阿瑟.md": {
+      "hash": "6948ddc28165d907f55f6b24a968b7d1",
+      "size": 1223,
+      "mtimeMs": 1785426441326
+    },
+    "wiki/entities/弗格森.md": {
+      "hash": "4dce0c02bf9725b5035495cdb080d38a",
+      "size": 1586,
+      "mtimeMs": 1785425136725
+    },
+    "wiki/entities/张光直.md": {
+      "hash": "ecb068937bdf956ec13beae6f3e14583",
+      "size": 1809,
+      "mtimeMs": 1785428753073
+    },
+    "wiki/entities/张津剑.md": {
+      "hash": "41723d3708170dff55cf1c8439d06a15",
+      "size": 1266,
+      "mtimeMs": 1785430082981
+    },
+    "wiki/entities/彼得-德鲁克.md": {
+      "hash": "e9b74d60e518e1f9fd842083a42a435b",
+      "size": 972,
+      "mtimeMs": 1785425597573
+    },
+    "wiki/entities/德斯蒙德-莫利斯.md": {
+      "hash": "3746a1da00fdd507b856de16115ebf13",
+      "size": 1479,
+      "mtimeMs": 1785431493620
+    },
+    "wiki/entities/德里克-汤普森.md": {
+      "hash": "55bc34112885c1c740a38c4824ae5699",
+      "size": 1176,
+      "mtimeMs": 1785429646227
+    },
+    "wiki/entities/悉达多-穆克吉.md": {
+      "hash": "3474a0dd7ba6e59856f4ead22305507d",
+      "size": 1092,
+      "mtimeMs": 1785432273061
+    },
+    "wiki/entities/戴维-温伯格.md": {
+      "hash": "a196423d5e42e4e09d94ea517c464174",
+      "size": 1416,
+      "mtimeMs": 1785429844985
+    },
+    "wiki/entities/房利美.md": {
+      "hash": "f6e8bd94c049d796b9013e8166465435",
+      "size": 936,
+      "mtimeMs": 1785426063892
+    },
+    "wiki/entities/房地美.md": {
+      "hash": "69960d1abbe2d3141c88b10f356c42b3",
+      "size": 937,
+      "mtimeMs": 1785426063908
+    },
+    "wiki/entities/所罗门兄弟.md": {
+      "hash": "16fc11d864c365f23635a6f06611b8cb",
+      "size": 851,
+      "mtimeMs": 1785426540413
+    },
+    "wiki/entities/托马斯-库恩.md": {
+      "hash": "f987117c003c4d1f6c5628f030f26a3a",
+      "size": 2536,
+      "mtimeMs": 1785430975324
+    },
+    "wiki/entities/托马斯-皮凯蒂.md": {
+      "hash": "71f2f4eac13ae98984e043b495d5236c",
+      "size": 2390,
+      "mtimeMs": 1785426339061
+    },
+    "wiki/entities/托马斯-谢林.md": {
+      "hash": "be3fce3974e7613006ef669de531721c",
+      "size": 865,
+      "mtimeMs": 1785426817238
+    },
+    "wiki/entities/文震亨.md": {
+      "hash": "02fd7a40ee021705a84dc956fe64080a",
+      "size": 912,
+      "mtimeMs": 1785432018369
+    },
+    "wiki/entities/斯坦尼斯拉斯-迪昂.md": {
+      "hash": "9a1ca6741a96f9542eb2ad86afee5228",
+      "size": 1415,
+      "mtimeMs": 1785430803701
+    },
+    "wiki/entities/斯文-贝克特.md": {
+      "hash": "337dd5c8e4b0ae3d1d418bce0d35629d",
+      "size": 1239,
+      "mtimeMs": 1785427544632
+    },
+    "wiki/entities/方成.md": {
+      "hash": "6cb0a6468d05fe56926fdb5b604a2ba9",
+      "size": 634,
+      "mtimeMs": 1785432163415
+    },
+    "wiki/entities/施展.md": {
+      "hash": "e2e0b3a892df992f638c7d6448cb71f4",
+      "size": 998,
+      "mtimeMs": 1785427590430
+    },
+    "wiki/entities/施耐庵.md": {
+      "hash": "3ebc18e84635b6077301f30fa9eea802",
+      "size": 446,
+      "mtimeMs": 1785427645052
+    },
+    "wiki/entities/普林斯顿大学.md": {
+      "hash": "0cdceaceb0373bd6f03e0f50e0d7a5ff",
+      "size": 776,
+      "mtimeMs": 1785426540480
+    },
+    "wiki/entities/曼纽尔-卡斯特.md": {
+      "hash": "e01fd34e3363b993fa7023531251f84e",
+      "size": 849,
+      "mtimeMs": 1785425302234
+    },
+    "wiki/entities/曾鸣.md": {
+      "hash": "0aea176e7f0151f1f968867c9e1c88d6",
+      "size": 1310,
+      "mtimeMs": 1785429923034
+    },
+    "wiki/entities/本-伯南克.md": {
+      "hash": "d0300af4634509f66118e1eafec2bca7",
+      "size": 863,
+      "mtimeMs": 1785426063824
+    },
+    "wiki/entities/本尼迪克特-安德森.md": {
+      "hash": "6ae13c83fd9be9fe11a92d845afa27c7",
+      "size": 689,
+      "mtimeMs": 1785427398423
+    },
+    "wiki/entities/朱家溍.md": {
+      "hash": "8cf5d804838844d8d7fb27d721520aed",
+      "size": 699,
+      "mtimeMs": 1785428311128
+    },
+    "wiki/entities/李南南.md": {
+      "hash": "5389f41d414a3591fea6b5eaa1448a12",
+      "size": 860,
+      "mtimeMs": 1785425939523
+    },
+    "wiki/entities/李希贵.md": {
+      "hash": "74f46b3d8f3bd07236642c4fe45a9d23",
+      "size": 1056,
+      "mtimeMs": 1785430305729
+    },
+    "wiki/entities/李硕.md": {
+      "hash": "278fa5602d7cc14eb93714a9bc20a28f",
+      "size": 728,
+      "mtimeMs": 1785428925612
+    },
+    "wiki/entities/李零.md": {
+      "hash": "33ebfba8a3fbe7761ef418fedeef41cc",
+      "size": 2108,
+      "mtimeMs": 1785428925585
+    },
+    "wiki/entities/杨庆堃.md": {
+      "hash": "1bc651a9331944bac08e23ffd8d9fd7a",
+      "size": 1659,
+      "mtimeMs": 1785428539539
+    },
+    "wiki/entities/杨蕾.md": {
+      "hash": "e5de19154cf049f2b8e5f4886ac3a57e",
+      "size": 565,
+      "mtimeMs": 1785426540463
+    },
+    "wiki/entities/枣林书院.md": {
+      "hash": "d4b5da416c6af18267c4bb7b516ba6cc",
+      "size": 1150,
+      "mtimeMs": 1785430305762
+    },
+    "wiki/entities/查理-芒格.md": {
+      "hash": "56bb9fd784a13b8f3bb28582dba55b49",
+      "size": 1517,
+      "mtimeMs": 1785432706969
+    },
+    "wiki/entities/格拉德威尔.md": {
+      "hash": "9b18ee61db1a5a842041573331e079fc",
+      "size": 848,
+      "mtimeMs": 1785426540430
+    },
+    "wiki/entities/桥水基金.md": {
+      "hash": "15035808a84a615a9ea870c128d341a9",
+      "size": 1322,
+      "mtimeMs": 1785426158369
+    },
+    "wiki/entities/欧文-戈夫曼.md": {
+      "hash": "dd0d1937b32d067e8f5fe842c2ae4d3f",
+      "size": 1114,
+      "mtimeMs": 1785427244789
+    },
+    "wiki/entities/比尔-坎贝尔.md": {
+      "hash": "e50ce31d76a6c0ebb67c35c948b49432",
+      "size": 1657,
+      "mtimeMs": 1785426891257
+    },
+    "wiki/entities/汉娜-阿伦特.md": {
+      "hash": "a38dfcbac8c1e8a06ccb39b7037d0c50",
+      "size": 1621,
+      "mtimeMs": 1785426970883
+    },
+    "wiki/entities/汉斯-罗斯林.md": {
+      "hash": "64370a721bc68ad78dc6b69d7be7c235",
+      "size": 1477,
+      "mtimeMs": 1785432848237
+    },
+    "wiki/entities/汤君健.md": {
+      "hash": "79cd24bf4df38882d16400567f92f3c9",
+      "size": 852,
+      "mtimeMs": 1785426662167
+    },
+    "wiki/entities/波兰尼家族.md": {
+      "hash": "b9a56338ded7007e2d773c7f0b5d2bc6",
+      "size": 1144,
+      "mtimeMs": 1785426750787
+    },
+    "wiki/entities/海豹突击队.md": {
+      "hash": "0e85c9ad8f1551178e401bf3eeefec11",
+      "size": 1236,
+      "mtimeMs": 1785426662206
+    },
+    "wiki/entities/王世襄.md": {
+      "hash": "752f0d4a0f124f4d91ca67cb78e3a801",
+      "size": 1715,
+      "mtimeMs": 1785428311112
+    },
+    "wiki/entities/王力宏.md": {
+      "hash": "928827308af7ecddcdf991552a11fc78",
+      "size": 356,
+      "mtimeMs": 1785427645019
+    },
+    "wiki/entities/王小波.md": {
+      "hash": "9bbb26e7602f15581d7bd31b663cab31",
+      "size": 267,
+      "mtimeMs": 1785427645003
+    },
+    "wiki/entities/王思恺.md": {
+      "hash": "db0cfbe273b9e214959479931e350649",
+      "size": 796,
+      "mtimeMs": 1785425939539
+    },
+    "wiki/entities/王澍.md": {
+      "hash": "efed8b782fd68038833f88506d4888dc",
+      "size": 1457,
+      "mtimeMs": 1785427302311
+    },
+    "wiki/entities/王烁.md": {
+      "hash": "8057c237e70e048d7522aa3aeca7a656",
+      "size": 526,
+      "mtimeMs": 1785431107813
+    },
+    "wiki/entities/珀尔.md": {
+      "hash": "7813b138e678a7ba949e54e916952689",
+      "size": 1253,
+      "mtimeMs": 1785425750605
+    },
+    "wiki/entities/理查德-塞勒.md": {
+      "hash": "9890a7884c90bc9e90d3b23647b61332",
+      "size": 1127,
+      "mtimeMs": 1785432970748
+    },
+    "wiki/entities/理查德-道金斯.md": {
+      "hash": "1299f30911b4737ad24d390b3e8b16bf",
+      "size": 1058,
+      "mtimeMs": 1785431292316
+    },
+    "wiki/entities/瑞-达利欧.md": {
+      "hash": "a8ce0fb3e71531722b7acc3003640146",
+      "size": 1511,
+      "mtimeMs": 1785426158359
+    },
+    "wiki/entities/福山.md": {
+      "hash": "e058ee96d9813e873ba73c2d2f5c2c9c",
+      "size": 1979,
+      "mtimeMs": 1785427204038
+    },
+    "wiki/entities/福柯.md": {
+      "hash": "d6123dc6a5eea0d5125835410b14d3f0",
+      "size": 1647,
+      "mtimeMs": 1785427451489
+    },
+    "wiki/entities/简学.md": {
+      "hash": "60a787613197af0f5aecf06acffa31ed",
+      "size": 1123,
+      "mtimeMs": 1785426441347
+    },
+    "wiki/entities/米兰-昆德拉.md": {
+      "hash": "771a7c573c5de9f7427aefbe67cf6442",
+      "size": 1529,
+      "mtimeMs": 1785429177662
+    },
+    "wiki/entities/米歇尔-福柯.md": {
+      "hash": "85eac80c2b6609b6ea330a1d2e5595e1",
+      "size": 1480,
+      "mtimeMs": 1785432440539
+    },
+    "wiki/entities/约瑟夫-坎贝尔.md": {
+      "hash": "fdb0c85753626606c0a62c8c3b5e4e33",
+      "size": 1517,
+      "mtimeMs": 1785425379376
+    },
+    "wiki/entities/约瑟夫-熊彼特.md": {
+      "hash": "3c8dc62256e7d16553a44266810fa1f0",
+      "size": 1171,
+      "mtimeMs": 1785426250148
+    },
+    "wiki/entities/约翰-刘易斯-加迪斯.md": {
+      "hash": "0b35643abde9ab780ca1343ca08e5a67",
+      "size": 1310,
+      "mtimeMs": 1785425666885
+    },
+    "wiki/entities/约翰-厄里.md": {
+      "hash": "43f4f73c72437915aae85810d0cf09f6",
+      "size": 1219,
+      "mtimeMs": 1785432440555
+    },
+    "wiki/entities/约翰-基根.md": {
+      "hash": "c6eebd3c78d3fb583a9dc66a9dac7313",
+      "size": 1180,
+      "mtimeMs": 1785428251873
+    },
+    "wiki/entities/约翰-罗斯金.md": {
+      "hash": "769a5d1d446562062de5743b7cb40c75",
+      "size": 867,
+      "mtimeMs": 1785431949658
+    },
+    "wiki/entities/纳特-西尔弗.md": {
+      "hash": "7f6bd1321930f07451aa49f6625987de",
+      "size": 758,
+      "mtimeMs": 1785430082964
+    },
+    "wiki/entities/纳西姆-尼古拉斯-塔勒布.md": {
+      "hash": "7751143d658aae35cec40fb230e241d8",
+      "size": 2646,
+      "mtimeMs": 1785429468726
+    },
+    "wiki/entities/缅北之战.md": {
+      "hash": "563baa5c45ca118c45be9438a1e05388",
+      "size": 933,
+      "mtimeMs": 1785427942049
+    },
+    "wiki/entities/罗伯特-萨波尔斯基.md": {
+      "hash": "7f4af5086201251500c6063f2e11cd3e",
+      "size": 1696,
+      "mtimeMs": 1785430753107
+    },
+    "wiki/entities/罗伯特-赖特.md": {
+      "hash": "eae104787147a5453810536fb5733af9",
+      "size": 1130,
+      "mtimeMs": 1785428996363
+    },
+    "wiki/entities/罗宾-邓巴.md": {
+      "hash": "7982db98980cc64b493f2284113698f2",
+      "size": 1118,
+      "mtimeMs": 1785430375876
+    },
+    "wiki/entities/美团.md": {
+      "hash": "87c303288e0409030eed3f6c5f601697",
+      "size": 1679,
+      "mtimeMs": 1785426662139
+    },
+    "wiki/entities/美第奇家族.md": {
+      "hash": "eedbbcb63f519a8818dcdf972f9c2c83",
+      "size": 1283,
+      "mtimeMs": 1785426063865
+    },
+    "wiki/entities/胡适.md": {
+      "hash": "c0c836e0f4aa926607cf99fd96d851a4",
+      "size": 332,
+      "mtimeMs": 1785427644986
+    },
+    "wiki/entities/艾丽莎-伊帕尔.md": {
+      "hash": "57e102899438aeac8ef021c244fae9be",
+      "size": 947,
+      "mtimeMs": 1785431859206
+    },
+    "wiki/entities/艾莉森-高普尼克.md": {
+      "hash": "9999047c1020b0b7c4d13917a1dfd15e",
+      "size": 1342,
+      "mtimeMs": 1785432362236
+    },
+    "wiki/entities/茅海建.md": {
+      "hash": "1764fdcc67306d5a37b5ee70280314f2",
+      "size": 1154,
+      "mtimeMs": 1785427782235
+    },
+    "wiki/entities/菲茨杰拉德.md": {
+      "hash": "743e7a45b024fb684184621bdb6009b4",
+      "size": 846,
+      "mtimeMs": 1785426540446
+    },
+    "wiki/entities/蒂莫西-盖特纳.md": {
+      "hash": "0cb4f10fa6010466c668979a2a4d0b85",
+      "size": 759,
+      "mtimeMs": 1785426063853
+    },
+    "wiki/entities/裴鹏程.md": {
+      "hash": "a93e3470b9b67956b4d818323de3b1a6",
+      "size": 858,
+      "mtimeMs": 1785427942000
+    },
+    "wiki/entities/西恩-贝洛克.md": {
+      "hash": "fe4197de2bc95f256aaac0859756d9f1",
+      "size": 1153,
+      "mtimeMs": 1785430149418
+    },
+    "wiki/entities/西贝.md": {
+      "hash": "a9e7c03f908978067f557fe0735e75e1",
+      "size": 1350,
+      "mtimeMs": 1785426662156
+    },
+    "wiki/entities/西部世界.md": {
+      "hash": "5f793c1e4c89a615fcd98230dafd981c",
+      "size": 1223,
+      "mtimeMs": 1785429738304
+    },
+    "wiki/entities/詹姆斯-卡斯.md": {
+      "hash": "f66a88811f1e162fa74d761cd8793d36",
+      "size": 1209,
+      "mtimeMs": 1785425939448
+    },
+    "wiki/entities/许倬云.md": {
+      "hash": "fb8ba98e0e29248b9defe513b3323411",
+      "size": 1484,
+      "mtimeMs": 1785427644953
+    },
+    "wiki/entities/诺基亚.md": {
+      "hash": "f680c1dce749f83ea4c758dbe455041c",
+      "size": 1297,
+      "mtimeMs": 1785425939499
+    },
+    "wiki/entities/贝聿铭.md": {
+      "hash": "f71454fec4dec7b619c5dcfe53c0136a",
+      "size": 678,
+      "mtimeMs": 1785432163383
+    },
+    "wiki/entities/贝蒂娜-施汤内特.md": {
+      "hash": "5b2b5ce48e7c5efb32d5669f06d71e71",
+      "size": 1030,
+      "mtimeMs": 1785426970922
+    },
+    "wiki/entities/费孝通.md": {
+      "hash": "7c91ce8e069de08217fd0ac705bc0107",
+      "size": 1414,
+      "mtimeMs": 1785428027707
+    },
+    "wiki/entities/贾雷德-戴蒙德.md": {
+      "hash": "3aa1d53c359cf1291f162f79eb23f136",
+      "size": 1681,
+      "mtimeMs": 1785427711002
+    },
+    "wiki/entities/赵嘉敏.md": {
+      "hash": "b6f47d051628b22003d3a6aadb197bb9",
+      "size": 1262,
+      "mtimeMs": 1785429550344
+    },
+    "wiki/entities/迈克尔-刘易斯.md": {
+      "hash": "69e8cc2a029824c9f7627034df502b78",
+      "size": 1764,
+      "mtimeMs": 1785426540396
+    },
+    "wiki/entities/迈克尔-波兰尼.md": {
+      "hash": "9834d43a678e6b5656ea2104274f949b",
+      "size": 1172,
+      "mtimeMs": 1785426750702
+    },
+    "wiki/entities/迈克斯-泰格马克.md": {
+      "hash": "dae43c8bc70ebd3af92720ce835f1087",
+      "size": 1670,
+      "mtimeMs": 1785430007617
+    },
+    "wiki/entities/透纳.md": {
+      "hash": "0659be1a15ed555ac9a3eed023ed70d3",
+      "size": 1117,
+      "mtimeMs": 1785431949641
+    },
+    "wiki/entities/道光皇帝.md": {
+      "hash": "abc908bf2da1f36234dda99ab2b9f171",
+      "size": 1152,
+      "mtimeMs": 1785427782252
+    },
+    "wiki/entities/邵恒.md": {
+      "hash": "5d83e3cdca292b1b3548cba66f704425",
+      "size": 857,
+      "mtimeMs": 1785426662178
+    },
+    "wiki/entities/里德-霍夫曼.md": {
+      "hash": "6d9091df655b5222cb2ca0203a698154",
+      "size": 1494,
+      "mtimeMs": 1785429369421
+    },
+    "wiki/entities/钱孙卿.md": {
+      "hash": "6ba0d65c15baea79af8ee1ab9877d882",
+      "size": 765,
+      "mtimeMs": 1785427645035
+    },
+    "wiki/entities/阿兰-巴迪欧.md": {
+      "hash": "1979e9886c8eec8a672b8de373653139",
+      "size": 1436,
+      "mtimeMs": 1785432086205
+    },
+    "wiki/entities/阿图-葛文德.md": {
+      "hash": "775fdfbccad2e8ae448da3c2628a0b3b",
+      "size": 1664,
+      "mtimeMs": 1785432673501
+    },
+    "wiki/entities/阿姆斯特丹大学.md": {
+      "hash": "06070ad716c535a6076c9bdaa9867988",
+      "size": 546,
+      "mtimeMs": 1785428392756
+    },
+    "wiki/entities/阿尔弗雷德-斯隆.md": {
+      "hash": "00138a14edb03de6936e24eb3b5ab1a6",
+      "size": 1152,
+      "mtimeMs": 1785426250160
+    },
+    "wiki/entities/阿尔弗雷德-阿德勒.md": {
+      "hash": "8c382a6f6402e9c7e2351cbcb1555822",
+      "size": 1480,
+      "mtimeMs": 1785432594270
+    },
+    "wiki/entities/阿尔比奇家族.md": {
+      "hash": "cef6b07aaaef2f788312147ffb74fcf4",
+      "size": 1248,
+      "mtimeMs": 1785426063877
+    },
+    "wiki/entities/阿道夫-艾希曼.md": {
+      "hash": "8440346eac83d27c8c34580dbf42b37b",
+      "size": 1413,
+      "mtimeMs": 1785426970899
+    },
+    "wiki/entities/陈嘉映.md": {
+      "hash": "0a842079da5131a7add9da21a0950011",
+      "size": 1977,
+      "mtimeMs": 1785432514040
+    },
+    "wiki/entities/雅斯贝尔斯.md": {
+      "hash": "5d9e4dfbcd4b098797ef06395a289dc4",
+      "size": 1184,
+      "mtimeMs": 1785426970912
+    },
+    "wiki/entities/集点器.md": {
+      "hash": "5bf895dee0fecc1224aa6565cf280c4a",
+      "size": 1819,
+      "mtimeMs": 1785426158380
+    },
+    "wiki/entities/雷蒙德-洛威.md": {
+      "hash": "9b35d8e0a919b908d5c4e8de28e296dc",
+      "size": 1035,
+      "mtimeMs": 1785429646245
+    },
+    "wiki/entities/马丁-普克纳.md": {
+      "hash": "b2be35c5cd396f911b002cf39f9437b8",
+      "size": 1327,
+      "mtimeMs": 1785428616276
+    },
+    "wiki/entities/马丁-诺瓦克.md": {
+      "hash": "a47e70ed4891e22be5d2e1fb5310bb52",
+      "size": 1385,
+      "mtimeMs": 1785431107796
+    },
+    "wiki/entities/马克-莱文森.md": {
+      "hash": "079eab47bf2d74d5934d002dcc0bdd2d",
+      "size": 1154,
+      "mtimeMs": 1785429256223
+    },
+    "wiki/entities/马尔科姆-格拉德威尔.md": {
+      "hash": "9ea64dc913f94a723adaeda3b6c2418a",
+      "size": 823,
+      "mtimeMs": 1785429646261
+    },
+    "wiki/entities/马尔科姆-麦克莱恩.md": {
+      "hash": "2a32b6c607f487eaf083a9dd08867d00",
+      "size": 1115,
+      "mtimeMs": 1785429256239
+    },
+    "wiki/entities/马恺文.md": {
+      "hash": "683665ebd4ad72c8c451eb9c22df4e6a",
+      "size": 1318,
+      "mtimeMs": 1785425489930
+    },
+    "wiki/entities/马歇尔-卢森堡.md": {
+      "hash": "7df9521de820355010c27f2c50ade9cb",
+      "size": 1347,
+      "mtimeMs": 1785432219270
+    },
+    "wiki/entities/马歇尔-麦克卢汉.md": {
+      "hash": "1e69039e31d4400a1273993908b6bb90",
+      "size": 1509,
+      "mtimeMs": 1785427497238
+    },
+    "wiki/entities/魏尔伦.md": {
+      "hash": "9a0c8a66270250f37e6217a84bd08bba",
+      "size": 1070,
+      "mtimeMs": 1785432086266
+    },
+    "wiki/entities/黄仁宇.md": {
+      "hash": "99831e1a17638431a271b75af3b1d23b",
+      "size": 4226,
+      "mtimeMs": 1785427941937
+    },
+    "wiki/index.md": {
+      "hash": "21efc3ad26ae1ffa3e6e08c37e97ccf0",
+      "size": 13574,
+      "mtimeMs": 1785433216502
+    },
+    "wiki/log.md": {
+      "hash": "3cb972f06b90703ed47e07a80b2c158f",
+      "size": 58941,
+      "mtimeMs": 1785433216432
+    },
+    "wiki/overview.md": {
+      "hash": "3a6b8de12b70516be93fe9f2f947b45c",
+      "size": 210,
+      "mtimeMs": 1785424966933
+    },
+    "wiki/queries/不报复策略是否在所有博弈场景中都最优.md": {
+      "hash": "1d607bb4ddbab4eee2843e75a6ecd8af",
+      "size": 1405,
+      "mtimeMs": 1785431107880
+    },
+    "wiki/queries/世界是否在变得越来越和平.md": {
+      "hash": "30e79b9f35595d1c7edae2893f6fdb98",
+      "size": 1501,
+      "mtimeMs": 1785430600075
+    },
+    "wiki/queries/个性化教育能否在资源匮乏地区推广.md": {
+      "hash": "95a9f9060ca1e91b2be06da689a5cfd6",
+      "size": 1627,
+      "mtimeMs": 1785430305847
+    },
+    "wiki/queries/互联网是让人更接近还是更远离知识真相.md": {
+      "hash": "724c5a6967641f27506049d95d98aeea",
+      "size": 1811,
+      "mtimeMs": 1785429845072
+    },
+    "wiki/queries/历史是否能提供教训.md": {
+      "hash": "70185e5024525bb98cbafc7f76007a7a",
+      "size": 1461,
+      "mtimeMs": 1785428172640
+    },
+    "wiki/queries/大数据时代是否改变了博弈的最优策略.md": {
+      "hash": "f492b5c71149e52702d4155e3cff3761",
+      "size": 1848,
+      "mtimeMs": 1785433060341
+    },
+    "wiki/queries/天人合一是中国文化的整体特征还是局部现象.md": {
+      "hash": "aabc2024ab2762f54b09096465a3440f",
+      "size": 1551,
+      "mtimeMs": 1785428691898
+    },
+    "wiki/queries/库恩的范式理论是否适用于社会科学.md": {
+      "hash": "87dee20344f8b39a225c0c45fbac5c3c",
+      "size": 1368,
+      "mtimeMs": 1785430975406
+    },
+    "wiki/queries/战争的根本动因是政治还是文化.md": {
+      "hash": "b41d3a685865b8877593abd29ba9decd",
+      "size": 1145,
+      "mtimeMs": 1785428251985
+    },
+    "wiki/queries/故事是否可被算法化.md": {
+      "hash": "c47069e2ab112ff6cad44945d582608e",
+      "size": 1007,
+      "mtimeMs": 1785429738319
+    },
+    "wiki/queries/知识在什么条件下才能转化为行为.md": {
+      "hash": "910ac342be577daa5014ed08d3fd81e7",
+      "size": 1579,
+      "mtimeMs": 1785431859253
+    },
+    "wiki/queries/系统1和系统2是否可以相互转化.md": {
+      "hash": "8d24344a43ff9ad0d022f4c2a183c41d",
+      "size": 1422,
+      "mtimeMs": 1785430454910
+    },
+    "wiki/queries/艺术品定价理论是否适用于中国传统艺术市场.md": {
+      "hash": "5c28052bff3e9431afd88930c6813cfa",
+      "size": 1299,
+      "mtimeMs": 1785428392830
+    },
+    "wiki/queries/轴心时代思想家为何不亲自写作.md": {
+      "hash": "495c0bda6352872885371c063aad861a",
+      "size": 1719,
+      "mtimeMs": 1785428616338
+    },
+    "wiki/queries/邓巴数字在移动互联网时代是否仍然成立.md": {
+      "hash": "de8732f109518046f8df129e24565dde",
+      "size": 1494,
+      "mtimeMs": 1785430375931
+    },
+    "wiki/queries/长期战略规划在快速变化时代是否还有效.md": {
+      "hash": "a36efd869a89bc4ccc9044759b8b7588",
+      "size": 1281,
+      "mtimeMs": 1785429923051
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-003人类网络番外篇--pkik6l.md": {
+      "hash": "7ad978dbe1520db36a9d0acb50aed5b2",
+      "size": 2211,
+      "mtimeMs": 1785425302159
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-004千面英雄番外篇--1856mkk.md": {
+      "hash": "a04ef933f56cb974c38e0fb8f186a1c2",
+      "size": 2308,
+      "mtimeMs": 1785425379361
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-006模型思维番外篇--15ot41x.md": {
+      "hash": "a8e9181c0798631b6163f6faffa62653",
+      "size": 2412,
+      "mtimeMs": 1785425597463
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-007论大战略番外篇--bvg3gj.md": {
+      "hash": "1e4f255e9b02386686bfdcabb77818ee",
+      "size": 2278,
+      "mtimeMs": 1785425666859
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-030理解媒介番外篇--1whyxrp.md": {
+      "hash": "acfd7825a9d8cfd61bd400e53721c26b",
+      "size": 2592,
+      "mtimeMs": 1785427497224
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-031棉花帝国番外篇--i8aazg.md": {
+      "hash": "a74465b3331fe8d17879caa5e959b7d8",
+      "size": 2419,
+      "mtimeMs": 1785427544621
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-037乡土中国番外篇--1hhbj2w.md": {
+      "hash": "75935f105b38007e4bafb98a46298234",
+      "size": 2665,
+      "mtimeMs": 1785428027691
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-038人类简史番外篇--z152cu.md": {
+      "hash": "fae80d8c06433d2cfaa481a28be8185b",
+      "size": 2492,
+      "mtimeMs": 1785428104737
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-055引爆流行番外篇--1r2pcjg.md": {
+      "hash": "0ce4754c638449994d6fdaec22bf3f19",
+      "size": 1127,
+      "mtimeMs": 1785429646286
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-058智能商业番外篇--3qny3c.md": {
+      "hash": "1e11a27b798ca61ac9f078e279b487f1",
+      "size": 2187,
+      "mtimeMs": 1785429922972
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-059生命30番外篇--1wbikzh.md": {
+      "hash": "eec50c06385e03059cc069f7e3cc5c70",
+      "size": 3558,
+      "mtimeMs": 1785430007602
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-061具身认知番外篇--9gvrbs.md": {
+      "hash": "f2580eecc37e41a32491490afcb25840",
+      "size": 2230,
+      "mtimeMs": 1785430149385
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-066心智探奇番外篇--1e9x9xq.md": {
+      "hash": "af274b4e4c17709722c39492eda84e2f",
+      "size": 2691,
+      "mtimeMs": 1785430543868
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-069脑与阅读番外篇--1scdca.md": {
+      "hash": "097647b165677c117ade219c6f06aea7",
+      "size": 2451,
+      "mtimeMs": 1785430803685
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-074女士品茶番外篇--1m7x9tu.md": {
+      "hash": "aa49be652c70d024fa0a530afa95e08a",
+      "size": 1128,
+      "mtimeMs": 1785431160235
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-081端粒效应番外篇--1e9lvei.md": {
+      "hash": "ef1557b796ff60a8e0038c1ace857619",
+      "size": 2509,
+      "mtimeMs": 1785431859143
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-085百岁人生番外篇--1q0vcz7.md": {
+      "hash": "e2b685070fdb9cd3dd80bea3db6df2d3",
+      "size": 2389,
+      "mtimeMs": 1785432163323
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-092清单革命番外篇--1vrv6k9.md": {
+      "hash": "85dd0b2b66d9db17cd2c98be56b5c359",
+      "size": 2489,
+      "mtimeMs": 1785432673490
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-094深度工作番外篇--1519sid.md": {
+      "hash": "229b8d03ed52d332550048205209f4ab",
+      "size": 2612,
+      "mtimeMs": 1785432787601
+    },
+    "wiki/sources/5-听书番外篇--2-md--10-096怎样解题番外篇--d44gq9.md": {
+      "hash": "c52ccfe4c758c05ff5b79916a3a1ab61",
+      "size": 2164,
+      "mtimeMs": 1785432895822
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-009黑客与画家番外篇--1fzlt6j.md": {
+      "hash": "6ec8ed435fddc8ca338bd81005371383",
+      "size": 2135,
+      "mtimeMs": 1785425841970
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-015财富的起源番外篇--15p2ogn.md": {
+      "hash": "9e4ac983448ad81ca3ee54415491bdad",
+      "size": 2841,
+      "mtimeMs": 1785426441295
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-022自由的基因番外篇--zjck59.md": {
+      "hash": "9b3ae45a754b705bb37f1fa9cb5307ee",
+      "size": 2870,
+      "mtimeMs": 1785427052652
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-026走向新建筑番外篇--pz4uo6.md": {
+      "hash": "bcb354a763e3e23d6ecff2bda5f21c90",
+      "size": 2426,
+      "mtimeMs": 1785427302281
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-027技术的本质番外篇--55a4tg.md": {
+      "hash": "9efa6fe420977dfcd4bd31df5fe60a8f",
+      "size": 2464,
+      "mtimeMs": 1785427357609
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-029规训与惩罚番外篇--ws98s7.md": {
+      "hash": "2d3f040bd2c2c33d158801a248c405eb",
+      "size": 2220,
+      "mtimeMs": 1785427451473
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-035天朝的崩溃番外篇--1oerm84.md": {
+      "hash": "620dab680f88aef20d0dc11f92d53c41",
+      "size": 2833,
+      "mtimeMs": 1785427782219
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-036万历十五年番外篇--hljccz.md": {
+      "hash": "5135366db07c087be4d9c962c72e758c",
+      "size": 2227,
+      "mtimeMs": 1785427879683
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-039历史的教训番外篇--11faz78.md": {
+      "hash": "c31326ab12db4ad746f406351c1651f7",
+      "size": 2428,
+      "mtimeMs": 1785428172556
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-043隐秘的知识番外篇--gqad6y.md": {
+      "hash": "2616bfed0543b0f487bff7cf314771d7",
+      "size": 2950,
+      "mtimeMs": 1785428481921
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-045文字的力量番外篇--13o7hw5.md": {
+      "hash": "fe0e0ea15ab1085902f52e75615a3367",
+      "size": 3005,
+      "mtimeMs": 1785428616262
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-050小说的艺术番外篇--d8s6dl.md": {
+      "hash": "867238c23a1ab7c27b9fef695f97eb15",
+      "size": 2243,
+      "mtimeMs": 1785429177647
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-052闪电式扩张番外篇--jdu3m4.md": {
+      "hash": "d03251f0e4977c629d8bce3f98c1037f",
+      "size": 3832,
+      "mtimeMs": 1785429369372
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-056天才与算法番外篇--17ov3x9.md": {
+      "hash": "8ba842ecffab4be0900052ecdcfabff8",
+      "size": 1926,
+      "mtimeMs": 1785429738145
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-057知识的边界番外篇--gvyh2.md": {
+      "hash": "62451249f7268c061b159e10d636be23",
+      "size": 3285,
+      "mtimeMs": 1785429844969
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-060信号与噪声番外篇--1j71dng.md": {
+      "hash": "5a2efd96f16badb1c3f7c28fca677fb3",
+      "size": 2126,
+      "mtimeMs": 1785430082954
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-062我是个怪圈番外篇--10h6sqy.md": {
+      "hash": "d91b23207591b65e75ee399bebc23103",
+      "size": 2573,
+      "mtimeMs": 1785430217671
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-065思考快与慢番外篇--1bybjuc.md": {
+      "hash": "3f1c9ea7f23f0126d4d0aab00f9cc664",
+      "size": 2328,
+      "mtimeMs": 1785430454835
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-073超级合作者番外篇--1me880t.md": {
+      "hash": "e0ef54c6f2a4f62c39a01449c2b12bec",
+      "size": 2516,
+      "mtimeMs": 1785431107778
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-075宇宙的琴弦番外篇--144xc4o.md": {
+      "hash": "67a974dd49b70c98cd6c456b91a3086f",
+      "size": 2565,
+      "mtimeMs": 1785431233439
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-076自私的基因番外篇--uluia4.md": {
+      "hash": "f88eda0dece8731b8eb97b9a4b827a4c",
+      "size": 1025,
+      "mtimeMs": 1785431292392
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-077最初三分钟番外篇--1sq6p2v.md": {
+      "hash": "2c77a752766a7344946291c52215e225",
+      "size": 2521,
+      "mtimeMs": 1785431355675
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-082风景与记忆番外篇--19pz2g3.md": {
+      "hash": "6151ef9828d507ef0508146dc24118cf",
+      "size": 2801,
+      "mtimeMs": 1785431949593
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-084爱的多重奏番外篇--qp17bl.md": {
+      "hash": "df2a5395b46134ad85f023186c76bc1f",
+      "size": 1857,
+      "mtimeMs": 1785432086192
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-086非暴力沟通番外篇--1rfxypi.md": {
+      "hash": "b6d738bcd1d3d02402ec552503a7c1d4",
+      "size": 2055,
+      "mtimeMs": 1785432219227
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-088园丁与木匠番外篇--1p93eua.md": {
+      "hash": "f8dfdc54b4ca0b50417d7bedc12bf7eb",
+      "size": 2461,
+      "mtimeMs": 1785432362221
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-089游客的凝视番外篇--1iiidfi.md": {
+      "hash": "d711fdafeac077c7cfa3672a2cc0c745",
+      "size": 2471,
+      "mtimeMs": 1785432440477
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-093穷查理宝典番外篇--1poahuv.md": {
+      "hash": "9b03ec3db880d36d287a2bfdd0cb62c2",
+      "size": 2067,
+      "mtimeMs": 1785432706956
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-098合作的进化番外篇--cdf9fg.md": {
+      "hash": "b5bc8c00ff84508adcb1adff7ee5e273",
+      "size": 2653,
+      "mtimeMs": 1785433060263
+    },
+    "wiki/sources/5-听书番外篇--2-md--11-100巨人的工具番外篇--re54jb.md": {
+      "hash": "93dfa91430189b820569d6807cb35ebd",
+      "size": 2440,
+      "mtimeMs": 1785433216325
+    },
+    "wiki/sources/5-听书番外篇--2-md--12-028想象的共同体番外篇--yzm8vw.md": {
+      "hash": "95eab35b24d5fe76f2834d78ebb7c8ef",
+      "size": 1958,
+      "mtimeMs": 1785427398381
+    },
+    "wiki/sources/5-听书番外篇--2-md--12-046从混沌到秩序番外篇--9b9mmr.md": {
+      "hash": "0385b3493b6ea74197c6f43bed7d400e",
+      "size": 2350,
+      "mtimeMs": 1785428691777
+    },
+    "wiki/sources/5-听书番外篇--2-md--12-063学校如何运转番外篇--17de13l.md": {
+      "hash": "6b6a7d0e7a2cdab5de01736cd916a747",
+      "size": 2991,
+      "mtimeMs": 1785430305716
+    },
+    "wiki/sources/5-听书番外篇--2-md--12-090何为良好生活番外篇--2otu7o.md": {
+      "hash": "82df5bb29b05bf3d8d76bd5457de41a6",
+      "size": 2266,
+      "mtimeMs": 1785432514028
+    },
+    "wiki/sources/5-听书番外篇--2-md--12-091被讨厌的勇气番外篇--8ooc62.md": {
+      "hash": "7d3034e4e3b50418d2c4d4c761c3e620",
+      "size": 2089,
+      "mtimeMs": 1785432594259
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-01421世纪资本论番外篇--x8lg1w.md": {
+      "hash": "5c9c16583bd9027a318d72ec46a67cde",
+      "size": 2856,
+      "mtimeMs": 1785426339047
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-024政治秩序的起源番外篇--13fqzfj.md": {
+      "hash": "33c12afd5226d6c0d4eb5acd621c2d26",
+      "size": 2622,
+      "mtimeMs": 1785427204023
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-034枪炮病菌与钢铁番外篇--fs7fuu.md": {
+      "hash": "a1369901d36d8a951a31d1836ac6c4df",
+      "size": 1877,
+      "mtimeMs": 1785427711085
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-042艺术品如何定价番外篇--lyzf00.md": {
+      "hash": "64127ac4d25d36f93958a3926b16a592",
+      "size": 2125,
+      "mtimeMs": 1785428392730
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-047美术神话与祭祀番外篇--16qts7p.md": {
+      "hash": "444ca68ffeda791da7ceea94481b93ad",
+      "size": 2413,
+      "mtimeMs": 1785428753064
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-048去圣乃得真孔子番外篇--kjphe5.md": {
+      "hash": "b07c37da1beb326b16926277e23d9dfa",
+      "size": 2436,
+      "mtimeMs": 1785428847554
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-051集装箱改变世界番外篇--lh2i21.md": {
+      "hash": "ab33ffacd3b7b1ff856b7af6621f9c35",
+      "size": 2373,
+      "mtimeMs": 1785429256208
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-071科学革命的结构番外篇--1xpjp0u.md": {
+      "hash": "15aac22e600e0a8346ddee18d21b5be6",
+      "size": 3740,
+      "mtimeMs": 1785430975308
+    },
+    "wiki/sources/5-听书番外篇--2-md--13-078魔鬼出没的世界番外篇--1yyue7q.md": {
+      "hash": "faa26f58a40746f7791f70fd2455a487",
+      "size": 1049,
+      "mtimeMs": 1785431422383
+    },
+    "wiki/sources/5-听书番外篇--2-md--14-010有限与无限的游戏番外篇--tcab7l.md": {
+      "hash": "9fea996923240518f35f65eb941701b4",
+      "size": 3185,
+      "mtimeMs": 1785425939438
+    },
+    "wiki/sources/5-听书番外篇--2-md--14-013卓有成效的管理者番外篇--1wl6y7m.md": {
+      "hash": "0c25695d36626a08a00b54ed12feb100",
+      "size": 3215,
+      "mtimeMs": 1785426250133
+    },
+    "wiki/sources/5-听书番外篇--2-md--14-021艾希曼在耶路撒冷番外篇--5y96fp.md": {
+      "hash": "2c95810aef9ba45152bad2c1e92106fb",
+      "size": 3360,
+      "mtimeMs": 1785426970868
+    },
+    "wiki/sources/5-听书番外篇--2-md--14-044中国社会中的宗教番外篇--1kt2jh.md": {
+      "hash": "e9dd559199bd62a264d04b1a32a2d088",
+      "size": 2522,
+      "mtimeMs": 1785428539529
+    },
+    "wiki/sources/5-听书番外篇--2-md--14-049为什么佛学是真的番外篇--azyyd0.md": {
+      "hash": "ad0fdf84965ea8863b95f17956e73baf",
+      "size": 3289,
+      "mtimeMs": 1785428996348
+    },
+    "wiki/sources/5-听书番外篇--2-md--14-087众病之王-癌症传番外篇--zqegxk.md": {
+      "hash": "2a05c6e5271604a3c90464cc6170138c",
+      "size": 2145,
+      "mtimeMs": 1785432273045
+    },
+    "wiki/sources/5-听书番外篇--2-md--15-019微观动机与宏观行为番外篇--k6ay9x.md": {
+      "hash": "8e76d091884d8da2871aabd376c6006c",
+      "size": 1881,
+      "mtimeMs": 1785426817224
+    },
+    "wiki/sources/5-听书番外篇--2-md--15-067我们赖以生存的隐喻番外篇--1jnnvw9.md": {
+      "hash": "e924e05f4d6740fed9caf46565dfef1e",
+      "size": 3033,
+      "mtimeMs": 1785430680364
+    },
+    "wiki/sources/5-听书番外篇--2-md--16-025日常生活中的自我呈现番外篇--x1nv1a.md": {
+      "hash": "e4314d508e54f32bdf2cccab5815b991",
+      "size": 1803,
+      "mtimeMs": 1785427244778
+    },
+    "wiki/sources/5-听书番外篇--2-md--16-064梳毛八卦及语言的进化番外篇--y6wc4k.md": {
+      "hash": "62e8a94801268a0e4c88dc68b53038bb",
+      "size": 2026,
+      "mtimeMs": 1785430375861
+    },
+    "wiki/sources/5-听书番外篇--2-md--16-070为什么学生不喜欢上学番外篇--1o6ivg4.md": {
+      "hash": "61429920a4f6da627ab499aec3916186",
+      "size": 2337,
+      "mtimeMs": 1785430888566
+    },
+    "wiki/sources/5-听书番外篇--2-md--19-023文明的冲突与世界秩序的重建番外篇--aqfl9u.md": {
+      "hash": "ebbf0aa4b5f9b965d405f8f18e8f37bc",
+      "size": 2691,
+      "mtimeMs": 1785427132514
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-002规模番外篇--1uini4r.md": {
+      "hash": "b1de63f1fab8ed531170a1a58585d316",
+      "size": 2655,
+      "mtimeMs": 1785425224863
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-005魔球番外篇--ujrcl6.md": {
+      "hash": "6213e714d99616633641c9ca891fa06e",
+      "size": 1987,
+      "mtimeMs": 1785425489860
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-011灭火番外篇--1nd1bi6.md": {
+      "hash": "078ada1d8f75ae5c0a399b184fc573a6",
+      "size": 2877,
+      "mtimeMs": 1785426063764
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-012原则番外篇--1x18p3p.md": {
+      "hash": "3d866b8365e766838428bb1d573729c5",
+      "size": 2908,
+      "mtimeMs": 1785426158344
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-017赋能番外篇--1hc2efw.md": {
+      "hash": "436720db745ae7b38aa8efc00554a226",
+      "size": 3042,
+      "mtimeMs": 1785426662084
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-020成就番外篇--1jpv8bz.md": {
+      "hash": "f2f4ff263ac05fc60b3c68885c55c3f5",
+      "size": 3503,
+      "mtimeMs": 1785426891244
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-032枢纽番外篇--1acbxo.md": {
+      "hash": "38f5d336cb59fcc21db82b7650bdaabe",
+      "size": 2977,
+      "mtimeMs": 1785427590420
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-054失控番外篇--1onwqzr.md": {
+      "hash": "3b97caf26f3811a8cefe543e81fa88a3",
+      "size": 3919,
+      "mtimeMs": 1785429550332
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-068行为番外篇--sbr31k.md": {
+      "hash": "46e328a9dfb8ba2036cd933858aca65d",
+      "size": 2468,
+      "mtimeMs": 1785430753096
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-079裸猿番外篇--pgh2kf.md": {
+      "hash": "e1cd23e9ea9e936f52ff07209ed5a693",
+      "size": 2221,
+      "mtimeMs": 1785431493605
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-083格调番外篇--xi4l00.md": {
+      "hash": "57c4d3931600f2938037776e52bdc065",
+      "size": 2267,
+      "mtimeMs": 1785432018337
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-095事实番外篇--qvjlkh.md": {
+      "hash": "0797bdbaab3100849d90149cc268433d",
+      "size": 2806,
+      "mtimeMs": 1785432848224
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-097助推番外篇--1jwkphv.md": {
+      "hash": "caaf74e14d9bd7c379587c2947ae72e5",
+      "size": 2993,
+      "mtimeMs": 1785432970715
+    },
+    "wiki/sources/5-听书番外篇--2-md--8-099见机番外篇--djo1az.md": {
+      "hash": "72c40cf7c7cea043ffac298d8bbc261a",
+      "size": 2261,
+      "mtimeMs": 1785433134631
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-001领导力番外篇--1h7gm7o.md": {
+      "hash": "22031e74ce8e3d8908d28a07f4562a6c",
+      "size": 1919,
+      "mtimeMs": 1785425136679
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-008为什么番外篇--58lzuo.md": {
+      "hash": "7f73bc47953b13020e011d4c42d8da2a",
+      "size": 1895,
+      "mtimeMs": 1785425750594
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-016大空头番外篇--19038jw.md": {
+      "hash": "d6afbac71b442e5128ad065ce3c99a61",
+      "size": 2489,
+      "mtimeMs": 1785426540381
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-018大转型番外篇--gvue17.md": {
+      "hash": "45a359b11793fe8fac307cb7b796f3f7",
+      "size": 1238,
+      "mtimeMs": 1785426750733
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-033说中国番外篇--o3c2u.md": {
+      "hash": "89f67eabc094d418eff59d2e06f9b8c4",
+      "size": 2550,
+      "mtimeMs": 1785427644942
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-040战争史番外篇--d5epw3.md": {
+      "hash": "f8805a510a1b749a2461f835c70ed046",
+      "size": 2372,
+      "mtimeMs": 1785428251861
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-041锦灰堆番外篇--1es0ocx.md": {
+      "hash": "10e7e085d271ac213beb181bafa8c11c",
+      "size": 2142,
+      "mtimeMs": 1785428311093
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-053反脆弱番外篇--ekmj6k.md": {
+      "hash": "4fc34b3debb8b1e0f34a65e77d8eb834",
+      "size": 2255,
+      "mtimeMs": 1785429468709
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-072大设计番外篇--uagr2r.md": {
+      "hash": "0c93ca467eeff5d7991338558b97cc72",
+      "size": 1955,
+      "mtimeMs": 1785431035678
+    },
+    "wiki/sources/5-听书番外篇--2-md--9-080大图景番外篇--1rpqk4g.md": {
+      "hash": "03a213d909489ded96fcb4c7c0cc8e6c",
+      "size": 1348,
+      "mtimeMs": 1785431790464
+    }
+  }
+}
