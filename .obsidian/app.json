@@ -2,5 +2,6 @@
   "focusNewTab": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "attachmentFolderPath": "raw/assets"
+  "attachmentFolderPath": "raw/assets",
+  "alwaysUpdateLinks": true
 }
