@@ -1,0 +1,5849 @@
+[
+  {
+    "type": "missing-page",
+    "title": "得到",
+    "description": "作为贾行家和脱不花的核心工作平台，以及“长谈”和“首发直播间”的发起组织，“得到”是理解对话背景的关键实体，目前缺少独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/001.00｜贾行家 × 脱不花 35岁之后，如何换城市换赛道，重启人生？.md",
+    "affectedPages": [
+      "wiki/entities/贾行家.md",
+      "wiki/entities/脱不花.md"
+    ],
+    "searchQueries": [
+      "得到APP 公司介绍",
+      "罗振宇 得到 创业",
+      "得到 知识服务 发展历程"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a09dafa2",
+    "resolved": true,
+    "createdAt": 1785456762474,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“没关系哲学”的边界与潜在风险",
+    "description": "贾行家提出的“没关系哲学”强调接纳，但对话中未深入探讨其与“消极”或“不作为”的界限。补充关于如何避免该哲学滑向虚无主义或宿命论的讨论，能增强概念的严谨性和实用性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/001.00｜贾行家 × 脱不花 35岁之后，如何换城市换赛道，重启人生？.md",
+    "affectedPages": [
+      "wiki/concepts/没关系哲学.md"
+    ],
+    "searchQueries": [
+      "接纳与消极的界限 心理学",
+      "虚无主义 人生哲学 应对",
+      "斯多葛主义 控制二分法 接纳"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3c036f9b",
+    "resolved": false,
+    "createdAt": 1785456762474
+  },
+  {
+    "type": "suggestion",
+    "title": "“长谈”作为一种方法的有效性验证",
+    "description": "“长谈”被提出作为对抗“注意力剥削”的解药，但其效果目前仅基于发起者的理念阐述和个案示范。补充关于深度对话对心理健康、人际关系改善的实证研究或系统性论证，能提升该概念的说服力。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/001.00｜贾行家 × 脱不花 35岁之后，如何换城市换赛道，重启人生？.md",
+    "affectedPages": [
+      "wiki/concepts/长谈.md",
+      "wiki/concepts/注意力剥削.md"
+    ],
+    "searchQueries": [
+      "深度对话 心理健康 实证研究",
+      "主动倾听 人际关系 改善 研究",
+      "数字排毒 注意力恢复 效果"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4b4868dd",
+    "resolved": false,
+    "createdAt": 1785456762474
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/方希",
+    "description": "方希作为本期核心嘉宾和脱不花的人生导师，其页面已创建，但中信出版集团作为其任职机构和\"鞭子\"方法的关键场景，尚未有独立页面。中信出版集团在对话中被多次提及，是理解方希职业轨迹和\"公共性\"使命的重要背景。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/002.01｜方希 × 脱不花 如何战胜人生的意义危机？.md",
+    "affectedPages": [
+      "wiki/entities/方希.md"
+    ],
+    "searchQueries": [
+      "中信出版集团 方希 执行总编辑",
+      "中信出版集团 出版理念 公共性",
+      "中信出版 畅销书 基业长青 从优秀到卓越"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bfec09ea",
+    "resolved": true,
+    "createdAt": 1785456875556,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "方希的\"鞭子\"方法与中年危机应对的普适性探讨",
+    "description": "方希通过重返高压工作环境（\"找一条鞭子\"）来对抗意义危机，脱不花则通过线下利他性互动走出危机。这两种路径的本质差异——一种是通过外部压力转移注意力，一种是通过利他连接重建意义——值得深入比较。此外，\"鞭子\"方法是否具有普适性，还是只适合特定性格（如高成就动机、抗压能力强）的人，是一个开放问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/002.01｜方希 × 脱不花 如何战胜人生的意义危机？.md",
+    "affectedPages": [
+      "wiki/entities/方希.md",
+      "wiki/concepts/意义危机.md",
+      "wiki/concepts/具身性.md"
+    ],
+    "searchQueries": [
+      "中年危机 高压工作 应对方式 心理学",
+      "意义危机 利他性 社会连接 研究",
+      "使命 calling 中年转型 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4f422faf",
+    "resolved": false,
+    "createdAt": 1785456875556
+  },
+  {
+    "type": "suggestion",
+    "title": "\"使命\"与\"公共性\"的必然关联探讨",
+    "description": "方希将使命等同于\"公共性\"（面向大众讲话），脱不花通过\"被他人需要\"找到意义。但使命是否必然与公共性、利他性关联？是否存在完全个人化的、不依赖他人反馈的意义来源（如纯粹的创作、修行、技艺精进）？这一问题触及意义危机的根本解决路径的多样性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/002.01｜方希 × 脱不花 如何战胜人生的意义危机？.md",
+    "affectedPages": [
+      "wiki/concepts/使命.md",
+      "wiki/concepts/公共性.md",
+      "wiki/concepts/意义危机.md"
+    ],
+    "searchQueries": [
+      "个人使命 非利他性 意义来源",
+      "内在动机 自我决定论 意义感",
+      "独处 创作 修行 人生意义"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43ca16ef",
+    "resolved": false,
+    "createdAt": 1785456875556
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/李想",
+    "description": "快刀青衣与脱不花在对话中将李想作为\"合格创业者\"的标杆进行对比，但Wiki中尚无李想的独立页面。李想作为连续创业者（汽车之家、理想汽车），其创业风格与得到三位创始人的\"兴趣小组\"式创业形成鲜明对照，值得建立页面以完善创业者类型对比。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/003.02｜快刀青衣 × 脱不花 普通人如何打破天花板？.md",
+    "affectedPages": [
+      "wiki/entities/得到App.md",
+      "wiki/entities/快刀青衣.md"
+    ],
+    "searchQueries": [
+      "李想 创业风格 管理哲学",
+      "理想汽车 李想 创业者特质",
+      "李想 雷军 创业者对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6a212240",
+    "resolved": true,
+    "createdAt": 1785457005084,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "匮乏驱动与意义危机的代际对话框架",
+    "description": "快刀青衣的\"匮乏驱动\"与上一期方希×脱不花讨论的\"意义危机\"形成了鲜明的代际对照，但Wiki中尚未建立两者之间的系统比较页面。一代人是为生存而行动的务实驱动，另一代人面临意义层面的动力缺失，这种张力对理解得到的产品设计挑战（如何服务不同代际用户）至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/003.02｜快刀青衣 × 脱不花 普通人如何打破天花板？.md",
+    "affectedPages": [
+      "wiki/concepts/匮乏驱动.md",
+      "wiki/concepts/意义危机.md"
+    ],
+    "searchQueries": [
+      "匮乏驱动 意义驱动 代际差异",
+      "物质匮乏 意义危机 行动力来源",
+      "不同世代 学习动机 驱动力变化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8020ba6a",
+    "resolved": false,
+    "createdAt": 1785457005084
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/Get笔记",
+    "description": "Get笔记作为得到AI蓝军探索下一代终身学习服务形态的核心产品，在对话中被深入讨论（从笔记工具到个人解决方案平台的演化），但Wiki中尚无独立页面。该产品承载了\"个人解决方案\"概念的落地实验，值得单独记录其产品逻辑和演化方向。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/003.02｜快刀青衣 × 脱不花 普通人如何打破天花板？.md",
+    "affectedPages": [
+      "wiki/concepts/个人解决方案.md",
+      "wiki/concepts/AI蓝军.md",
+      "wiki/entities/得到App.md"
+    ],
+    "searchQueries": [
+      "Get笔记 得到 AI笔记产品",
+      "Get笔记 个人知识库 AI学习",
+      "得到 Get笔记 产品定位 功能"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-76e05cb5",
+    "resolved": true,
+    "createdAt": 1785457005084,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "民众学院模式的可行性研究",
+    "description": "脱不花提出的\"民众学院\"构想（借鉴北欧Gap Year学校模式，在中国落地线下学习社区）是一个大胆的战略方向，但对话中未涉及该模式在中国落地的具体可行性——包括选址、商业模式、目标用户、与线上业务的协同等。这可能是得到未来战略的关键问题，值得追踪研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/003.02｜快刀青衣 × 脱不花 普通人如何打破天花板？.md",
+    "affectedPages": [
+      "wiki/concepts/民众学院.md",
+      "wiki/entities/得到App.md"
+    ],
+    "searchQueries": [
+      "北欧 民众学院 folk high school 模式",
+      "中国 Gap Year 间隔年 学习社区",
+      "得到 线下教育 终身学习 实体空间"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1f90f8f3",
+    "resolved": false,
+    "createdAt": 1785457005084
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/方舟子",
+    "description": "卓克在访谈中明确提到方舟子是“半个科普引路人”，与卢昌海并列为其科普风格的引路人。方舟子在中国科普史上的角色极具争议性，其影响力和争议本身就是一个值得记录的知识节点。当前Wiki已有卢昌海页面，缺少方舟子页面会造成引路人图谱不完整。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/004.03｜卓克 × 脱不花 如何把兴趣干成职业？.md",
+    "affectedPages": [
+      "wiki/entities/卓克.md",
+      "wiki/entities/卢昌海.md"
+    ],
+    "searchQueries": [
+      "方舟子 科普 争议 新语丝",
+      "方舟子 学术打假 影响",
+      "方舟子 科学松鼠会 关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8e078c75",
+    "resolved": true,
+    "createdAt": 1785457138838,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "兴趣职业化的可复制性：卓克路径的时代背景分析",
+    "description": "卓克的兴趣职业化路径高度依赖特定时代背景（2009年科学松鼠会兴起、播客红利、得到App平台崛起）。Wiki当前仅记录了个案，但未探讨这种模式对普通人的普适性。建议补充对“科普自媒体黄金时代”的背景分析，以及对比其他科普作家（如汪洁、吴京平）的职业化路径，以评估该模式的偶然性与必然性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/004.03｜卓克 × 脱不花 如何把兴趣干成职业？.md",
+    "affectedPages": [
+      "wiki/concepts/兴趣职业化.md",
+      "wiki/entities/卓克.md"
+    ],
+    "searchQueries": [
+      "科普自媒体 发展史 2009-2020",
+      "科学松鼠会 成员 职业发展 现状",
+      "知识付费 科普作家 变现模式 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-16529ebe",
+    "resolved": false,
+    "createdAt": 1785457138838
+  },
+  {
+    "type": "contradiction",
+    "title": "“随大流”与“独立思考”的教育张力",
+    "description": "卓克一方面强调科学思维的核心是独立思考和怀疑精神（知识需核实订正、不怕打脸），另一方面又明确表示希望孩子“随大流”以获得归属感，因为自己吃了不随大流的亏。这两种教育取向存在内在矛盾，Wiki中分别记录但未标注这一张力。需要用户判断：这是卓克个人经历导致的补偿心理，还是一种更高阶的教育平衡策略？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/004.03｜卓克 × 脱不花 如何把兴趣干成职业？.md",
+    "affectedPages": [
+      "wiki/entities/卓克.md",
+      "wiki/concepts/科学审美.md",
+      "wiki/concepts/知识核实与订正.md"
+    ],
+    "searchQueries": [
+      "随大流 教育 归属感 独立思考 平衡",
+      "卓克 教育理念 矛盾",
+      "科普作家 子女教育 科学精神 社会适应"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4e45d7fa",
+    "resolved": false,
+    "createdAt": 1785457138838
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/科学松鼠会",
+    "description": "卓克明确提到2009年左右科学松鼠会的蓬勃发展是其开始科普写作的同期背景。科学松鼠会是中国科普史上的重要组织，孵化了大量科普作家，与卓克、方舟子、卢昌海等人的科普生态密切相关。当前Wiki缺少该页面，无法完整呈现中国科普写作的社群网络。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/004.03｜卓克 × 脱不花 如何把兴趣干成职业？.md",
+    "affectedPages": [
+      "wiki/entities/卓克.md",
+      "wiki/entities/方舟子.md"
+    ],
+    "searchQueries": [
+      "科学松鼠会 历史 成员 影响",
+      "科学松鼠会 果壳网 关系",
+      "姬十三 科学松鼠会 科普写作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-50d376e0",
+    "resolved": true,
+    "createdAt": 1785457138838,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "裴鹏程的\"先跌停板再反弹\"韧性模式是否可复制？",
+    "description": "裴鹏程描述的\"先跌停板再反弹\"心理机制具有独特性。建议关注是否有相关心理学研究（如心理韧性、反脆弱性）可以与此对照，以及这种模式是否可以通过训练获得。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/005.04｜裴鹏程 × 脱不花 一个高敏感的人，如何应对压力？.md",
+    "affectedPages": [
+      "wiki/concepts/高敏感与韧性.md"
+    ],
+    "searchQueries": [
+      "psychological resilience bounce-back mechanism highly sensitive person",
+      "antifragile personality trait stress recovery pattern",
+      "高敏感人群 心理韧性 反弹机制 训练方法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2bfe1967",
+    "resolved": false,
+    "createdAt": 1785457272264
+  },
+  {
+    "type": "suggestion",
+    "title": "\"用热爱构建安全感\"策略的有效性与局限性",
+    "description": "裴鹏程的策略是向内囤积知识和技能以获得安全感，脱不花则是向外连接。这两种策略的适用条件、有效性和潜在风险值得进一步探讨。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/005.04｜裴鹏程 × 脱不花 一个高敏感的人，如何应对压力？.md",
+    "affectedPages": [
+      "wiki/concepts/用热爱构建安全感.md"
+    ],
+    "searchQueries": [
+      "hoarding behavior as coping mechanism psychology",
+      "兴趣爱好 安全感 构建 心理学机制",
+      "内向型与外向型压力应对策略 对比研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f9a2d97b",
+    "resolved": false,
+    "createdAt": 1785457272264
+  },
+  {
+    "type": "suggestion",
+    "title": "\"八里庄抗大\"的完整历史与影响",
+    "description": "对话中多次提及\"八里庄抗大\"这一得到内部的传奇培训项目，但信息分散。建议系统梳理其起源、机制、关键人物（如罗振宇的角色）、历届学员故事及其对得到内容方法论的影响。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/005.04｜裴鹏程 × 脱不花 一个高敏感的人，如何应对压力？.md",
+    "affectedPages": [
+      "wiki/concepts/裴鹏程陷阱.md",
+      "wiki/entities/罗振宇.md",
+      "wiki/concepts/任务性学习.md"
+    ],
+    "searchQueries": [
+      "得到App 八里庄抗大 内容培训 历史",
+      "罗振宇 内容方法论 培训 学员故事",
+      "八里庄抗大 品控手册 黑话"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a97ef31a",
+    "resolved": false,
+    "createdAt": 1785457272264
+  },
+  {
+    "type": "missing-page",
+    "title": "八里庄抗大",
+    "description": "对话中多次提及\"八里庄抗大\"这一得到内部的传奇培训项目，它是\"裴鹏程陷阱\"等黑话的诞生地，也是任务性学习的极端案例，但目前缺乏独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/005.04｜裴鹏程 × 脱不花 一个高敏感的人，如何应对压力？.md",
+    "affectedPages": [
+      "wiki/concepts/裴鹏程陷阱.md",
+      "wiki/entities/罗振宇.md",
+      "wiki/concepts/任务性学习.md"
+    ],
+    "searchQueries": [
+      "得到App 八里庄抗大 内容培训",
+      "罗振宇 八里庄抗大 学员",
+      "八里庄抗大 28天 集训 机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-599655a8",
+    "resolved": true,
+    "createdAt": 1785457272264,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "裴鹏程与脱不花压力应对策略的对比研究",
+    "description": "裴鹏程通过\"向内囤积\"（知识、技能）获得安全感，脱不花通过\"向外连接\"（朋友、关系）应对不确定性。这两种截然相反的策略值得深入对比，探讨其各自的适用场景、优劣及对个人成长路径的影响。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/005.04｜裴鹏程 × 脱不花 一个高敏感的人，如何应对压力？.md",
+    "affectedPages": [
+      "wiki/concepts/用热爱构建安全感.md",
+      "wiki/entities/脱不花.md",
+      "wiki/entities/裴鹏程.md"
+    ],
+    "searchQueries": [
+      "内向型与外向型压力应对策略 对比",
+      "知识囤积 社交连接 安全感 心理学",
+      "不确定性应对 个人策略 案例研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-526372cd",
+    "resolved": false,
+    "createdAt": 1785457272264
+  },
+  {
+    "type": "suggestion",
+    "title": "自我对话脚本对抽象习惯的有效性边界",
+    "description": "李笑来承认手机分心问题“光用咒语也不完全起作用”，需要物理隔离等辅助手段。自我对话脚本对抽象习惯（如分心、情绪失控）的有效性边界值得进一步探索。建议关注正念冥想等接纳路径与潜意识劫持的整合可能性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/006.05｜李笑来 × 脱不花 其实你不需要意志力.md",
+    "affectedPages": [
+      "wiki/concepts/自我对话脚本.md",
+      "wiki/concepts/潜意识劫持.md"
+    ],
+    "searchQueries": [
+      "self-talk effectiveness abstract habits attention",
+      "mindfulness integration subconscious reprogramming",
+      "digital distraction intervention brain plasticity"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-a8aea84f",
+    "resolved": false,
+    "createdAt": 1785457395514
+  },
+  {
+    "type": "suggestion",
+    "title": "儿童早期电子设备接触的大脑损伤可逆性",
+    "description": "李笑来提出30年后老年脑疾病可能在年轻人中大量出现，担忧15岁前儿童大脑因手机变成“烂尾楼”。这一预测的可逆性需要更多研究支持。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/006.05｜李笑来 × 脱不花 其实你不需要意志力.md",
+    "affectedPages": [
+      "wiki/concepts/朗读与脑健康.md"
+    ],
+    "searchQueries": [
+      "children screen time brain development reversibility",
+      "early digital device exposure cognitive impairment longitudinal",
+      "adolescent smartphone use attention span brain structure"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-28a87723",
+    "resolved": false,
+    "createdAt": 1785457395514
+  },
+  {
+    "type": "missing-page",
+    "title": "周其仁",
+    "description": "冯仑在对话中提及周其仁向他提出“僵局规则”概念（股东僵局就出价），这一建议深刻影响了冯仑的商业实践。周其仁作为经济学家对中国企业家的影响值得单独记录，目前Wiki中尚无其页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752249600.06｜冯仑 × 脱不花 人生怎样学会“算大账”.md",
+    "affectedPages": [
+      "wiki/concepts/僵局规则.md",
+      "wiki/entities/冯仑.md"
+    ],
+    "searchQueries": [
+      "周其仁 经济学家 企业家",
+      "周其仁 僵局规则 出价",
+      "周其仁 中国改革 民营企业"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a01f80c6",
+    "resolved": true,
+    "createdAt": 1785457633948,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "虞洽卿",
+    "description": "冯仑将虞洽卿列为民国传统政商型企业家的代表，与胡雪岩一脉相承，并与荣毅仁（本土实业型）、陈光甫（现代海归型）形成三大分类。虞洽卿是理解民国政商关系的重要人物，目前Wiki中尚无其页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752249600.06｜冯仑 × 脱不花 人生怎样学会“算大账”.md",
+    "affectedPages": [
+      "wiki/entities/胡雪岩.md",
+      "wiki/entities/荣毅仁.md",
+      "wiki/entities/陈光甫.md"
+    ],
+    "searchQueries": [
+      "虞洽卿 民国企业家 政商关系",
+      "虞洽卿 上海总商会",
+      "虞洽卿 生平 商业"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ea89b461",
+    "resolved": true,
+    "createdAt": 1785457633948,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "范旭东",
+    "description": "冯仑将范旭东与陈光甫并列，视为民国时期最能代表现代企业家精神的人物。范旭东是中国化学工业的奠基人，其“永久黄”团体在商业史上地位重要，目前Wiki中尚无其页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752249600.06｜冯仑 × 脱不花 人生怎样学会“算大账”.md",
+    "affectedPages": [
+      "wiki/entities/陈光甫.md",
+      "wiki/entities/张謇.md"
+    ],
+    "searchQueries": [
+      "范旭东 永久黄 化学工业",
+      "范旭东 企业家精神 民国",
+      "范旭东 侯德榜 久大盐业"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9b5c5bd3",
+    "resolved": true,
+    "createdAt": 1785457633948,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "冯仑“捂得住”与纳西姆·塔勒布“反脆弱”的比较",
+    "description": "冯仑的“捂得住”哲学（能力覆盖欲望和是非，弹球vs篮球）与塔勒布的“反脆弱”理论（在波动中获益，避免脆弱性）在风险管理的底层逻辑上有潜在对话空间。两者都强调在不确定性中构建稳健系统，但文化来源和表达方式截然不同。比较研究可深化对风险管理跨文化智慧的理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752249600.06｜冯仑 × 脱不花 人生怎样学会“算大账”.md",
+    "affectedPages": [
+      "wiki/concepts/捂得住.md",
+      "wiki/concepts/人生三大算不准.md"
+    ],
+    "searchQueries": [
+      "冯仑 捂得住 风险管理 哲学",
+      "纳西姆·塔勒布 反脆弱 核心思想",
+      "中国企业家 风险管理 西方 反脆弱 比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-07e40848",
+    "resolved": false,
+    "createdAt": 1785457633948
+  },
+  {
+    "type": "suggestion",
+    "title": "九二派“公共性”传统在新生代企业家中的演变",
+    "description": "冯仑认为九二派爱说大词、有公共性（创办论坛、做公益、公开表达），而新一代企业家说小词、更聚焦。但“公共性”是否真的消失，还是以新形式存在（如王宁的Labubu全球文化输出、于东来的企业福利模式）？值得追踪研究，以验证或修正冯仑的代际判断。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752249600.06｜冯仑 × 脱不花 人生怎样学会“算大账”.md",
+    "affectedPages": [
+      "wiki/concepts/九二派.md",
+      "wiki/concepts/大词vs小词.md",
+      "wiki/concepts/绅商.md"
+    ],
+    "searchQueries": [
+      "新生代企业家 公共性 社会责任",
+      "王宁 泡泡玛特 文化输出 公共性",
+      "于东来 胖东来 企业社会责任 模式"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ac3a113c",
+    "resolved": false,
+    "createdAt": 1785457633948
+  },
+  {
+    "type": "missing-page",
+    "title": "纳瓦尔",
+    "description": "本期多次引用纳瓦尔（Naval Ravikant）关于一人公司的原教旨定义，但Wiki中尚无纳瓦尔的entity页面。纳瓦尔是硅谷意见领袖，其关于一人公司、财富自由的观点对本期讨论有重要影响。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752854400.07｜馒头大师 × 脱不花 怎么创办一人公司.md",
+    "affectedPages": [
+      "wiki/entities/纳瓦尔.md"
+    ],
+    "searchQueries": [
+      "Naval Ravikant one person company definition",
+      "纳瓦尔 一人公司 硅谷",
+      "Naval Ravikant wealth freedom philosophy"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-4c4c45d8",
+    "resolved": false,
+    "createdAt": 1785457789351
+  },
+  {
+    "type": "missing-page",
+    "title": "马伯庸",
+    "description": "馒头大师多次提及与马伯庸的交流（签售分享、码字心态），马伯庸是知名作家，与馒头大师有同行友谊，其观点对本期内容有补充价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752854400.07｜馒头大师 × 脱不花 怎么创办一人公司.md",
+    "affectedPages": [
+      "wiki/entities/马伯庸.md"
+    ],
+    "searchQueries": [
+      "马伯庸 作家 作品",
+      "马伯庸 创作理念 坚持",
+      "马伯庸 签售 读者互动"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-2ba51a4c",
+    "resolved": true,
+    "createdAt": 1785457789351,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "AI时代一人公司的对比研究",
+    "description": "本期结尾提到硅谷已出现基于AI的开发者一人公司模式（小工具、订阅产品），与馒头大师这种\"内容型一人公司\"形成对比。建议后续关注AI时代一人公司的新形态，以及国内是否适用。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1752854400.07｜馒头大师 × 脱不花 怎么创办一人公司.md",
+    "affectedPages": [
+      "wiki/concepts/AI一人公司.md"
+    ],
+    "searchQueries": [
+      "AI solo entrepreneur indie hacker 2025",
+      "AI developer one person company tools",
+      "硅谷 AI 一人公司 独立开发者 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-3e34d99d",
+    "resolved": false,
+    "createdAt": 1785457789351
+  },
+  {
+    "type": "missing-page",
+    "title": "松弛感的阶层依赖问题",
+    "description": "留言者郝炎提出：小V的松弛感可能部分源于其“北京孩子”的身份和早期进入安达信的运气，对于资源更匮乏的“社会牛马”而言，可能不得不通过磨损自己去嵌入。这提出了一个关于松弛感是否具有阶层/起点依赖的开放问题，值得创建一个query页面追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1753459200.08｜小V × 脱不花 成为一个永不磨损的人.md",
+    "affectedPages": [
+      "wiki/concepts/松弛感.md"
+    ],
+    "searchQueries": [
+      "松弛感 阶层 起点依赖 社会学",
+      "社会流动性 心理弹性 资源匮乏",
+      "北京孩子 外地孩子 嵌入 社会资本"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c734a4a0",
+    "resolved": true,
+    "createdAt": 1785457925465,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "斯多葛主义与小V哲学的关联",
+    "description": "脱不花在对话中提到小V的哲学“该努力的时候努力，努力一下不行就放弃”与斯多葛主义（控制你能控制的，放弃你控制不了的）有相似之处。建议进一步探索斯多葛主义与小V风险管理框架的关联，可创建相关概念页或对比页。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1753459200.08｜小V × 脱不花 成为一个永不磨损的人.md",
+    "affectedPages": [
+      "wiki/concepts/风险管理框架（生活应用）.md"
+    ],
+    "searchQueries": [
+      "斯多葛主义 控制二分法 现代应用",
+      "Stoicism dichotomy of control modern life",
+      "斯多葛 风险管理 生活哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5d84605b",
+    "resolved": false,
+    "createdAt": 1785457925465
+  },
+  {
+    "type": "missing-page",
+    "title": "微行动能否真正对抗系统性困境",
+    "description": "本期对话存在一个核心张力：一方面强调结构性的强大束缚（系统、算法、加速社会），另一方面又极力倡导个体通过“微行动”去消解结构。这种“戴着镣铐跳舞”的解决方案是否真的能对抗强大的系统性力量，值得作为一个开放问题追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1754064000.09｜严飞 × 脱不花 寻找自己的瓦尔登湖时刻.md",
+    "affectedPages": [
+      "wiki/concepts/微行动.md",
+      "wiki/concepts/加速社会.md",
+      "wiki/concepts/悬浮.md"
+    ],
+    "searchQueries": [
+      "微行动 社会变革 个体能动性 结构束缚 社会学",
+      "micro-action structural change sociology agency vs structure",
+      "加速社会 个体抵抗 系统性困境 解决方案"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-a5872e5a",
+    "resolved": true,
+    "createdAt": 1785458088646,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "duplicate",
+    "title": "斜杠青年 与 生产型体验 概念重叠",
+    "description": "[[斜杠青年]] 强调通过多元身份对抗内卷，与已有的 [[生产型体验]] 概念（主动创造体验对抗被动消费）存在功能上的重叠。需判断是否合并或明确区分。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1754064000.09｜严飞 × 脱不花 寻找自己的瓦尔登湖时刻.md",
+    "affectedPages": [
+      "wiki/concepts/斜杠青年.md",
+      "wiki/concepts/生产型体验.md"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f366afc6",
+    "resolved": false,
+    "createdAt": 1785458088646
+  },
+  {
+    "type": "suggestion",
+    "title": "严飞的社会学课程与著作可作为后续深读材料",
+    "description": "严飞在对话中提及多本著作（《悬浮》《世界作为参考答案》《穿透》《学问的冒险》）及得到App课程《严飞的社会学课》。这些可作为后续深入理解其社会学框架的阅读材料。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1754064000.09｜严飞 × 脱不花 寻找自己的瓦尔登湖时刻.md",
+    "affectedPages": [
+      "wiki/entities/严飞.md"
+    ],
+    "searchQueries": [
+      "严飞 悬浮 书评",
+      "世界作为参考答案 严飞 刘擎",
+      "严飞的社会学课 得到App"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0e80a195",
+    "resolved": false,
+    "createdAt": 1785458088646
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/只有河南·戏剧幻城",
+    "description": "王潮歌在对话中多次提及《只有河南·戏剧幻城》作为其商业成功与艺术探索的先例，并称其票房“非常好”“几乎是个奇迹”。该项目的运营模式、剧场构成、观众反馈以及如何实现“让从未进过剧场的人看上话剧”这一目标，对于理解王潮歌的方法论至关重要，目前缺乏独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1754668800.10｜王潮歌 × 脱不花 人活一世，喜欢最大.md",
+    "affectedPages": [
+      "wiki/entities/只有红楼梦·戏剧幻城.md",
+      "wiki/entities/王潮歌.md"
+    ],
+    "searchQueries": [
+      "只有河南·戏剧幻城 票房 运营模式",
+      "王潮歌 只有河南 剧场 观众反馈",
+      "只有河南·戏剧幻城 21个剧场 剧目介绍"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-75dc80ae",
+    "resolved": true,
+    "createdAt": 1785458213487,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "王潮歌“喜欢最大”与资源匮乏人群的适用性边界",
+    "description": "王潮歌在对话中承认“喜欢最大”可能刺激正在辛苦打拼的人，但未展开讨论。对于资源匮乏、缺乏选择权的人群，“追随喜欢”是否是一种奢侈？这一张力在对话中被提出但未深入，值得通过社会学或经济学视角的研究来补充。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1754668800.10｜王潮歌 × 脱不花 人活一世，喜欢最大.md",
+    "affectedPages": [
+      "wiki/concepts/喜欢最大.md",
+      "wiki/concepts/自洽.md"
+    ],
+    "searchQueries": [
+      "马斯洛需求层次 自我实现 资源匮乏",
+      "喜欢最大 适用性 社会阶层 批判",
+      "王潮歌 争议 精英视角 普通人"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-50023db7",
+    "resolved": false,
+    "createdAt": 1785458213487
+  },
+  {
+    "type": "suggestion",
+    "title": "“被允许”在组织管理中的落地机制",
+    "description": "王潮歌强调团队管理“靠人心不靠条文”，但未详述具体机制。如何将“被允许”的文化转化为可操作的管理实践（如招聘、培训、绩效考核），是一个值得深入研究的组织行为学问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1754668800.10｜王潮歌 × 脱不花 人活一世，喜欢最大.md",
+    "affectedPages": [
+      "wiki/concepts/被允许.md",
+      "wiki/concepts/戏比天大.md",
+      "wiki/entities/王潮歌.md"
+    ],
+    "searchQueries": [
+      "组织文化 靠人心 管理实践 案例",
+      "戏剧团队 管理 戏比天大 落地机制",
+      "企业文化 善意 员工归属感 绩效"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fc6e15ba",
+    "resolved": false,
+    "createdAt": 1785458213487
+  },
+  {
+    "type": "missing-page",
+    "title": "六道轮回的现代解读",
+    "description": "成庆在对话中对六道轮回进行了从当下生命体验角度的现代解读，认为六道是心在不同状态下的显现。这一概念在现有Wiki中尚无专门页面，建议创建以记录这一独特视角。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1755273600.11｜成庆 × 脱不花 现代人安心指南.md",
+    "affectedPages": [
+      "wiki/concepts/六道轮回.md"
+    ],
+    "searchQueries": [
+      "成庆 六道轮回 现代解读",
+      "佛教 六道轮回 心理状态 解释",
+      "六道轮回 一念 心显现"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b825e758",
+    "resolved": false,
+    "createdAt": 1785458383161
+  },
+  {
+    "type": "missing-page",
+    "title": "禅宗的活泼性",
+    "description": "成庆在对话中详细阐述了禅宗的活泼性——将佛法还原到生活的每个场景，通过棒喝、公案等方式直接作用于人的意识。这一概念在现有Wiki中尚无专门页面，建议创建以记录成庆对禅宗的独特理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1755273600.11｜成庆 × 脱不花 现代人安心指南.md",
+    "affectedPages": [
+      "wiki/concepts/禅宗的活泼性.md"
+    ],
+    "searchQueries": [
+      "成庆 禅宗 活泼性",
+      "禅宗 公案 日常生活 修行",
+      "铃木大拙 禅宗 中国 农业文化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cc08ec91",
+    "resolved": false,
+    "createdAt": 1785458383161
+  },
+  {
+    "type": "missing-page",
+    "title": "AI与真实虚幻（佛学视角）",
+    "description": "成庆对AI模糊真实与虚幻界限的担忧，以及建议多接触自然和真实的人以保持平衡的观点，在现有Wiki中虽有[[AI幻觉]]页面，但缺乏从佛学角度的系统讨论。建议创建专门页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1755273600.11｜成庆 × 脱不花 现代人安心指南.md",
+    "affectedPages": [
+      "wiki/concepts/AI与真实虚幻（佛学视角）.md"
+    ],
+    "searchQueries": [
+      "成庆 AI 真实 虚幻 佛学",
+      "人工智能 虚拟现实 佛教 身心平衡",
+      "Elon Musk 模糊真实虚幻 佛学批判"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7a3b5d2d",
+    "resolved": false,
+    "createdAt": 1785458383161
+  },
+  {
+    "type": "missing-page",
+    "title": "蔡钰",
+    "description": "蔡钰是本期长谈的核心嘉宾，提出了“弱者人生学”等大量原创概念，但Wiki中尚未建立其专属页面。她的思想体系（商业参考、情绪价值、批判性思维）与多位已建页面的嘉宾（脱不花、李笑来、方希等）有深度关联，缺失此页面将导致知识网络断裂。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1755878400.12｜蔡钰 × 脱不花 被需要，才能真正做自己.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--30-175587840012蔡钰-脱不花-被需要才能真正做自己--1d86fwa.md"
+    ],
+    "searchQueries": [
+      "蔡钰 得到 商业参考",
+      "蔡钰 情绪价值",
+      "蔡钰 弱者人生学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-979aec84",
+    "resolved": true,
+    "createdAt": 1785458611117,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "韩炳哲",
+    "description": "刘擎多次引用《他者的消失》《爱欲之死》来解释现代亲密关系困境，是对话中重要的当代哲学参照，目前缺少独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763740800.25｜刘擎 × 脱不花 爱以成人.md",
+    "affectedPages": [
+      "wiki/concepts/心理化与去心理化.md",
+      "wiki/sources/2-长谈--2-md--30-175587840012蔡钰-脱不花-被需要才能真正做自己--1d86fwa.md",
+      "wiki/concepts/他者的消失.md",
+      "wiki/concepts/爱欲之死.md",
+      "wiki/concepts/绩效社会.md"
+    ],
+    "searchQueries": [
+      "韩炳哲 心理化 去心理化",
+      "韩炳哲 哲学 思想",
+      "Byung-Chul Han psychopolitics",
+      "韩炳哲 他者的消失 爱欲之死",
+      "Byung-Chul Han love philosophy",
+      "韩炳哲 绩效社会 倦怠社会"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-098e6055",
+    "resolved": true,
+    "createdAt": 1785458611117,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "系统论在个人成长领域的应用边界与批判",
+    "description": "蔡钰在本期中大量借用系统论、熵增、耗散结构等概念解释个人生存策略，形成了“弱者人生学”的完整框架。但这类从自然科学向人文领域的隐喻迁移，其解释力边界和潜在误导性值得深入探讨。建议补充对系统论应用于个人成长领域的批判性视角或学术讨论。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1755878400.12｜蔡钰 × 脱不花 被需要，才能真正做自己.md",
+    "affectedPages": [
+      "wiki/concepts/弱者人生学.md",
+      "wiki/concepts/系统反制.md",
+      "wiki/concepts/非耗散结构.md"
+    ],
+    "searchQueries": [
+      "系统论 个人成长 批判",
+      "熵增 隐喻 社会科学 局限性",
+      "科学隐喻 人文领域 滥用"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ed02e21f",
+    "resolved": false,
+    "createdAt": 1785458611117
+  },
+  {
+    "type": "suggestion",
+    "title": "蔡钰“弱者人生学”与成庆“安心之道”的比较研究",
+    "description": "蔡钰的“弱者人生学”与成庆在《人生解忧》中提出的“安心之道”均试图回应现代人的精神困境，但路径迥异：蔡钰从系统论和商业观察出发，成庆从佛学传统出发。两者在“承认局限”、“向内求与向外求”、“日常修炼”等维度上存在深层对话可能，建议建立比较页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1755878400.12｜蔡钰 × 脱不花 被需要，才能真正做自己.md",
+    "affectedPages": [
+      "wiki/concepts/弱者人生学.md",
+      "wiki/entities/成庆.md",
+      "wiki/concepts/安心之道.md"
+    ],
+    "searchQueries": [
+      "弱者人生学 安心之道 比较",
+      "蔡钰 成庆 现代人 精神困境",
+      "系统论 佛学 自我安顿"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fc95db88",
+    "resolved": false,
+    "createdAt": 1785458611117
+  },
+  {
+    "type": "missing-page",
+    "title": "动力系统（教育）是否需要独立页面",
+    "description": "本期长谈将“动力系统”概念从个人成长领域延伸至家庭教育，内容极为丰富（表扬、关键人物/事件/书籍、家庭会议、自主空间、职业体验、阳台实验室、家庭图书角等）。现有 [[动力系统]] 页面可能偏重个人成长，建议评估是否需要创建 [[动力系统（教育）]] 子概念页，或在现有页面中增加教育应用维度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1756483200.13｜沈祖芸 × 脱不花 从鸡娃到躺平，教育的第三条路在哪里？.md",
+    "affectedPages": [
+      "wiki/concepts/动力系统.md"
+    ],
+    "searchQueries": [
+      "沈祖芸 动力系统 家庭教育",
+      "李希贵 动力系统 教育",
+      "内在驱动力 家庭教育 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e050207c",
+    "resolved": false,
+    "createdAt": 1785458849536
+  },
+  {
+    "type": "contradiction",
+    "title": "抑郁症“不存在先天”的强主张",
+    "description": "沈祖芸称“除非先天疾病，都不自带抑郁症，所有抑郁症都是人为造成的”。这一表述可能简化了抑郁症的多因素成因（遗传、生化、社会环境），与精神医学主流观点存在张力。但其核心意图是强调环境可塑性，呼吁家长“开窗开门”。建议在相关概念页中标注这一张力。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1756483200.13｜沈祖芸 × 脱不花 从鸡娃到躺平，教育的第三条路在哪里？.md",
+    "affectedPages": [
+      "wiki/concepts/大脑装修.md"
+    ],
+    "searchQueries": [
+      "抑郁症 先天 后天 环境因素 遗传",
+      "青少年抑郁症 成因 多因素模型",
+      "沈祖芸 抑郁症 教育观点"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9e91dc8d",
+    "resolved": false,
+    "createdAt": 1785458849536
+  },
+  {
+    "type": "suggestion",
+    "title": "家庭战略与学校评价体系的冲突",
+    "description": "沈祖芸主张家长不应接受“中不溜”标签，但承认学校系统仍以分数排名，家长需主动“不被带节奏”。这构成家庭价值观与学校现实之间的持续张力，未给出系统性解决方案。建议未来关注相关讨论或创建查询页面追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1756483200.13｜沈祖芸 × 脱不花 从鸡娃到躺平，教育的第三条路在哪里？.md",
+    "searchQueries": [
+      "家庭战略 学校评价体系 冲突 协调",
+      "不鸡娃 公立学校 成绩排名 家长策略",
+      "家庭教育价值观 与学校应试教育 平衡"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-85bfaaa2",
+    "resolved": false,
+    "createdAt": 1785458849536
+  },
+  {
+    "type": "missing-page",
+    "title": "沈祖芸《全球教育报告》",
+    "description": "沈祖芸在得到App的年度课程《全球教育报告》被多次提及，是她教育观察的核心输出平台，也是本期长谈中许多全球教育趋势判断（如各国AI禁令到拥抱的转变、见世面半径图）的来源。目前Wiki中尚无该课程的独立页面，建议创建以系统收录其年度核心发现。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1756483200.13｜沈祖芸 × 脱不花 从鸡娃到躺平，教育的第三条路在哪里？.md",
+    "affectedPages": [
+      "wiki/entities/沈祖芸.md",
+      "wiki/entities/得到App.md"
+    ],
+    "searchQueries": [
+      "沈祖芸 全球教育报告 得到",
+      "全球教育报告 核心发现 2025",
+      "沈祖芸 全球教育趋势 AI 禁令"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0ead8d39",
+    "resolved": true,
+    "createdAt": 1785458849536,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "李希贵“为四十岁做准备”教育实践追踪",
+    "description": "李希贵在高密一中提出的“为四十岁做准备”校训，以及脱不花偶遇其40岁学生的案例，体现了极致的教育长期主义。建议搜索追踪该批学生的长期发展状况，或李希贵关于这一理念的系统论述，以验证和丰富“教育长期主义”的证据链。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1756483200.13｜沈祖芸 × 脱不花 从鸡娃到躺平，教育的第三条路在哪里？.md",
+    "affectedPages": [
+      "wiki/entities/李希贵.md",
+      "wiki/entities/十一学校.md"
+    ],
+    "searchQueries": [
+      "李希贵 为四十岁做准备 高密一中",
+      "为四十岁做准备 教育长期主义 学生追踪",
+      "李希贵 教育理念 长期主义 实践"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7f63ea02",
+    "resolved": false,
+    "createdAt": 1785458849536
+  },
+  {
+    "type": "missing-page",
+    "title": "张乐意",
+    "description": "脱不花的大女儿张乐意在本期对话中作为具体案例被多次讨论（劳动课热情、叠衣服天赋、巴黎高师梦想、手机管理冲突），是“动力系统”构建、“暴露”原理和“见世面”实践的生动载体。建议创建实体页，聚合其在各期长谈中的成长线索。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1756483200.13｜沈祖芸 × 脱不花 从鸡娃到躺平，教育的第三条路在哪里？.md",
+    "affectedPages": [
+      "wiki/entities/脱不花.md",
+      "wiki/concepts/动力系统.md"
+    ],
+    "searchQueries": [
+      "脱不花 女儿 张乐意 教育",
+      "脱不花 育儿 长谈 案例",
+      "张乐意 得到 脱不花"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-81ff5e06",
+    "resolved": true,
+    "createdAt": 1785458849536,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "梅赐琪教育理念的可迁移性",
+    "description": "梅赐琪的理念和实践在多大程度上依赖于清华独特的资源（极小班额、高额经费、顶尖生源）？其模式对于资源普通的大多数高校和中小学，可迁移的核心是什么？建议后续关注梅赐琪是否有面向普通教育场景的论述或实践。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757088000.14｜梅赐琪 × 脱不花 别让这个世界对你完全得手.md",
+    "affectedPages": [
+      "wiki/entities/梅赐琪.md",
+      "wiki/concepts/景观式教育.md"
+    ],
+    "searchQueries": [
+      "梅赐琪 教育理念 可迁移 普通高校",
+      "新雅书院 教育模式 推广 中小学",
+      "景观式教育 资源有限 实践案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-b1e48ba6",
+    "resolved": false,
+    "createdAt": 1785459062750
+  },
+  {
+    "type": "suggestion",
+    "title": "如何在不取悦对象的情况下保持对象感",
+    "description": "源于梅赐琪关于演讲和写作的观点——\"要有对象感，但不要刻意取悦你的对象\"。这是一个值得探讨的实践难题，涉及沟通、表达与自我坚持的平衡。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757088000.14｜梅赐琪 × 脱不花 别让这个世界对你完全得手.md",
+    "affectedPages": [
+      "wiki/concepts/作为沟通的写作.md",
+      "wiki/concepts/别让这个世界对你完全得手.md"
+    ],
+    "searchQueries": [
+      "对象感 不取悦 沟通技巧 演讲",
+      "写作 真诚 表达 避免油腻",
+      "audience awareness without pandering communication"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-37f298c3",
+    "resolved": false,
+    "createdAt": 1785459062750
+  },
+  {
+    "type": "suggestion",
+    "title": "陈行甲与成庆的跨领域对照值得深入探索",
+    "description": "陈行甲提出的\"最极致的心理学是爱\"与成庆在《现代人安心指南》中关于\"心的锻炼\"和\"安定与观照\"的讨论，形成了实践体验与哲学/宗教传统之间的有趣对照。建议后续可创建[[爱的疗愈与心的锻炼]]对比页面，探讨两种路径的异同与互补性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757692800.15｜陈行甲 × 脱不花 被爱成全的人.md",
+    "searchQueries": [
+      "爱在心理治疗中的作用 实证研究",
+      "佛学心理学 慈悲冥想 临床效果",
+      "抑郁症康复 亲密关系 社会支持 研究综述"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fac747e7",
+    "resolved": false,
+    "createdAt": 1785459389770
+  },
+  {
+    "type": "missing-page",
+    "title": "侯为贵作为关键捐赠人缺少独立页面",
+    "description": "侯为贵（中兴通讯创始人）是恒晖基金会的首位大额捐赠人，其基于信任的捐赠行为体现了\"另类父子之谊\"。当前wiki中尚无其独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757692800.15｜陈行甲 × 脱不花 被爱成全的人.md",
+    "searchQueries": [
+      "侯为贵 中兴通讯 公益捐赠",
+      "中国企业家 公益慈善 大额捐赠",
+      "侯为贵 个人经历 中兴通讯创始人"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-41d1bc7d",
+    "resolved": false,
+    "createdAt": 1785459389770
+  },
+  {
+    "type": "missing-page",
+    "title": "王名教授作为公益学科引入者缺少独立页面",
+    "description": "王名教授（清华大学公共管理学院副院长、全国政协常委）将《非营利组织管理》学科引入中国，对陈行甲的公益理念有启蒙作用。当前wiki中尚无其独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757692800.15｜陈行甲 × 脱不花 被爱成全的人.md",
+    "searchQueries": [
+      "王名 清华大学 非营利组织管理",
+      "王名 公益慈善 学术贡献",
+      "中国非营利组织管理 学科发展 王名"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4c52e131",
+    "resolved": false,
+    "createdAt": 1785459389770
+  },
+  {
+    "type": "suggestion",
+    "title": "陈行甲\"公益2.0/3.0\"模型与西方公益理论的比较研究",
+    "description": "陈行甲提出的\"公益2.0/3.0\"进阶模型（得道能助→得道多助→得道易助）具有鲜明的本土特色，但其与西方成熟的\"战略慈善\"（Strategic Philanthropy）、\"创投公益\"（Venture Philanthropy）及\"系统变革\"（Systems Change）等理论框架的异同尚未被探讨。建议后续创建对比页面，以定位该模型在全球公益思想谱系中的位置。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757692800.15｜陈行甲 × 脱不花 被爱成全的人.md",
+    "affectedPages": [
+      "wiki/concepts/公益2.0.md"
+    ],
+    "searchQueries": [
+      "战略慈善 系统变革 公益理论",
+      "Venture Philanthropy vs Systems Change",
+      "中国本土公益创新 理论模型 国际比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1e9d26e6",
+    "resolved": false,
+    "createdAt": 1785459389770
+  },
+  {
+    "type": "missing-page",
+    "title": "陈行甲的儿子作为\"父亲\"身份的核心证明缺少独立页面",
+    "description": "陈行甲在对话中将其\"父亲\"身份列为首要身份，并详细描述了其子（北大毕业、华语辩论世界冠军、GRE高分）的成就及父子间长达4小时的深度通话。其子作为陈行甲\"鲜花维度\"价值的重要载体，当前wiki中尚无独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757692800.15｜陈行甲 × 脱不花 被爱成全的人.md",
+    "affectedPages": [
+      "wiki/entities/陈行甲.md"
+    ],
+    "searchQueries": [
+      "陈行甲 儿子 北京大学 辩论",
+      "华语大学生世界辩论锦标赛 冠军队长",
+      "陈行甲 家庭教育 父子关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-97cfe697",
+    "resolved": true,
+    "createdAt": 1785459389770,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "陈行甲\"所有问题孩子背后100%站着有问题的家长\"论断需审慎对待",
+    "description": "陈行甲在知更鸟项目中提出\"所有出了问题的孩子背后100%站着有问题的家长\"，这一论断虽旨在强调家庭责任，但可能忽略了遗传、学校、社会及同伴影响等系统性因素。建议后续创建[[青少年心理问题的多因模型]]页面，整合生物学、心理学、社会学视角，以平衡这一强论断。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1757692800.15｜陈行甲 × 脱不花 被爱成全的人.md",
+    "affectedPages": [
+      "wiki/concepts/知更鸟公益项目.md"
+    ],
+    "searchQueries": [
+      "青少年心理问题 多因素模型 生物心理社会",
+      "家庭教育 青少年抑郁 系统性因素 学校影响",
+      "原生家庭决定论 批判 心理学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d2e5bd6c",
+    "resolved": false,
+    "createdAt": 1785459389770
+  },
+  {
+    "type": "missing-page",
+    "title": "叙事心理学",
+    "description": "脱不花在对话中提及\"叙事心理学\"作为一个心理学分支，但Wiki中尚无该概念的独立页面。本期内容与叙事心理学高度相关，建议创建页面以建立跨学科连接。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1758297600.16｜宋方金 × 脱不花 人类需要讲故事.md",
+    "affectedPages": [
+      "wiki/concepts/叙事心理学.md"
+    ],
+    "searchQueries": [
+      "叙事心理学 定义 治疗方法",
+      "narrative psychology McAdams life story",
+      "叙事疗法 重述人生故事 心理治疗"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-3392e2f6",
+    "resolved": false,
+    "createdAt": 1785459660131
+  },
+  {
+    "type": "missing-page",
+    "title": "弱传播（书籍）",
+    "description": "宋方金推荐邹振东的《弱传播》为核心书目，Wiki中已有\"弱传播\"相关概念但无该书籍的source页面。建议创建以补充书目信息。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1758297600.16｜宋方金 × 脱不花 人类需要讲故事.md",
+    "affectedPages": [
+      "wiki/sources/弱传播.md"
+    ],
+    "searchQueries": [
+      "邹振东 弱传播 书籍",
+      "弱传播 舆论世界 法则",
+      "弱传播理论 传播学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-13e2a08b",
+    "resolved": false,
+    "createdAt": 1785459660131
+  },
+  {
+    "type": "missing-page",
+    "title": "罗伯特·麦基《故事》",
+    "description": "宋方金将罗伯特·麦基的《故事》列为最重要的必读书（自称读了不低于300遍），Wiki中尚无该书籍的source页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1758297600.16｜宋方金 × 脱不花 人类需要讲故事.md",
+    "affectedPages": [
+      "wiki/sources/故事-罗伯特-麦基.md"
+    ],
+    "searchQueries": [
+      "Robert McKee Story book summary",
+      "罗伯特·麦基 故事 核心理论",
+      "麦基 故事 编剧理论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-d41569bc",
+    "resolved": false,
+    "createdAt": 1785459660131
+  },
+  {
+    "type": "missing-page",
+    "title": "和菜头",
+    "description": "和菜头在对话中被脱不花称为\"神父\"和好友，其文章\"注意力剥削\"直接启发了《长谈》的Vintage理念和小鹿的创作观。作为云南作家和早期网络意见领袖，他的思想脉络和影响力值得一个独立页面来承载。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1758902400.17｜小鹿 × 脱不花 跑步进入中女时代.md",
+    "affectedPages": [
+      "wiki/concepts/Vintage体验.md",
+      "wiki/entities/脱不花.md"
+    ],
+    "searchQueries": [
+      "和菜头 注意力剥削 原文",
+      "和菜头 槽边往事 影响力",
+      "和菜头 得到 罗辑思维"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8917f4a3",
+    "resolved": true,
+    "createdAt": 1785459858461,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "脱口秀行业的\"线上vs线下\"张力与创作异化",
+    "description": "小鹿将线上脱口秀比赛比作\"喜剧高考\"和\"做题\"，揭示了竞赛机制对创作自由度的挤压。这不仅是个人感受，更反映了整个行业在商业化、流量逻辑下的结构性矛盾。建议补充关于脱口秀行业线上竞赛机制对内容创作影响的系统性分析，以及国内外脱口秀演员对此现象的公开讨论。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1758902400.17｜小鹿 × 脱不花 跑步进入中女时代.md",
+    "affectedPages": [
+      "wiki/concepts/脱口秀的做题思维.md",
+      "wiki/entities/小鹿.md"
+    ],
+    "searchQueries": [
+      "脱口秀大会 创作异化 演员访谈",
+      "线上脱口秀 段子同质化 批判",
+      "stand-up comedy competition creativity constraints"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d2081b53",
+    "resolved": false,
+    "createdAt": 1785459858461
+  },
+  {
+    "type": "suggestion",
+    "title": "\"比较文化\"的心理学与社会学理论根基",
+    "description": "对话中\"比较文化\"的概念主要基于个人经验叙事，缺乏理论支撑。建议补充社会比较理论（Leon Festinger）、\"内卷\"的人类学起源（Geertz/黄宗智）以及韩炳哲\"他者消失\"理论中关于比较与自我剥削的论述，将个人经验升华为更具解释力的分析框架。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1758902400.17｜小鹿 × 脱不花 跑步进入中女时代.md",
+    "affectedPages": [
+      "wiki/concepts/比较文化.md",
+      "wiki/concepts/优绩主义.md"
+    ],
+    "searchQueries": [
+      "社会比较理论 Festinger 上行比较 下行比较",
+      "内卷 黄宗智 格尔茨 概念演变",
+      "韩炳哲 他者消失 自我剥削 比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-38c305d7",
+    "resolved": false,
+    "createdAt": 1785459858461
+  },
+  {
+    "type": "missing-page",
+    "title": "曹凯的AI胰腺癌筛查算法论文与临床验证数据",
+    "description": "对话中提及曹凯团队开发的基于胸部平扫CT的AI胰腺癌早筛算法，但未提供具体论文、临床试验数据或监管审批状态。这对评估该技术的可靠性和可推广性至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1759507200.18｜耿伟 × 脱不花 重新认识你的第二大脑.md",
+    "affectedPages": [
+      "wiki/entities/曹凯.md",
+      "wiki/sources/2-长谈--2-md--30-175950720018耿伟-脱不花-重新认识你的第二大脑--1h1y5lw.md"
+    ],
+    "searchQueries": [
+      "曹凯 AI 胰腺癌 早期筛查 胸部CT 算法 论文",
+      "AI pancreatic cancer detection non-contrast chest CT clinical validation",
+      "基于平扫CT的AI胰腺癌筛查 临床试验"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a086552b",
+    "resolved": true,
+    "createdAt": 1785459974877,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "肠道菌群移植（FMT）的长期疗效与潜在风险研究",
+    "description": "对话中耿伟医生展示了FMT在自闭症、减肥、肿瘤免疫治疗增敏等多个领域的惊人短期效果，但未深入讨论长期疗效、潜在风险（如病原体传播、长期免疫影响）及伦理监管问题。补充这些信息能更全面地评估该技术。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1759507200.18｜耿伟 × 脱不花 重新认识你的第二大脑.md",
+    "affectedPages": [
+      "wiki/concepts/肠道菌群移植.md",
+      "wiki/sources/2-长谈--2-md--30-175950720018耿伟-脱不花-重新认识你的第二大脑--1h1y5lw.md"
+    ],
+    "searchQueries": [
+      "fecal microbiota transplantation long-term safety risks review",
+      "肠道菌群移植 长期随访 不良反应 监管政策",
+      "FMT autism long-term outcomes clinical trial"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-669ad014",
+    "resolved": false,
+    "createdAt": 1785459974877
+  },
+  {
+    "type": "suggestion",
+    "title": "多学科会诊（MDT）在中国公立医院的推广现状与障碍",
+    "description": "脱不花和耿伟都强调了MDT的巨大价值，但脱不花也指出不同医院MDT文化和制度完备程度差异很大。研究中国公立医院MDT推广的现状、成功案例和主要障碍（如收费模式、医生激励机制、患者认知），有助于理解如何让这一先进模式惠及更多患者。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1759507200.18｜耿伟 × 脱不花 重新认识你的第二大脑.md",
+    "affectedPages": [
+      "wiki/concepts/多学科会诊.md",
+      "wiki/sources/2-长谈--2-md--30-175950720018耿伟-脱不花-重新认识你的第二大脑--1h1y5lw.md"
+    ],
+    "searchQueries": [
+      "中国公立医院 多学科会诊 MDT 推广现状 障碍",
+      "多学科诊疗 MDT 收费模式 医生激励 中国",
+      "MDT implementation barriers public hospital China"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d3d3f690",
+    "resolved": false,
+    "createdAt": 1785459974877
+  },
+  {
+    "type": "missing-page",
+    "title": "阿伦特",
+    "description": "李松蔚在分析网暴参与者心态时，将\"平庸之恶\"作为核心理论框架，并指出这是构成网暴主体的最大群体。阿伦特作为这一概念的提出者，其哲学思想（尤其是关于\"平庸之恶\"、极权主义起源、思考与道德判断的关系）对理解现代网络暴力、集体非理性行为具有深层解释力。目前Wiki中缺乏阿伦特的独立页面，无法系统呈现其思想脉络及其与网暴、道德心理学等概念的关联。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760112000.19｜李松蔚 × 脱不花 看清之后，依然热爱.md",
+    "affectedPages": [
+      "wiki/concepts/平庸之恶.md"
+    ],
+    "searchQueries": [
+      "汉娜·阿伦特 平庸之恶 哲学思想",
+      "阿伦特 极权主义起源 思考与道德",
+      "Hannah Arendt banality of evil modern application"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9975dd03",
+    "resolved": true,
+    "createdAt": 1785460139156,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "网暴的法律救济路径与\"自诉罪\"困境",
+    "description": "李松蔚在节目中详细描述了诽谤罪作为\"自诉罪\"的现实困境：受害者需自行去法院起诉，公安不直接受理，且整个司法流程最快需半年。这一法律设计对网暴受害者的心理恢复、经济成本（律师费）和时效性构成巨大挑战。建议深入研究中国诽谤罪自诉转公诉的司法实践、平台责任的法律边界，以及\"社会性死亡\"在法律上的救济空白，以充实[[网暴]]页面的法律维度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760112000.19｜李松蔚 × 脱不花 看清之后，依然热爱.md",
+    "affectedPages": [
+      "wiki/concepts/网暴.md",
+      "wiki/entities/邵医生事件.md"
+    ],
+    "searchQueries": [
+      "诽谤罪 自诉 网暴 司法救济 中国",
+      "网络暴力 自诉转公诉 司法实践 2024",
+      "社会性死亡 法律救济 名誉权 侵权"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6fa44380",
+    "resolved": false,
+    "createdAt": 1785460139156
+  },
+  {
+    "type": "suggestion",
+    "title": "史蒂芬·平克《人性中的善良天使》与暴力下降论争",
+    "description": "脱不花在对话中提及史蒂芬·平克关于\"暴力行为大幅度降低\"的论述，但李松蔚的回应暗示暴力形态在发生变化（从热暴力到隐蔽的符号暴力、比较暴力、评价暴力），而非简单下降。建议研究平克的暴力下降理论及其学术批评，探讨\"暴力形态转化\"（从物理暴力到心理/符号暴力）是否构成对平克理论的补充或挑战，以深化[[网暴]]和[[冲突的能力]]的理论基础。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760112000.19｜李松蔚 × 脱不花 看清之后，依然热爱.md",
+    "affectedPages": [
+      "wiki/concepts/网暴.md",
+      "wiki/concepts/冲突的能力.md"
+    ],
+    "searchQueries": [
+      "史蒂芬·平克 人性中的善良天使 暴力下降 批评",
+      "Steven Pinker Better Angels violence decline critique",
+      "暴力形态转化 符号暴力 网络暴力 现代社会"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ddbf0d96",
+    "resolved": false,
+    "createdAt": 1785460139156
+  },
+  {
+    "type": "suggestion",
+    "title": "\"互联网厕所\"亚文化的实证研究与干预",
+    "description": "李松蔚提出\"互联网厕所\"作为一种青少年亚文化现象，并将其归因于正常攻击性释放渠道的缺失。这一论断目前主要基于个案观察和理论推演。建议搜索相关的实证研究（如青少年匿名社交平台行为研究、网络\"爆破\"现象的社会学分析），以及国内外针对青少年网络暴力的教育干预项目，以验证和充实[[互联网厕所]]页面的内容。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760112000.19｜李松蔚 × 脱不花 看清之后，依然热爱.md",
+    "affectedPages": [
+      "wiki/concepts/互联网厕所.md",
+      "wiki/concepts/冲突的能力.md"
+    ],
+    "searchQueries": [
+      "互联网厕所 青少年 匿名社交 网络暴力 研究",
+      "网课爆破 青少年 攻击性 教育干预",
+      "anonymous online aggression adolescent cyberbullying intervention"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-69f179eb",
+    "resolved": false,
+    "createdAt": 1785460139156
+  },
+  {
+    "type": "missing-page",
+    "title": "派克峰国际爬山赛",
+    "description": "对话中佟浩然详细描述了其纪录片拍摄对象——派克峰国际爬山赛（Pikes Peak International Hill Climb），这是一个极具危险性和挑战性的国际赛事，也是他纪录片的核心主题。该赛事在对话中被赋予了重要的象征意义，但知识库中尚无相关页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760716800.20｜赵冬梅 × 佟浩然 × 脱不花 那些不肯“齐步走”的人，后来怎么样了？.md",
+    "affectedPages": [
+      "wiki/entities/佟浩然.md",
+      "wiki/sources/2-长谈--2-md--41-176071680020赵冬梅-佟浩然-脱不花-那些不肯齐步走的人后来怎么样了--1hxtz4s.md"
+    ],
+    "searchQueries": [
+      "派克峰国际爬山赛",
+      "Pikes Peak International Hill Climb 纪录片",
+      "中国车手 派克峰"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-54e0dc7c",
+    "resolved": true,
+    "createdAt": 1785460274862,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“拒绝上学门诊”现象的社会背景与讨论",
+    "description": "对话开头，脱不花提到“很多医院里面，都开出来拒绝上学门诊”，这反映了当下青少年拒学问题的普遍性和严重性。研究这一现象的背景、争议及与“齐步走”教育模式的关联，能极大丰富知识库对教育困境的宏观理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760716800.20｜赵冬梅 × 佟浩然 × 脱不花 那些不肯“齐步走”的人，后来怎么样了？.md",
+    "affectedPages": [
+      "wiki/concepts/齐步走.md",
+      "wiki/concepts/躯体化反应.md",
+      "wiki/sources/2-长谈--2-md--41-176071680020赵冬梅-佟浩然-脱不花-那些不肯齐步走的人后来怎么样了--1hxtz4s.md"
+    ],
+    "searchQueries": [
+      "拒绝上学门诊 争议",
+      "青少年拒学 社会现象 中国",
+      "北京 拒绝上学门诊"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-da92afab",
+    "resolved": false,
+    "createdAt": 1785460274862
+  },
+  {
+    "type": "suggestion",
+    "title": "佟浩然纪录片《这山，是非上不可吗？》的后续影响与评价",
+    "description": "对话中提及佟浩然正在制作的关于派克峰赛车的纪录片，且脱不花希望获得授权在节目片尾播放。该纪录片是佟浩然“给自己这几年的一个交代”，也是其生命力的具体体现。追踪该片的完成情况、公众反响及对同类家庭的激励作用，是验证其成长路径社会价值的关键。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1760716800.20｜赵冬梅 × 佟浩然 × 脱不花 那些不肯“齐步走”的人，后来怎么样了？.md",
+    "affectedPages": [
+      "wiki/entities/佟浩然.md",
+      "wiki/sources/2-长谈--2-md--41-176071680020赵冬梅-佟浩然-脱不花-那些不肯齐步走的人后来怎么样了--1hxtz4s.md"
+    ],
+    "searchQueries": [
+      "佟浩然 纪录片",
+      "摄影狗亨利 派克峰",
+      "这山是非上不可吗 纪录片"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b2e876eb",
+    "resolved": false,
+    "createdAt": 1785460274862
+  },
+  {
+    "type": "suggestion",
+    "title": "审美能力可以被系统化培养吗？",
+    "description": "马寅认为自己的审美是被专业人士“启蒙”和“影响”的，但承认很难将这种能力标准化地复制给团队。建议创建查询页面追踪这一开放问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761321600.21｜马寅 × 脱不花 美，就是竞争力.md",
+    "searchQueries": [
+      "审美能力组织化培养 企业培训",
+      "设计思维 审美教育 企业应用",
+      "创始人审美 组织传承 规模化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-831d2ac7",
+    "resolved": false,
+    "createdAt": 1785460447959
+  },
+  {
+    "type": "suggestion",
+    "title": "创始人审美主导的边界在哪里？",
+    "description": "马寅反思“越懂越可能扼杀创新”，同时审美决策又必须由他把控。建议创建查询页面探讨这一张力。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761321600.21｜马寅 × 脱不花 美，就是竞争力.md",
+    "searchQueries": [
+      "创始人审美主导 组织创新 边界",
+      "设计决策权 企业治理 创意管理",
+      "审美独裁 vs 民主化设计 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-de2b6eef",
+    "resolved": false,
+    "createdAt": 1785460447959
+  },
+  {
+    "type": "missing-page",
+    "title": "无印良品（MUJI）",
+    "description": "马寅将无印良品视为“温暖人心的品牌”的典范，其“有品质的简朴”和“不分阶级”的定位深刻影响了阿那亚下一个十年的品牌战略。建议创建实体页面，记录其品牌哲学、设计理念及对阿那亚的启发。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761321600.21｜马寅 × 脱不花 美，就是竞争力.md",
+    "affectedPages": [
+      "wiki/concepts/温暖人心的品牌.md",
+      "wiki/entities/阿那亚.md"
+    ],
+    "searchQueries": [
+      "无印良品 品牌哲学 设计理念",
+      "MUJI 温暖人心 品牌战略",
+      "无印良品 经济下行期 消费趋势"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f81606d3",
+    "resolved": true,
+    "createdAt": 1785460447959,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "阿那亚与迪士尼的运营哲学比较",
+    "description": "马寅在对话中认同阿那亚与迪士尼在“沉浸式戏剧”和“员工即演员”理念上的相似性。建议创建比较页面，系统对比两者在沉浸式体验营造、员工培训、细节管理和“不出戏”原则上的异同。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761321600.21｜马寅 × 脱不花 美，就是竞争力.md",
+    "affectedPages": [
+      "wiki/concepts/楚门的世界.md",
+      "wiki/entities/阿那亚.md"
+    ],
+    "searchQueries": [
+      "迪士尼 沉浸式体验 运营哲学",
+      "阿那亚 迪士尼 比较 员工培训",
+      "主题公园 社区运营 不出戏 原则"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-05b45022",
+    "resolved": false,
+    "createdAt": 1785460447959
+  },
+  {
+    "type": "suggestion",
+    "title": "阿那亚戏剧节与阿维尼翁戏剧节的长期IP培育路径对比",
+    "description": "马寅将阿那亚戏剧节视为培育“永久IP”的种子，并参照了阿维尼翁戏剧节等世界级案例。建议创建比较页面，探讨戏剧节如何从亏损的文化投资演变为具有全球影响力的城市/社区IP。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761321600.21｜马寅 × 脱不花 美，就是竞争力.md",
+    "affectedPages": [
+      "wiki/entities/阿那亚.md",
+      "wiki/concepts/长期主义.md"
+    ],
+    "searchQueries": [
+      "阿维尼翁戏剧节 发展历史 商业模式",
+      "阿那亚戏剧节 长期IP 培育",
+      "戏剧节 城市品牌 社区营造 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-26c4bf83",
+    "resolved": false,
+    "createdAt": 1785460447959
+  },
+  {
+    "type": "missing-page",
+    "title": "於水",
+    "description": "本期多次提及《浪浪山小妖怪》导演於水，但维基中尚无其专属页面。作为国产二维动画票房冠军的导演，其创作背景、与陈廖宇团队的合作模式值得记录。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761926400.22｜陈廖宇 × 崔威 × 脱不花 创造力从哪里来？.md",
+    "affectedPages": [
+      "wiki/entities/浪浪山小妖怪.md",
+      "wiki/entities/陈廖宇.md"
+    ],
+    "searchQueries": [
+      "於水 动画导演",
+      "浪浪山小妖怪 导演 於水",
+      "於水 作品"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0d2d7cad",
+    "resolved": true,
+    "createdAt": 1785460664459,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "陈廖宇“不要总结成功经验”在商业组织中的适用边界",
+    "description": "陈廖宇的核心哲学“不要总结成功经验”与主流商业管理中的“方法论复制”形成强烈张力。这一理念在艺术创作领域具有说服力，但在需要规模化、标准化的商业组织中如何落地？是否存在适用边界（如适用于创新阶段但不适用于执行阶段）？值得结合管理学案例进行对比研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761926400.22｜陈廖宇 × 崔威 × 脱不花 创造力从哪里来？.md",
+    "affectedPages": [
+      "wiki/concepts/不要总结成功经验.md",
+      "wiki/concepts/达到指标丢失目标.md"
+    ],
+    "searchQueries": [
+      "不要总结成功经验 商业管理 适用边界",
+      "创新管理 与 流程标准化 平衡",
+      "艺术创作思维 企业管理 冲突"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8c797ee4",
+    "resolved": false,
+    "createdAt": 1785460664459
+  },
+  {
+    "type": "suggestion",
+    "title": "“和自己保持距离”的系统训练方法",
+    "description": "陈廖宇提出的“人要和自己保持距离”是一种认知策略，但他在对谈中未详细说明如何系统训练这一能力（而非仅靠天赋或偶然领悟）。这与成庆提出的“觉察”有相似之处，但更世俗化。可研究心理学中的“自我抽离”（self-distancing）、“认知重评”（cognitive reappraisal）等相关方法，为这一概念提供可操作的训练路径。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1761926400.22｜陈廖宇 × 崔威 × 脱不花 创造力从哪里来？.md",
+    "affectedPages": [
+      "wiki/concepts/人要和自己保持距离.md",
+      "wiki/concepts/觉察.md"
+    ],
+    "searchQueries": [
+      "自我抽离 训练方法 心理学",
+      "self-distancing cognitive reappraisal technique",
+      "与自己保持距离 练习"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-df26f9e3",
+    "resolved": false,
+    "createdAt": 1785460664459
+  },
+  {
+    "type": "missing-page",
+    "title": "弗兰克·盖里",
+    "description": "跳跳的职业偶像，建筑师弗兰克·盖里（Frank Gehry）在对话中被多次提及，其毕尔巴鄂古根海姆博物馆是跳跳建筑理想的起点。当前Wiki中无此人物页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1762531200.23｜跳跳 × 脱不花 就活成自己想要的样子.md",
+    "affectedPages": [
+      "wiki/entities/跳跳.md"
+    ],
+    "searchQueries": [
+      "Frank Gehry architect biography",
+      "弗兰克·盖里 建筑师 毕尔巴鄂古根海姆博物馆",
+      "Frank Gehry architectural philosophy"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48313d7e",
+    "resolved": true,
+    "createdAt": 1785460841048,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "波士顿马拉松爆炸案",
+    "description": "2013年波士顿马拉松爆炸案是跳跳人生的关键转折事件，促使她做出辞职决定并重新审视人生。当前Wiki中无此事件页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1762531200.23｜跳跳 × 脱不花 就活成自己想要的样子.md",
+    "affectedPages": [
+      "wiki/entities/跳跳.md"
+    ],
+    "searchQueries": [
+      "2013 Boston Marathon bombing",
+      "波士顿马拉松爆炸案 2013",
+      "Boston Marathon bombing impact"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e5a88f84",
+    "resolved": true,
+    "createdAt": 1785460841048,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "企业文化稀释后如何\"浓回来\"",
+    "description": "跳跳坦诚超级猩猩企业文化正在稀释，且尚未找到解决方案。这是一个开放的管理课题，可作为query追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1762531200.23｜跳跳 × 脱不花 就活成自己想要的样子.md",
+    "affectedPages": [
+      "wiki/concepts/又大又酷.md"
+    ],
+    "searchQueries": [
+      "企业文化稀释 如何恢复",
+      "organizational culture dilution recovery",
+      "scaling company culture preservation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-038d8710",
+    "resolved": false,
+    "createdAt": 1785460841048
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/皮娜·鲍什",
+    "description": "曹彦在对话中提及皮娜·鲍什及其所在的德国乌帕塔尔小镇，作为“一个小镇因一个艺术家蜚声世界”的典范案例，这直接关联到曹彦对西安文化愿景的想象。创建该页面有助于理解曹彦的艺术理想参照系。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763136000.24｜曹彦 × 脱不花 在顺从的世界里做一个轴啦啦的人.md",
+    "affectedPages": [
+      "wiki/entities/曹彦.md"
+    ],
+    "searchQueries": [
+      "Pina Bausch 乌帕塔尔 剧院",
+      "皮娜·鲍什 舞蹈剧场 影响力",
+      "Wuppertal Tanztheater Pina Bausch"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3d287b8b",
+    "resolved": true,
+    "createdAt": 1785461038327,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "西安交响乐团财务可持续性现状",
+    "description": "曹彦在对话中提及早期“贷款发工资”的艰难处境，但未明确说明乐团当前的财务健康状况。了解其最新的营收结构（票房、赞助、政府补贴比例）和是否实现盈亏平衡，对于验证其“长期主义”模式的商业可行性至关重要。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763136000.24｜曹彦 × 脱不花 在顺从的世界里做一个轴啦啦的人.md",
+    "affectedPages": [
+      "wiki/entities/西安交响乐团.md",
+      "wiki/entities/曹彦.md"
+    ],
+    "searchQueries": [
+      "西安交响乐团 运营 财务状况",
+      "XSO 西安交响乐团 赞助 收入",
+      "中国职业交响乐团 生存现状 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ac72caf7",
+    "resolved": false,
+    "createdAt": 1785461038327
+  },
+  {
+    "type": "suggestion",
+    "title": "安吉大剧院托管运营首年效果评估",
+    "description": "曹彦模式首次跨省输出至浙江安吉大剧院，这是验证其剧院管理方法论是否可复制的关键案例。追踪其首年运营数据、内容定位及当地观众反馈，能极大丰富“内容不能标准化”和“剧院三级跳”等概念的实践内涵。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763136000.24｜曹彦 × 脱不花 在顺从的世界里做一个轴啦啦的人.md",
+    "affectedPages": [
+      "wiki/entities/西安爱乐剧管.md",
+      "wiki/concepts/内容不能标准化.md"
+    ],
+    "searchQueries": [
+      "安吉大剧院 2025 演出 运营",
+      "西安爱乐剧管 安吉 托管",
+      "安吉大剧院 首年 票房"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cb453a6b",
+    "resolved": false,
+    "createdAt": 1785461038327
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/乔治·西平",
+    "description": "乔治·西平（George Tsypin）是《赳赳大秦》的空间概念设计，也是世界级舞美设计师。曹彦强调其创意（如“历史的车轮倒回来”）是演出最大亮点之一。创建此页面可记录这位国际大师与中国文旅项目的合作案例及其设计理念。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763136000.24｜曹彦 × 脱不花 在顺从的世界里做一个轴啦啦的人.md",
+    "affectedPages": [
+      "wiki/entities/赳赳大秦.md"
+    ],
+    "searchQueries": [
+      "George Tsypin 舞台设计 作品",
+      "乔治·西平 赳赳大秦 设计理念",
+      "George Tsypin opera design"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ee25744d",
+    "resolved": true,
+    "createdAt": 1785461038327,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "伊娃·易洛斯（Eva Illouz）",
+    "description": "对话中反复引用其\"冷亲密\"与\"情感资本主义\"概念，是理解尺度世界殖民温度世界的关键社会学资源，目前缺少独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763740800.25｜刘擎 × 脱不花 爱以成人.md",
+    "affectedPages": [
+      "wiki/concepts/冷亲密.md",
+      "wiki/concepts/情感资本主义.md"
+    ],
+    "searchQueries": [
+      "Eva Illouz 冷亲密 情感资本主义",
+      "伊娃·易洛斯 社会学 爱情",
+      "Illouz Cold Intimacies summary"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a6b776e6",
+    "resolved": true,
+    "createdAt": 1785461639486,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "长期激情浪漫爱的实证研究来源",
+    "description": "刘擎提到约13%的长期伴侣能维持\"长期激情浪漫爱\"且脑电波与热恋者相似，但未给出具体研究出处。补充原始研究可增强这一关键论点的可信度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763740800.25｜刘擎 × 脱不花 爱以成人.md",
+    "affectedPages": [
+      "wiki/concepts/长期激情浪漫爱.md"
+    ],
+    "searchQueries": [
+      "long term intensive romantic love 13% brain scan",
+      "Acevedo Aron long term romantic love fMRI",
+      "长期激情浪漫爱 脑科学研究 13%"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c4a8cf8c",
+    "resolved": false,
+    "createdAt": 1785461639486
+  },
+  {
+    "type": "suggestion",
+    "title": "\"尺度世界与温度世界\"框架的学术脉络与批评",
+    "description": "刘擎提出的这一原创框架是本期对话的核心贡献，但对话中未展开其与既有理论（如哈贝马斯、波兰尼、马克思异化理论）的详细对话，也未涉及可能的批评视角。补充学术脉络和潜在批评可深化对这一框架的理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1763740800.25｜刘擎 × 脱不花 爱以成人.md",
+    "affectedPages": [
+      "wiki/concepts/尺度世界与温度世界.md",
+      "wiki/concepts/工具理性对生活世界的殖民.md"
+    ],
+    "searchQueries": [
+      "工具理性 生活世界 殖民 哈贝马斯 批评",
+      "波兰尼 嵌入 脱嵌 经济与社会",
+      "尺度 温度 二元框架 哲学批评"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1aa12e45",
+    "resolved": false,
+    "createdAt": 1785461639486
+  },
+  {
+    "type": "suggestion",
+    "title": "贾伟“治愈系艺术”与艺术治疗（Art Therapy）专业领域的异同与对话空间",
+    "description": "贾伟提出的“治愈系艺术”强调放大感知、缩小认知，以服务为逻辑，发挥艺术的疗愈性。这一概念与心理学/精神医学领域已建制化的“艺术治疗”（Art Therapy）在方法论、专业边界和有效性评估上存在潜在对话空间。厘清二者的异同，可避免概念混淆，并为“治愈系艺术”提供更坚实的理论参照或批判视角。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1764345600.26｜贾伟 × 脱不花 当一个男人决定去重生.md",
+    "affectedPages": [
+      "wiki/concepts/治愈系艺术.md"
+    ],
+    "searchQueries": [
+      "艺术治疗 定义 专业边界 与艺术创作的区别",
+      "治愈系艺术 艺术治疗 对比",
+      "Art Therapy vs healing art professional standards"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d9db72ec",
+    "resolved": false,
+    "createdAt": 1785461857232
+  },
+  {
+    "type": "suggestion",
+    "title": "“输出型兴趣”的教育心理学基础与实证研究",
+    "description": "贾伟提出的“输出型兴趣”概念具有直观的教育启发意义，但其理论根基（如与自我决定理论、建构主义学习理论、表达性写作研究等的关联）尚未被充分挖掘。补充相关学术脉络，可将这一来自个人经验的概念锚定在更广泛的知识体系中，增强其说服力和可操作性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1764345600.26｜贾伟 × 脱不花 当一个男人决定去重生.md",
+    "affectedPages": [
+      "wiki/concepts/输出型兴趣.md"
+    ],
+    "searchQueries": [
+      "输出型兴趣 教育心理学 自我决定理论",
+      "表达性写作 心理疗愈 实证研究",
+      "兴趣培养 输出驱动 创造力 研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1094cd28",
+    "resolved": false,
+    "createdAt": 1785461857232
+  },
+  {
+    "type": "missing-page",
+    "title": "邵亦波",
+    "description": "贾伟在对话中多次提到参加“邵亦波的静修课程”，这一经历是其“去无知”和发现“如花”的关键转折点。邵亦波作为中国第一代互联网企业家（易趣网创始人），其转型后推动的心灵成长与静修项目在创业者群体中有显著影响，但目前Wiki中缺乏其独立页面，无法完整呈现这一关键影响源。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1764345600.26｜贾伟 × 脱不花 当一个男人决定去重生.md",
+    "affectedPages": [
+      "wiki/entities/贾伟.md",
+      "wiki/concepts/去无知.md"
+    ],
+    "searchQueries": [
+      "邵亦波 静修 课程 心灵成长",
+      "邵亦波 易趣 转型 人生哲学",
+      "邵亦波 火人节 湖畔大学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2dd029f0",
+    "resolved": true,
+    "createdAt": 1785461857232,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "弗朗索瓦丝·萨冈",
+    "description": "方希在书单推荐中重点提及法国作家弗朗索瓦丝·萨冈及其代表作《你好，忧愁》，并对其人其作有生动描述。当前知识库中尚无此实体页面，值得建立以丰富文学人物网络。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1764950400.27｜周晓枫 × 方希 × 脱不花 把弱点变成武器.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--32-176495040027周晓枫-方希-脱不花-把弱点变成武器--160eb2l.md"
+    ],
+    "searchQueries": [
+      "弗朗索瓦丝·萨冈 你好忧愁 文学评价",
+      "Françoise Sagan Bonjour tristesse 作家生平",
+      "萨冈 法国文学 代表作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d760b14b",
+    "resolved": true,
+    "createdAt": 1785462333485,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "赵汀阳",
+    "description": "方希在哲学书单中高度评价当代哲学家赵汀阳，称其《论可能生活》带来强烈思想冲击，并指出其作品分历史哲学和政治哲学两块。当前知识库中尚无此实体页面，值得建立以连接中国当代哲学思想资源。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1764950400.27｜周晓枫 × 方希 × 脱不花 把弱点变成武器.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--32-176495040027周晓枫-方希-脱不花-把弱点变成武器--160eb2l.md"
+    ],
+    "searchQueries": [
+      "赵汀阳 哲学 论可能生活",
+      "赵汀阳 历史哲学 政治哲学 主要观点",
+      "赵汀阳 天下体系 思想评价"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0d44c169",
+    "resolved": true,
+    "createdAt": 1785462333485,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "周晓枫创作转型的深层心理动因",
+    "description": "对话中方希以“真善美的排序”框架分析了周晓枫2003年前后的文风巨变，周晓枫本人也确认了这种价值排序的主动调整。但对话未深入挖掘触发这种世界观调整的具体生活事件或心理转折点。探究这一转型的深层动因，有助于更完整地理解“把弱点变成武器”的内在机制。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1764950400.27｜周晓枫 × 方希 × 脱不花 把弱点变成武器.md",
+    "affectedPages": [
+      "wiki/concepts/真善美的排序.md",
+      "wiki/entities/周晓枫.md",
+      "wiki/concepts/把弱点变成武器.md"
+    ],
+    "searchQueries": [
+      "周晓枫 创作转型 2003 散文风格变化",
+      "周晓枫 访谈 写作观 变化原因",
+      "周晓枫 真善美 文学批评 自我剖析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-28a92bcf",
+    "resolved": false,
+    "createdAt": 1785462333485
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/马寅",
+    "description": "马寅作为阿那亚创始人，在对话中被脱不花作为“重新发明公共生活”的成功案例提及，其通过空间和节日创造公共生活的实践与周州昙的社群理念形成呼应。当前wiki中尚无马寅的独立页面，但其理念对理解“公共生活”和“社群”概念有重要补充价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1765209600.番外篇｜杨宇 × 脱不花 让每个人都能被看见.md",
+    "affectedPages": [
+      "wiki/concepts/重新发明附近.md",
+      "wiki/concepts/公共生活.md"
+    ],
+    "searchQueries": [
+      "马寅 阿那亚 公共生活",
+      "阿那亚 社区营造 节日",
+      "马寅 重新发明公共生活"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dc3f8e74",
+    "resolved": true,
+    "createdAt": 1785462663714,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "非盈利社群失败案例对比分析",
+    "description": "对话中杨宇和脱不花多次提及社群崩塌的常见原因（金字塔化、追求效率、商业化），留言区也有用户分享了跑步社群因偏离初心而失败的案例。当前wiki主要记录了周州昙的成功经验，但缺乏对失败案例的系统性对比分析。整理失败社群的共性原因，与周州昙的成功原则进行对比，能更深刻地揭示社群底层逻辑的有效性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1765209600.番外篇｜杨宇 × 脱不花 让每个人都能被看见.md",
+    "affectedPages": [
+      "wiki/concepts/社群底层逻辑.md",
+      "wiki/entities/周州昙.md",
+      "wiki/concepts/交流-交心-交易.md"
+    ],
+    "searchQueries": [
+      "社群失败案例分析",
+      "非盈利社群为什么失败",
+      "社群衰败原因 去中心化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3a857fe8",
+    "resolved": false,
+    "createdAt": 1785462663714
+  },
+  {
+    "type": "suggestion",
+    "title": "邓巴数在社群运营中的实证研究",
+    "description": "对话中脱不花和杨宇都提到邓巴数（150人）是社群规模的底层逻辑，周州昙也计划按此原则进行“分形”复制。但邓巴数在数字时代和线上线下混合社群中的适用性存在争议。补充相关的实证研究和批判性观点，可以深化对“有限规模”原则的理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1765209600.番外篇｜杨宇 × 脱不花 让每个人都能被看见.md",
+    "affectedPages": [
+      "wiki/concepts/社群底层逻辑.md",
+      "wiki/concepts/邓巴数.md"
+    ],
+    "searchQueries": [
+      "邓巴数 社群 实证研究",
+      "Dunbar's number community size evidence",
+      "邓巴数 批判 数字时代"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-af0cf631",
+    "resolved": false,
+    "createdAt": 1785462663714
+  },
+  {
+    "type": "missing-page",
+    "title": "蔡司（Zeiss）",
+    "description": "蔡司作为本期节目的赞助商，其提出的“看清模糊问题”的委托引出了关于青少年心理韧性的讨论。作为一个全球领先的光学与光电技术企业，蔡司在品牌合作、企业社会责任（尤其是心理健康领域）方面的角色值得单独记录。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1765555200.28｜张晓萌 × 脱不花 来，启动自己的韧性飞轮.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--31-176555520028张晓萌-脱不花-来启动自己的韧性飞轮--aq04aw.md"
+    ],
+    "searchQueries": [
+      "蔡司 Zeiss 品牌 赞助 心理健康",
+      "蔡司 渐进镜片 技术",
+      "Zeiss corporate social responsibility mental health"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fcb7c141",
+    "resolved": true,
+    "createdAt": 1785462855963,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "中国心理韧性指数的完整维度与关键发现",
+    "description": "张晓萌在对话中提到了基于18万份问卷的“中国心理韧性指数”研究，并分享了三个趋势（心理复原滞后性、从抗压力到复原力的转变、向内观）。但完整的指数维度、其他关键发现、以及不同群体（企业家、Z世代等）的对比数据尚未展开。深入挖掘该指数的完整报告或相关论文，能极大丰富对当代中国心理韧性图景的理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1765555200.28｜张晓萌 × 脱不花 来，启动自己的韧性飞轮.md",
+    "affectedPages": [
+      "wiki/concepts/韧性飞轮与韧性时钟.md",
+      "wiki/entities/张晓萌.md"
+    ],
+    "searchQueries": [
+      "张晓萌 中国心理韧性指数 18万份 问卷 维度",
+      "中国心理韧性指数 报告 2025",
+      "张晓萌 韧性 研究 数据 趋势"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-727e33a3",
+    "resolved": false,
+    "createdAt": 1785462855963
+  },
+  {
+    "type": "suggestion",
+    "title": "暴露疗法在自我干预中的安全边界",
+    "description": "张晓萌在对话中提到自己使用了暴露疗法来克服对高尔夫的恐惧，并强调“一定得有专业的人士在旁边陪护的情况，有人指导的情况，自己绝对不可以就是自己就暴露”。对于没有心理学背景的普通人，在没有专业指导的情况下，如何安全地进行自我创伤干预？其明确的边界和禁忌是什么？这是一个极具现实指导意义但对话中未深入展开的问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1765555200.28｜张晓萌 × 脱不花 来，启动自己的韧性飞轮.md",
+    "affectedPages": [
+      "wiki/concepts/疤痕效应与心理复原滞后性.md",
+      "wiki/concepts/行为干预的频率重于强度.md"
+    ],
+    "searchQueries": [
+      "暴露疗法 自我干预 安全边界 禁忌",
+      "创伤后应激障碍 PTSD 自我疗愈 指南",
+      "心理创伤 自我干预 风险 专业指导"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a04b4f7b",
+    "resolved": false,
+    "createdAt": 1785462855963
+  },
+  {
+    "type": "missing-page",
+    "title": "汪家明",
+    "description": "张立宪引用三联书店汪家明的观点\"编辑是强烈分享欲的人\"，这一论断对理解编辑职业本质至关重要。汪家明本人是出版界重要人物，但目前Wiki中缺乏其专属页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766160000.29｜张立宪 × 脱不花 读库走过二十年.md",
+    "affectedPages": [
+      "wiki/concepts/编辑是强烈分享欲的人.md"
+    ],
+    "searchQueries": [
+      "汪家明 三联书店 出版人",
+      "汪家明 编辑理念 分享欲",
+      "汪家明 著作 出版生涯"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-618edadd",
+    "resolved": true,
+    "createdAt": 1785463049348,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "《三十五岁必死》写作计划与出版进展追踪",
+    "description": "张立宪在对话中透露了正在写作的《三十五岁必死》一书，将人生分为十八岁、二十四岁、三十五岁三个关键节点。这是一个尚未完成的重要项目，其出版时间、核心论点是否会引发争议（如年龄节点是否过于绝对）、以及市场反响，都值得持续追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766160000.29｜张立宪 × 脱不花 读库走过二十年.md",
+    "affectedPages": [
+      "wiki/concepts/三十五岁必死.md",
+      "wiki/sources/2-长谈--2-md--28-176616000029张立宪-脱不花-读库走过二十年--49nh5p.md"
+    ],
+    "searchQueries": [
+      "张立宪 三十五岁必死 新书",
+      "读库 张立宪 写作计划 2025",
+      "三十五岁必死 出版 进展"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-59ecb32e",
+    "resolved": false,
+    "createdAt": 1785463049348
+  },
+  {
+    "type": "suggestion",
+    "title": "《读库》接班人计划与品牌去人格化挑战",
+    "description": "张立宪承认《读库》与其个人紧密绑定，也承认接班人问题，但态度是\"先把我的日子过好，之后的好日子是下一任的造化\"。这与传统管理学对\"去人格化\"的追求形成张力，且对话中未给出具体方案。研究其他独立出版品牌（如《纽约客》）的接班人案例，或追踪《读库》在此问题上的后续表态，对理解独立内容品牌的可持续性有重要参考价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766160000.29｜张立宪 × 脱不花 读库走过二十年.md",
+    "affectedPages": [
+      "wiki/entities/张立宪.md",
+      "wiki/entities/读库.md"
+    ],
+    "searchQueries": [
+      "独立出版品牌 接班人 去人格化",
+      "读库 张立宪 接班人计划",
+      "纽约客 总编辑 更替 品牌延续"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cedd188c",
+    "resolved": false,
+    "createdAt": 1785463049348
+  },
+  {
+    "type": "missing-page",
+    "title": "佩内洛普·菲茨杰拉德《书店》",
+    "description": "张立宪引用英国女作家佩内洛普·菲茨杰拉德的小说《书店》中的情节——\"这个小镇并不需要一家书店\"——来比喻当前图书市场的困境。这部作品及其作者对理解张立宪的行业判断有直接关联，但目前Wiki中缺乏相关页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766160000.29｜张立宪 × 脱不花 读库走过二十年.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--28-176616000029张立宪-脱不花-读库走过二十年--49nh5p.md"
+    ],
+    "searchQueries": [
+      "佩内洛普·菲茨杰拉德 书店 小说",
+      "Penelope Fitzgerald The Bookshop",
+      "《书店》 情节 小镇 不需要书店"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-900289f5",
+    "resolved": true,
+    "createdAt": 1785463049348,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "张光直",
+    "description": "巫鸿在对话中多次提及导师张光直对其学术道路、跨学科视野及为师之道的深远影响，但维基中尚无张光直的独立页面。作为连接考古学、人类学与美术史的关键人物，其“环太平洋文化底层”假说及对三代青铜器的政治解读，是理解巫鸿“纪念碑性”等概念的重要知识背景。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766764800.30｜巫鸿 × 贾行家 × 脱不花 为师者，巫鸿.md",
+    "affectedPages": [
+      "wiki/characters/巫鸿.md",
+      "wiki/concepts/纪念碑性.md"
+    ],
+    "searchQueries": [
+      "张光直 考古学 贡献",
+      "张光直 环太平洋文化底层",
+      "张光直 青铜器 政治 权力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-503b4952",
+    "resolved": true,
+    "createdAt": 1785463231596,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "巫鸿“穿越”概念的学术脉络与比较研究",
+    "description": "巫鸿在对话中提出正在撰写以“穿越”为核心概念的新书，并将其与西方的“时间旅行”（time travel）进行区分，强调其空间意味。这是一个正在形成中的前沿课题。建议追踪其相关讲座（如北大系列讲座）及后续出版物，并比较其与西方艺术史中“时间性”（temporality）、“异托邦”（heterotopia）等概念的异同，以深化对这一新方法论的理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766764800.30｜巫鸿 × 贾行家 × 脱不花 为师者，巫鸿.md",
+    "affectedPages": [
+      "wiki/concepts/穿越.md",
+      "wiki/characters/巫鸿.md"
+    ],
+    "searchQueries": [
+      "巫鸿 穿越 讲座 北大",
+      "艺术史 时间旅行 空间 穿越",
+      "heterotopia art history China"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9d712a59",
+    "resolved": false,
+    "createdAt": 1785463231596
+  },
+  {
+    "type": "missing-page",
+    "title": "汪悦进 (Eugene Wang)",
+    "description": "巫鸿在对话中提到，他在哈佛的教职由他的学生汪悦进（Eugene Wang）接替，汪悦进现任哈佛大学洛克菲勒讲席教授。作为巫鸿学术传承的重要代表，其研究领域（如中国早期美术与佛教艺术）及与巫鸿的师承关系，是理解“为师之道”和美术史学术谱系的重要一环。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1766764800.30｜巫鸿 × 贾行家 × 脱不花 为师者，巫鸿.md",
+    "affectedPages": [
+      "wiki/characters/巫鸿.md",
+      "wiki/concepts/为师之道.md"
+    ],
+    "searchQueries": [
+      "Eugene Wang Harvard art history",
+      "汪悦进 哈佛 美术史",
+      "汪悦进 巫鸿 学生"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ca56bec7",
+    "resolved": true,
+    "createdAt": 1785463231596,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "稳态的量化监测：心率变异性与动态血糖仪的应用",
+    "description": "尹烨强调“稳定”是养生的核心，但对话中未深入探讨如何量化“稳定”。心率变异性（HRV）和动态血糖仪（CGM）是当前个人健康监测的重要工具，它们能否作为“抗波动”的客观指标，值得补充研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1767369600.31｜尹烨 × 脱不花 好好活，是一门技术.md",
+    "affectedPages": [
+      "wiki/concepts/稳定与抗波动.md",
+      "wiki/concepts/人体作为生态系统.md"
+    ],
+    "searchQueries": [
+      "心率变异性 HRV 健康监测 应用",
+      "动态血糖仪 CGM 血糖波动 管理",
+      "量化自我 生物指标 稳态"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-10cbcefe",
+    "resolved": false,
+    "createdAt": 1785463465363
+  },
+  {
+    "type": "suggestion",
+    "title": "毒物兴奋效应与“抗波动”原则的兼容性",
+    "description": "尹烨主张避免波动、追求稳定，但间歇性断食、冷水浴、高强度间歇训练等基于“毒物兴奋效应”（Hormesis）的实践却主张适度压力带来益处。这两种看似矛盾的健康哲学如何兼容或互补，是一个值得深入探讨的张力点。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1767369600.31｜尹烨 × 脱不花 好好活，是一门技术.md",
+    "affectedPages": [
+      "wiki/concepts/稳定与抗波动.md",
+      "wiki/concepts/人体作为生态系统.md"
+    ],
+    "searchQueries": [
+      "毒物兴奋效应 hormesis 健康",
+      "间歇性断食 与 代谢稳态",
+      "冷暴露 热暴露 健康益处 机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ce82f711",
+    "resolved": false,
+    "createdAt": 1785463465363
+  },
+  {
+    "type": "missing-page",
+    "title": "布莱恩·约翰逊",
+    "description": "尹烨在对话中提及“硅谷抗衰狂人”作为反面案例，但未展开。此人（Bryan Johnson）及其“蓝图计划”（Blueprint）是当代抗衰领域极具争议的标志性人物，其极端实践与尹烨“抗衰不昂贵”的理念形成鲜明对照，值得建立独立页面进行对比分析。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1767369600.31｜尹烨 × 脱不花 好好活，是一门技术.md",
+    "affectedPages": [
+      "wiki/entities/尹烨.md",
+      "wiki/concepts/人体作为生态系统.md"
+    ],
+    "searchQueries": [
+      "Bryan Johnson Blueprint 抗衰 方案",
+      "硅谷 抗衰 狂人 换血 疗法",
+      "极端 抗衰 与 生活方式 医学 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3b29a6a3",
+    "resolved": true,
+    "createdAt": 1785463465363,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "斯宾塞实体页",
+    "description": "吴军在对话中引用斯宾塞的知识分层理论作为家长自我教育的理论框架，Wiki中尚无斯宾塞的实体页，不利于追溯教育哲学的思想源流。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1767974400.32｜吴军 × 脱不花 嘿！别替孩子长大.md",
+    "searchQueries": [
+      "Herbert Spencer education philosophy",
+      "斯宾塞 教育思想 知识分层",
+      "Spencer what knowledge is of most worth",
+      "Spencer what knowledge is most worth"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4b1fb218",
+    "resolved": false,
+    "createdAt": 1785463683361
+  },
+  {
+    "type": "missing-page",
+    "title": "逻辑训练概念页",
+    "description": "吴军多次强调逻辑训练在中国教育中的缺失及其对AI时代\"提出问题的能力\"的基础作用，Wiki中尚无专门的逻辑训练概念页，无法承载相关论述。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1767974400.32｜吴军 × 脱不花 嘿！别替孩子长大.md",
+    "searchQueries": [
+      "逻辑学教育 中国 中小学",
+      "logical reasoning training education",
+      "critical thinking curriculum China"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b01ecf5f",
+    "resolved": false,
+    "createdAt": 1785463683361
+  },
+  {
+    "type": "suggestion",
+    "title": "迂回说服策略概念页",
+    "description": "吴军提出\"当父母说不通孩子时，请孩子的朋友、老师或升学顾问代为传达\"的迂回说服策略，具有强实操性且与\"亚洲妈妈\"的控制欲问题形成解法呼应，可考虑独立成页。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1767974400.32｜吴军 × 脱不花 嘿！别替孩子长大.md",
+    "searchQueries": [
+      "迂回说服 家庭教育 沟通策略",
+      "indirect persuasion parenting adolescents",
+      "third party communication parent child conflict"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d2b68c51",
+    "resolved": false,
+    "createdAt": 1785463683361
+  },
+  {
+    "type": "missing-page",
+    "title": "晏阳初",
+    "description": "晏阳初作为平民教育家在本期中被多次引用（脑矿、免于愚昧的自由），池晓在川越计划中于其墓前讲授教育史。Wiki中尚无晏阳初的独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1768579200.33｜池晓 × 脱不花 让每个人都能做自己.md",
+    "affectedPages": [
+      "wiki/entities/晏阳初.md"
+    ],
+    "searchQueries": [
+      "晏阳初 平民教育 脑矿 免于愚昧的自由",
+      "晏阳初 生平 教育理念",
+      "Y.C. James Yen mass education movement"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-87276fce",
+    "resolved": false,
+    "createdAt": 1785464084660
+  },
+  {
+    "type": "missing-page",
+    "title": "蔡朝阳",
+    "description": "蔡朝阳（阿啃）提出\"好的教育拼爹\"概念，是池晓\"教育拼爹\"观点的来源。Wiki中尚无蔡朝阳的独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1768579200.33｜池晓 × 脱不花 让每个人都能做自己.md",
+    "affectedPages": [
+      "wiki/entities/蔡朝阳.md"
+    ],
+    "searchQueries": [
+      "蔡朝阳 阿啃 教育 拼爹",
+      "蔡朝阳 教育理念 创新教育",
+      "蔡朝阳 著作 教育观点"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e5003720",
+    "resolved": false,
+    "createdAt": 1785464084660
+  },
+  {
+    "type": "missing-page",
+    "title": "维果茨基",
+    "description": "维果茨基的\"最近发展区\"理论是池晓教育实践的重要理论支撑，本期中多次引用。Wiki中尚无维果茨基的独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1768579200.33｜池晓 × 脱不花 让每个人都能做自己.md",
+    "affectedPages": [
+      "wiki/entities/维果茨基.md"
+    ],
+    "searchQueries": [
+      "维果茨基 最近发展区 教育理论",
+      "Vygotsky zone of proximal development education",
+      "维果茨基 社会文化理论 教育应用"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fa7498ef",
+    "resolved": false,
+    "createdAt": 1785464084660
+  },
+  {
+    "type": "missing-page",
+    "title": "埃里克森",
+    "description": "埃里克森的\"同一性确认\"理论是池晓解释青少年发展目标的核心框架。Wiki中尚无埃里克森的独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1768579200.33｜池晓 × 脱不花 让每个人都能做自己.md",
+    "affectedPages": [
+      "wiki/entities/埃里克森.md"
+    ],
+    "searchQueries": [
+      "埃里克森 同一性 青少年发展",
+      "Erik Erikson identity vs role confusion adolescence",
+      "埃里克森 心理社会发展理论 教育"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-41d4ce27",
+    "resolved": false,
+    "createdAt": 1785464084660
+  },
+  {
+    "type": "suggestion",
+    "title": "创新教育机构比较",
+    "description": "本期详细介绍了好奇学习社区的运作模式，Wiki中已有多个创新教育相关概念。建议未来可创建比较页面，对比好奇学习社区与其他创新教育模式（如探月学院、一土学校等）的异同。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1768579200.33｜池晓 × 脱不花 让每个人都能做自己.md",
+    "affectedPages": [
+      "wiki/comparisons/创新教育机构比较.md"
+    ],
+    "searchQueries": [
+      "好奇学习社区 探月学院 一土学校 创新教育比较",
+      "中国创新教育机构 个性化学习 案例",
+      "替代性教育 alternative education China models"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e115d262",
+    "resolved": false,
+    "createdAt": 1785464084660
+  },
+  {
+    "type": "missing-page",
+    "title": "世界经济论坛（WEF）《未来就业报告》",
+    "description": "本期对话中，曾诚引用了WEF关于“未来五年9200万岗位消失，同时新增1.7亿岗位”的数据，并指出该数据常被断章取义。该报告是理解AI时代就业趋势的关键一手资料，目前Wiki中缺乏对该报告及其方法论的专门页面，无法深入评估其结论的可靠性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769184000.34｜曾诚 × 脱不花 AI时代的工作真相.md",
+    "affectedPages": [
+      "sources/2-长谈--2-md--29-176918400034曾诚-脱不花-ai时代的工作真相--dgyhzk.md"
+    ],
+    "searchQueries": [
+      "World Economic Forum Future of Jobs Report 2025 key findings",
+      "WEF 未来就业报告 2025 核心数据 解读",
+      "9200万岗位消失 1.7亿新增 WEF 数据来源"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-df92d186",
+    "resolved": true,
+    "createdAt": 1785464357579,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“游击战思维”与“抗逆力/韧性”的系统性对比",
+    "description": "曾诚提出的“游击战思维”强调在资源、环境、目标变化下的灵活性与快速学习迁移能力。这与Wiki中已有的[[concepts/韧性飞轮与韧性时钟]]、[[concepts/疤痕效应与心理复原滞后性]]等概念高度相关，但侧重点不同。一个偏向外部行动策略，一个偏向内部心理复原。建议对比研究这两种思维框架的异同、适用场景及互补关系，以构建更完整的个人适应力模型。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769184000.34｜曾诚 × 脱不花 AI时代的工作真相.md",
+    "affectedPages": [
+      "concepts/阵地思维与游击战思维.md",
+      "concepts/韧性飞轮与韧性时钟.md",
+      "concepts/疤痕效应与心理复原滞后性.md"
+    ],
+    "searchQueries": [
+      "游击战思维 职场 适应力",
+      "心理韧性 与 行为灵活性 关系",
+      "adaptability vs resilience in career development"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c164ac0a",
+    "resolved": false,
+    "createdAt": 1785464357579
+  },
+  {
+    "type": "suggestion",
+    "title": "“AI面试官”的普及度与应对策略深度研究",
+    "description": "曾诚提到全球约40%的企业已在初筛中使用AI面试工具，并给出了“命中关键词”等初步建议。这是一个对求职者有直接实操价值的新兴领域。建议深入研究当前主流AI面试工具（如HireVue, Pymetrics等）的评估逻辑、常见偏见、以及更系统的应对策略，以补充本期对话中较为概括的建议。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769184000.34｜曾诚 × 脱不花 AI时代的工作真相.md",
+    "affectedPages": [
+      "concepts/把找工作当成工作.md",
+      "sources/2-长谈--2-md--29-176918400034曾诚-脱不花-ai时代的工作真相--dgyhzk.md"
+    ],
+    "searchQueries": [
+      "AI面试 应对技巧 关键词 策略",
+      "全球AI招聘工具 市场份额 2025",
+      "AI面试官 评估逻辑 算法偏见 研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c1254382",
+    "resolved": false,
+    "createdAt": 1785464357579
+  },
+  {
+    "type": "missing-page",
+    "title": "任仲然",
+    "description": "马伯庸在对话中高度推崇《怎样写作》一书，称其为自己逻辑训练的经典，并指出作者“任仲然”是笔名。该人物及其著作对理解“把话说明白”的方法论源头至关重要，但目前缺乏独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769788800.35｜马伯庸 × 脱不花 麻烦你，把话说明白.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--29-176978880035马伯庸-脱不花-麻烦你把话说明白--13aucq6.md",
+      "wiki/concepts/把话说明白.md"
+    ],
+    "searchQueries": [
+      "任仲然 怎样写作",
+      "任仲然 机关工作实务丛书",
+      "任仲然 真实身份"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48bab49a",
+    "resolved": true,
+    "createdAt": 1785464629996,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "《蝶变：澳门赌场田野叙事》",
+    "description": "马伯庸在2025年书单中重点推荐此书，并详细引用了其中关于赌场通过羞耻感筛选赌徒的案例，用以说明人性观察。该书作为理解复杂人性的社会学田野调查范本，具有独立研究价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769788800.35｜马伯庸 × 脱不花 麻烦你，把话说明白.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--29-176978880035马伯庸-脱不花-麻烦你把话说明白--13aucq6.md"
+    ],
+    "searchQueries": [
+      "蝶变 澳门赌场田野叙事 书评",
+      "澳门赌场 社会学 田野调查",
+      "蝶变 澳门 赌博 人性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f0f3fb79",
+    "resolved": true,
+    "createdAt": 1785464629996,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“换鞋思考”与“换位思考”的学术脉络对比",
+    "description": "马伯庸提出的“换鞋思考”强调具身性体验，与传统的“换位思考”形成张力。建议研究“换位思考”（perspective-taking）在心理学中的定义与局限，以及“具身认知”（embodied cognition）理论，以深化对这一概念的理解并明确其创新之处。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769788800.35｜马伯庸 × 脱不花 麻烦你，把话说明白.md",
+    "affectedPages": [
+      "wiki/concepts/换鞋思考.md",
+      "wiki/concepts/具身性.md"
+    ],
+    "searchQueries": [
+      "换位思考 心理学 局限",
+      "具身认知 embodied cognition 同理心",
+      "perspective-taking vs embodied empathy"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-23f76156",
+    "resolved": false,
+    "createdAt": 1785464629996
+  },
+  {
+    "type": "contradiction",
+    "title": "AI焦虑：不可逆转的替代 vs. 深耕专业的防御",
+    "description": "马伯庸一方面断言AI取代人类是“不可逆转的趋势”且“速度会非常快”，另一方面又主张“强者越强”，深耕专业即可保持优势。这两种表述之间存在张力：如果AI发展速度远超预期，专业深耕是否足以抵御替代风险？这需要用户结合更多AI发展预测和职业研究进行判断。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1769788800.35｜马伯庸 × 脱不花 麻烦你，把话说明白.md",
+    "affectedPages": [
+      "wiki/concepts/AI提问教练.md",
+      "wiki/entities/马伯庸.md"
+    ],
+    "searchQueries": [
+      "AI 取代 专业工作 预测 2030",
+      "深耕专业 能否抵御 AI 替代",
+      "强者越强 AI 时代 职业发展"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6aaf4130",
+    "resolved": false,
+    "createdAt": 1785464629996
+  },
+  {
+    "type": "missing-page",
+    "title": "《宏大细节》书籍页面",
+    "description": "常宇著作《宏大细节：北京冬奥幕后的中国与世界》在本期对谈中被反复引用和推荐，脱不花称其为\"项目管理的案例大全\"。建议创建独立的source页面记录该书。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770393600.36｜常宇 × 脱不花 来自冬奥会的项目管理秘籍.md",
+    "affectedPages": [
+      "sources/常宇-宏大细节.md"
+    ],
+    "searchQueries": [
+      "常宇 宏大细节 北京冬奥幕后",
+      "宏大细节 项目管理 案例",
+      "常宇 冬奥会 非虚构写作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3610401a",
+    "resolved": false,
+    "createdAt": 1785464865055
+  },
+  {
+    "type": "suggestion",
+    "title": "认知翻译方法论",
+    "description": "用户留言提出开放性问题：\"是否存在一套通用的认知翻译方法论，能够帮助我们在任何跨学科、跨文化、跨代际的协作中，都能快速找到共同语言？\" 这是一个值得作为query追踪的研究方向。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770393600.36｜常宇 × 脱不花 来自冬奥会的项目管理秘籍.md",
+    "affectedPages": [
+      "queries/是否存在通用的认知翻译方法论.md"
+    ],
+    "searchQueries": [
+      "cognitive translation methodology cross-disciplinary collaboration",
+      "跨学科沟通 共同语言 方法论",
+      "interdisciplinary communication framework knowledge translation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7ce7cf16",
+    "resolved": false,
+    "createdAt": 1785464865055
+  },
+  {
+    "type": "missing-page",
+    "title": "梁建章",
+    "description": "对话中提及携程的远程办公实验由梁建章推动，且脱不花表示将去携程了解其数据跟踪结果。梁建章作为人口经济学家和企业家，其推动的混合办公实践与跳海的分布式办公形成有趣的对照，值得建立独立页面记录其理念与实践。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770998400.37｜梁二狗 × 脱不花 跟虚无对着干！.md",
+    "affectedPages": [
+      "wiki/entities/携程.md",
+      "wiki/concepts/分布式办公.md"
+    ],
+    "searchQueries": [
+      "梁建章 携程 混合办公 实验 数据",
+      "梁建章 人口经济学 观点",
+      "携程 远程办公 劳动生产率 研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-02ea0856",
+    "resolved": true,
+    "createdAt": 1785465662773,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "跳海酒馆的分布式办公模式在300人以上规模的管理瓶颈",
+    "description": "梁二狗认为当前分布式办公模式到300人规模没问题，但这是基于其个人经验的主观判断。携程的大规模数据跟踪显示不同岗位对远程办公的适应性不同。建议研究：当组织规模突破300人后，纯粹依靠“价值观确认”和异步沟通的管理模式会遇到哪些具体瓶颈？哪些岗位必须回归线下？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770998400.37｜梁二狗 × 脱不花 跟虚无对着干！.md",
+    "affectedPages": [
+      "wiki/concepts/分布式办公.md",
+      "wiki/entities/携程.md"
+    ],
+    "searchQueries": [
+      "分布式办公 管理瓶颈 组织规模 300人",
+      "远程办公 哪些岗位 必须线下",
+      "异步沟通 企业文化 稀释 大规模团队"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-de410d57",
+    "resolved": false,
+    "createdAt": 1785465662773
+  },
+  {
+    "type": "suggestion",
+    "title": "跳海酒馆“高度依赖主理人”的扩张模式的天花板与风险",
+    "description": "梁二狗对加盟的态度从抗拒转变为“最彻底的开源”，但前提是找到能达到主理人水准的人。这种高度依赖“人”而非“标准化流程”的扩张模式，其天花板和风险在哪里？与传统的连锁加盟（如蜜雪冰城、霸王茶姬）和直营模式相比，这种“轻资产+强文化”的扩张路径有何独特挑战？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770998400.37｜梁二狗 × 脱不花 跟虚无对着干！.md",
+    "affectedPages": [
+      "wiki/entities/跳海酒馆.md",
+      "wiki/concepts/轻资产运营.md"
+    ],
+    "searchQueries": [
+      "跳海酒馆 加盟 扩张 模式",
+      "社区型品牌 连锁化 标准化 挑战",
+      "主理人模式 规模化 天花板"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1f916169",
+    "resolved": false,
+    "createdAt": 1785465662773
+  },
+  {
+    "type": "missing-page",
+    "title": "葛宇路",
+    "description": "对话中梁二狗提到邀请艺术家葛宇路在跳海团建中做分享。葛宇路以其介入公共空间的艺术实践（如“葛宇路”路牌事件）闻名，其创作理念与跳海“站在背面”“重新发明附近”的价值观高度契合，值得建立独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770998400.37｜梁二狗 × 脱不花 跟虚无对着干！.md",
+    "affectedPages": [
+      "wiki/entities/跳海酒馆.md",
+      "wiki/concepts/站在背面.md"
+    ],
+    "searchQueries": [
+      "葛宇路 艺术家 作品",
+      "葛宇路 路牌 公共空间 介入",
+      "葛宇路 跳海 酒馆 合作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1cc43f88",
+    "resolved": true,
+    "createdAt": 1785465662773,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "猫助",
+    "description": "对话结尾梁二狗提及与猫助讨论写作修改习惯。猫助（多抓鱼创始人）作为二手书循环平台创业者，其理念与跳海的“分享和共创”“开源”精神有潜在共鸣，且同属文艺青年创业的代表人物，值得建立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1770998400.37｜梁二狗 × 脱不花 跟虚无对着干！.md",
+    "affectedPages": [
+      "wiki/entities/梁二狗.md",
+      "wiki/concepts/分享和共创.md"
+    ],
+    "searchQueries": [
+      "猫助 多抓鱼 创始人",
+      "多抓鱼 二手书 循环经济 社区",
+      "猫助 创业 理念 文艺"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64ce72c9",
+    "resolved": true,
+    "createdAt": 1785465662773,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "尤勇",
+    "description": "本期节目中脱不花重点介绍了她为《长谈》新空间收藏的油画《救画》，作者为青年油画家尤勇。该作品及其背后的故事（士兵剖腹藏画）被赋予了深刻的象征意义，但wiki中尚无尤勇的页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1771603200.马年新春特别版｜春，是谈出来的.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--23-1771603200马年新春特别版春是谈出来的--10965s1.md"
+    ],
+    "searchQueries": [
+      "尤勇 油画家",
+      "尤勇 救画 油画",
+      "尤勇 青年艺术家"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6ad4aa6c",
+    "resolved": true,
+    "createdAt": 1785499918525,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "胡尹萍",
+    "description": "李倩分享的“绿帽子”故事中，艺术家胡尹萍通过虚构法国公司来“收藏妈妈时间”的项目持续了十一年，是“收藏时间”概念的生动案例。wiki中尚无胡尹萍的页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1771603200.马年新春特别版｜春，是谈出来的.md",
+    "affectedPages": [
+      "wiki/concepts/收藏时间.md",
+      "wiki/entities/李倩.md"
+    ],
+    "searchQueries": [
+      "胡尹萍 艺术家",
+      "胡尹萍 绿帽子 项目",
+      "胡尹萍 小芳"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-81d88a36",
+    "resolved": true,
+    "createdAt": 1785499918525,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "《宇宙观与现代世界》的核心论点与影响",
+    "description": "裴鹏程分享的“三种时间观”源自艾伦·麦克法兰的《宇宙观与现代世界》一书。该框架对理解现代焦虑有深刻启发，但wiki中仅记录了裴鹏程的转述。建议研究该书的核心论点、学术背景及其在当代的接受情况，以深化对“三种时间观”的理解。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1771603200.马年新春特别版｜春，是谈出来的.md",
+    "affectedPages": [
+      "wiki/concepts/三种时间观.md",
+      "wiki/entities/裴鹏程.md"
+    ],
+    "searchQueries": [
+      "艾伦·麦克法兰 宇宙观与现代世界 书评",
+      "Alan Macfarlane The Invention of the Modern World 时间观",
+      "麦克法兰 三种时间 进化时间 循环时间 结构时间"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-905ad433",
+    "resolved": false,
+    "createdAt": 1785499918525
+  },
+  {
+    "type": "suggestion",
+    "title": "“编辑世界”在去中心化时代的权威性来源",
+    "description": "宋方金提出的“编辑世界”强调经过权威筛选和意义提炼的信息环境，但在去中心化的互联网时代，这种权威性从何而来、如何持续存在，是一个值得深入探讨的开放问题。建议研究当代“编辑”角色的演变（如策展人、 newsletter 作者、播客主理人）及其信任机制。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1771603200.马年新春特别版｜春，是谈出来的.md",
+    "affectedPages": [
+      "wiki/concepts/编辑世界.md",
+      "wiki/concepts/三个世界.md",
+      "wiki/entities/宋方金.md"
+    ],
+    "searchQueries": [
+      "编辑世界 权威性 去中心化",
+      "信息策展 信任机制 互联网",
+      "算法推荐 vs 人工编辑 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bc49a1f3",
+    "resolved": false,
+    "createdAt": 1785499918525
+  },
+  {
+    "type": "missing-page",
+    "title": "李笑来",
+    "description": "李笑来作为“超级学习者”概念的提出者，是本期对话的引子人物，且此前已在《长谈》中作为嘉宾出现。其关于AI时代学习方法的“暴论”对脱不花产生了直接影响，但目前Wiki中尚无其专属页面，缺失了该概念源头人物的完整信息。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1772208000.38｜张泉灵 × 脱不花 欢迎加入超级学习者的世界.md",
+    "affectedPages": [
+      "wiki/entities/李笑来.md",
+      "wiki/concepts/超级学习者.md"
+    ],
+    "searchQueries": [
+      "李笑来 超级学习者 AI时代 学习方法",
+      "李笑来 长谈 脱不花",
+      "李笑来 教育理念"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bed9880f",
+    "resolved": true,
+    "createdAt": 1785500211113,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“复现学习法”与“费曼学习法”的深度比较",
+    "description": "张泉灵明确提出“复现”是比费曼学习法更进一步（从纸面到行动）的检验标准，认为对职业人而言，不到复现不算学会。这是一个有价值的张力点，但当前Wiki中两者仅为简单关联。建议深入研究两种学习方法的理论根源、适用场景及效果差异，以形成更系统的比较页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1772208000.38｜张泉灵 × 脱不花 欢迎加入超级学习者的世界.md",
+    "affectedPages": [
+      "wiki/concepts/复现学习法.md",
+      "wiki/concepts/费曼学习法.md"
+    ],
+    "searchQueries": [
+      "费曼学习法 局限性 实践应用",
+      "复现 学习 检验 标准 行动 学习",
+      "learning by doing vs Feynman technique"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b488ecb1",
+    "resolved": false,
+    "createdAt": 1785500211113
+  },
+  {
+    "type": "suggestion",
+    "title": "张泉灵成长环境的可复制性研究",
+    "description": "张泉灵在对话中多次强调其成长环境的特殊性（父母不施压、遇到好老师），并承认有“运气”成分。这引出了一个关键问题：对于已经在高压环境中成长的成年人，如何重建学习热情？当前Wiki记录了其方法论，但未探讨这些方法在不同背景人群中的适用性和迁移路径。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1772208000.38｜张泉灵 × 脱不花 欢迎加入超级学习者的世界.md",
+    "affectedPages": [
+      "wiki/entities/张泉灵.md",
+      "wiki/concepts/学习动力三角.md"
+    ],
+    "searchQueries": [
+      "重建学习热情 成年人 心理学",
+      "成长型思维 干预 效果 研究",
+      "家庭教育 高压 环境 成年后 影响 修复"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4d9e36e7",
+    "resolved": false,
+    "createdAt": 1785500211113
+  },
+  {
+    "type": "missing-page",
+    "title": "赵志群 / 徐国庆 职业教育课程教学论专家",
+    "description": "刘一沛在对话中提及北师大赵志群教授和华东师大徐国庆教授，说明职业教育课程教学论是一门系统学科。这两位专家及其研究成果在wiki中尚无页面，建议创建以丰富职业教育理论板块。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1772812800.39｜刘一沛 × 脱不花 为多数人办教育.md",
+    "affectedPages": [
+      "wiki/entities/赵志群.md",
+      "wiki/entities/徐国庆.md"
+    ],
+    "searchQueries": [
+      "赵志群 职业教育课程教学论",
+      "徐国庆 职业教育课程理论",
+      "职业教育课程教学论 学科体系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-08cce3c1",
+    "resolved": false,
+    "createdAt": 1785500379067
+  },
+  {
+    "type": "missing-page",
+    "title": "《我是职校生》书籍",
+    "description": "脱不花提及这本由北大毕业教师在公立职业学院撰写的纪实作品，作为了解职校生的重要参考。wiki中尚无此源页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1772812800.39｜刘一沛 × 脱不花 为多数人办教育.md",
+    "affectedPages": [
+      "wiki/sources/我是职校生.md"
+    ],
+    "searchQueries": [
+      "《我是职校生》 北大 职业学院 纪实",
+      "我是职校生 书籍 作者",
+      "职校生 纪实文学 公立职业学院"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-242fb891",
+    "resolved": false,
+    "createdAt": 1785500379067
+  },
+  {
+    "type": "suggestion",
+    "title": "情绪价值-vs-真的价值 页面更新",
+    "description": "刘一沛关于AI时代职业教育应培养“提供情绪价值的人”的论点，可丰富现有[[情绪价值-vs-真的价值]]概念页面。建议补充职业教育视角下的情绪价值培养维度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1772812800.39｜刘一沛 × 脱不花 为多数人办教育.md",
+    "affectedPages": [
+      "wiki/concepts/情绪价值-vs-真的价值.md"
+    ],
+    "searchQueries": [
+      "AI时代 情绪价值 职业教育",
+      "情绪劳动 职业培训 服务业",
+      "人工智能 替代 情绪连接能力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2d7efd15",
+    "resolved": false,
+    "createdAt": 1785500379067
+  },
+  {
+    "type": "missing-page",
+    "title": "阿尔弗雷德大学（Alfred University）",
+    "description": "李见深留学并任教于此，该校陶艺研究生教育已有百年历史，导师温·海格比是美国艺术教育大师。作为中国陶艺专业诞生的重要外部参照系，该校的艺术教育模式、与景德镇的交流历史值得单独记录。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1773417600.40｜李见深 × 脱不花 离开是为了更好地回来.md",
+    "affectedPages": [
+      "wiki/entities/李见深.md",
+      "wiki/entities/景德镇陶瓷大学.md"
+    ],
+    "searchQueries": [
+      "Alfred University ceramics graduate program history",
+      "温·海格比 Wayne Higby ceramic art education",
+      "阿尔弗雷德大学 景德镇 交流"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-819d2e87",
+    "resolved": true,
+    "createdAt": 1785500557928,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "陶溪川",
+    "description": "李见深将其列为景德镇\"金三角生态\"的关键一极，称其\"把温度烧到一千三百度\"。作为景德镇后工业文化遗产复兴的核心项目，陶溪川的运营模式、规模体量及其与三宝村、陶瓷大学的协同关系值得深入记录。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1773417600.40｜李见深 × 脱不花 离开是为了更好地回来.md",
+    "affectedPages": [
+      "wiki/concepts/景德镇金三角生态.md",
+      "wiki/entities/三宝国际陶艺村.md"
+    ],
+    "searchQueries": [
+      "陶溪川 景德镇 后工业文化遗产",
+      "陶文旅集团 刘子力 运营模式",
+      "陶溪川 国际艺术家 驻留"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f8e7793c",
+    "resolved": true,
+    "createdAt": 1785500557928,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "三宝经验输出的实际效果与挑战",
+    "description": "李见深正在将\"三宝经验\"输出到广东佛山官窑镇和山东临沂柳编产业等地，提出\"柳艺\"等概念革新。但这些项目的落地进展、实际效果以及\"非标\"经验在异地复制时面临的挑战，目前缺乏后续信息，值得追踪研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1773417600.40｜李见深 × 脱不花 离开是为了更好地回来.md",
+    "affectedPages": [
+      "wiki/concepts/柳艺.md",
+      "wiki/entities/李见深.md"
+    ],
+    "searchQueries": [
+      "官窑镇 佛山 南海一号 陶瓷 复兴 项目",
+      "临沂 柳编 柳艺 李见深 产业升级",
+      "三宝村 经验 输出 文旅 项目 2025 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d2cc5009",
+    "resolved": false,
+    "createdAt": 1785500557928
+  },
+  {
+    "type": "suggestion",
+    "title": "陶艺教育在中国中小学的普及现状与障碍",
+    "description": "李见深提出陶艺教育在中国有\"百分之九十的发展空间\"，并强调其心理修复功能。但陶艺在K-12教育中的实际普及程度、师资与设备障碍、以及韩国圆光大学心理修复博士课程的后续发展，均缺乏具体数据支撑。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1773417600.40｜李见深 × 脱不花 离开是为了更好地回来.md",
+    "affectedPages": [
+      "wiki/concepts/陶艺的心理修复功能.md",
+      "wiki/concepts/陶修.md"
+    ],
+    "searchQueries": [
+      "中国 中小学 陶艺 教育 普及 现状 障碍",
+      "韩国 圆光大学 心理修复 陶艺 博士 课程",
+      "陶艺 心理 治疗 研究 黏土 艺术 治疗"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6587964d",
+    "resolved": false,
+    "createdAt": 1785500557928
+  },
+  {
+    "type": "missing-page",
+    "title": "杜尚",
+    "description": "葛宇路将杜尚推荐为观念艺术先驱，其小便池作品《泉》是“标准松动”的经典案例，但当前Wiki中尚无杜尚的实体页面。杜尚对当代艺术的影响深远，创建该页面有助于建立艺术史脉络的锚点。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774022400.41｜葛宇路 × 脱不花 谁还不是个行为艺术了.md",
+    "affectedPages": [
+      "wiki/concepts/观念艺术.md",
+      "wiki/concepts/标准松动.md"
+    ],
+    "searchQueries": [
+      "杜尚 观念艺术 泉",
+      "Marcel Duchamp readymade art",
+      "杜尚 现成品 艺术史"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a562f7e3",
+    "resolved": true,
+    "createdAt": 1785500694713,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "宋冬",
+    "description": "葛宇路多次提及导师宋冬及其作品《物尽其用》，并详细描述了宋冬开设的“感知训练”课程。宋冬作为中国当代艺术的重要人物，其作品和教学方法对理解“标准松动”和“时间创造意义”有直接支撑作用，值得建立独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774022400.41｜葛宇路 × 脱不花 谁还不是个行为艺术了.md",
+    "affectedPages": [
+      "wiki/concepts/感知训练.md",
+      "wiki/entities/葛宇路.md"
+    ],
+    "searchQueries": [
+      "宋冬 艺术家 物尽其用",
+      "宋冬 感知训练 课程",
+      "宋冬 当代艺术 作品"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2a2be022",
+    "resolved": true,
+    "createdAt": 1785500694713,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "徐冰",
+    "description": "葛宇路在对话中提及徐冰的英文书法作品，涉及全球化语境下的文化理解，将其作为不同维度的优秀艺术案例。徐冰是国际知名的中国当代艺术家，创建其页面可丰富Wiki中“观念艺术”的案例多样性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774022400.41｜葛宇路 × 脱不花 谁还不是个行为艺术了.md",
+    "affectedPages": [
+      "wiki/concepts/观念艺术.md",
+      "wiki/entities/葛宇路.md"
+    ],
+    "searchQueries": [
+      "徐冰 英文书法 天书",
+      "徐冰 观念艺术 作品",
+      "Xu Bing art globalization"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b26d6ebd",
+    "resolved": true,
+    "createdAt": 1785500694713,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "行为艺术与禅宗公案的关联性研究",
+    "description": "葛宇路提出禅宗公案（如“以手指月”“往佛像上吐痰”）是中国传统的行为艺术，这一观点极具启发性但未在Wiki中展开。深入探究禅宗公案与当代行为艺术在方法论（标准松动、观念转换）上的共通性，可为“观念艺术”概念提供跨文化的历史纵深。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774022400.41｜葛宇路 × 脱不花 谁还不是个行为艺术了.md",
+    "affectedPages": [
+      "wiki/concepts/观念艺术.md",
+      "wiki/concepts/标准松动.md"
+    ],
+    "searchQueries": [
+      "禅宗公案 行为艺术 关联",
+      "Zen koan contemporary art",
+      "以手指月 观念艺术 解读"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e9d73bdc",
+    "resolved": false,
+    "createdAt": 1785500694713
+  },
+  {
+    "type": "suggestion",
+    "title": "“标准松动”在非艺术领域的应用案例研究",
+    "description": "葛宇路和脱不花在对话中探讨了“标准松动”在企业年会（刺客游戏）、心理自救（罗振宇跨年演讲、找手机大作战）等场景的应用。收集和整理“标准松动”在企业管理、K12教育、心理治疗等非艺术领域的系统化应用案例，可显著提升该概念的实践价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774022400.41｜葛宇路 × 脱不花 谁还不是个行为艺术了.md",
+    "affectedPages": [
+      "wiki/concepts/标准松动.md",
+      "wiki/entities/罗振宇.md"
+    ],
+    "searchQueries": [
+      "标准松动 企业管理 创新",
+      "行为艺术 方法 心理治疗",
+      "观念松动 教育 应用"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9a94a440",
+    "resolved": false,
+    "createdAt": 1785500694713
+  },
+  {
+    "type": "missing-page",
+    "title": "玛丽·梅洛尼（Marie Meloney）",
+    "description": "脱不花在节目结尾提到美国记者玛丽·梅洛尼，她曾为居里夫人募捐科研资金，被用作\"科学赞助人\"的类比。段睿回应\"大家都是梅洛尼\"。这是一个重要的历史参照人物，建议创建独立页面记录其事迹及与患者驱动范式的关联。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774627200.42｜段睿 × 脱不花 世间有唐三藏，则必有孙悟空.md",
+    "searchQueries": [
+      "Marie Meloney Marie Curie radium fundraising 1921",
+      "玛丽·梅洛尼 居里夫人 镭 募捐",
+      "Missy Meloney journalist science patron"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2450db70",
+    "resolved": false,
+    "createdAt": 1785501047617
+  },
+  {
+    "type": "missing-page",
+    "title": "渐冻症（ALS）",
+    "description": "对话中频繁提及渐冻症的诊断难度、病程发展、现有治疗局限。作为破冰事业的核心疾病背景，建议创建概念页面系统梳理渐冻症的医学特征、流行病学数据及现有研究格局。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774627200.42｜段睿 × 脱不花 世间有唐三藏，则必有孙悟空.md",
+    "searchQueries": [
+      "渐冻症 ALS 肌萎缩侧索硬化 流行病学 诊断 治疗进展",
+      "ALS amyotrophic lateral sclerosis prevalence diagnosis treatment 2025",
+      "SOD1 ALS gene therapy breakthrough 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a6e57a72",
+    "resolved": false,
+    "createdAt": 1785501047617
+  },
+  {
+    "type": "suggestion",
+    "title": "患者驱动范式在孤独症领域的应用",
+    "description": "段睿提到2026年4月将启动孤独症公益项目。这可能是患者驱动范式向其他疾病领域复制的第一个案例，值得追踪。建议后续关注相关进展并创建页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1774627200.42｜段睿 × 脱不花 世间有唐三藏，则必有孙悟空.md",
+    "searchQueries": [
+      "孤独症 患者驱动 研究 公益 2026",
+      "段睿 破冰驿站 孤独症 项目",
+      "autism patient-driven research model China"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ce8125ac",
+    "resolved": false,
+    "createdAt": 1785501047617
+  },
+  {
+    "type": "suggestion",
+    "title": "缓和医学在中国的发展现状与政策脉络",
+    "description": "节目中宁晓红提到全国正式的缓和医学门诊可能仅协和一家，但未展开全国安宁疗护试点城市、医保支付政策、学科建设进展等宏观背景。补充这些信息能帮助理解缓和医学在中国推广的真实障碍与进展。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775232000.43｜宁晓红 × 脱不花 在最难的时候，把人接住.md",
+    "affectedPages": [
+      "wiki/concepts/缓和医学.md",
+      "wiki/concepts/安宁疗护.md"
+    ],
+    "searchQueries": [
+      "中国缓和医学发展现状 2025 2026",
+      "安宁疗护试点城市 医保政策 生前预嘱立法",
+      "缓和医学 二级学科 申请进展 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3d9881bd",
+    "resolved": false,
+    "createdAt": 1785501236913
+  },
+  {
+    "type": "suggestion",
+    "title": "缓和医学与“过度医疗”的经济学分析",
+    "description": "脱不花在节目中提及终末期ICU治疗消耗大量医保资源，但未展开数据。若能补充终末期医疗费用占比、缓和医疗介入对医保支出的影响等研究，将强化缓和医学的公共卫生论证。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775232000.43｜宁晓红 × 脱不花 在最难的时候，把人接住.md",
+    "affectedPages": [
+      "wiki/concepts/缓和医学.md"
+    ],
+    "searchQueries": [
+      "终末期医疗费用 医保占比 中国",
+      "缓和医疗 成本效益分析 卫生经济学",
+      "ICU 终末期 过度医疗 费用研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ab67fd26",
+    "resolved": false,
+    "createdAt": 1785501236913
+  },
+  {
+    "type": "missing-page",
+    "title": "罗点点",
+    "description": "宁晓红提到北京生前预嘱推广协会由“罗点点老师”建立，罗点点是中国生前预嘱运动的关键推动者，但目前知识库中尚无其独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775232000.43｜宁晓红 × 脱不花 在最难的时候，把人接住.md",
+    "affectedPages": [
+      "wiki/entities/北京生前预嘱推广协会.md",
+      "wiki/concepts/生前预嘱.md"
+    ],
+    "searchQueries": [
+      "罗点点 生前预嘱",
+      "北京生前预嘱推广协会 创始人",
+      "罗点点 选择与尊严"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-76bf7b5c",
+    "resolved": true,
+    "createdAt": 1785501236913,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "死亡咖啡馆",
+    "description": "宁晓红在节目末尾提到“最近比较流行，他们有个死亡咖啡馆”，这是近年来在中国城市兴起的死亡教育草根运动，与缓和医学理念高度相关，值得建立独立概念页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775232000.43｜宁晓红 × 脱不花 在最难的时候，把人接住.md",
+    "affectedPages": [
+      "wiki/concepts/缓和医学.md",
+      "wiki/concepts/无畏布施.md"
+    ],
+    "searchQueries": [
+      "死亡咖啡馆 中国 2024 2025",
+      "Death Cafe 死亡教育 活动形式",
+      "死亡咖啡馆 上海 北京 社群"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7c8fc61e",
+    "resolved": true,
+    "createdAt": 1785501236913,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "巫鸿",
+    "description": "对话中尤勇和脱不花均引用了艺术史学者巫鸿关于\"山水\"不应翻译为\"landscape\"的观点，作为尊重文化范式差异的关键例证。巫鸿是极具影响力的艺术史学者，其方法论与本期\"飞鸟不在乎栅栏\"的核心主张高度相关，值得建立专门页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775836800.44｜尤勇 × 脱不花 飞鸟不在乎栅栏.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--27-177583680044尤勇-脱不花-飞鸟不在乎栅栏--1gaufky.md"
+    ],
+    "searchQueries": [
+      "巫鸿 艺术史 方法论",
+      "巫鸿 山水 landscape 翻译",
+      "Wu Hung Chinese art history"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1ea17aff",
+    "resolved": true,
+    "createdAt": 1785501521461,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "顾衡",
+    "description": "脱不花提到顾衡的西方美术史课帮助她建立了艺术史脉络，是理解本期对话中\"四层看画法\"和\"脉络\"重要性的知识来源。作为\"得到\"系老师，其内容与Wiki中已有的多位\"得到\"人物（罗振宇、马伯庸等）及多个学习概念相关联。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775836800.44｜尤勇 × 脱不花 飞鸟不在乎栅栏.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--27-177583680044尤勇-脱不花-飞鸟不在乎栅栏--1gaufky.md",
+      "wiki/entities/罗振宇.md",
+      "wiki/entities/马伯庸.md"
+    ],
+    "searchQueries": [
+      "顾衡 得到 西方美术史",
+      "顾衡 艺术史 课程"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b5f21eb0",
+    "resolved": true,
+    "createdAt": 1785501521461,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "缓和医疗与艺术创作中\"保全\"概念的跨领域比较",
+    "description": "尤勇通过《地狱卷轴》的故事引出\"生命应该拿来换点什么、保全点什么\"的思考，这与Wiki中已有的缓和医疗、生前预嘱等概念中对生命价值和自主性的终极关怀形成深层呼应。建议探究这两个领域在\"保全\"概念上的异同，可能产生有价值的跨领域洞见。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1775836800.44｜尤勇 × 脱不花 飞鸟不在乎栅栏.md",
+    "affectedPages": [
+      "wiki/concepts/缓和医学.md",
+      "wiki/concepts/生前预嘱.md",
+      "wiki/concepts/患者自主性.md",
+      "wiki/concepts/飞鸟不在乎栅栏.md"
+    ],
+    "searchQueries": [
+      "缓和医疗 生命价值 保全",
+      "艺术创作 临终关怀 意义",
+      "生前预嘱 生命叙事"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-061d0d85",
+    "resolved": false,
+    "createdAt": 1785501521461
+  },
+  {
+    "type": "missing-page",
+    "title": "脱不花",
+    "description": "脱不花作为《长谈》系列的固定主持人，在多期节目中深度参与对话并提炼核心观点，是连接所有嘉宾和概念的关键人物。目前Wiki中尚无其专属页面，不利于梳理其主持方法论和思想脉络。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1776441600.45｜郭晓东 × 脱不花 写出来，放下了.md",
+    "affectedPages": [
+      "sources/2-长谈--2-md--27-177644160045郭晓东-脱不花-写出来放下了--10godsm.md"
+    ],
+    "searchQueries": [
+      "脱不花 得到 联合创始人",
+      "脱不花 长谈 主持人",
+      "脱不花 沟通方法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d74ea6e6",
+    "resolved": true,
+    "createdAt": 1785501676890,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "写作疗愈的边界与局限性",
+    "description": "郭晓东提出“写出来，放下了”的自我疗愈方法，但该方法是否对所有类型的心理创伤有效？其边界和局限性在哪里？探讨这一问题可以深化对“写作作为自我梳理与疗愈”概念的理解，避免将其过度浪漫化。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1776441600.45｜郭晓东 × 脱不花 写出来，放下了.md",
+    "affectedPages": [
+      "concepts/写作作为自我梳理与疗愈.md"
+    ],
+    "searchQueries": [
+      "写作疗愈 局限性 边界",
+      "叙事疗法 不适用 情况",
+      "表达性写作 负面效果"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9d485f8b",
+    "resolved": false,
+    "createdAt": 1785501676890
+  },
+  {
+    "type": "suggestion",
+    "title": "从“凤凰男”到“庄超英”：社会标签的演变与固化",
+    "description": "郭晓东从《新结婚时代》的何建国到《小巷人家》的庄超英，持续塑造了“凤凰男”类型的角色。可以研究这一社会标签在近二十年间的大众认知演变，以及影视作品如何参与并固化了这一标签。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1776441600.45｜郭晓东 × 脱不花 写出来，放下了.md",
+    "affectedPages": [
+      "concepts/凤凰男.md",
+      "entities/新结婚时代.md"
+    ],
+    "searchQueries": [
+      "凤凰男 社会标签 演变",
+      "庄超英 小巷人家 凤凰男",
+      "影视作品 城乡差异 刻板印象"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-03622ccf",
+    "resolved": false,
+    "createdAt": 1785501676890
+  },
+  {
+    "type": "missing-page",
+    "title": "肖律师（君合创始人）",
+    "description": "史欣悦多次提及君合创始人肖律师对其个人成长和事务所文化的深远影响，称其“好玩”、宽容，甚至允许员工在年会上编段子开他玩笑。这种领导风格与史欣悦“被动式高产”模式的形成密切相关，是一个值得深入挖掘的案例。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777046400.46｜史欣悦 × 脱不花 人生进退皆向前.md",
+    "affectedPages": [
+      "wiki/entities/史欣悦.md",
+      "wiki/sources/2-长谈--2-md--28-177704640046史欣悦-脱不花-人生进退皆向前--17gv6nx.md"
+    ],
+    "searchQueries": [
+      "君合律师事务所 肖律师 创始人",
+      "肖微 君合 管理风格",
+      "君合文化 宽容 领导力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48d347be",
+    "resolved": true,
+    "createdAt": 1785501903717,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“被动式高产”模式的可持续性与可复制性",
+    "description": "史欣悦自称“爱偷懒”、“缺乏雄心壮志”，但其产出（三本书、社群、自媒体）却远超常人。他将此归因于“被推着走”和“答应了别人的事要做好”。这种独特的驱动模式在多大程度上可以被他人借鉴？其长期可持续性如何？值得结合心理学中的“承诺一致性”或“外部驱动”理论进行探讨。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777046400.46｜史欣悦 × 脱不花 人生进退皆向前.md",
+    "affectedPages": [
+      "wiki/entities/史欣悦.md",
+      "wiki/concepts/进退皆向前.md"
+    ],
+    "searchQueries": [
+      "被动式高产 驱动模式 心理学",
+      "承诺一致性 外部驱动 个人成长",
+      "史欣悦 工作方法 自驱力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2e10fffe",
+    "resolved": false,
+    "createdAt": 1785501903717
+  },
+  {
+    "type": "suggestion",
+    "title": "“动脑不走心”的长期心理效应与潜在风险",
+    "description": "“动脑不走心”作为一种心理分离策略，能有效应对职场压力和批评。但其长期效果和潜在风险值得审视：是否存在压抑真实情感、导致情感隔离或职业倦怠的可能？可对比心理学中“情绪劳动”、“心理 detachment”等相关研究进行深入分析。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777046400.46｜史欣悦 × 脱不花 人生进退皆向前.md",
+    "affectedPages": [
+      "wiki/concepts/动脑不走心.md",
+      "wiki/concepts/批评文件夹.md"
+    ],
+    "searchQueries": [
+      "情绪劳动 心理 detachment 职场",
+      "情感隔离 职业倦怠 心理防御机制",
+      "动脑不走心 史欣悦 心理学分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-515bb0e7",
+    "resolved": false,
+    "createdAt": 1785501903717
+  },
+  {
+    "type": "missing-page",
+    "title": "季羡林",
+    "description": "陶勇在访谈中将季羡林的《牛棚杂忆》列为塑造其“精神免疫力”的关键作品，但季羡林本人尚无独立页面。作为对陶勇精神内核产生重要影响的文学家，其生平、核心思想及《牛棚杂忆》的具体内容值得深入整理。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777651200.47｜陶勇 × 脱不花 我的人生，98.5.md",
+    "affectedPages": [
+      "wiki/concepts/精神免疫力.md",
+      "wiki/entities/陶勇.md"
+    ],
+    "searchQueries": [
+      "季羡林 生平 学术贡献",
+      "牛棚杂忆 内容简介 书评",
+      "季羡林 豁达 人生哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bcc18c4a",
+    "resolved": true,
+    "createdAt": 1785502065113,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "陶勇“居家自检”模式的政策与监管障碍",
+    "description": "陶勇构想的“居家自检、居家自健、居家自治”模式极具颠覆性，但访谈未涉及该模式在医疗器械注册、医保支付、医疗责任界定等方面可能面临的现实阻力。补充这方面的分析能更全面地评估其可行性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777651200.47｜陶勇 × 脱不花 我的人生，98.5.md",
+    "affectedPages": [
+      "wiki/concepts/居家自检-自健-自治.md",
+      "wiki/entities/陶勇.md"
+    ],
+    "searchQueries": [
+      "居家医疗 医疗器械 监管政策 中国",
+      "眼科 AI诊断 审批 FDA CE",
+      "互联网医院 医保支付 政策障碍"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-238c86be",
+    "resolved": false,
+    "createdAt": 1785502065113
+  },
+  {
+    "type": "suggestion",
+    "title": "“精神免疫力”与心理学“心理韧性”概念的对比",
+    "description": "陶勇提出的“精神免疫力”概念，与心理学中已有的“心理韧性”（Psychological Resilience）、“创伤后成长”（Post-Traumatic Growth）等理论高度相关。对比分析能帮助理解陶勇个人经验的普适性与独特性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777651200.47｜陶勇 × 脱不花 我的人生，98.5.md",
+    "affectedPages": [
+      "wiki/concepts/精神免疫力.md",
+      "wiki/concepts/适应变化.md"
+    ],
+    "searchQueries": [
+      "心理韧性 resilience 阅读 影响",
+      "创伤后成长 post-traumatic growth 文学",
+      "精神免疫力 心理学 概念 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cd3b400c",
+    "resolved": false,
+    "createdAt": 1785502065113
+  },
+  {
+    "type": "missing-page",
+    "title": "阿达木单抗",
+    "description": "陶勇在访谈中将阿达木单抗（TNF-α抑制剂）誉为改变白塞氏病患者命运的“神药”，并提及它曾是全球“药王”。作为生物制剂领域的里程碑式药物，其作用机制、临床应用及产业影响值得建立独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1777651200.47｜陶勇 × 脱不花 我的人生，98.5.md",
+    "affectedPages": [
+      "wiki/entities/陶勇.md"
+    ],
+    "searchQueries": [
+      "阿达木单抗 作用机制 TNF-α抑制剂",
+      "阿达木单抗 白塞氏病 葡萄膜炎 临床应用",
+      "修美乐 全球销量 药王 生物类似药"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d4c4d0a0",
+    "resolved": true,
+    "createdAt": 1785502065113,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/捡回珍珠计划",
+    "description": "刘墉在访谈中提及参与的公益项目“捡回珍珠计划”，由台湾王建煊的基金会发起，资助大陆贫困学生。该实体在知识库中被多次引用但尚无独立页面，其运作模式、影响规模及与刘墉其他公益活动的关联值得梳理。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1778256000.48｜刘墉 × 脱不花 人生总有花开时.md",
+    "affectedPages": [
+      "wiki/sources/2-长谈--2-md--27-177825600048刘墉-脱不花-人生总有花开时--6q99z5.md",
+      "wiki/entities/刘墉.md"
+    ],
+    "searchQueries": [
+      "捡回珍珠计划 王建煊",
+      "捡回珍珠计划 资助规模 成果",
+      "刘墉 捡回珍珠计划 公益"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3593e46e",
+    "resolved": true,
+    "createdAt": 1785502256262,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "刘墉“负面正向化”思维模式的系统研究",
+    "description": "刘墉在访谈中展现了将被骗、缺氧、苦难等负面经历转化为创作素材与正向能量的能力（“所有的悲观都可以成为乐观”）。这与心理学中的认知重评、创伤后成长等概念高度相关，但知识库目前仅将其作为独立概念记录。建议研究刘墉作品中是否系统阐述过这一思维方法，以及其与积极心理学、认知行为疗法的关联。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1778256000.48｜刘墉 × 脱不花 人生总有花开时.md",
+    "affectedPages": [
+      "wiki/concepts/所有的悲观都可以成为乐观.md",
+      "wiki/concepts/快乐缺氧症.md",
+      "wiki/concepts/兴致勃勃.md"
+    ],
+    "searchQueries": [
+      "刘墉 负面转化 思维方法",
+      "认知重评 创伤后成长 积极心理学",
+      "刘墉 我不是教你诈 创作动机 被骗经历"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cdf54bfd",
+    "resolved": false,
+    "createdAt": 1785502256262
+  },
+  {
+    "type": "suggestion",
+    "title": "刘墉与张大千艺术传承关系探究",
+    "description": "刘墉在访谈中引用张大千“水怎么流进来，怎么流出去”的达观哲学，并提及向国家博物馆捐赠黄君璧、林玉山画作。刘墉作为画家，其师承脉络、与渡海三家（张大千、黄君璧、溥心畬）的关系，以及他在中国画传统中的位置，是理解其艺术观的重要背景，目前知识库尚未覆盖。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1778256000.48｜刘墉 × 脱不花 人生总有花开时.md",
+    "affectedPages": [
+      "wiki/entities/刘墉.md",
+      "wiki/entities/国家博物馆.md"
+    ],
+    "searchQueries": [
+      "刘墉 师承 黄君璧 林玉山",
+      "刘墉 中国画 艺术风格 评价",
+      "刘墉 张大千 影响 渡海三家"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-db3a87da",
+    "resolved": false,
+    "createdAt": 1785502256262
+  },
+  {
+    "type": "missing-page",
+    "title": "苏步青",
+    "description": "胡小群在节目中提及师父曾容是\"苏步青先生的弟子\"，苏步青作为中国著名数学家、教育家，其学术传承和教育理念对复旦附中数学教学传统有深远影响。当前wiki中尚无苏步青的独立页面，无法完整呈现这一学术谱系。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1779465600.50｜胡小群 × 脱不花 拿什么拯救你，我的数学.md",
+    "affectedPages": [
+      "wiki/entities/曾容.md",
+      "wiki/entities/胡小群.md"
+    ],
+    "searchQueries": [
+      "苏步青 数学教育 贡献",
+      "苏步青 弟子 曾容",
+      "苏步青 复旦大学 数学系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-183cd5f9",
+    "resolved": true,
+    "createdAt": 1785502648906,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "概念教学法在非数学学科中的应用",
+    "description": "胡小群的\"概念教学法\"（是什么、为什么、还有什么）虽源于数学教育，但其底层逻辑——从需求出发理解概念本质——具有跨学科迁移潜力。wiki中已有[[概念教学法]]页面，但未探讨该方法在物理、化学、编程等其他理科或文科教学中的适用性和实践案例。补充这一视角可提升该概念的通用价值。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1779465600.50｜胡小群 × 脱不花 拿什么拯救你，我的数学.md",
+    "affectedPages": [
+      "wiki/concepts/概念教学法.md"
+    ],
+    "searchQueries": [
+      "概念教学法 跨学科 应用",
+      "\"是什么 为什么 还有什么\" 教学方法",
+      "concept-based learning science education"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cbf8294e",
+    "resolved": false,
+    "createdAt": 1785502648906
+  },
+  {
+    "type": "suggestion",
+    "title": "胡小群\"小初高一体化\"与官方\"贯通式培养\"政策的对比",
+    "description": "胡小群在节目中自豪地提到，其2023年提出的\"小初高一体化\"理念与后来官方提倡的\"贯通式学习\"\"初高一体化\"不谋而合。wiki中已有[[小初高一体化]]页面，但未对比分析这一民间教育实践与官方政策（如中考改革、一贯制学校建设）之间的异同、互动关系及各自实施效果。这一对比有助于理解中国数学教育改革的方向。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1779465600.50｜胡小群 × 脱不花 拿什么拯救你，我的数学.md",
+    "affectedPages": [
+      "wiki/concepts/小初高一体化.md"
+    ],
+    "searchQueries": [
+      "贯通式培养 政策 中国 数学",
+      "初高一体化 教育改革 2024",
+      "胡小群 小初高一体化 官方 评价"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a371b439",
+    "resolved": false,
+    "createdAt": 1785502648906
+  },
+  {
+    "type": "contradiction",
+    "title": "\"降级学习\"与\"超前学习\"的实践张力",
+    "description": "胡小群明确主张\"降级学习\"（回溯到知识断层处重新夯实），反对主流的\"超前学习\"。但现实中，许多家长面临学校教学进度压力和升学竞争，难以实施降级策略。wiki中[[降级学习]]页面已记录该理念，但未深入探讨其在现行教育体制下的可行性边界、与学校教学进度的冲突解决方案，以及是否有成功整合两者的混合策略。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1779465600.50｜胡小群 × 脱不花 拿什么拯救你，我的数学.md",
+    "affectedPages": [
+      "wiki/concepts/降级学习.md",
+      "wiki/concepts/小初高一体化.md"
+    ],
+    "searchQueries": [
+      "降级学习 实施 困难 家长",
+      "超前学习 降级学习 平衡 策略",
+      "数学 基础薄弱 补救 案例 初中 高中"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-235f268a",
+    "resolved": false,
+    "createdAt": 1785502648906
+  },
+  {
+    "type": "missing-page",
+    "title": "罗振宇",
+    "description": "薄世宁提及得到创始人罗振宇（罗胖），是其进入得到平台的契机人物。如果后续有罗振宇相关内容，可考虑创建独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784304000.58｜薄世宁× 脱不花 来自医学的好消息.md",
+    "affectedPages": [
+      "wiki/entities/凯叔.md",
+      "wiki/entities/脱不花.md",
+      "wiki/entities/快刀青衣.md",
+      "wiki/entities/薄世宁.md"
+    ],
+    "searchQueries": [
+      "罗振宇 得到APP 创始人",
+      "罗振宇 凯叔 关系",
+      "罗辑思维 创业历程",
+      "罗胖 跨年演讲"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2b40bd04",
+    "resolved": true,
+    "createdAt": 1785503015683,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "阿德勒心理学“课题分离”在家庭教育中的系统应用",
+    "description": "“课题分离”是本期对话的理论基石，但当前页面仅基于凯叔的口语化转述。建议深入研究阿德勒原著或权威解读，补充该概念的系统定义、实践边界及常见误区，以增强概念的学术严谨性和实操指导性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1780070400.51｜凯叔 × 脱不花 爱，是把选择权还给孩子.md",
+    "affectedPages": [
+      "wiki/concepts/课题分离.md",
+      "wiki/concepts/把选择权还给孩子.md"
+    ],
+    "searchQueries": [
+      "阿德勒 课题分离 育儿 实践",
+      "课题分离 家庭教育 边界 误区",
+      "岸见一郎 课题分离 亲子关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fc712825",
+    "resolved": false,
+    "createdAt": 1785503015683
+  },
+  {
+    "type": "suggestion",
+    "title": "“凯叔讲故事”内容品控体系与儿童认知发展理论的结合研究",
+    "description": "凯叔在对话中多次提及“心里坐着那个小孩”、“搭建阶梯”等创作手感，并提到有严格的品控会机制。建议研究其品控标准如何与皮亚杰、维果茨基等儿童认知发展理论相结合，将“手感”转化为可被更广泛学习的方法论。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1780070400.51｜凯叔 × 脱不花 爱，是把选择权还给孩子.md",
+    "affectedPages": [
+      "wiki/concepts/搭建阶梯.md",
+      "wiki/entities/凯叔讲故事.md"
+    ],
+    "searchQueries": [
+      "凯叔讲故事 品控 标准 儿童认知",
+      "儿童内容 创作 认知发展 理论 阶梯",
+      "维果茨基 最近发展区 儿童文学 应用"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9f83d301",
+    "resolved": false,
+    "createdAt": 1785503015683
+  },
+  {
+    "type": "contradiction",
+    "title": "“让孩子做主”与“建立规则”的实践边界",
+    "description": "凯叔一方面强调“把选择权还给孩子”，另一方面在AI使用等场景下又提出“需要建立规则”和“监控”。这种自由与保护之间的张力在对话中未被充分展开，需要进一步研究以明确可操作的边界，避免家长陷入“假民主”或“真放任”的误区。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1780070400.51｜凯叔 × 脱不花 爱，是把选择权还给孩子.md",
+    "affectedPages": [
+      "wiki/concepts/把选择权还给孩子.md",
+      "wiki/concepts/课题分离.md"
+    ],
+    "searchQueries": [
+      "自主性 支持 边界 设置 育儿",
+      "放任 与 民主 型 教养 方式 区别",
+      "儿童 屏幕 时间 规则 自主性 平衡"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-00b2c2a5",
+    "resolved": false,
+    "createdAt": 1785503015683
+  },
+  {
+    "type": "suggestion",
+    "title": "创建综合页：AI时代人的价值锚点",
+    "description": "本期内容与往期关于AI的讨论（如张泉灵、胡小群等期）形成呼应，建议创建一个综合页，总结在技术冲击下人类不可替代的核心能力（情感、意义、审美、叙事、发起等）。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1780675200.52｜方希 × 宋方金 × 脱不花 你将如何过好这一生.md",
+    "searchQueries": [
+      "AI时代人类不可替代能力 情感 意义 审美",
+      "工作社会终结 身份危机 AI",
+      "以赛亚·伯林 意义与情感的矢量 观念力量"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e87aa71e",
+    "resolved": false,
+    "createdAt": 1785503496069
+  },
+  {
+    "type": "missing-page",
+    "title": "乌尔里希·贝克《工作社会的终结》",
+    "description": "方希在对话中引用了乌尔里希·贝克的理论作为重要论据，建议创建该著作或概念的独立页面以深化理论背景。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1780675200.52｜方希 × 宋方金 × 脱不花 你将如何过好这一生.md",
+    "searchQueries": [
+      "Ulrich Beck 工作社会的终结 理论",
+      "风险社会 乌尔里希·贝克 工作社会",
+      "The End of the Work Society Ulrich Beck summary"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-db5e0023",
+    "resolved": false,
+    "createdAt": 1785503496069
+  },
+  {
+    "type": "missing-page",
+    "title": "蔡元培",
+    "description": "蔡元培在对话中被多次提及，其“美育代宗教”观点是本期节目讨论美育的历史起点，且与丰子恺的美育实践有思想渊源。当前维基中丰子恺页面已提及蔡元培，但蔡元培本人尚无独立页面，其教育思想与美育理论值得系统整理。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781280000.53｜宋莹芳 × 脱不花 用美育给人生加分.md",
+    "affectedPages": [
+      "wiki/entities/丰子恺.md",
+      "wiki/concepts/美育.md"
+    ],
+    "searchQueries": [
+      "蔡元培 美育代宗教 原文",
+      "蔡元培 美育思想 核心观点",
+      "蔡元培 丰子恺 美育 传承"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ca7180dc",
+    "resolved": true,
+    "createdAt": 1785503674020,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "宋菲君",
+    "description": "宋菲君是丰子恺的外孙、宋莹芳的父亲，北大物理系毕业的科学家，是丰子恺家族“和而不同”教育理念的关键例证。他在对话中被多次提及，且据留言区信息，他至今仍在桐乡设有工作室传承丰子恺艺术。作为连接科学与艺术、传统与现代的独特人物，值得建立独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781280000.53｜宋莹芳 × 脱不花 用美育给人生加分.md",
+    "affectedPages": [
+      "wiki/entities/丰子恺.md",
+      "wiki/entities/宋莹芳.md",
+      "wiki/concepts/和而不同.md"
+    ],
+    "searchQueries": [
+      "宋菲君 丰子恺 外孙",
+      "宋菲君 光学 科学家",
+      "宋菲君 桐乡 丰子恺 传承"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1aefc2f9",
+    "resolved": true,
+    "createdAt": 1785503674020,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "天使合唱团模式的规模化与可复制性",
+    "description": "宋莹芳的教育实践高度依赖其个人理念、情感投入和家族文化传承，这种“慢”的教育本质与商业扩张的“快”之间存在根本性张力。对话中提及合唱团仅限北京、教师团队五六十人，其模式在多大程度上可被复制或规模化，是一个值得深入探讨的开放问题，对理解美育推广的现实困境有重要意义。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781280000.53｜宋莹芳 × 脱不花 用美育给人生加分.md",
+    "affectedPages": [
+      "wiki/entities/北京天使童声合唱团.md",
+      "wiki/concepts/美育.md"
+    ],
+    "searchQueries": [
+      "天使童声合唱团 扩张 分校",
+      "艺术教育 规模化 挑战",
+      "教育创业 慢教育 商业扩张 矛盾"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bdcc0770",
+    "resolved": false,
+    "createdAt": 1785503674020
+  },
+  {
+    "type": "suggestion",
+    "title": "美育的“无用之用”与现实功利性的内在张力",
+    "description": "源中反复强调美育“不为考级”、“不为加分”，但论证其价值时又大量使用“提升学习效能”、“培养学霸”等功能性论据。这种话语策略反映了美育在当前社会评价体系中的困境。建议将此作为美育概念页面中的一个待深入探讨的维度，或创建独立比较页面，分析美育推广中的话语策略与价值冲突。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781280000.53｜宋莹芳 × 脱不花 用美育给人生加分.md",
+    "affectedPages": [
+      "wiki/concepts/美育.md"
+    ],
+    "searchQueries": [
+      "美育 功利化 批判",
+      "艺术教育 无用之用 辩护策略",
+      "中国美育 政策 评价体系 矛盾"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3fe95744",
+    "resolved": false,
+    "createdAt": 1785503674020
+  },
+  {
+    "type": "missing-page",
+    "title": "小鹿（脱口秀演员）",
+    "description": "刘开心与脱不花相识的引荐人，也是刘开心的朋友。她在对话中被多次提及，是连接两位核心人物的关键节点，但目前缺少独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781884800.54｜刘开心 × 脱不花 我喜欢这场开心的探险.md",
+    "affectedPages": [
+      "wiki/entities/刘开心.md",
+      "wiki/entities/脱不花.md"
+    ],
+    "searchQueries": [
+      "小鹿 脱口秀演员",
+      "小鹿 刘开心 朋友",
+      "小鹿 脱不花"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5e4890c2",
+    "resolved": true,
+    "createdAt": 1785503853182,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "刘开心“超级记忆者”特质与创作的关系",
+    "description": "刘开心自称拥有“Photographic Memory”（照片记忆），并提到这一能力是祖传的（父亲、爷爷也有）。这一特质与她细腻的写作、对痛苦记忆的“历历在目”以及逻辑驱动的思维模式有何深层关联？值得进一步探究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781884800.54｜刘开心 × 脱不花 我喜欢这场开心的探险.md",
+    "affectedPages": [
+      "wiki/entities/刘开心.md",
+      "wiki/concepts/逻辑驱动-vs-情绪驱动.md"
+    ],
+    "searchQueries": [
+      "刘开心 超级记忆者",
+      "photographic memory 创伤 写作",
+      "超忆症 文学创作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cbc85c12",
+    "resolved": false,
+    "createdAt": 1785503853182
+  },
+  {
+    "type": "contradiction",
+    "title": "“励志文学”分类与作者本意的冲突",
+    "description": "刘开心的书被出版社上架建议为“励志文学”，但脱不花和刘开心本人都明确表示，这本书的本质不是励志，而是关于“对命运的诠释权”。这种外部标签与内部定义的张力，是否需要在Wiki中作为一个独立的矛盾点来记录和探讨？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781884800.54｜刘开心 × 脱不花 我喜欢这场开心的探险.md",
+    "affectedPages": [
+      "wiki/entities/愿你可以自在张扬.md",
+      "wiki/concepts/对命运的诠释权.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a2df75e0",
+    "resolved": false,
+    "createdAt": 1785503853182
+  },
+  {
+    "type": "suggestion",
+    "title": "刘开心作品中的“疼痛文学”与“物理疼痛”的关联",
+    "description": "刘开心开玩笑说希望自己的书被归类为“疼痛文学”，因为她是“物理意义上的疼痛”。这提出了一个有趣的研究角度：她的文学创作在多大程度上将身体的物理性疼痛，转化为了一种独特的文学表达或哲学思考？这可以成为理解她作品的一个新维度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1781884800.54｜刘开心 × 脱不花 我喜欢这场开心的探险.md",
+    "affectedPages": [
+      "wiki/entities/愿你可以自在张扬.md",
+      "wiki/entities/我们可以坦然生长.md"
+    ],
+    "searchQueries": [
+      "疼痛 文学 身体叙事",
+      "刘开心 疼痛 写作",
+      "物理疼痛 文学表达"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4ee041a5",
+    "resolved": false,
+    "createdAt": 1785503853182
+  },
+  {
+    "type": "missing-page",
+    "title": "梅赐琪",
+    "description": "刘军强在对话中提及梅赐琪是另一位为《长谈》准备详细提纲的嘉宾，并称其为“清华双杰”之一。梅赐琪作为清华大学教授，其教育理念和对谈内容与刘军强形成有趣的对照，值得建立独立页面记录。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1782489600.55｜刘军强 × 脱不花 写作是门手艺.md",
+    "affectedPages": [
+      "wiki/entities/刘军强.md"
+    ],
+    "searchQueries": [
+      "梅赐琪 清华大学 教授",
+      "梅赐琪 长谈 脱不花",
+      "梅赐琪 教育理念"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-19aec1be",
+    "resolved": true,
+    "createdAt": 1785504079673,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "写作训练方法的量化评估",
+    "description": "刘军强提出了“认知肌肉”的概念和一系列写作训练方法（如收藏问题、聊天测试、堆肥等），但如何量化或评估这些“认知肌肉”的训练效果仍是一个开放性问题。研究这一问题有助于将写作训练从经验层面提升到可验证的科学层面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1782489600.55｜刘军强 × 脱不花 写作是门手艺.md",
+    "affectedPages": [
+      "wiki/concepts/认知肌肉.md",
+      "wiki/concepts/写作是思维的成人礼.md"
+    ],
+    "searchQueries": [
+      "认知训练 量化评估 方法",
+      "写作能力 评估指标 认知复杂度",
+      "修女研究 认知复杂度 阿兹海默症 写作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5cac9e93",
+    "resolved": false,
+    "createdAt": 1785504079673
+  },
+  {
+    "type": "suggestion",
+    "title": "AI泔水生态圈的防御机制研究",
+    "description": "刘军强提出了“AI泔水生态圈”的警示，但个体和社会层面有哪些有效的防御机制仍待深入探讨。这涉及媒介素养教育、算法透明性、认知训练等多个领域，是一个具有时代紧迫感的研究方向。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1782489600.55｜刘军强 × 脱不花 写作是门手艺.md",
+    "affectedPages": [
+      "wiki/concepts/AI泔水生态圈.md",
+      "wiki/concepts/认知肌肉.md"
+    ],
+    "searchQueries": [
+      "AI泔水生态圈 防御机制",
+      "算法抵抗 信息茧房 策略",
+      "数字极简主义 认知保护"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-639eb98c",
+    "resolved": false,
+    "createdAt": 1785504079673
+  },
+  {
+    "type": "suggestion",
+    "title": "人机协作写作模式演变",
+    "description": "刘军强对AI既警惕又务实，承认其可作为学习工具。在AI工具日益强大的未来，“人机协作”的写作模式将如何演变？“认知编程权”将如何被定义和争夺？这需要追踪前沿实践和学术讨论。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1782489600.55｜刘军强 × 脱不花 写作是门手艺.md",
+    "affectedPages": [
+      "wiki/concepts/AI泔水生态圈.md",
+      "wiki/concepts/认知肌肉.md"
+    ],
+    "searchQueries": [
+      "人机协作 写作 AI 2025",
+      "认知编程权 定义 争夺",
+      "AI辅助写作 认知外包 边界"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-63ccd877",
+    "resolved": false,
+    "createdAt": 1785504079673
+  },
+  {
+    "type": "suggestion",
+    "title": "如何系统性地开展家庭财商教育",
+    "description": "对话中何刚提出了财商教育的重要性和初步方法（如给女儿100元自主消费、书店选书规则等），但未形成完整体系。建议创建查询页面追踪这一议题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783094400.56｜何刚 × 脱不花 大大方方谈谈钱.md",
+    "affectedPages": [
+      "wiki/concepts/钱盲.md",
+      "wiki/concepts/结构化配置.md"
+    ],
+    "searchQueries": [
+      "家庭财商教育 方法 体系",
+      "儿童理财教育 实践案例",
+      "财商教育 课程设计 分龄"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-366ca96c",
+    "resolved": false,
+    "createdAt": 1785506967775
+  },
+  {
+    "type": "duplicate",
+    "title": "巴菲特",
+    "description": "对话中多次提及巴菲特作为价值投资典范，但当前Wiki中尚无巴菲特实体页面。建议确认是否需要创建，或仅在相关概念页面中作为案例引用。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783094400.56｜何刚 × 脱不花 大大方方谈谈钱.md",
+    "affectedPages": [
+      "wiki/entities/何刚.md",
+      "wiki/concepts/投资中的理性与情感.md"
+    ],
+    "searchQueries": [
+      "巴菲特 价值投资 理念",
+      "巴菲特 投资组合 结构分析"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43330423",
+    "resolved": false,
+    "createdAt": 1785506967775
+  },
+  {
+    "type": "duplicate",
+    "title": "段永平",
+    "description": "对话中以段永平的投资组合结构作为案例分析，当前Wiki中尚无段永平实体页面。建议确认是否需要创建。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783094400.56｜何刚 × 脱不花 大大方方谈谈钱.md",
+    "affectedPages": [
+      "wiki/concepts/结构化配置.md"
+    ],
+    "searchQueries": [
+      "段永平 投资组合 持仓",
+      "段永平 投资理念 价值投资"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1540ed44",
+    "resolved": false,
+    "createdAt": 1785506967775
+  },
+  {
+    "type": "suggestion",
+    "title": "剥离社会角色后我是谁",
+    "description": "李丹阳在对话结尾提出下一个课题：\"当我不和家人、团队在一起的时候，我是谁\"。这是一个深刻的哲学问题，涉及身份认同、自我认知与存在主义。建议创建查询页面追踪这一开放性问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783699200.57｜李丹阳 × 脱不花 不听话的人.md",
+    "affectedPages": [
+      "wiki/queries/剥离社会角色后我是谁.md"
+    ],
+    "searchQueries": [
+      "社会角色与自我认同 哲学",
+      "剥离身份后如何定义自我",
+      "中年女性自我认知 存在主义"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-998af32c",
+    "resolved": false,
+    "createdAt": 1785507137874
+  },
+  {
+    "type": "suggestion",
+    "title": "张泉灵、陈海贤、罗振宇、万维钢、得到App 实体页面",
+    "description": "对话中提及多位人物和平台，他们在李丹阳的成长中扮演了重要角色。建议评估是否需要为这些实体创建独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783699200.57｜李丹阳 × 脱不花 不听话的人.md",
+    "affectedPages": [
+      "wiki/entities/张泉灵.md",
+      "wiki/entities/陈海贤.md",
+      "wiki/entities/罗振宇.md",
+      "wiki/entities/万维钢.md",
+      "wiki/entities/得到App.md"
+    ],
+    "searchQueries": [
+      "张泉灵 投资人 年糕妈妈",
+      "陈海贤 亲密关系 课程",
+      "罗振宇 得到App 时间的朋友"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d69065e4",
+    "resolved": false,
+    "createdAt": 1785507137874
+  },
+  {
+    "type": "missing-page",
+    "title": "张泉灵",
+    "description": "张泉灵作为连接李丹阳和脱不花的关键节点（早期投资人），在对话中被多次提及，但目前缺少独立页面。她在创投圈和内容创业生态中具有重要影响力，值得建立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783699200.57｜李丹阳 × 脱不花 不听话的人.md",
+    "affectedPages": [
+      "wiki/entities/张泉灵.md"
+    ],
+    "searchQueries": [
+      "张泉灵 投资人 紫牛基金",
+      "张泉灵 年糕妈妈 投资",
+      "张泉灵 得到App"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-60da71e5",
+    "resolved": true,
+    "createdAt": 1785507137874,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "陈海贤",
+    "description": "陈海贤的《亲密关系》课程对李丹阳的家庭关系产生了积极影响，对话中明确提及。作为得到App上的心理学内容创作者，他与本Wiki已有的多个概念（如课题分离）高度相关。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1783699200.57｜李丹阳 × 脱不花 不听话的人.md",
+    "affectedPages": [
+      "wiki/entities/陈海贤.md"
+    ],
+    "searchQueries": [
+      "陈海贤 亲密关系 得到",
+      "陈海贤 心理学 自我发展",
+      "陈海贤 课题分离"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-fdf564fc",
+    "resolved": true,
+    "createdAt": 1785507137874,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "冯雪",
+    "description": "薄世宁提及的同行冯雪（曾参与课程研讨会），在对话中作为背景人物出现。如果后续有冯雪相关内容，可考虑创建独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784304000.58｜薄世宁× 脱不花 来自医学的好消息.md",
+    "affectedPages": [
+      "wiki/entities/薄世宁.md"
+    ],
+    "searchQueries": [
+      "冯雪 医生 得到APP",
+      "冯雪 医学通识",
+      "冯雪 心脏康复"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-34a9b92c",
+    "resolved": true,
+    "createdAt": 1785507460280,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "生前预嘱的矛盾态度",
+    "description": "薄世宁个人不写生前预嘱（认为\"会变\"），与第43期[[北京生前预嘱推广协会]]的推广立场形成张力。可考虑创建查询页面追踪这一矛盾。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784304000.58｜薄世宁× 脱不花 来自医学的好消息.md",
+    "affectedPages": [
+      "wiki/concepts/真正的尊严是拥有选择权.md"
+    ],
+    "searchQueries": [
+      "生前预嘱 争议 会变",
+      "生前预嘱 中国 推广 实践",
+      "advance directive limitations criticism"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b6f5fdec",
+    "resolved": false,
+    "createdAt": 1785507460280
+  },
+  {
+    "type": "suggestion",
+    "title": "代糖的长期健康效应",
+    "description": "薄世宁承认代糖\"有争议\"，指出代糖也会干扰代谢、影响肠道菌群、导致慢性炎症，但危害程度尚无定论。值得追踪最新证据。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784304000.58｜薄世宁× 脱不花 来自医学的好消息.md",
+    "affectedPages": [
+      "wiki/concepts/慢性炎症.md"
+    ],
+    "searchQueries": [
+      "artificial sweeteners long-term health effects 2025 2026",
+      "代糖 肠道菌群 慢性炎症 最新研究",
+      "non-nutritive sweeteners metabolic effects meta-analysis"
+    ],
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c6c47806",
+    "resolved": false,
+    "createdAt": 1785507460280
+  },
+  {
+    "type": "suggestion",
+    "title": "建议更新脱不花页面",
+    "description": "本期内容极大丰富了脱不花的形象。她不仅是主持人，更是一个与嘉宾\"互为镜像\"的对话者。她分享了对\"人设\"的生理不适、对内容行业\"促进共识，弥合分裂\"的理解，以及从\"不理解内耗\"到\"超剂量给予不评判\"的转变。建议更新 [[脱不花]] 页面，补充其管理哲学和个人成长的内容。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784908800.59｜吴琪× 脱不花 谁在追问真相.md",
+    "affectedPages": [
+      "wiki/entities/脱不花.md"
+    ],
+    "searchQueries": [
+      "脱不花 得到 长谈 管理哲学",
+      "脱不花 人设 内容行业 共识",
+      "脱不花 内耗 不评判 领导力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1c1bff39",
+    "resolved": false,
+    "createdAt": 1785507731405
+  },
+  {
+    "type": "missing-page",
+    "title": "调查记者群体萎缩的社会原因",
+    "description": "对话中多次提到调查记者群体\"三百位不到\"\"行业会都不太能开得起来了\"，但未深入分析其社会原因。这是一个值得追踪的开放性问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784908800.59｜吴琪× 脱不花 谁在追问真相.md",
+    "affectedPages": [
+      "wiki/queries/调查记者群体为何萎缩.md",
+      "wiki/sources/2-长谈--2-md--25-178490880059吴琪-脱不花-谁在追问真相--i5apjk.md"
+    ],
+    "searchQueries": [
+      "中国调查记者数量减少原因",
+      "调查记者行业现状 2024",
+      "机构媒体衰落 调查报道 生存困境"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f10abc91",
+    "resolved": true,
+    "createdAt": 1785507731405,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "\"我书写\"趋势与非虚构写作的未来",
+    "description": "吴琪提出\"我书写\"——记者将个人感受、体验和情感融入作品——是未来的写作趋势。这与传统新闻学\"记者隐藏自己\"的原则形成张力，值得作为独立概念追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1784908800.59｜吴琪× 脱不花 谁在追问真相.md",
+    "affectedPages": [
+      "wiki/concepts/我书写的趋势.md",
+      "wiki/sources/2-长谈--2-md--25-178490880059吴琪-脱不花-谁在追问真相--i5apjk.md"
+    ],
+    "searchQueries": [
+      "我书写 非虚构写作 趋势",
+      "第一人称非虚构 新闻伦理",
+      "记者主体性 沉浸式报道 新新闻主义"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-63452cc1",
+    "resolved": true,
+    "createdAt": 1785507731405,
+    "resolvedAction": "auto-resolved"
+  }
+]
