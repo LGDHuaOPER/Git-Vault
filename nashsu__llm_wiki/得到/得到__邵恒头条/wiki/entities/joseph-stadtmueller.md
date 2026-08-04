@@ -1,0 +1,30 @@
+---
+type: entity
+title: Joseph Stadtmueller
+tags: [法官, 美国司法, Marcus Hutchins, 复杂道德性]
+related: [entities/marcus-hutchins, concepts/复杂道德性]
+created: 2026-08-01
+updated: 2026-08-01
+sources: ["邵恒头条/MD/436.247 - “互联网英雄”是如何诞生的  (下).md"]
+---
+# Joseph Stadtmueller
+
+Joseph Stadtmueller，美国威斯康辛州密尔沃基的联邦法官，因审理Marcus Hutchins案而受到关注。在审理此案时已年近80岁，拥有超过30年的法官职业生涯，曾审判过2200名罪犯。
+
+## Hutchins案中的关键作用
+
+2019年7月，Stadtmueller法官负责审理[[entities/marcus-hutchins|Marcus Hutchins]]的金融诈骗案。尽管年事已高，外界曾担心他能否理解案件的技术细节，但他展现出了深刻的洞察力。
+
+在法庭上，Stadtmueller法官做出了以下关键论述：
+
+- 在他30年职业生涯中审判过2200名罪犯，但没有一个人与Hutchins一样
+- 认定Hutchins是“一个真正意义上的英雄”（a true hero）
+- 指出Hutchins过去所做的可耻行为需要放在其整体贡献的大背景下来审视
+- 强调社会需要Hutchins这样的人来保护关键技术和基础设施
+- 认为此案的正面意义远大于负面影响
+
+基于以上判断，他判处Hutchins一年监督假释，且等待开庭的时间可抵消刑期，使Hutchins当天即获自由。
+
+## 意义
+
+Stadtmueller法官的判决体现了对[[concepts/复杂道德性|复杂道德性]]的深刻理解，他没有简单地将Hutchins定义为罪犯，而是综合考量了其全部人生轨迹和社会贡献。他的判决不仅给予了一个年轻人改过自新的机会，也为司法系统如何处理“英雄与罪犯”身份重叠的复杂案件提供了重要参考。

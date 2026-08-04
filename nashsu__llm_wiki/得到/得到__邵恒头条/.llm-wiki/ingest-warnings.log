@@ -1,0 +1,43 @@
+## 2026-07-31T07:14:25.855Z | 邵恒头条/MD/164.邵恒帮你问 - 怎么做到高效阅读、高效输出？.md
+
+1. FILE block "wiki/sources/4-邵恒头条--2-md--23-164邵恒帮你问-怎么做到高效阅读高效输出--y2sbfz.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T09:03:24.330Z | 邵恒头条/MD/212.硬科技报告 - 北斗核心星座完成部署.md
+
+1. FILE block "wiki/concepts/频率资源先到先得.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T09:43:31.503Z | 邵恒头条/MD/256.体面面对年龄增长，人间值得.md
+
+1. FILE block "wiki/concepts/自证预言.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T14:44:35.578Z | 邵恒头条/MD/355.分享一份菜谱，人间值得.md
+
+1. Dropped "wiki/entities/天才主厨的绝对温度.md" — Page type "source" must be under "wiki/sources/". Current directory: "wiki/entities".
+
+## 2026-07-31T20:19:55.099Z | 邵恒头条/MD/499.如何避免在面试中踩坑？.md
+
+1. FILE block "wiki/sources/4-邵恒头条--2-md--13-499如何避免在面试中踩坑--1h0e6lf.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T22:24:46.867Z | 邵恒头条/MD/567.272 - 新冠疫苗生产，为什么印度很重要？.md
+
+1. FILE block "wiki/sources/4-邵恒头条--2-md--23-567272-新冠疫苗生产为什么印度很重要--1m2cpac.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T23:18:23.113Z | 邵恒头条/MD/601.每周新书盘点 - 怎样按照自己的意愿去改变？（2020年第40周）.md
+
+1. FILE block "wiki/sources/4-邵恒头条--2-md--33-601每周新书盘点-怎样按照自己的意愿去改变2020年第40周--13yybr7.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T23:29:36.243Z | 邵恒头条/MD/605.294 - 卓克 黑洞研究获得2020诺贝尔物理学奖.md
+
+1. FILE block with unsafe path "wiki/entities/人马座A*.md" rejected (must be under wiki/, no .., no absolute paths, and Windows-safe file names).
+
+## 2026-07-31T23:59:01.386Z | 邵恒头条/MD/1603900800.308 - 军队里的“继承者们”是如何诞生的？.md
+
+1. FILE block "wiki/sources/4-邵恒头条--2-md--30-1603900800308-军队里的继承者们是如何诞生的--1ungcjo.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-01T02:24:07.274Z | 邵恒头条/MD/1607961600.336 - 视频号为什么会创造“小而美”的机会？.md
+
+1. Dropped "wiki/comparison/视频号vs抖音vs快手.md" — Page type "comparison" must be under "wiki/comparisons/". Current directory: "wiki/comparison".
+
+## 2026-08-03T05:55:48.007Z | 邵恒头条/MD/1621958400.432｜罗宾汉证券如何让投资娱乐化？.md
+
+1. FILE block "wiki/concepts/订单流付费.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
