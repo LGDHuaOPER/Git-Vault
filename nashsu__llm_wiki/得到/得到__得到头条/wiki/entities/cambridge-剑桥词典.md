@@ -1,0 +1,17 @@
+---
+type: entity
+title: 剑桥词典（Cambridge）
+created: 2026-08-02
+updated: 2026-08-02
+tags: [词典, 年度关键词, 出版物]
+related: [merriam-webster-韦氏词典, collins-柯林斯词典, oxford-牛津词典, ben-lei-da-本垒打, wordle]
+sources: ["得到头条/MD/398.003｜来，查收今年的年度关键词.md"]
+---
+
+# 剑桥词典（Cambridge）
+
+英国权威词典出版机构，与[[merriam-webster-韦氏词典]]、[[collins-柯林斯词典]]、[[oxford-牛津词典]]并称"四大词典"，每年发布年度关键词。
+
+## 2022年年度关键词
+
+《剑桥词典》2022年的年度关键词是 **Homer**（本垒打），棒球术语。当选原因与棒球无关，而是因为填字游戏《Wordle》在2022年5月5日要求玩家猜的词正是Homer，该词是一句地方俚语，很多人不认识而上网搜索，导致当天搜索量暴增，成为年度数据之最。参见[[ben-lei-da-本垒打]]与[[wordle]]。

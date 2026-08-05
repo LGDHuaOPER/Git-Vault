@@ -1,0 +1,16 @@
+---
+type: entity
+title: 阿迪达斯（Adidas）
+created: 2026-08-02
+updated: 2026-08-02
+tags: [企业, 运动品牌, 案例]
+related: [puma-彪马, jaguar-land-rover-捷豹路虎, cfo-jie-ren-ceo-de-shi-yong-tiao-jian-什么条件下CFO适合接任CEO]
+sources: ["得到头条/MD/383.382｜如何由财务新人跃迁CEO？.md"]
+---
+# 阿迪达斯（Adidas）
+
+德国运动品牌企业。2022年11月8日，阿迪达斯发布公告称原CEO辞职，于11月11日正式离任。继任者是同为德系运动品牌的彪马原CEO，将于次年1月1日走马上任。在11月—12月这段新老交接的断档期，由阿迪达斯首席财务官CFO临时接任CEO职务。
+
+阿迪达斯是《得到头条》382期讨论"CFO是离CEO最近的职位"话题的核心案例之一。节目认为，阿迪达斯、[[puma-彪马]]和[[jaguar-land-rover-捷豹路虎]]在CEO离职后不约而同选择CFO临时担纲或直接升任CEO，说明CFO一定懂业务、懂经营，打破了"财务出身的人不懂业务"的刻板印象。
+
+留言区魏红亮指出，阿迪达斯选择CFO接任与其增长趋势放缓、需要精细化管理有关，与阿里巴巴张勇接任CEO的逻辑相似。这一观点详见[[cfo-jie-ren-ceo-de-shi-yong-tiao-jian-什么条件下CFO适合接任CEO]]。

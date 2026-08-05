@@ -1,0 +1,23 @@
+## 2026-07-31T18:54:40.309Z | 得到头条/MD/042.041｜怎样给学生布置一个好作业？.md
+
+1. FILE block "wiki/concepts/店等人与等人店.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-31T19:48:03.590Z | 得到头条/MD/063.062｜“职业教育”是一条好出路吗？.md
+
+1. FILE block "wiki/sources/4-得到头条--2-md--17-063062职业教育是一条好出路吗--1wgqsay.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-01T01:42:01.169Z | 得到头条/MD/113.112｜什么是“灰度创新”？.md
+
+1. FILE block "wiki/entities/欧莱雅.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-01T05:22:20.050Z | 得到头条/MD/1197.797｜定调2026 中央经济工作会议的关键指向.md
+
+1. FILE block "wiki/concepts/适度宽松的货币政策.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-01T06:53:35.888Z | 得到头条/MD/1226.826｜蜜雪冰城到了美国，为什么“更更更甜”了？.md
+
+1. Dropped "wiki/concepts/高果糖玉米糖浆.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+
+## 2026-08-04T12:08:42.347Z | 得到头条/MD/791.396｜冰火两重天背后，餐饮业有哪些新机会？.md
+
+1. FILE block with unsafe path "wiki/queries/zhong-can-chu-hai-zhong-guo-zhong-can-dang-di-ke-ren-de-ke-xing-xing-中餐出海"中国中餐+当地客人"的可行性.md" rejected (must be under wiki/, no .., no absolute paths, and Windows-safe file names).

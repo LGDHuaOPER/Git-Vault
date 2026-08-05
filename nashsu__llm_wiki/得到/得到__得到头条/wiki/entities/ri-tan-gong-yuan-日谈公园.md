@@ -1,0 +1,13 @@
+---
+type: entity
+title: 日谈公园
+created: 2026-08-03
+updated: 2026-08-03
+tags: [播客, 品牌]
+related: [ximalaya-喜马拉雅, wan-shi-nei-rong-碗式内容, man-nei-rong-慢内容]
+sources: ["得到头条/MD/689.294｜适应度法则 “网约车跑单王”是怎样炼成的？.md"]
+---
+
+# 日谈公园
+
+播客品牌，与[[ximalaya-喜马拉雅]]联合发布《2023播客品牌力洞察报告》。其品牌营销负责人王美丽提出，播客最重要的增长引擎之一是用户侧的情感陪伴需求，这与[[wan-shi-nei-rong-碗式内容]]和[[man-nei-rong-慢内容]]的趋势判断一致。

@@ -1,0 +1,28 @@
+---
+type: entity
+title: 埃德加·沙因（Edgar Schein）
+created: 2026-08-03
+updated: 2026-08-03
+tags: [组织心理学, 人物, 帮助理论]
+related: [qia-dao-hao-chu-de-bang-zhu-恰到好处的帮助, you-xiao-bang-zhu-san-yao-dian-有效帮助三要点]
+sources: ["得到头条/MD/627.232｜决战双11 怎样发动“云股东”？.md"]
+---
+# 埃德加·沙因（Edgar Schein）
+
+## 简介
+
+埃德加·沙因（Edgar Schein）是一位组织心理学专家，著有《恰到好处的帮助》一书。在本来源中，他的理论被用于回答“怎么才能触发一场有效的帮助”这一问题，作为发动云股东的方法论框架。
+
+## 核心贡献
+
+沙因提出了“有效帮助三要点”：
+
+1. 只有双方都做好准备时，有效的帮助才会发生。
+2. 只有双方感到彼此平等时（含信息平等），有效的帮助才会发生。
+3. 只有明确受助者才是问题的拥有者时，有效的帮助才会发生。
+
+## 相关页面
+
+- [[concepts/you-xiao-bang-zhu-san-yao-dian-有效帮助三要点]]——沙因提出的理论框架
+- [[entities/qia-dao-hao-chu-de-bang-zhu-恰到好处的帮助]]——沙因的著作
+- [[concepts/yun-gu-dong-云股东]]——该理论的应用场景

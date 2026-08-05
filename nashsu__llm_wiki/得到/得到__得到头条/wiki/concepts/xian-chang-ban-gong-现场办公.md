@@ -1,0 +1,23 @@
+---
+type: concept
+title: 现场办公
+tags: [现场办公, 工作模式]
+related: [yuan-cheng-ban-gong-远程办公, hun-he-ban-gong-混合办公, ji-ti-zhi-hui-集体智慧, tong-qin-jing-ji-通勤经济, guan-dian-ji-hua-观点极化]
+created: 2026-08-05
+updated: 2026-08-05
+sources: ["得到头条/MD/890.495｜又双叒叕打脸了？远程办公，到底有没有好处？.md"]
+---
+# 现场办公
+
+员工到公司工位工作的传统模式，与[[yuan-cheng-ban-gong-远程办公]]相对。本来源中叙述重心偏向现场办公，列举了三大优点。
+
+## 三大优点
+
+1. **积累集体智慧**：[[pentland-彭特兰]]《[[zhi-hui-she-hui-智慧社会]]》核心观点——工作场所互动是提升[[ji-ti-zhi-hui-集体智慧]]的关键；[[ming-xing-yuan-gong-明星员工]]往往在线下办公中产生。
+2. **避免观点极化**：[[robert-putnam-罗伯特帕特南]]认为网络参与过多加重孤独感，人需回到工作场所；茶水间闲谈打破信息孤岛；通过小命题共识缓解[[guan-dian-ji-hua-观点极化]]。[[ferrazzi-法拉奇]]《[[bie-du-zi-yong-can-别独自用餐]]》强调社交杠杆。
+3. **激活通勤经济**：现场办公带动的不只是公司本身，还有周边商业生态（见[[tong-qin-jing-ji-通勤经济]]）。
+
+## 相关立场
+
+- 得到App坚持现场办公为主，源于罗振宇"谁也别高估自己的自律性"的理念。
+- 亚马逊CEO[[andy-jassy-安迪贾西]]要求全员恢复5天工位办公。

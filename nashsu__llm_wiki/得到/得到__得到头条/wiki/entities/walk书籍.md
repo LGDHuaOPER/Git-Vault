@@ -1,0 +1,38 @@
+---
+type: entity
+title: 《Walk》（书籍）
+created: 2026-08-01
+updated: 2026-08-01
+tags: [书籍, 健康, 走路, 运动科学]
+related: [courtney-conley, milica-mcdowell, sixth-vital-sign, vitamin-w, compensation-chain, minimalist-shoes, ten-thousand-steps-myth]
+sources: ["得到头条/MD/1362.959｜走路，最被低估的生命大事.md"]
+---
+
+# 《Walk》（书籍）
+
+英文新书，上市后迅速登上美国畅销书榜。全书核心主张：把走路称为"运动"是一种严重的降格，走路应被列为人的"第六大生命体征"，是身体系统的"生理必需品"。
+
+## 作者
+
+- [[courtney-conley]]——步态专家，治疗过菲尼克斯太阳队、纽约洋基队、克利夫兰布朗队球员。
+- [[milica-mcdowell]]——资深物理治疗博士。
+
+## 核心论点
+
+- 走路是"生理必需品"而非可选的运动选项，作者称之为"维生素W"（Vitamin W）。
+- 人类约600万年进化围绕"每天会走很长的路"这一前提展开。
+- 小腿泵血机制、骨骼机械负荷刺激、BDNF分泌均依赖走路。
+- 脚趾力量不足会引发全身"代偿链"，在远离源头的腰、膝、髋制造疼痛。
+- 批评厚底缓震鞋、拱形支撑鞋、收窄鞋头鞋，推荐极简鞋。
+
+## 证据与争议
+
+- 步数建议有大型同行评审研究支撑（JAMA神经病学、柳叶刀·公共卫生）。
+- "第六大生命体征"是作者的主张而非既有医学共识。
+- 脚趾力量与跌倒风险、代偿链机制证据强度中等。
+- 来源未提及作者是否与极简鞋品牌存在利益关联，这是值得注意的盲点。
+
+## 相关页面
+
+- 概念：[[sixth-vital-sign]]、[[vitamin-w]]、[[compensation-chain]]、[[minimalist-shoes]]、[[ten-thousand-steps-myth]]、[[second-heart-calf]]、[[bdnf]]
+- 来源：[[4-得到头条--2-md--18-1362959走路最被低估的生命大事--vi3wmm]]

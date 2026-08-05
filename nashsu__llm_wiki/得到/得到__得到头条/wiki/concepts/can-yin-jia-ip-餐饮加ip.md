@@ -1,0 +1,33 @@
+---
+type: concept
+title: 餐饮+IP
+created: 2026-08-02
+updated: 2026-08-02
+tags: [餐饮, IP, 营销, 引流]
+related: [ip-san-jie-lun, cheng-yu-ip-kun-yu-ip, chen-qing-ling, ren-sheng-yi-chuan, chen-jin-shi-ti-yan, po-quan-li-lun, zhu-yi-li-jing-ji, chan-pin-ji-liu-liang]
+sources: ["得到头条/MD/260.259｜“餐饮+IP”，能走多远？.md"]
+---
+
+# 餐饮+IP
+
+餐饮企业与知名IP结合，利用IP的内容和影响力为餐厅引流。这是疫情冲击下餐饮业探索的新路径。红餐网报告显示，2022年4月餐饮行业收入同比下降22.7%，79.6%受访企业营收减少，68.5%受访企业账面资金仅能维持近3个月。在此背景下，餐饮+IP成为快速聚集人气的手段。
+
+## 三种玩法
+
+根据[[ip-san-jie-lun|IP三阶论]]，餐饮+IP可分为三个层级：
+
+1. **明星IP**：明星代言或亲自下场开店，只解决传播问题，在体验层面帮不上忙。
+2. **故事IP**：基于影视、动漫作品的主题餐厅，满足猎奇心，但受限于粉丝圈层。
+3. **美食纪录片IP**：与门店氛围不违和，可突破粉丝局限，打造不腻烦的[[chen-jin-shi-ti-yan|沉浸式体验]]。
+
+## 与既有概念的关系
+
+- 与[[po-quan-li-lun|破圈理论]]相关：餐饮+IP本质上是借IP内容破圈引流，但故事IP恰恰受限于粉丝圈层，只有纪录片IP才能突破圈层——为破圈理论提供了边界条件。
+- 与[[zhu-yi-li-jing-ji|注意力经济]]相关：餐饮+IP是在注意力稀缺时代争夺用户注意力的策略。
+- 与[[chan-pin-ji-liu-liang|产品即流量]]互补：肯德基案例强调产品即流量，本期强调IP即流量。
+
+## 关联
+
+- 框架：[[ip-san-jie-lun]]
+- 案例：[[chen-qing-ling]]、[[ren-sheng-yi-chuan]]
+- 局限：[[cheng-yu-ip-kun-yu-ip]]

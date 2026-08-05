@@ -1,0 +1,29 @@
+---
+type: entity
+title: CES（国际消费电子展）
+created: 2026-08-02
+updated: 2026-08-02
+tags: [展会, 科技, 消费电子]
+related: [sun-si-yuan-孙思远, tcl, securam, torras, nolo, zhong-chou-shi-can-zhan-众筹式参展]
+sources: ["得到头条/MD/413.018｜等了三年，中国企业如何重返CES？.md"]
+---
+
+# CES（国际消费电子展）
+
+CES（Consumer Electronics Show，国际消费电子展）是世界上影响力最大的科技展会之一，被称为「科技界的春晚」。每年在美国拉斯维加斯举办。
+
+## 2023 年回归
+
+2023 年 CES 是疫情以来第一次全面恢复线下举办，也是中国公司三年来第一回大规模重返。官方预计到场人数达 10 万，周边酒店平均涨价两倍左右，被视为全面复苏的信号。现场还有来自韩国、法国的旅游考察团。
+
+## 2023 年主要观察
+
+- **大品牌**：AMD、佳能、LG、微软、尼康、松下、三星等均带来新品。联想发布双屏笔记本电脑 Yoga Book 9i。
+- **新奇特产品**：XORBIS 的 AI 绘画机器人 Sketcher X、Bird Buddy 智能喂鸟器、GULIGULI 智能伴宠机器人。
+- **中国企业**：480 多家中国企业参与，约占参展企业总量的 15%。呈现两极分化——OEM/ODM 代工厂品牌露出简单粗暴，TCL、海信、联想等巨头深度本地化，中间地带企业（如 [[securam]]、[[torras]]）展台国际化。
+- **众筹式参展**：中国出海品牌服务公司整租展位再分配给需要曝光的品牌。
+
+## 相关概念
+
+- [[zhong-chou-shi-can-zhan-众筹式参展]]
+- [[wai-mao-si-wei-vs-pin-pai-si-wei-外贸思维vs品牌思维]]
