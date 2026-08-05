@@ -1,0 +1,6321 @@
+{
+  "version": 1,
+  "updatedAt": 1785898513332,
+  "files": {
+    "purpose.md": {
+      "hash": "5100de6b7c7374a01e4d03a849efdfc9",
+      "size": 614,
+      "mtimeMs": 1785829653872
+    },
+    "raw/sources/文明之旅/MD/001.《文明之旅》宣传片.md": {
+      "hash": "631a545281a09905b0ab2a988c5dd91f",
+      "size": 17318,
+      "mtimeMs": 1785824651686
+    },
+    "raw/sources/文明之旅/MD/002.导读 一个20年超长期的文化工程是怎么设计出来的？.md": {
+      "hash": "df0361b362b520c15b4f21ece1e44a1f",
+      "size": 66723,
+      "mtimeMs": 1785824652018
+    },
+    "raw/sources/文明之旅/MD/003.公元1000年 宋代如何走出五代阴影？.md": {
+      "hash": "d51fe77e4d56738a0006233739e3fcb0",
+      "size": 57211,
+      "mtimeMs": 1785824653368
+    },
+    "raw/sources/文明之旅/MD/004.公元1001年 四川为什么叫四川？.md": {
+      "hash": "6a2cca5d7d74efdeca4495ff7ae5e3f6",
+      "size": 56619,
+      "mtimeMs": 1785824653964
+    },
+    "raw/sources/文明之旅/MD/005.公元1002年 科举为什么发生基因突变？.md": {
+      "hash": "0cf4452164c8d57451f423953c7c7294",
+      "size": 74030,
+      "mtimeMs": 1785824654342
+    },
+    "raw/sources/文明之旅/MD/006.公元1003年 为什么“不听建议”也是一种好策略？.md": {
+      "hash": "e5d68df1ced0dd0a3f0a19a0e7fa65fb",
+      "size": 77098,
+      "mtimeMs": 1785824655057
+    },
+    "raw/sources/文明之旅/MD/007.公元1004年 “基建狂魔”大宋如何打防御战.md": {
+      "hash": "76e3bf3a860f6244f251dc51d95a0766",
+      "size": 71791,
+      "mtimeMs": 1785824655633
+    },
+    "raw/sources/文明之旅/MD/008.公元1005年 “澶渊之盟”是个屈辱的条约吗？.md": {
+      "hash": "129d4c1edd40a05e7c8943928f1fdafc",
+      "size": 62551,
+      "mtimeMs": 1785824656189
+    },
+    "raw/sources/文明之旅/MD/009.公元1006年 瓷都景德镇凭什么千年不衰？.md": {
+      "hash": "c79657e32934a68fe1fdaf3a68ab7834",
+      "size": 73442,
+      "mtimeMs": 1785824656695
+    },
+    "raw/sources/文明之旅/MD/010.公元1007年 辽朝皇帝为什么建五座京城？.md": {
+      "hash": "1e5e81a8293e3421b25e4a33e8d9eecf",
+      "size": 62247,
+      "mtimeMs": 1785824657204
+    },
+    "raw/sources/文明之旅/MD/011.公元1008年 天书封禅只是迷信闹剧吗？.md": {
+      "hash": "5538d2804456300bcfdbb08d6709bc72",
+      "size": 56725,
+      "mtimeMs": 1785824657725
+    },
+    "raw/sources/文明之旅/MD/012.公元1009年 大建道观为什么停不下来？.md": {
+      "hash": "303b5a273b67413360d011c0a311aee9",
+      "size": 51291,
+      "mtimeMs": 1785824658246
+    },
+    "raw/sources/文明之旅/MD/013.公元1010年 大辽为什么打不服高丽？.md": {
+      "hash": "c56ce87fe62c083cd5fbe6064cf79a27",
+      "size": 74052,
+      "mtimeMs": 1785824658742
+    },
+    "raw/sources/文明之旅/MD/014.公元1011年 古人为什么会乱花钱？.md": {
+      "hash": "a354741bff26be1028eb3bae3bc598c0",
+      "size": 66565,
+      "mtimeMs": 1785824659244
+    },
+    "raw/sources/文明之旅/MD/015.公元1012年 大宋为什么歧视南方人？.md": {
+      "hash": "80e9ee2b302936dfdef066d9f02586aa",
+      "size": 87739,
+      "mtimeMs": 1785824659728
+    },
+    "raw/sources/文明之旅/MD/016.公元1013年 明知宦官里有小人，为何非用不可？.md": {
+      "hash": "4b458b7a1987ad5d9ade2278a0d9aff4",
+      "size": 61228,
+      "mtimeMs": 1785824660182
+    },
+    "raw/sources/文明之旅/MD/017.公元1014年 杨家将传说到底有几分真？.md": {
+      "hash": "2f40b2191312d4efb1182be95f138941",
+      "size": 77926,
+      "mtimeMs": 1785824660739
+    },
+    "raw/sources/文明之旅/MD/018.公元1015年 5次罢相，寇准一生为何大起大落？.md": {
+      "hash": "122173bc61022069f04b07389c699cb2",
+      "size": 76123,
+      "mtimeMs": 1785824661243
+    },
+    "raw/sources/文明之旅/MD/019.公元1016年 宋朝宰相官名为什么这么怪？.md": {
+      "hash": "e3f7e3ec54479c1cc70f2ac9fd4ce822",
+      "size": 87013,
+      "mtimeMs": 1785824661632
+    },
+    "raw/sources/文明之旅/MD/020.公元1017年 如何拥有被讨厌的勇气？.md": {
+      "hash": "d8e38e13555e9cda6121f3d3a76be34c",
+      "size": 73744,
+      "mtimeMs": 1785824662152
+    },
+    "raw/sources/文明之旅/MD/021.公元1018年 科举到底是一种怎样的全民游戏？.md": {
+      "hash": "e86858c7f8f08323a28625d1e72acb57",
+      "size": 73069,
+      "mtimeMs": 1785824662603
+    },
+    "raw/sources/文明之旅/MD/022.公元1019年 文坛宗师是怎么掉队的？.md": {
+      "hash": "9c0d891cbc956d68b8b90660dda43ae0",
+      "size": 71984,
+      "mtimeMs": 1785824663121
+    },
+    "raw/sources/文明之旅/MD/023.公元1020年 寇准做对了什么关键选择？.md": {
+      "hash": "c9b0d9f8129ccd60ed004a56ed21ab24",
+      "size": 81040,
+      "mtimeMs": 1785824663503
+    },
+    "raw/sources/文明之旅/MD/024.公元1021年 “解决问题的高手”丁谓，为何背负骂名？.md": {
+      "hash": "3587d0a231be0efe10346496116c4871",
+      "size": 66575,
+      "mtimeMs": 1785824664029
+    },
+    "raw/sources/文明之旅/MD/025.公元1022年 宋真宗，品格比能力更可贵.md": {
+      "hash": "edc6a634ff0b5541471e45e4e08a43a8",
+      "size": 80536,
+      "mtimeMs": 1785824664538
+    },
+    "raw/sources/文明之旅/MD/026.公元1023年 独掌大权的刘太后为何没变成“武则天”？.md": {
+      "hash": "bf59ab5af9e17b8b76d4df97b798eb4e",
+      "size": 83376,
+      "mtimeMs": 1785824665029
+    },
+    "raw/sources/文明之旅/MD/027.公元1024年 交子1000年，纸币为何诞生在中国宋朝？.md": {
+      "hash": "f330e5e4650175e3c209c971ec3297cd",
+      "size": 73250,
+      "mtimeMs": 1785824665491
+    },
+    "raw/sources/文明之旅/MD/028.公元1025年 世家为什么不愿意跟皇家联姻？.md": {
+      "hash": "a0f98d1f1277484f7c6b9207f869a45f",
+      "size": 78149,
+      "mtimeMs": 1785824665950
+    },
+    "raw/sources/文明之旅/MD/029.公元1026年 茶叶如何成为大宋印钞机？.md": {
+      "hash": "846fe3371f795fba2dbfe5c136fe1508",
+      "size": 82939,
+      "mtimeMs": 1785824666442
+    },
+    "raw/sources/文明之旅/MD/030.公元1027年 游牧文明真的比农耕文明更落后吗？.md": {
+      "hash": "a41e2786065a22c38c5feaf301fd48e1",
+      "size": 78876,
+      "mtimeMs": 1785824666949
+    },
+    "raw/sources/文明之旅/MD/031.公元1028年 做隐士真的是躺平了吗？.md": {
+      "hash": "f26ef44e84661c80f6c9d13a83e89e8d",
+      "size": 78258,
+      "mtimeMs": 1785824667310
+    },
+    "raw/sources/文明之旅/MD/032.公元1029年 为什么不能做单维生存者？.md": {
+      "hash": "e9a8434aaba5758a0e3a5d3eb3223d9b",
+      "size": 78583,
+      "mtimeMs": 1785824668007
+    },
+    "raw/sources/文明之旅/MD/033.公元1030年 缺马的大宋如何对外作战？.md": {
+      "hash": "6afdc6b5a7676fe3e10e825b3142d3a6",
+      "size": 77041,
+      "mtimeMs": 1785824668607
+    },
+    "raw/sources/文明之旅/MD/034.公元1031年 和亲真的有用吗？.md": {
+      "hash": "9cfc7e3d35a9b8b82d5f17f942d738e5",
+      "size": 84974,
+      "mtimeMs": 1785824669203
+    },
+    "raw/sources/文明之旅/MD/035.公元1032年 为什么有那么多厉害的萧太后？.md": {
+      "hash": "4856a88f1457f0374ce59f0f3b106397",
+      "size": 76360,
+      "mtimeMs": 1785824669627
+    },
+    "raw/sources/文明之旅/MD/036.公元1033年 刘太后为什么不称帝？.md": {
+      "hash": "659c3ddb1ba6cfc442a54692f40dfa78",
+      "size": 71840,
+      "mtimeMs": 1785824670229
+    },
+    "raw/sources/文明之旅/MD/037.公元1034年 宋仁宗为什么一定要离婚？.md": {
+      "hash": "245f163dfaa02296637bcff023e6ee95",
+      "size": 66088,
+      "mtimeMs": 1785824670702
+    },
+    "raw/sources/文明之旅/MD/038.公元1035年 皇亲国戚为什么很难管？.md": {
+      "hash": "b0a8fcc21bf02d4987c81735fb30f377",
+      "size": 73853,
+      "mtimeMs": 1785824671143
+    },
+    "raw/sources/文明之旅/MD/039.公元1036年 敦煌伟大在哪里？.md": {
+      "hash": "0a508d585adaa8c5847e3614291df98c",
+      "size": 89132,
+      "mtimeMs": 1785824671678
+    },
+    "raw/sources/文明之旅/MD/040.公元1037年 范仲淹为什么会卷入党争？.md": {
+      "hash": "6079ae210614fdb1ddb0f7a97be8e497",
+      "size": 89081,
+      "mtimeMs": 1785824672242
+    },
+    "raw/sources/文明之旅/MD/041.公元1038年 西夏李元昊为什么非要称帝？.md": {
+      "hash": "83a468fa34e238de38dfb6f5ce6baaba",
+      "size": 94550,
+      "mtimeMs": 1785824672764
+    },
+    "raw/sources/文明之旅/MD/042.公元1039年 口音天南海北，大臣们怎么交流？.md": {
+      "hash": "2f35e12043d1d02febe4dc01802a42a6",
+      "size": 81521,
+      "mtimeMs": 1785824673257
+    },
+    "raw/sources/文明之旅/MD/043.公元1040年 宋夏战争为什么会打成拉锯战？.md": {
+      "hash": "5074f6b633d7dc2cdf525aad68f02ba6",
+      "size": 89392,
+      "mtimeMs": 1785824673735
+    },
+    "raw/sources/文明之旅/MD/044.公元1041年 活字印刷为什么起大早赶晚集？.md": {
+      "hash": "05446a916834eb8d69bb46dc8fd0086a",
+      "size": 88081,
+      "mtimeMs": 1785824674276
+    },
+    "raw/sources/文明之旅/MD/045.公元1042年 一个故事究竟有多少种讲法？.md": {
+      "hash": "24818241a3ff1308bdf25e07954817ff",
+      "size": 78134,
+      "mtimeMs": 1785824674789
+    },
+    "raw/sources/文明之旅/MD/046.公元1043年 庆历新政为何失败？.md": {
+      "hash": "b8879098b6ebdc1af2d0d05cf8a07a6e",
+      "size": 85158,
+      "mtimeMs": 1785824675268
+    },
+    "raw/sources/文明之旅/MD/047.公元1044年 《岳阳楼记》为什么不朽？.md": {
+      "hash": "aef13e9b65345e88e7b2341cded63203",
+      "size": 88848,
+      "mtimeMs": 1785824675847
+    },
+    "raw/sources/文明之旅/MD/048.公元1045年 为什么时间也是一种武器？.md": {
+      "hash": "c3d1097cf4aa7fda9923d09fa5dbf122",
+      "size": 91778,
+      "mtimeMs": 1785824676301
+    },
+    "raw/sources/文明之旅/MD/049.公元1046年 为什么宋朝越裁官越多？.md": {
+      "hash": "0be03601c4e9d31b1ad3b735dfd47f75",
+      "size": 82667,
+      "mtimeMs": 1785824676802
+    },
+    "raw/sources/文明之旅/MD/050.公元1047年 十一世纪的全球文明为何支离破碎？.md": {
+      "hash": "77ac1bd0f245aba956b0d329a04b0d26",
+      "size": 96853,
+      "mtimeMs": 1785824677319
+    },
+    "raw/sources/文明之旅/MD/051.公元1048年 黄河是祸还是福？.md": {
+      "hash": "704f91244cdb4373aadec33b91b43c80",
+      "size": 82448,
+      "mtimeMs": 1785824677853
+    },
+    "raw/sources/文明之旅/MD/052.公元1049年 范仲淹家族信托何以持续900年？.md": {
+      "hash": "30fd5cb968abe06d2197bd1a61dc14c0",
+      "size": 81983,
+      "mtimeMs": 1785824678358
+    },
+    "raw/sources/文明之旅/MD/053.公元1050年 国家祭祀怎么变样了？.md": {
+      "hash": "1117cd1a2968807803ce38a720b37f05",
+      "size": 88882,
+      "mtimeMs": 1785824678801
+    },
+    "raw/sources/文明之旅/MD/054.公元1051年 宋朝为什么会人口大爆炸？.md": {
+      "hash": "7dc006694ede1eebdd9027841001bc3e",
+      "size": 77824,
+      "mtimeMs": 1785824679300
+    },
+    "raw/sources/文明之旅/MD/055.公元1052年 边缘如何融入中国？.md": {
+      "hash": "2c90194f052b36525818f44b7dbb73ad",
+      "size": 80058,
+      "mtimeMs": 1785824679734
+    },
+    "raw/sources/文明之旅/MD/056.公元1053年 仁宗画像为什么不肯外传？.md": {
+      "hash": "c79b58d97c1b65ce927f2ccb54a0b51e",
+      "size": 90953,
+      "mtimeMs": 1785824680151
+    },
+    "raw/sources/文明之旅/MD/057.公元1054年 罗马教廷为何如此奇特？.md": {
+      "hash": "ab29266ebb6f69f3160e5d41b9c16bc6",
+      "size": 85580,
+      "mtimeMs": 1785824680595
+    },
+    "raw/sources/文明之旅/MD/058.公元1055年 欧阳修为什么要禁书？.md": {
+      "hash": "ef466942b3cde5246d8826af28cd571a",
+      "size": 84046,
+      "mtimeMs": 1785824680984
+    },
+    "raw/sources/文明之旅/MD/059.公元1056年 英雄狄青为何注定悲剧？.md": {
+      "hash": "2523cb4bfa1fcf808fe0914b6080ec66",
+      "size": 81887,
+      "mtimeMs": 1785824681530
+    },
+    "raw/sources/文明之旅/MD/060.公元1057年 千年龙虎榜到底有多厉害？.md": {
+      "hash": "683a13b0d1eba0cd952c0a7f4ae4230d",
+      "size": 72838,
+      "mtimeMs": 1785824681897
+    },
+    "raw/sources/文明之旅/MD/061.公元1058年 柳永词为什么时好时坏？.md": {
+      "hash": "ca4a7090259a9cda1f6049075a6080b1",
+      "size": 82606,
+      "mtimeMs": 1785824682385
+    },
+    "raw/sources/文明之旅/MD/062.公元1059年 宋朝人为什么这么爱杜甫？.md": {
+      "hash": "7a5a5f86462ba8f774c7e1afbfdfd269",
+      "size": 81688,
+      "mtimeMs": 1785824682830
+    },
+    "raw/sources/文明之旅/MD/063.公元1060年 写历史只是为了记录真相吗？.md": {
+      "hash": "b4999856bb1ed66a389a767280956bd7",
+      "size": 99581,
+      "mtimeMs": 1785824683336
+    },
+    "raw/sources/文明之旅/MD/064.公元1061年 为什么大宋的冗兵裁不掉？.md": {
+      "hash": "698e8a2b9d1416f504127bdc6e164846",
+      "size": 87203,
+      "mtimeMs": 1785824683823
+    },
+    "raw/sources/文明之旅/MD/065.公元1062年 包拯是怎么成为包青天的？.md": {
+      "hash": "5a9b4fee401644c3bc3e31f16068965f",
+      "size": 102517,
+      "mtimeMs": 1785824684519
+    },
+    "raw/sources/文明之旅/MD/066.公元1063年 宋仁宗是个没主见的仁君吗？.md": {
+      "hash": "933a5b178f2ac4528368b3ff54ca3281",
+      "size": 95077,
+      "mtimeMs": 1785824684997
+    },
+    "raw/sources/文明之旅/MD/067.公元1064年 人如何面对日常性疼痛？.md": {
+      "hash": "93695cb3044651c4126d19c82a195e5b",
+      "size": 73136,
+      "mtimeMs": 1785824685449
+    },
+    "raw/sources/文明之旅/MD/068.公元1065年 宋英宗为什么“不孝”？.md": {
+      "hash": "e0e9b50bde321b7b5d3ed7dd2faeddf2",
+      "size": 73171,
+      "mtimeMs": 1785824685927
+    },
+    "raw/sources/文明之旅/MD/069.公元1066年 说话的人和做事的人有何不同？.md": {
+      "hash": "d58c1462d4f6a246c2f2df4315bd3717",
+      "size": 77667,
+      "mtimeMs": 1785824686348
+    },
+    "raw/sources/文明之旅/MD/070.公元1067年 欧阳修为何不朽？.md": {
+      "hash": "4353337333a1197c672af1219765a126",
+      "size": 94598,
+      "mtimeMs": 1785824686828
+    },
+    "raw/sources/文明之旅/MD/071.公元1068年 阿云姑娘该不该死？.md": {
+      "hash": "c850a389aa4ca32ba3509c9d9efcefe3",
+      "size": 71001,
+      "mtimeMs": 1785824687306
+    },
+    "raw/sources/文明之旅/MD/072.公元1069年 王安石理财有可能成功吗？.md": {
+      "hash": "e1e33446dd5b41aa347f146d58102558",
+      "size": 87364,
+      "mtimeMs": 1785824687783
+    },
+    "raw/sources/文明之旅/MD/073.公元1070年 改革者该怎么面对反对者？.md": {
+      "hash": "a8a113e01ac42eae90611601191ce6c8",
+      "size": 96389,
+      "mtimeMs": 1785824688206
+    },
+    "raw/sources/文明之旅/MD/074.公元1071年 新法是怎么龙种变跳蚤的？.md": {
+      "hash": "08aea4c9ba29be4c6e0f5e37e8cf2c42",
+      "size": 67078,
+      "mtimeMs": 1785824688646
+    },
+    "raw/sources/文明之旅/MD/075.公元1072年 砍富人的刀怎么落在了穷人头上？.md": {
+      "hash": "14b65425ecb97b64f85bb2264c0ed883",
+      "size": 70552,
+      "mtimeMs": 1785824689049
+    },
+    "raw/sources/文明之旅/MD/076.公元1073年 你真的想穿越到宋朝吗？.md": {
+      "hash": "f33f663e203c17928271b963f27c5ed2",
+      "size": 59713,
+      "mtimeMs": 1785824689483
+    },
+    "raw/sources/文明之旅/MD/077.公元1074年 究竟是谁主导了王安石变法？.md": {
+      "hash": "4e195da7884e2b348cd528cf00dcf9f6",
+      "size": 64303,
+      "mtimeMs": 1785824689857
+    },
+    "raw/sources/文明之旅/MD/078.公元1075年 开疆拓土到底划算不划算？.md": {
+      "hash": "bc47ea2a0ffa9e3b5e667ba8aa0f0a51",
+      "size": 61298,
+      "mtimeMs": 1785824690273
+    },
+    "raw/sources/文明之旅/MD/079.公元1076年 哲人为什么当不了国王？.md": {
+      "hash": "dea51619a97567ddb8ddd0d72c812ef5",
+      "size": 57192,
+      "mtimeMs": 1785824690745
+    },
+    "raw/sources/文明之旅/MD/080.公元1077年 被系统孤立是一种怎样的悲剧？.md": {
+      "hash": "509f6ce47a22163d72d0ff481d93274b",
+      "size": 51623,
+      "mtimeMs": 1785824691210
+    },
+    "raw/sources/文明之旅/MD/081.公元1078年 一条运河为何成了文明杠杆？.md": {
+      "hash": "9072eda04f159634444fbeb3f30d8918",
+      "size": 54982,
+      "mtimeMs": 1785824691614
+    },
+    "raw/sources/文明之旅/MD/082.公元1079年 宽容的北宋为何容不下苏轼？.md": {
+      "hash": "b707e90aab3ad10d17e3a1d79ac7b500",
+      "size": 60161,
+      "mtimeMs": 1785824692036
+    },
+    "raw/sources/文明之旅/MD/083.公元1080年 头衔到底有什么意义？.md": {
+      "hash": "c7c00d60b726ca36a1332708dfd83ed7",
+      "size": 64640,
+      "mtimeMs": 1785824692474
+    },
+    "raw/sources/文明之旅/MD/084.公元1081年 绝对优势的战争为何失败？.md": {
+      "hash": "f59da35e0cbc053991ce1f1daee16649",
+      "size": 69426,
+      "mtimeMs": 1785824692897
+    },
+    "raw/sources/文明之旅/MD/085.公元1082年 苏轼怎样穿越至暗时刻？.md": {
+      "hash": "d3ba15d51253de93a79650ac6280a4c4",
+      "size": 70219,
+      "mtimeMs": 1785824693238
+    },
+    "raw/sources/文明之旅/MD/086.公元1083年 人怎么才能不走寻常路？.md": {
+      "hash": "de84d15a7c1607477c8f414811c11a05",
+      "size": 70653,
+      "mtimeMs": 1785824693648
+    },
+    "raw/sources/文明之旅/MD/087.公元1084年 帝王策怎么变成了国民书？.md": {
+      "hash": "047c3eb5c0acb64b557262588d1a0004",
+      "size": 68032,
+      "mtimeMs": 1785824694087
+    },
+    "raw/sources/文明之旅/MD/088.公元1085年 宋神宗的政治遗产是什么？.md": {
+      "hash": "9b2274592140d8b17ad7463d843062b5",
+      "size": 71869,
+      "mtimeMs": 1785824694477
+    },
+    "raw/sources/文明之旅/MD/089.公元1086年 苏轼是怎么阴阳王安石的？.md": {
+      "hash": "e7f24298b4bc021a71b2a5af85e7bdf0",
+      "size": 65746,
+      "mtimeMs": 1785824694942
+    },
+    "raw/sources/文明之旅/MD/090.公元1087年 一场政治和解有多难？.md": {
+      "hash": "867a7369940e4619049ebfe6cdbdf42a",
+      "size": 77967,
+      "mtimeMs": 1785824695433
+    },
+    "raw/sources/文明之旅/MD/091.公元1088年 传统是怎样被发明的？.md": {
+      "hash": "041ea0ecddcb337a0682323b00c536c5",
+      "size": 64248,
+      "mtimeMs": 1785824695858
+    },
+    "raw/sources/文明之旅/MD/092.公元1089年 苏轼为什么酷爱手工活？.md": {
+      "hash": "a6b9066d0e10e723c50cfddb411ea5db",
+      "size": 70148,
+      "mtimeMs": 1785824696208
+    },
+    "raw/sources/文明之旅/MD/093.公元1090年 老人家的价值是什么？.md": {
+      "hash": "dda556bfe465289dfcd776c741573b74",
+      "size": 68411,
+      "mtimeMs": 1785824696672
+    },
+    "raw/sources/文明之旅/MD/094.公元1091年 一本书怎么解决工程难题？.md": {
+      "hash": "4d2ae113b538f520e865ec1af7e6c381",
+      "size": 73599,
+      "mtimeMs": 1785824697040
+    },
+    "raw/sources/文明之旅/MD/095.公元1092年 君子是怎么落入派系之争的？.md": {
+      "hash": "17cccf91d70ac0b89cd456249144def5",
+      "size": 67247,
+      "mtimeMs": 1785824697486
+    },
+    "raw/sources/文明之旅/MD/096.公元1093年 奸臣是怎么诞生的？.md": {
+      "hash": "2498cda9026fe01c82accc15d000ac71",
+      "size": 70547,
+      "mtimeMs": 1785824697874
+    },
+    "raw/sources/文明之旅/MD/097.公元1094年 被操控的人生会有多少恨？.md": {
+      "hash": "07aa72b47799f77b7912229cb420e821",
+      "size": 71602,
+      "mtimeMs": 1785824698312
+    },
+    "raw/sources/文明之旅/MD/098.公元1095年 十字军东征藏了多少小算计？.md": {
+      "hash": "11c20d890655b5ad2c8e0c9e28eb4e18",
+      "size": 92630,
+      "mtimeMs": 1785824698884
+    },
+    "raw/sources/文明之旅/MD/100.公元1096年 怎样实现个体的繁荣？.md": {
+      "hash": "8f9bd882f397fa437eff00b4aaa8ed54",
+      "size": 66498,
+      "mtimeMs": 1785824699282
+    },
+    "raw/sources/文明之旅/MD/101.公元1097年 章惇为什么要迫害苏轼？.md": {
+      "hash": "08dd296c50540524c9197ac3c7fb3568",
+      "size": 73646,
+      "mtimeMs": 1785824699723
+    },
+    "raw/sources/文明之旅/MD/102.公元1098年 假玉玺怎么有真魔力？.md": {
+      "hash": "b1071542db116c3ba66f0e9b99b3a635",
+      "size": 74107,
+      "mtimeMs": 1785824700118
+    },
+    "raw/sources/文明之旅/MD/103.公元1099年 西夏为什么不怕经济制裁？.md": {
+      "hash": "b6e25186483ef83d36d2d61f6dd6ec94",
+      "size": 71846,
+      "mtimeMs": 1785824700595
+    },
+    "raw/sources/文明之旅/MD/104.公元1100年 章惇为什么没拦住宋徽宗？.md": {
+      "hash": "adfd991095f6db6fa4114b6d48287808",
+      "size": 65581,
+      "mtimeMs": 1785824700962
+    },
+    "raw/sources/文明之旅/MD/105.公元1101年 送别东坡先生.md": {
+      "hash": "b679eccff01f0e2eeb7669bd09d486d4",
+      "size": 73635,
+      "mtimeMs": 1785824701377
+    },
+    "raw/sources/文明之旅/MD/106.公元1102年 为什么中间道路很难走？.md": {
+      "hash": "7f59a9fb27014f150ac15f695153dc4d",
+      "size": 84366,
+      "mtimeMs": 1785824701801
+    },
+    "raw/sources/文明之旅/MD/107.公元1103年 奸臣蔡京为何大搞国家福利？.md": {
+      "hash": "150f1e42e843974633fb2d7036f8b0fd",
+      "size": 90168,
+      "mtimeMs": 1785824702214
+    },
+    "raw/sources/文明之旅/MD/1777392000.公元1104年 关羽是怎么变成关老爷的？.md": {
+      "hash": "aa7dd181f0d47f4161d5abebfd8cf402",
+      "size": 78299,
+      "mtimeMs": 1785824702671
+    },
+    "raw/sources/文明之旅/MD/1777996800.公元1105年 为什么黄庭坚能开宗立派？.md": {
+      "hash": "9662672257896d0f998f5246768fdc93",
+      "size": 93546,
+      "mtimeMs": 1785824703111
+    },
+    "raw/sources/文明之旅/MD/1778601600.公元1106年 怎样才能在时光中不朽？.md": {
+      "hash": "d0be9ede06de0b2d6d6752273c90be48",
+      "size": 80837,
+      "mtimeMs": 1785824703523
+    },
+    "raw/sources/文明之旅/MD/1779206400.公元1107年 北宋儒家是如何绝地反击的？.md": {
+      "hash": "fc69332fb5dd9e97a3b26f212ba99baa",
+      "size": 91899,
+      "mtimeMs": 1785824703873
+    },
+    "raw/sources/文明之旅/MD/1779811200.公元1108年 宋徽宗怎么敢纵容童贯？.md": {
+      "hash": "3e4dc2c6556542add70ee1df45551b38",
+      "size": 84216,
+      "mtimeMs": 1785824704243
+    },
+    "raw/sources/文明之旅/MD/1780416000.公元1109年 宋徽宗是怎么耍弄权术的？.md": {
+      "hash": "24ce3d644703d90e9849ac3f6444e7eb",
+      "size": 79524,
+      "mtimeMs": 1785824704596
+    },
+    "raw/sources/文明之旅/MD/1781020800.公元1110年 人类为什么热衷拉名单？.md": {
+      "hash": "5f72449f21f22000101bc296c2b32593",
+      "size": 80281,
+      "mtimeMs": 1785824705002
+    },
+    "raw/sources/文明之旅/MD/1781625600.公元1111年 唐宋为什么发生钱荒？.md": {
+      "hash": "6204d4900701b340a1da70dd961a14c8",
+      "size": 74307,
+      "mtimeMs": 1785824705404
+    },
+    "raw/sources/文明之旅/MD/1782230400.公元1112年 古文到底是一场什么“运动”？.md": {
+      "hash": "771aee6f65ce4d522441e8048a6f6155",
+      "size": 94593,
+      "mtimeMs": 1785824705773
+    },
+    "raw/sources/文明之旅/MD/1782835200.公元1113年 《千里江山图》藏着什么秘密？.md": {
+      "hash": "9a2b06d40a5dde433aabb82f3e9c4798",
+      "size": 87396,
+      "mtimeMs": 1785824706109
+    },
+    "raw/sources/文明之旅/MD/1783440000.公元1114年 为什么出不了第二个汴京？.md": {
+      "hash": "a3fbaa0df97adbc06d8007ab48e1497a",
+      "size": 89903,
+      "mtimeMs": 1785824706434
+    },
+    "raw/sources/文明之旅/MD/1784044800.公元1115年 金朝崛起为什么这么快？.md": {
+      "hash": "f090181b50f8ab996ad674fb138f2a1e",
+      "size": 86334,
+      "mtimeMs": 1785824706770
+    },
+    "raw/sources/文明之旅/MD/1784649600.公元1116年 大辽为什么迅速崩盘？.md": {
+      "hash": "4290848bf318ba482643739e71c3d94d",
+      "size": 84074,
+      "mtimeMs": 1785824707107
+    },
+    "raw/sources/文明之旅/MD/1785254400.公元1117年 宋徽宗为什么崇信道教？.md": {
+      "hash": "f241d8cb6afb0b2ca55130dad85f74c1",
+      "size": 90624,
+      "mtimeMs": 1785824707418
+    },
+    "raw/sources/文明之旅/MD/1785859200.公元1118年 宋徽宗“联金灭辽”有错吗？.md": {
+      "hash": "6734be05bf46c5629ec166c62d968d09",
+      "size": 59031,
+      "mtimeMs": 1785897423299
+    },
+    "schema.md": {
+      "hash": "ebe58e02cf8b8c912ca9dbbca2a2e18b",
+      "size": 3497,
+      "mtimeMs": 1785829653866
+    },
+    "wiki/characters/丁谓.md": {
+      "hash": "d160ed45ffbb53352642a1c5c2ae2419",
+      "size": 4495,
+      "mtimeMs": 1785836885691
+    },
+    "wiki/characters/乌尔班二世.md": {
+      "hash": "36a0e9a515ab076ba7c5833b87a40f5c",
+      "size": 1816,
+      "mtimeMs": 1785857505397
+    },
+    "wiki/characters/亨利四世-神圣罗马帝国.md": {
+      "hash": "89ff05c8487ddf61826d80994d6391d4",
+      "size": 936,
+      "mtimeMs": 1785852006335
+    },
+    "wiki/characters/伊丽莎白二世.md": {
+      "hash": "a5f2527cf06232006458e4bdf74b2f2d",
+      "size": 732,
+      "mtimeMs": 1785852915837
+    },
+    "wiki/characters/伊沛霞.md": {
+      "hash": "f1cb032332908394d76ec70d73aa6ca6",
+      "size": 677,
+      "mtimeMs": 1785862718559
+    },
+    "wiki/characters/伦勃朗.md": {
+      "hash": "8ed62b5e35efe5228c794c1f36a9d6b4",
+      "size": 826,
+      "mtimeMs": 1785847129500
+    },
+    "wiki/characters/何冠环.md": {
+      "hash": "3d6b6f8c86d8852fd3f05abf43ea3070",
+      "size": 701,
+      "mtimeMs": 1785862718568
+    },
+    "wiki/characters/余华清.md": {
+      "hash": "3655851b8f4f865d3352b446b282ef00",
+      "size": 517,
+      "mtimeMs": 1785862718574
+    },
+    "wiki/characters/全汉昇.md": {
+      "hash": "8981dc26c0180dfdd489286d83d45455",
+      "size": 742,
+      "mtimeMs": 1785852347943
+    },
+    "wiki/characters/冯道.md": {
+      "hash": "ec5d1a0a0a49bb935c827b0bc6dcd654",
+      "size": 1193,
+      "mtimeMs": 1785858585011
+    },
+    "wiki/characters/刘太后.md": {
+      "hash": "ab665e2327d323acac4e48ab33c26a86",
+      "size": 3359,
+      "mtimeMs": 1785840629248
+    },
+    "wiki/characters/刘烨.md": {
+      "hash": "60f8cc1c7b790bd30a8ed6b4d18e3f56",
+      "size": 1421,
+      "mtimeMs": 1785838349835
+    },
+    "wiki/characters/刘皇后.md": {
+      "hash": "03fcdee36dadd8d7397ffb803c07d2d9",
+      "size": 1457,
+      "mtimeMs": 1785836581319
+    },
+    "wiki/characters/刘综.md": {
+      "hash": "fabd2b96d5430aa7b10d6afd71159acb",
+      "size": 998,
+      "mtimeMs": 1785838349841
+    },
+    "wiki/characters/包伟民.md": {
+      "hash": "7e65e18b4e79352c5529bffb88123f9a",
+      "size": 647,
+      "mtimeMs": 1785848397676
+    },
+    "wiki/characters/包刚升.md": {
+      "hash": "f23c895fa8659bfae8886d26dc8e54fc",
+      "size": 894,
+      "mtimeMs": 1785863415028
+    },
+    "wiki/characters/包拯.md": {
+      "hash": "8af767f552fdfd06c07bfa7afe005431",
+      "size": 930,
+      "mtimeMs": 1785852827265
+    },
+    "wiki/characters/博尔赫斯.md": {
+      "hash": "703b62af3dd152b3947b410a2fde14d7",
+      "size": 1069,
+      "mtimeMs": 1785858994765
+    },
+    "wiki/characters/卡尔萨根.md": {
+      "hash": "7aa8fa44ba4020ea1fa645a5aad56423",
+      "size": 673,
+      "mtimeMs": 1785851554974
+    },
+    "wiki/characters/史蒂芬-平克.md": {
+      "hash": "a6d4dbfcae2d213d769cac05c7b261bb",
+      "size": 1048,
+      "mtimeMs": 1785858994746
+    },
+    "wiki/characters/司马光.md": {
+      "hash": "30e1998308e0fe90d5b5f5ee57c0e831",
+      "size": 2770,
+      "mtimeMs": 1785859605812
+    },
+    "wiki/characters/司马迁.md": {
+      "hash": "7ea42a9e0018af72b705b3411fe9b82f",
+      "size": 660,
+      "mtimeMs": 1785851554958
+    },
+    "wiki/characters/向太后.md": {
+      "hash": "398bbb0def89871369c1baa7d0f0d6df",
+      "size": 1450,
+      "mtimeMs": 1785854925787
+    },
+    "wiki/characters/吕公著.md": {
+      "hash": "ca63901964cd6b171d1f9175a2815e05",
+      "size": 1262,
+      "mtimeMs": 1785848751069
+    },
+    "wiki/characters/吕夷简.md": {
+      "hash": "fac11039188702fa293daf8fc4b977b6",
+      "size": 2115,
+      "mtimeMs": 1785840629242
+    },
+    "wiki/characters/吕惠卿.md": {
+      "hash": "664eb4ac8097154915990464a77ab2a0",
+      "size": 857,
+      "mtimeMs": 1785851554943
+    },
+    "wiki/characters/吕本中.md": {
+      "hash": "721289173cd5390d4d2600a1eb079801",
+      "size": 798,
+      "mtimeMs": 1785861363518
+    },
+    "wiki/characters/周怀政.md": {
+      "hash": "a482e400db8ea636600960e143d340d3",
+      "size": 1666,
+      "mtimeMs": 1785836581336
+    },
+    "wiki/characters/周怀政与皇甫继明.md": {
+      "hash": "7b1fa6cd6ab1d98fd1e57a5844dfc8a3",
+      "size": 848,
+      "mtimeMs": 1785833317230
+    },
+    "wiki/characters/周敦颐.md": {
+      "hash": "14ede65fd7dcb20ad283e398ad4a2fa0",
+      "size": 1563,
+      "mtimeMs": 1785862282767
+    },
+    "wiki/characters/唃厮啰.md": {
+      "hash": "e0853afd43854f2ceb2307384130763f",
+      "size": 715,
+      "mtimeMs": 1785851554948
+    },
+    "wiki/characters/唐介.md": {
+      "hash": "7a1a4d5ad8131cf1e7a9ea3cf4c1498d",
+      "size": 849,
+      "mtimeMs": 1785849579536
+    },
+    "wiki/characters/唐圭璋.md": {
+      "hash": "f083cf7c04b748c692858d2de9681abf",
+      "size": 693,
+      "mtimeMs": 1785847129469
+    },
+    "wiki/characters/商鞅.md": {
+      "hash": "b5be7ca41d67d2f09b96ed27739cb56d",
+      "size": 1331,
+      "mtimeMs": 1785850092355
+    },
+    "wiki/characters/大卫-休谟.md": {
+      "hash": "af22b5e3064a7d775a3616c82fdc8885",
+      "size": 1133,
+      "mtimeMs": 1785858994759
+    },
+    "wiki/characters/天祚帝.md": {
+      "hash": "acd2bcd88671e1c32d20c408edd84f91",
+      "size": 1752,
+      "mtimeMs": 1785865309428
+    },
+    "wiki/characters/孙奭.md": {
+      "hash": "ca5d62f7e562a05f060b7715c8c64400",
+      "size": 1181,
+      "mtimeMs": 1785833522919
+    },
+    "wiki/characters/宇文泰.md": {
+      "hash": "5caa1438a4e40408eab2630d48ca8190",
+      "size": 1465,
+      "mtimeMs": 1785850092361
+    },
+    "wiki/characters/安东尼-唐斯.md": {
+      "hash": "9d501f20005c20628b6a682f5b77be2c",
+      "size": 693,
+      "mtimeMs": 1785852915832
+    },
+    "wiki/characters/宋仁宗.md": {
+      "hash": "741b23e2c1a0f970698078f6930bb0b0",
+      "size": 2649,
+      "mtimeMs": 1785840703587
+    },
+    "wiki/characters/宋哲宗.md": {
+      "hash": "274aa00cac8c551fe1997750baa4859e",
+      "size": 1567,
+      "mtimeMs": 1785856763789
+    },
+    "wiki/characters/宋太宗.md": {
+      "hash": "79fccaed3708c2d00393be938da75d0f",
+      "size": 2112,
+      "mtimeMs": 1785835400400
+    },
+    "wiki/characters/宋徽宗-赵佶.md": {
+      "hash": "81c84577644a8b191c9354686a53cdac",
+      "size": 2033,
+      "mtimeMs": 1785859889008
+    },
+    "wiki/characters/宋祁.md": {
+      "hash": "a0f01b36f4c91b97b0ce3655044083c3",
+      "size": 2143,
+      "mtimeMs": 1785847576290
+    },
+    "wiki/characters/宋神宗.md": {
+      "hash": "ba9e11936dd1e5a233e3d6a75c44df05",
+      "size": 1895,
+      "mtimeMs": 1785849836827
+    },
+    "wiki/characters/宋英宗赵曙.md": {
+      "hash": "af78465b31947ae2ddb43bb12081b6ef",
+      "size": 934,
+      "mtimeMs": 1785848751100
+    },
+    "wiki/characters/完颜阿骨打.md": {
+      "hash": "47ee7effafa5522b07f0de3702d83370",
+      "size": 1757,
+      "mtimeMs": 1785864993935
+    },
+    "wiki/characters/宫崎市定.md": {
+      "hash": "7965134fb7cb2c6632c95d7242d3e2cb",
+      "size": 1340,
+      "mtimeMs": 1785831572264
+    },
+    "wiki/characters/寇准.md": {
+      "hash": "0b6e926e76713f8297346429323de924",
+      "size": 4893,
+      "mtimeMs": 1785835400394
+    },
+    "wiki/characters/小梁太后.md": {
+      "hash": "3083c282ad52d7496c96024bbab48bc6",
+      "size": 627,
+      "mtimeMs": 1785859510248
+    },
+    "wiki/characters/尤瓦尔-赫拉利.md": {
+      "hash": "a9ecf5663f5ddd8587971e550c61274b",
+      "size": 1248,
+      "mtimeMs": 1785858994752
+    },
+    "wiki/characters/左娅.md": {
+      "hash": "b7b6f10f14eb7fa7b576e6aa2d92d0ca",
+      "size": 817,
+      "mtimeMs": 1785857856805
+    },
+    "wiki/characters/巫鸿.md": {
+      "hash": "eb5607b656fbc7bb62639e819c70e22a",
+      "size": 1332,
+      "mtimeMs": 1785864540474
+    },
+    "wiki/characters/布罗代尔.md": {
+      "hash": "6da5d913721c3d155c7d5529feafc276",
+      "size": 1072,
+      "mtimeMs": 1785852347932
+    },
+    "wiki/characters/库兰.md": {
+      "hash": "a4c9c4b887858d465d81611eac084a12",
+      "size": 916,
+      "mtimeMs": 1785833317241
+    },
+    "wiki/characters/庞籍.md": {
+      "hash": "1767a47735e957b7cb95aecdf40f0476",
+      "size": 959,
+      "mtimeMs": 1785848751097
+    },
+    "wiki/characters/弗兰克-赫伯特.md": {
+      "hash": "efc919b323606beadf5f83b3f0b1e0ff",
+      "size": 608,
+      "mtimeMs": 1785850827358
+    },
+    "wiki/characters/张择端.md": {
+      "hash": "f1650fad58240b81215d3c3e3cb38893",
+      "size": 1023,
+      "mtimeMs": 1785852347925
+    },
+    "wiki/characters/张方平.md": {
+      "hash": "a0516f42c1bbb22370ce4fae3cec7b8e",
+      "size": 1150,
+      "mtimeMs": 1785850092378
+    },
+    "wiki/characters/张载.md": {
+      "hash": "0fc0426cd50c1a2b73776089e0f8c5f2",
+      "size": 2921,
+      "mtimeMs": 1785862282761
+    },
+    "wiki/characters/张骞.md": {
+      "hash": "c85fde444a711b058f96deabbb5f433f",
+      "size": 1556,
+      "mtimeMs": 1785851554938
+    },
+    "wiki/characters/托尔斯泰.md": {
+      "hash": "65512d49e2baa77998ee5ef170d22ea5",
+      "size": 703,
+      "mtimeMs": 1785852006355
+    },
+    "wiki/characters/托马斯-谢林.md": {
+      "hash": "04a5397dd1063fc2b30b9a7e411b22ff",
+      "size": 1553,
+      "mtimeMs": 1785859934048
+    },
+    "wiki/characters/文同.md": {
+      "hash": "0ad63e1849933cf772d2f996ba8d693c",
+      "size": 708,
+      "mtimeMs": 1785851554963
+    },
+    "wiki/characters/文彦博.md": {
+      "hash": "66cd9a6cb25b3e4ce11729340f7c13e7",
+      "size": 751,
+      "mtimeMs": 1785851554984
+    },
+    "wiki/characters/斯蒂芬-茨威格.md": {
+      "hash": "0623151f01ff8038b6e568800c6af839",
+      "size": 1144,
+      "mtimeMs": 1785848751085
+    },
+    "wiki/characters/方震华.md": {
+      "hash": "ae726c22f3148b3bde2449f9abd979c7",
+      "size": 942,
+      "mtimeMs": 1785847894327
+    },
+    "wiki/characters/施剑翘.md": {
+      "hash": "dd8e70986d122411c3dd3b8f68ad46fc",
+      "size": 899,
+      "mtimeMs": 1785849579559
+    },
+    "wiki/characters/施展.md": {
+      "hash": "daf599c19cf8aa67b4c7c135c7a0ae3d",
+      "size": 707,
+      "mtimeMs": 1785858585023
+    },
+    "wiki/characters/曹佾.md": {
+      "hash": "867740a3daa86b33960b8da38e4a46d1",
+      "size": 729,
+      "mtimeMs": 1785850686211
+    },
+    "wiki/characters/曹利用.md": {
+      "hash": "df4892dea9d45ad0e22f8e6b54fe4641",
+      "size": 1220,
+      "mtimeMs": 1785832343258
+    },
+    "wiki/characters/曹皇后.md": {
+      "hash": "ffd15b659828bcf597a9f9f09a87829b",
+      "size": 1237,
+      "mtimeMs": 1785848360155
+    },
+    "wiki/characters/曼瑟尔-奥尔森.md": {
+      "hash": "4c40bb400b6437610f978a189cb4f4f6",
+      "size": 1430,
+      "mtimeMs": 1785857505392
+    },
+    "wiki/characters/曾巩.md": {
+      "hash": "ea28072c5120afa15d299b1edb12c4c5",
+      "size": 1795,
+      "mtimeMs": 1785864104360
+    },
+    "wiki/characters/曾布.md": {
+      "hash": "9535f00c6dfd17c134527c9a67c1095a",
+      "size": 3211,
+      "mtimeMs": 1785859934041
+    },
+    "wiki/characters/朱义群.md": {
+      "hash": "2c750b1b0c57a37f4db055467f69a7ff",
+      "size": 1255,
+      "mtimeMs": 1785863415034
+    },
+    "wiki/characters/朱熹.md": {
+      "hash": "b602a3f5aa79a6da161aee289be1c77d",
+      "size": 886,
+      "mtimeMs": 1785848360161
+    },
+    "wiki/characters/李乾顺夏崇宗.md": {
+      "hash": "c673e92e7ebf83a27d3ec1324306c1c1",
+      "size": 508,
+      "mtimeMs": 1785859510255
+    },
+    "wiki/characters/李元昊.md": {
+      "hash": "c06516d47a1d50aac5d2d2445f2ff249",
+      "size": 634,
+      "mtimeMs": 1785859605821
+    },
+    "wiki/characters/李全德.md": {
+      "hash": "db8b143bfba53b2b4c80db716915a55a",
+      "size": 1388,
+      "mtimeMs": 1785855140033
+    },
+    "wiki/characters/李华瑞.md": {
+      "hash": "c0988e1a3a0fb1a0dd7be4cc63e18a9a",
+      "size": 529,
+      "mtimeMs": 1785859605847
+    },
+    "wiki/characters/李宗仁.md": {
+      "hash": "6c6da09c2fe0771b78d3aa5c33098005",
+      "size": 962,
+      "mtimeMs": 1785858585018
+    },
+    "wiki/characters/李定.md": {
+      "hash": "6d993dc7ef6e07a81edb5431a3f87962",
+      "size": 1306,
+      "mtimeMs": 1785850092372
+    },
+    "wiki/characters/李宪.md": {
+      "hash": "f3a3fe941756c1f4d23e765ffaf3e6fa",
+      "size": 720,
+      "mtimeMs": 1785862718543
+    },
+    "wiki/characters/李宸妃.md": {
+      "hash": "0b0e31cd162640d5bd7feb17c6ab83b4",
+      "size": 1369,
+      "mtimeMs": 1785840703599
+    },
+    "wiki/characters/李林甫.md": {
+      "hash": "8252a45698c3caec429698ca293fcd49",
+      "size": 1514,
+      "mtimeMs": 1785857026362
+    },
+    "wiki/characters/李沆.md": {
+      "hash": "0b226d386ce9c746ec36846be9335d92",
+      "size": 2155,
+      "mtimeMs": 1785831790832
+    },
+    "wiki/characters/李煜.md": {
+      "hash": "3b795f737f76c79388750b6c10f81d45",
+      "size": 1783,
+      "mtimeMs": 1785834334693
+    },
+    "wiki/characters/李神祐.md": {
+      "hash": "6284107a306474a20f0758ea7d2517fb",
+      "size": 2215,
+      "mtimeMs": 1785834684459
+    },
+    "wiki/characters/李诫.md": {
+      "hash": "cb612139dfd45dfa94a34e07d3005e43",
+      "size": 1587,
+      "mtimeMs": 1785856422424
+    },
+    "wiki/characters/杜甫.md": {
+      "hash": "aa9ec4df666c16d7e3485a175942b280",
+      "size": 2969,
+      "mtimeMs": 1785847395166
+    },
+    "wiki/characters/杜镐.md": {
+      "hash": "89f4b90186e202fc44fb24f9efa6bea7",
+      "size": 853,
+      "mtimeMs": 1785833317224
+    },
+    "wiki/characters/杨亿.md": {
+      "hash": "b35b81e06c46f4720911a73db51c3811",
+      "size": 1798,
+      "mtimeMs": 1785836323083
+    },
+    "wiki/characters/杨国忠.md": {
+      "hash": "c475192e55a0f4b9724559f331289184",
+      "size": 739,
+      "mtimeMs": 1785852915812
+    },
+    "wiki/characters/杨慎.md": {
+      "hash": "fd48b5cbc452168c4d350252ae59ca9e",
+      "size": 781,
+      "mtimeMs": 1785847129488
+    },
+    "wiki/characters/林灵素.md": {
+      "hash": "a9545960b121dbd3a3b6a6aca39fed5c",
+      "size": 1477,
+      "mtimeMs": 1785865514341
+    },
+    "wiki/characters/柯林武德.md": {
+      "hash": "68bf18e9b38dc450d1166fd2cbc65613",
+      "size": 1211,
+      "mtimeMs": 1785847576306
+    },
+    "wiki/characters/柳宗元.md": {
+      "hash": "afadfb70bb98012b2ff11ae2e9aafb86",
+      "size": 1027,
+      "mtimeMs": 1785864073033
+    },
+    "wiki/characters/柳永.md": {
+      "hash": "11dd48621c306032d5cb7f06cfae98ae",
+      "size": 4359,
+      "mtimeMs": 1785847129457
+    },
+    "wiki/characters/柳涗.md": {
+      "hash": "70b6d054e9de299a35d3b0e5b18448a0",
+      "size": 652,
+      "mtimeMs": 1785847129482
+    },
+    "wiki/characters/梁思成.md": {
+      "hash": "e474ae636ddfc7511dce4a6801c6f383",
+      "size": 1700,
+      "mtimeMs": 1785856422452
+    },
+    "wiki/characters/梁清标.md": {
+      "hash": "4e8e57a6912282617bce743b33059a75",
+      "size": 2223,
+      "mtimeMs": 1785864476035
+    },
+    "wiki/characters/梅因.md": {
+      "hash": "bfe854aa0667fec0b88f533d1c217386",
+      "size": 750,
+      "mtimeMs": 1785852915826
+    },
+    "wiki/characters/欧阳修.md": {
+      "hash": "0894cc7b62d1bd808471e94e69c9cc6c",
+      "size": 3288,
+      "mtimeMs": 1785849319497
+    },
+    "wiki/characters/武则天.md": {
+      "hash": "36b75433ad0befc631af5aab82eb8a7d",
+      "size": 3285,
+      "mtimeMs": 1785852915804
+    },
+    "wiki/characters/汉娜-阿伦特.md": {
+      "hash": "8345c9297188f38ee24864b11a08802d",
+      "size": 1122,
+      "mtimeMs": 1785855822399
+    },
+    "wiki/characters/汉武帝.md": {
+      "hash": "170d2927c5f79473a0861b5575481977",
+      "size": 963,
+      "mtimeMs": 1785850686204
+    },
+    "wiki/characters/沈括.md": {
+      "hash": "affebbedc540621054af0ace61bb4107",
+      "size": 3693,
+      "mtimeMs": 1785857805992
+    },
+    "wiki/characters/波特-斯图尔特.md": {
+      "hash": "945431e98ec8d822f5630b1ec70ea2de",
+      "size": 913,
+      "mtimeMs": 1785849579570
+    },
+    "wiki/characters/溥光.md": {
+      "hash": "3144f26965f4d37399f000a83bbe768b",
+      "size": 1132,
+      "mtimeMs": 1785864476042
+    },
+    "wiki/characters/王兴.md": {
+      "hash": "48fc0d385ec054ba63359255d306ea2b",
+      "size": 1244,
+      "mtimeMs": 1785855870719
+    },
+    "wiki/characters/王化雨.md": {
+      "hash": "c9a2484a0c8954ad33a7397a338c023f",
+      "size": 1210,
+      "mtimeMs": 1785863025732
+    },
+    "wiki/characters/王厚.md": {
+      "hash": "6a0173d3fa8adbcd85f26675d7201cff",
+      "size": 645,
+      "mtimeMs": 1785862718535
+    },
+    "wiki/characters/王夫之.md": {
+      "hash": "599eae7c3fb7094461f679e34c07ddd6",
+      "size": 3465,
+      "mtimeMs": 1785898512449
+    },
+    "wiki/characters/王安石.md": {
+      "hash": "bf2b06ba91e8434521b00f58d6f29c34",
+      "size": 1900,
+      "mtimeMs": 1785849816111
+    },
+    "wiki/characters/王安礼.md": {
+      "hash": "5cc84229f7567a7eaae6518004581bdc",
+      "size": 677,
+      "mtimeMs": 1785847129476
+    },
+    "wiki/characters/王希孟.md": {
+      "hash": "487ebc8a71a306da2e92f54561ce09df",
+      "size": 2307,
+      "mtimeMs": 1785864476030
+    },
+    "wiki/characters/王旦.md": {
+      "hash": "98905b37befc2927c5f24f9734c00191",
+      "size": 5986,
+      "mtimeMs": 1785835874427
+    },
+    "wiki/characters/王曾.md": {
+      "hash": "cc1c51bf43fb287c5ef99b7d189d959e",
+      "size": 1379,
+      "mtimeMs": 1785831572251
+    },
+    "wiki/characters/王汎森.md": {
+      "hash": "8d10f9e6cba0801ed3d0fde4629d49f1",
+      "size": 988,
+      "mtimeMs": 1785847576297
+    },
+    "wiki/characters/王洙.md": {
+      "hash": "aa22f021752d9af47a87f36c96e46fc1",
+      "size": 798,
+      "mtimeMs": 1785847395179
+    },
+    "wiki/characters/王珪.md": {
+      "hash": "ded7fa4808d0f105c0aea5aa6c16d4ab",
+      "size": 970,
+      "mtimeMs": 1785852347920
+    },
+    "wiki/characters/王琪.md": {
+      "hash": "558b0d24a351dbc24f7a9bd37571345b",
+      "size": 966,
+      "mtimeMs": 1785847395172
+    },
+    "wiki/characters/王祜.md": {
+      "hash": "a5aaa73b015a615936f405b5d8147747",
+      "size": 1206,
+      "mtimeMs": 1785835874465
+    },
+    "wiki/characters/王钦若.md": {
+      "hash": "b3058ca60a5e322c7cf6f71dde9d361c",
+      "size": 1315,
+      "mtimeMs": 1785833317212
+    },
+    "wiki/characters/王韶.md": {
+      "hash": "5e4b0434b255ae7f7d14b9056c2c3e17",
+      "size": 1645,
+      "mtimeMs": 1785851554932
+    },
+    "wiki/characters/种世衡.md": {
+      "hash": "9f3bda8ed4b15c75aed209ef1c3a93f8",
+      "size": 1957,
+      "mtimeMs": 1785854295231
+    },
+    "wiki/characters/种师道.md": {
+      "hash": "8d62a30b76b9d7c06e28c09325eb1b79",
+      "size": 2580,
+      "mtimeMs": 1785862718524
+    },
+    "wiki/characters/种放.md": {
+      "hash": "4dacca92b77caea427b1e53253477eb6",
+      "size": 1288,
+      "mtimeMs": 1785854295238
+    },
+    "wiki/characters/秦晖.md": {
+      "hash": "3b5b2658da44baf935078e6dffce2de3",
+      "size": 1073,
+      "mtimeMs": 1785850827345
+    },
+    "wiki/characters/秦观.md": {
+      "hash": "297d35f5d5b27e3f25b7a44fa8802d59",
+      "size": 1183,
+      "mtimeMs": 1785860191427
+    },
+    "wiki/characters/程颐.md": {
+      "hash": "51bf1390b00d55c89a332e719895c5e5",
+      "size": 5261,
+      "mtimeMs": 1785862224910
+    },
+    "wiki/characters/程颢.md": {
+      "hash": "936d3aa2f6b43b6cdde460c4d7c7ca26",
+      "size": 2926,
+      "mtimeMs": 1785862328363
+    },
+    "wiki/characters/章惇.md": {
+      "hash": "08c76396a9ece9311bb9ec501222dfbd",
+      "size": 1648,
+      "mtimeMs": 1785855405712
+    },
+    "wiki/characters/章楶.md": {
+      "hash": "65218e440dbb4c8eb65345c7861c7efa",
+      "size": 715,
+      "mtimeMs": 1785859510262
+    },
+    "wiki/characters/童贯.md": {
+      "hash": "b400b46fe560389d224f3eb8728909c5",
+      "size": 2525,
+      "mtimeMs": 1785862649210
+    },
+    "wiki/characters/简王-赵似.md": {
+      "hash": "1cb746e0c9f4ea1e747c09986a730aa3",
+      "size": 1062,
+      "mtimeMs": 1785859934059
+    },
+    "wiki/characters/管仲.md": {
+      "hash": "12625eac9653f6bbb9af29b00e4010c5",
+      "size": 605,
+      "mtimeMs": 1785859605832
+    },
+    "wiki/characters/约翰-罗伯茨.md": {
+      "hash": "b2d11f999b56b84e80b26a9416a0e965",
+      "size": 893,
+      "mtimeMs": 1785849579554
+    },
+    "wiki/characters/罗伯特佩普robert-pape.md": {
+      "hash": "de70a964a6d5761638a2f79a0bcba92b",
+      "size": 591,
+      "mtimeMs": 1785859605841
+    },
+    "wiki/characters/耶律阿保机.md": {
+      "hash": "83d6594015464ad52a39a6f88e1d7ca9",
+      "size": 1833,
+      "mtimeMs": 1785839011494
+    },
+    "wiki/characters/艾伦-图灵.md": {
+      "hash": "cff7beac00c31d42aff70305ae176a72",
+      "size": 1269,
+      "mtimeMs": 1785863415071
+    },
+    "wiki/characters/苏轼.md": {
+      "hash": "d509ffdcb4eb564700b8d5587a7b0424",
+      "size": 3758,
+      "mtimeMs": 1785864149336
+    },
+    "wiki/characters/苏辙.md": {
+      "hash": "fa07a305901a30961629caeae55cdbe4",
+      "size": 3215,
+      "mtimeMs": 1785864073020
+    },
+    "wiki/characters/范仲淹.md": {
+      "hash": "f0b2bdf4dfd98678792eb494236c09d6",
+      "size": 3861,
+      "mtimeMs": 1785841010404
+    },
+    "wiki/characters/范纯仁.md": {
+      "hash": "6e5d89630aedd262186cdf6a3a01c404",
+      "size": 1452,
+      "mtimeMs": 1785855405724
+    },
+    "wiki/characters/范镇.md": {
+      "hash": "bbd195f9d63dd66361e060f9abcfbc62",
+      "size": 1038,
+      "mtimeMs": 1785846541720
+    },
+    "wiki/characters/莫砺锋.md": {
+      "hash": "64dd06c8aba931e0c532eb980a754d2e",
+      "size": 743,
+      "mtimeMs": 1785861363532
+    },
+    "wiki/characters/萧太后.md": {
+      "hash": "73c0ca614fa106f4c1036314ae046935",
+      "size": 1255,
+      "mtimeMs": 1785832343265
+    },
+    "wiki/characters/萧绰.md": {
+      "hash": "e4664677a165f0264bf7c36995dd2c4a",
+      "size": 2417,
+      "mtimeMs": 1785840404038
+    },
+    "wiki/characters/蔡京.md": {
+      "hash": "98f0fc19a592602aff092ea1480b6a64",
+      "size": 4321,
+      "mtimeMs": 1785863415022
+    },
+    "wiki/characters/蔡卞.md": {
+      "hash": "509f1f951a33d84dd214b20045a1f478",
+      "size": 761,
+      "mtimeMs": 1785861363512
+    },
+    "wiki/characters/蔡确.md": {
+      "hash": "0acee01a5c68e194ebe866b5f2e5e2a5",
+      "size": 2087,
+      "mtimeMs": 1785854925770
+    },
+    "wiki/characters/薛兆丰.md": {
+      "hash": "165b4ccf9dada811f79f6b4efa18b645",
+      "size": 513,
+      "mtimeMs": 1785859605853
+    },
+    "wiki/characters/薛瑞生.md": {
+      "hash": "78bc251c541aa524fb0c9ee0a2f0981e",
+      "size": 760,
+      "mtimeMs": 1785847129463
+    },
+    "wiki/characters/詹姆斯-c-斯科特.md": {
+      "hash": "7868c3087d1f5660aa57baefc3492eeb",
+      "size": 1257,
+      "mtimeMs": 1785863415044
+    },
+    "wiki/characters/许遵.md": {
+      "hash": "5a1acf93c21b2669bcb0fd60c472d2d3",
+      "size": 994,
+      "mtimeMs": 1785849579525
+    },
+    "wiki/characters/贝当.md": {
+      "hash": "b7bf01c3a583564759e7598cca5c8bcd",
+      "size": 982,
+      "mtimeMs": 1785849579564
+    },
+    "wiki/characters/费孝通.md": {
+      "hash": "ad8333fe5724d240c2984f4930ce1029",
+      "size": 767,
+      "mtimeMs": 1785850827364
+    },
+    "wiki/characters/贾雷德-戴蒙德.md": {
+      "hash": "69323aaacdd19fd74a0b0373c48d4f71",
+      "size": 992,
+      "mtimeMs": 1785852347938
+    },
+    "wiki/characters/赵冬梅.md": {
+      "hash": "b110fc6ff2d0de9aba8bd0803f9b4980",
+      "size": 717,
+      "mtimeMs": 1785849579547
+    },
+    "wiki/characters/赵汀阳.md": {
+      "hash": "a4985b3f51385dee233f959c06c9ec61",
+      "size": 1274,
+      "mtimeMs": 1785863415039
+    },
+    "wiki/characters/赵良嗣.md": {
+      "hash": "611af5387745c5c2019683c2fe08d449",
+      "size": 874,
+      "mtimeMs": 1785898483190
+    },
+    "wiki/characters/赵颢.md": {
+      "hash": "9e0d0f97b26a6c0eebe33ea2a6eb4e95",
+      "size": 1325,
+      "mtimeMs": 1785854925787
+    },
+    "wiki/characters/辽圣宗·耶律隆绪.md": {
+      "hash": "7b595f676f805fd84723744c9dbcd3c0",
+      "size": 810,
+      "mtimeMs": 1785832343271
+    },
+    "wiki/characters/述律平.md": {
+      "hash": "5894de7f0765e314b0cd137e6f74c299",
+      "size": 2048,
+      "mtimeMs": 1785840404032
+    },
+    "wiki/characters/邵公.md": {
+      "hash": "bf9c9fc3b45bc4d491a78071302b2d4f",
+      "size": 871,
+      "mtimeMs": 1785862718553
+    },
+    "wiki/characters/邵雍.md": {
+      "hash": "60e6a542fe1340d844e7039e43cc1fc8",
+      "size": 1872,
+      "mtimeMs": 1785862282783
+    },
+    "wiki/characters/邹智.md": {
+      "hash": "7c0c9c4f587a201735a2e677d128cd50",
+      "size": 733,
+      "mtimeMs": 1785848397669
+    },
+    "wiki/characters/郭建龙.md": {
+      "hash": "45c296d23b976099fc5a56a8bcb354d9",
+      "size": 592,
+      "mtimeMs": 1785898483197
+    },
+    "wiki/characters/郭皇后.md": {
+      "hash": "11f29c5d867e19e230dbad9c0494a74f",
+      "size": 2509,
+      "mtimeMs": 1785840888483
+    },
+    "wiki/characters/钱穆.md": {
+      "hash": "67969a98cea6feb80f746c8dbe660c0a",
+      "size": 831,
+      "mtimeMs": 1785851554969
+    },
+    "wiki/characters/钱钟书.md": {
+      "hash": "3ba3facbff408e9f5f77c94c2f1bf9d0",
+      "size": 828,
+      "mtimeMs": 1785861363523
+    },
+    "wiki/characters/阎步克.md": {
+      "hash": "4761fbe4a620903075ce9e83716a307d",
+      "size": 945,
+      "mtimeMs": 1785852915820
+    },
+    "wiki/characters/阿云.md": {
+      "hash": "8024e5587f6767b5d06a296a3e286883",
+      "size": 974,
+      "mtimeMs": 1785849579519
+    },
+    "wiki/characters/陈寅恪.md": {
+      "hash": "de93b29ebb9ac1a35028822e40f027eb",
+      "size": 712,
+      "mtimeMs": 1785851554978
+    },
+    "wiki/characters/陈希亮.md": {
+      "hash": "1e0ff20ffc6f87d4563970a365195a04",
+      "size": 988,
+      "mtimeMs": 1785848751085
+    },
+    "wiki/characters/韦阿大.md": {
+      "hash": "6bf6f676c62531ca1df50e47b5acdfd8",
+      "size": 830,
+      "mtimeMs": 1785849579542
+    },
+    "wiki/characters/韩愈.md": {
+      "hash": "3016393b46ad0cde84ba7c9509da1aec",
+      "size": 1411,
+      "mtimeMs": 1785864073027
+    },
+    "wiki/characters/韩炳哲.md": {
+      "hash": "41fbe0159bbb75577daaf41854f5ae38",
+      "size": 3533,
+      "mtimeMs": 1785864540467
+    },
+    "wiki/characters/韩琦.md": {
+      "hash": "2a960bd1eaba716b3f4cdc2c03dddd5a",
+      "size": 938,
+      "mtimeMs": 1785846541726
+    },
+    "wiki/characters/韩绛.md": {
+      "hash": "9f61c2cf7accebde1942c01c9ba3448e",
+      "size": 610,
+      "mtimeMs": 1785851554953
+    },
+    "wiki/characters/韩维.md": {
+      "hash": "44852f4f5b36408d0a8dbc250e5b2e38",
+      "size": 1318,
+      "mtimeMs": 1785848751069
+    },
+    "wiki/characters/马歇尔-麦克卢汉.md": {
+      "hash": "d2acc1fe2e782bdb694e63d1aa2ede94",
+      "size": 987,
+      "mtimeMs": 1785863415065
+    },
+    "wiki/characters/马特-里德利.md": {
+      "hash": "6266aeb75f45de21c63e7c7929723afe",
+      "size": 819,
+      "mtimeMs": 1785850827351
+    },
+    "wiki/characters/高太皇太后.md": {
+      "hash": "b2c9af6b9ab3b4cf87652fe9b86cac5f",
+      "size": 1406,
+      "mtimeMs": 1785855822392
+    },
+    "wiki/characters/高滔滔.md": {
+      "hash": "500655b0ca22e267f3269b05c7def4f5",
+      "size": 1247,
+      "mtimeMs": 1785848950216
+    },
+    "wiki/characters/魏继宗.md": {
+      "hash": "ebd0ffeac0ca402ab79abadc7d1cb170",
+      "size": 764,
+      "mtimeMs": 1785850686198
+    },
+    "wiki/characters/鲍勃-迪伦.md": {
+      "hash": "17fa1df4f6e683d84adc05f403de1f0e",
+      "size": 966,
+      "mtimeMs": 1785847129494
+    },
+    "wiki/characters/黄庭坚.md": {
+      "hash": "9a0d170271708172ca9f580a8419737c",
+      "size": 2890,
+      "mtimeMs": 1785861363466
+    },
+    "wiki/characters/龙沛.md": {
+      "hash": "f3d0232fd888919af4aad3f0838422cf",
+      "size": 856,
+      "mtimeMs": 1785833317236
+    },
+    "wiki/comparisons/中西头衔的本质差异对比.md": {
+      "hash": "730fea5ebf4cab31aae2b19d9102a6f9",
+      "size": 1381,
+      "mtimeMs": 1785852915887
+    },
+    "wiki/comparisons/募兵制与府兵制.md": {
+      "hash": "6e6e1e113f16226c36adfea857863111",
+      "size": 1743,
+      "mtimeMs": 1785847894333
+    },
+    "wiki/comparisons/司马光与王安石的治理观对比.md": {
+      "hash": "c430ebf9966b3ca88c53e1d39bfbcc7f",
+      "size": 2473,
+      "mtimeMs": 1785850416538
+    },
+    "wiki/comparisons/商代祭祀-vs-周代祭祀-vs-宋代祭祀.md": {
+      "hash": "d366dd24b5ce67bfc02b800d77cc9b56",
+      "size": 1374,
+      "mtimeMs": 1785844993488
+    },
+    "wiki/comparisons/宋夏历法博弈-vs-宋辽历法博弈.md": {
+      "hash": "1b077789f0d6b3364dc41d30e1d05805",
+      "size": 1488,
+      "mtimeMs": 1785843822847
+    },
+    "wiki/comparisons/宋夏战争与宋辽战争的地缘差异.md": {
+      "hash": "32f5b4966345ae8188f0f5cf6e936a62",
+      "size": 1568,
+      "mtimeMs": 1785842652979
+    },
+    "wiki/comparisons/工具性时间-vs-合法性时间-vs-创造性时间.md": {
+      "hash": "06aec638de31e40ec467a74b87424932",
+      "size": 1447,
+      "mtimeMs": 1785843822855
+    },
+    "wiki/comparisons/李白与杜甫的历史地位变迁.md": {
+      "hash": "21eef2ca783a7fa3f5e6ae503cdb200f",
+      "size": 2089,
+      "mtimeMs": 1785847395218
+    },
+    "wiki/comparisons/濮议与大礼议.md": {
+      "hash": "0392c07e0d58270da1fb6f28d3c30888",
+      "size": 2835,
+      "mtimeMs": 1785848950230
+    },
+    "wiki/comparisons/王安石与司马光的法律观.md": {
+      "hash": "c6b6979dcc9395389a07d8c5f182bd00",
+      "size": 1971,
+      "mtimeMs": 1785849579576
+    },
+    "wiki/comparisons/王安石变法与庆历新政.md": {
+      "hash": "efcc0455a86267df36b8d0a6a9c774b8",
+      "size": 1669,
+      "mtimeMs": 1785849836881
+    },
+    "wiki/comparisons/王安石变法与改革开放的策略对比.md": {
+      "hash": "8b510a8366834fde932c07d0df49216f",
+      "size": 2075,
+      "mtimeMs": 1785850092384
+    },
+    "wiki/comparisons/苏轼与章惇的人生分野.md": {
+      "hash": "eb13cdd282c773c0338080260ffe00f2",
+      "size": 1463,
+      "mtimeMs": 1785858585059
+    },
+    "wiki/comparisons/雕版印刷与活字印刷.md": {
+      "hash": "cb319c1f775aff3c076871831c200c3b",
+      "size": 2422,
+      "mtimeMs": 1785842966307
+    },
+    "wiki/concepts/1054年东西教会大分裂.md": {
+      "hash": "109bf48c1c01a7425a1b70fcdb81a10a",
+      "size": 2189,
+      "mtimeMs": 1785846000533
+    },
+    "wiki/concepts/3000万词汇现象.md": {
+      "hash": "58b04dda044c3442b3381f3f7f9a49a5",
+      "size": 1034,
+      "mtimeMs": 1785838349862
+    },
+    "wiki/concepts/一石三鸟.md": {
+      "hash": "827ee5225a612a73460689539385bdac",
+      "size": 1090,
+      "mtimeMs": 1785849579513
+    },
+    "wiki/concepts/丈量步车.md": {
+      "hash": "1f047b999a9847c5d332c3b0c9b0a912",
+      "size": 1315,
+      "mtimeMs": 1785845262861
+    },
+    "wiki/concepts/三代君主挑战模型.md": {
+      "hash": "b192770caf4b97a62c69ae21ffcc6b47",
+      "size": 2749,
+      "mtimeMs": 1785837115592
+    },
+    "wiki/concepts/三叶草文明格局.md": {
+      "hash": "f9fa40807fea54d7ed60bf8c24a9be28",
+      "size": 1443,
+      "mtimeMs": 1785844416380
+    },
+    "wiki/concepts/三黜三光.md": {
+      "hash": "98a6495a208fa6ed258f5aa94b6b581b",
+      "size": 936,
+      "mtimeMs": 1785841730437
+    },
+    "wiki/concepts/不朽的两种路径.md": {
+      "hash": "a5d5254d00004d38828ca5b6d8a7541f",
+      "size": 2735,
+      "mtimeMs": 1785861707151
+    },
+    "wiki/concepts/与永恒对话.md": {
+      "hash": "af684e63f9a6d8d2803616c76eeca639",
+      "size": 2012,
+      "mtimeMs": 1785836323157
+    },
+    "wiki/concepts/世家灭而宗族生.md": {
+      "hash": "b13a59060cb658be1a594c9288275b4e",
+      "size": 1450,
+      "mtimeMs": 1785838349874
+    },
+    "wiki/concepts/东坡蝶变.md": {
+      "hash": "fc2674257dd44b51aec03063cdb202d3",
+      "size": 995,
+      "mtimeMs": 1785853958996
+    },
+    "wiki/concepts/两个时间坐标.md": {
+      "hash": "cacb3414a9b8b25a13bf6aac8817f432",
+      "size": 2024,
+      "mtimeMs": 1785836581307
+    },
+    "wiki/concepts/两种好汉观.md": {
+      "hash": "684e549eedfe307e687d990f117fbb50",
+      "size": 1238,
+      "mtimeMs": 1785846541751
+    },
+    "wiki/concepts/两税法.md": {
+      "hash": "dd06c8fae129b423983678959e7e445b",
+      "size": 1394,
+      "mtimeMs": 1785845262866
+    },
+    "wiki/concepts/个人和解与政治立场.md": {
+      "hash": "ec304461b4669c4e44340e627f322c75",
+      "size": 1689,
+      "mtimeMs": 1785855140058
+    },
+    "wiki/concepts/个体的繁荣.md": {
+      "hash": "0b4a50f8bfe8a5f20a62f87e91ee4e01",
+      "size": 2012,
+      "mtimeMs": 1785857856823
+    },
+    "wiki/concepts/中华文明的历史连续性.md": {
+      "hash": "9c531c83e61f8e702d609fad946788c2",
+      "size": 1264,
+      "mtimeMs": 1785830233680
+    },
+    "wiki/concepts/中国皇帝的合法性模型.md": {
+      "hash": "0810e9d1e4989e03f619fdfe4b2f2039",
+      "size": 1833,
+      "mtimeMs": 1785841993412
+    },
+    "wiki/concepts/临时性差遣制度.md": {
+      "hash": "e70f42146fea28e82fa3c1185f163c1f",
+      "size": 926,
+      "mtimeMs": 1785852915881
+    },
+    "wiki/concepts/为与士大夫治天下.md": {
+      "hash": "231ad088aca5ebdfcce8587c5c5025f8",
+      "size": 3460,
+      "mtimeMs": 1785856111228
+    },
+    "wiki/concepts/义在忠前的伦理结构.md": {
+      "hash": "6d2d6b3ff05569773afb1a53943deb7f",
+      "size": 1431,
+      "mtimeMs": 1785860996961
+    },
+    "wiki/concepts/义庄.md": {
+      "hash": "fae7086affef9976e04a3e901d92cd76",
+      "size": 2166,
+      "mtimeMs": 1785844700486
+    },
+    "wiki/concepts/乌台诗案.md": {
+      "hash": "bab029b0f075fe7f22efdedb97d13f11",
+      "size": 2333,
+      "mtimeMs": 1785852520650
+    },
+    "wiki/concepts/事与愿违规律.md": {
+      "hash": "40de13f71e7e5f129512786f9df24694",
+      "size": 838,
+      "mtimeMs": 1785859678232
+    },
+    "wiki/concepts/事后诸葛亮视角.md": {
+      "hash": "908ec0a4bee2b5e2409b3261243cd0e7",
+      "size": 1282,
+      "mtimeMs": 1785898483142
+    },
+    "wiki/concepts/事后追溯式渲染.md": {
+      "hash": "114a9e99b4b4058ee2ce3084dafca582",
+      "size": 1214,
+      "mtimeMs": 1785865029272
+    },
+    "wiki/concepts/事君犹佣者.md": {
+      "hash": "a524a216e8d3861069ccbbbac575ed67",
+      "size": 3187,
+      "mtimeMs": 1785830930730
+    },
+    "wiki/concepts/互害游戏.md": {
+      "hash": "4b6a96cf00f1643b81e1a7a70cce5d98",
+      "size": 1583,
+      "mtimeMs": 1785858584970
+    },
+    "wiki/concepts/互渗律.md": {
+      "hash": "9c71bd7a8d8f4deea6aaa7267571271c",
+      "size": 1488,
+      "mtimeMs": 1785845740699
+    },
+    "wiki/concepts/五京制.md": {
+      "hash": "c76f114cbf1a81d7bc06544224a69258",
+      "size": 2414,
+      "mtimeMs": 1785833051756
+    },
+    "wiki/concepts/五代阴影.md": {
+      "hash": "1dc698c0a1a8aa2dba3e16d93f1c9df6",
+      "size": 3125,
+      "mtimeMs": 1785830930724
+    },
+    "wiki/concepts/五福.md": {
+      "hash": "1c1bfa5796c40481b7ecba49140a3fb3",
+      "size": 1992,
+      "mtimeMs": 1785860191399
+    },
+    "wiki/concepts/五路伐夏.md": {
+      "hash": "368095b8dc2bbd3a1b0c80050fb3aa96",
+      "size": 2917,
+      "mtimeMs": 1785853462780
+    },
+    "wiki/concepts/交子.md": {
+      "hash": "fc460d4a9bef4fb8d91e2f80bd68f867",
+      "size": 2655,
+      "mtimeMs": 1785837885049
+    },
+    "wiki/concepts/交往记忆.md": {
+      "hash": "0624febf7e525941a7a1bf0f1d099666",
+      "size": 2381,
+      "mtimeMs": 1785834334706
+    },
+    "wiki/concepts/人头税.md": {
+      "hash": "92b455fd8285c44dfb6b7b3a8f7f3a95",
+      "size": 1983,
+      "mtimeMs": 1785845262839
+    },
+    "wiki/concepts/人是万物的尺度.md": {
+      "hash": "ba3971f847e9ca07e5e339cafdb2e298",
+      "size": 1917,
+      "mtimeMs": 1785838729277
+    },
+    "wiki/concepts/人类与外部因素的共生关系.md": {
+      "hash": "aed2182ab98e145b5991407dd5cdc4c9",
+      "size": 1852,
+      "mtimeMs": 1785838729272
+    },
+    "wiki/concepts/从身份到契约的文明演进.md": {
+      "hash": "175ea3cc929e18a7781321450d30d158",
+      "size": 843,
+      "mtimeMs": 1785852915870
+    },
+    "wiki/concepts/以天下为己任.md": {
+      "hash": "3a1870e50324ead3799b545622aa0cf1",
+      "size": 1899,
+      "mtimeMs": 1785843531852
+    },
+    "wiki/concepts/以母改子.md": {
+      "hash": "bfe08770fa74532e2243520bca9cdc68",
+      "size": 1580,
+      "mtimeMs": 1785856763811
+    },
+    "wiki/concepts/以茶治边.md": {
+      "hash": "553c96c37cd0252966e434216645fb80",
+      "size": 1734,
+      "mtimeMs": 1785838729257
+    },
+    "wiki/concepts/价值观作为文化工程裁量尺子.md": {
+      "hash": "10768eb4dde6ee2ab92343698e3029da",
+      "size": 1479,
+      "mtimeMs": 1785830233662
+    },
+    "wiki/concepts/传统社会的熟人征信系统.md": {
+      "hash": "8a4cb5452e681f2ac4cf0e4e8417c648",
+      "size": 1607,
+      "mtimeMs": 1785849836858
+    },
+    "wiki/concepts/佛学超越精神.md": {
+      "hash": "12590e9eb66ada4ac000d8ebc7da80ae",
+      "size": 960,
+      "mtimeMs": 1785853959008
+    },
+    "wiki/concepts/作为文化市场的印刷术.md": {
+      "hash": "0eb375486dcf348e0184ca713492b91c",
+      "size": 2612,
+      "mtimeMs": 1785861707157
+    },
+    "wiki/concepts/信念伦理与责任伦理.md": {
+      "hash": "1e49ad3ab3de5f23020d4c025f966f09",
+      "size": 2522,
+      "mtimeMs": 1785857026340
+    },
+    "wiki/concepts/信息交叉验证.md": {
+      "hash": "c07133b573e2716b4032b290289007ee",
+      "size": 2590,
+      "mtimeMs": 1785834684481
+    },
+    "wiki/concepts/信息传播技术的社会失控.md": {
+      "hash": "e96bf4d7d5eeccdd12f5d31ec0b45ac6",
+      "size": 2466,
+      "mtimeMs": 1785846211009
+    },
+    "wiki/concepts/信息即权力.md": {
+      "hash": "a50c3f27abf26bc0e7ffd7418b8c7534",
+      "size": 2354,
+      "mtimeMs": 1785834684465
+    },
+    "wiki/concepts/信息渠道拆分.md": {
+      "hash": "3fc8ba73df60e800468d15413f29e064",
+      "size": 2642,
+      "mtimeMs": 1785834684499
+    },
+    "wiki/concepts/信息结构即社会结构.md": {
+      "hash": "949ec21296dc962631594b44cb5a252d",
+      "size": 2234,
+      "mtimeMs": 1785846211021
+    },
+    "wiki/concepts/信物效应.md": {
+      "hash": "9e5640fe8e2511e7aba814d03cd97d18",
+      "size": 2686,
+      "mtimeMs": 1785858994707
+    },
+    "wiki/concepts/信用透支.md": {
+      "hash": "33f99e93ed5b7d6399ee477e918848d5",
+      "size": 1790,
+      "mtimeMs": 1785863415112
+    },
+    "wiki/concepts/偏好伪装.md": {
+      "hash": "2b5a54f9eb5ba2e8d09c0fb181229779",
+      "size": 924,
+      "mtimeMs": 1785833317274
+    },
+    "wiki/concepts/做事的人.md": {
+      "hash": "482a5d83285c774fda5f4652f026bdfe",
+      "size": 1751,
+      "mtimeMs": 1785835608171
+    },
+    "wiki/concepts/偶然性摩擦力.md": {
+      "hash": "397e0619d606b1fca9bdd384ea917a69",
+      "size": 1485,
+      "mtimeMs": 1785853462853
+    },
+    "wiki/concepts/像农民一样思考.md": {
+      "hash": "c7302c8e7a73b3fc24839a56ba9d0f46",
+      "size": 1974,
+      "mtimeMs": 1785844700492
+    },
+    "wiki/concepts/儒家的工具性.md": {
+      "hash": "50b4534e40a5762dee75fc84df13ab66",
+      "size": 1196,
+      "mtimeMs": 1785843531857
+    },
+    "wiki/concepts/元丰改制.md": {
+      "hash": "2b9e88c17ef649f09d1e1b0c1efead04",
+      "size": 1119,
+      "mtimeMs": 1785852915858
+    },
+    "wiki/concepts/元祐党争.md": {
+      "hash": "2e6feb7bd60a929bccced8679a127b83",
+      "size": 1836,
+      "mtimeMs": 1785856763796
+    },
+    "wiki/concepts/先例的精神力量.md": {
+      "hash": "6d84561739a1bc79dc5c0d8695eebc89",
+      "size": 2583,
+      "mtimeMs": 1785854657861
+    },
+    "wiki/concepts/免役法.md": {
+      "hash": "92d8228931ac1715a559059ef33852e2",
+      "size": 2529,
+      "mtimeMs": 1785850416526
+    },
+    "wiki/concepts/入中法.md": {
+      "hash": "4c6c570e3fe6dfa0f0ccc9d095d4be77",
+      "size": 1689,
+      "mtimeMs": 1785838729252
+    },
+    "wiki/concepts/公共生活的深度.md": {
+      "hash": "b78cb31de78643a89f1c6d3139483edb",
+      "size": 1799,
+      "mtimeMs": 1785844211919
+    },
+    "wiki/concepts/公开确认机制.md": {
+      "hash": "4be1ed9bd44c7da66540e987c08b490f",
+      "size": 2475,
+      "mtimeMs": 1785858994719
+    },
+    "wiki/concepts/六一居士.md": {
+      "hash": "10ef034fc7055f450a8372cbca191a74",
+      "size": 2111,
+      "mtimeMs": 1785849319511
+    },
+    "wiki/concepts/六贼.md": {
+      "hash": "f76c22f650c8b8a06c670176776db52e",
+      "size": 1258,
+      "mtimeMs": 1785862718587
+    },
+    "wiki/concepts/共同文本.md": {
+      "hash": "50623cb56f3bf243c18092dff9fdd404",
+      "size": 1335,
+      "mtimeMs": 1785861363483
+    },
+    "wiki/concepts/共同知识.md": {
+      "hash": "e8784559db75ab7b2cefdc15ed833bcd",
+      "size": 2993,
+      "mtimeMs": 1785858994686
+    },
+    "wiki/concepts/共识的政治遗产.md": {
+      "hash": "a49fa62a5a3b58deb3410d43836b7d31",
+      "size": 1428,
+      "mtimeMs": 1785854925755
+    },
+    "wiki/concepts/关键第三方.md": {
+      "hash": "2d3550170ed30346c9591a5492b72d7f",
+      "size": 1847,
+      "mtimeMs": 1785840178990
+    },
+    "wiki/concepts/关键行动.md": {
+      "hash": "e5f46b2d96817ce07960a4140221e941",
+      "size": 1898,
+      "mtimeMs": 1785830605154
+    },
+    "wiki/concepts/兵农合一.md": {
+      "hash": "b97439688bd6e9d28c55a4f4786e31d9",
+      "size": 1001,
+      "mtimeMs": 1785847894294
+    },
+    "wiki/concepts/兵变与民变.md": {
+      "hash": "b70c5657457a493e782a4454837dd6cd",
+      "size": 1520,
+      "mtimeMs": 1785831292168
+    },
+    "wiki/concepts/典雅-真宗朝文化标准.md": {
+      "hash": "a3396f98bebd71eb3ab7a5771eedb2e0",
+      "size": 1526,
+      "mtimeMs": 1785836323181
+    },
+    "wiki/concepts/内化的依恋对象.md": {
+      "hash": "f41abc835ce1f75c530f7304750450ad",
+      "size": 1047,
+      "mtimeMs": 1785857255350
+    },
+    "wiki/concepts/冗官.md": {
+      "hash": "6219e4757b0ad1ea56fbf53b44ab091d",
+      "size": 2294,
+      "mtimeMs": 1785843993200
+    },
+    "wiki/concepts/军事问题财政化.md": {
+      "hash": "87af57cf6cb507d6a46f5faf9be5a332",
+      "size": 1509,
+      "mtimeMs": 1785898483167
+    },
+    "wiki/concepts/凿空.md": {
+      "hash": "7dbcf83ed90fa443102f0d809d7b452e",
+      "size": 829,
+      "mtimeMs": 1785851555020
+    },
+    "wiki/concepts/分离主义.md": {
+      "hash": "dd3d036f39ac3a0c386aa2c08147075d",
+      "size": 1190,
+      "mtimeMs": 1785831292162
+    },
+    "wiki/concepts/分进合击.md": {
+      "hash": "887fabd3fda7b320cb74b96c7aa7fec7",
+      "size": 1102,
+      "mtimeMs": 1785853462831
+    },
+    "wiki/concepts/创新的条件论.md": {
+      "hash": "a84ace94ed3630e01b22297598b58d95",
+      "size": 1743,
+      "mtimeMs": 1785837885092
+    },
+    "wiki/concepts/创新非单点突破论.md": {
+      "hash": "3ba3bc4d67a72f0713f64c8fe6480b4a",
+      "size": 2181,
+      "mtimeMs": 1785842966288
+    },
+    "wiki/concepts/创造性时间.md": {
+      "hash": "0e11216a948a771c259dfd4cd2e63082",
+      "size": 2219,
+      "mtimeMs": 1785843822795
+    },
+    "wiki/concepts/创造的三层结构.md": {
+      "hash": "2a2bcb2350bd66b7dc97d9f94d346cc7",
+      "size": 1796,
+      "mtimeMs": 1785855822340
+    },
+    "wiki/concepts/利息理论与传统社会高利贷.md": {
+      "hash": "215b6bae81537c092d4f18fa5e23aab6",
+      "size": 1563,
+      "mtimeMs": 1785849836852
+    },
+    "wiki/concepts/利益结构锁定.md": {
+      "hash": "09a255f4793bc358ef99cf9a9eafffc0",
+      "size": 1444,
+      "mtimeMs": 1785833522944
+    },
+    "wiki/concepts/制度效率双轨路径.md": {
+      "hash": "a1b2bb250f0a23db02c0f65436da45bc",
+      "size": 2424,
+      "mtimeMs": 1785856422445
+    },
+    "wiki/concepts/制胜联盟.md": {
+      "hash": "0e6988900126ec530da80767be399f9e",
+      "size": 2223,
+      "mtimeMs": 1785840404043
+    },
+    "wiki/concepts/剥夺选择权策略.md": {
+      "hash": "ac8054467c6d7df39ce4d75e52533aff",
+      "size": 1570,
+      "mtimeMs": 1785898483185
+    },
+    "wiki/concepts/劝学诗.md": {
+      "hash": "8a25b158d585984907a6ccf2060709ba",
+      "size": 1835,
+      "mtimeMs": 1785836091333
+    },
+    "wiki/concepts/功利主义的真实观.md": {
+      "hash": "8880506c2e2aa19c55c1f75ecef5d485",
+      "size": 3025,
+      "mtimeMs": 1785847576315
+    },
+    "wiki/concepts/动机对齐.md": {
+      "hash": "6502c160e12324fe1b4082b4cd31b922",
+      "size": 2436,
+      "mtimeMs": 1785857505419
+    },
+    "wiki/concepts/动词哲学.md": {
+      "hash": "50dcc25682192bf5eb6f3849aaf45bd1",
+      "size": 1442,
+      "mtimeMs": 1785863415095
+    },
+    "wiki/concepts/劳动-工作-行动三分法.md": {
+      "hash": "722d967ec7f061411dbb29dbd5619f02",
+      "size": 2233,
+      "mtimeMs": 1785855822333
+    },
+    "wiki/concepts/募兵制.md": {
+      "hash": "a75c44408412dfd9782600b8416f137f",
+      "size": 3473,
+      "mtimeMs": 1785847894283
+    },
+    "wiki/concepts/北宋五子.md": {
+      "hash": "7b9bbf743e9cedfaa577ac3e974efb87",
+      "size": 2608,
+      "mtimeMs": 1785862328370
+    },
+    "wiki/concepts/匮乏与认知带宽.md": {
+      "hash": "2916711dbd41e5de8f5439df186dd057",
+      "size": 971,
+      "mtimeMs": 1785853959014
+    },
+    "wiki/concepts/千家注杜.md": {
+      "hash": "38f341eda33862894c4f43662c6ff3eb",
+      "size": 1447,
+      "mtimeMs": 1785847395192
+    },
+    "wiki/concepts/千年安澜之谜.md": {
+      "hash": "002e7e94d4882e80f3b6141d1b8cd275",
+      "size": 1676,
+      "mtimeMs": 1785844416375
+    },
+    "wiki/concepts/千年龙虎榜.md": {
+      "hash": "9e961d6b9878ee8cd87869a292365d8b",
+      "size": 1274,
+      "mtimeMs": 1785846794390
+    },
+    "wiki/concepts/单一目标思维.md": {
+      "hash": "f3c7eac408ca12c5ff132e02ec4bccd3",
+      "size": 1337,
+      "mtimeMs": 1785858584976
+    },
+    "wiki/concepts/南北两面官制度.md": {
+      "hash": "5bd1f2686c5683a437cb0cd879350d01",
+      "size": 1424,
+      "mtimeMs": 1785833051762
+    },
+    "wiki/concepts/博弈中的信号发送.md": {
+      "hash": "8c23d1ba93f5d55d69d75347f57ea4c4",
+      "size": 1468,
+      "mtimeMs": 1785898483178
+    },
+    "wiki/concepts/博物学精神.md": {
+      "hash": "15670f044370f377cfbcc8251fe22cc4",
+      "size": 2345,
+      "mtimeMs": 1785857856817
+    },
+    "wiki/concepts/历史先例的力量.md": {
+      "hash": "6139d4786407a801f5053ac15b72c846",
+      "size": 2087,
+      "mtimeMs": 1785832098742
+    },
+    "wiki/concepts/历史教训驱动的制度演化.md": {
+      "hash": "65801a7e3ae4641ee12eaeb853c5275f",
+      "size": 2186,
+      "mtimeMs": 1785841299719
+    },
+    "wiki/concepts/历史是扩充心量之学.md": {
+      "hash": "a46965bcb27370644a13f5fb2af0e49e",
+      "size": 1764,
+      "mtimeMs": 1785847576330
+    },
+    "wiki/concepts/历史的多重叙事.md": {
+      "hash": "d20155467a63e486aec3e0ff00afdc2c",
+      "size": 1650,
+      "mtimeMs": 1785843123346
+    },
+    "wiki/concepts/历史的无知之幕.md": {
+      "hash": "3c8f367a427e71d1ab9d90897323cd25",
+      "size": 1705,
+      "mtimeMs": 1785848751053
+    },
+    "wiki/concepts/历法的可验证性.md": {
+      "hash": "6c4e259396d877d82fb6a7c7bb0fea1a",
+      "size": 2121,
+      "mtimeMs": 1785843822790
+    },
+    "wiki/concepts/历法禁令.md": {
+      "hash": "2943a1fd86fe77aaad7a7ece680bd6a0",
+      "size": 1814,
+      "mtimeMs": 1785843822801
+    },
+    "wiki/concepts/参与者观察者效应.md": {
+      "hash": "37cffb17588773493c4a4c72a60451c7",
+      "size": 1605,
+      "mtimeMs": 1785898483154
+    },
+    "wiki/concepts/双言现象.md": {
+      "hash": "1dbb95afe7a807671866536eb24cc6d8",
+      "size": 2250,
+      "mtimeMs": 1785864026220
+    },
+    "wiki/concepts/反内卷与隐秘需求.md": {
+      "hash": "ac138edc8b51e70fa24ea7bf473a2270",
+      "size": 1594,
+      "mtimeMs": 1785854295263
+    },
+    "wiki/concepts/变法主导权之争.md": {
+      "hash": "48f217981a275c3852dcc4359006c490",
+      "size": 1831,
+      "mtimeMs": 1785851232249
+    },
+    "wiki/concepts/变革八步法.md": {
+      "hash": "d2c6b010bf1bec2f9c6aadb5b431b6eb",
+      "size": 2076,
+      "mtimeMs": 1785843327027
+    },
+    "wiki/concepts/变革共识与抓手.md": {
+      "hash": "770e526edeb9a4ff5a1708380b4d13cd",
+      "size": 2717,
+      "mtimeMs": 1785843327037
+    },
+    "wiki/concepts/叙事锁定.md": {
+      "hash": "259f4e5cb4bcbbde8518151d6e484a43",
+      "size": 1215,
+      "mtimeMs": 1785852061526
+    },
+    "wiki/concepts/口语文化与文字文化.md": {
+      "hash": "134efce13bc14b73efd2dba50f810454",
+      "size": 4424,
+      "mtimeMs": 1785834986249
+    },
+    "wiki/concepts/古典保守主义.md": {
+      "hash": "b81c6a1a78c1a96575252901b0e54663",
+      "size": 2519,
+      "mtimeMs": 1785831790846
+    },
+    "wiki/concepts/古文运动.md": {
+      "hash": "9bc4100952ea55f6f7a8a33bb7e5f55c",
+      "size": 4165,
+      "mtimeMs": 1785864026214
+    },
+    "wiki/concepts/古文运动对修史文风的影响.md": {
+      "hash": "aacb1f2c3de613c3cfc265db0afb340c",
+      "size": 2378,
+      "mtimeMs": 1785847576339
+    },
+    "wiki/concepts/可读性-legibility.md": {
+      "hash": "be6858ee7e48096a40ae1cb187f05734",
+      "size": 1880,
+      "mtimeMs": 1785863415100
+    },
+    "wiki/concepts/台谏合一.md": {
+      "hash": "b60600bfbc0f54218e3fe6f46ba82659",
+      "size": 730,
+      "mtimeMs": 1785841730464
+    },
+    "wiki/concepts/史官人格.md": {
+      "hash": "6c37c6ec3e7c3d43008c311d6c757431",
+      "size": 1760,
+      "mtimeMs": 1785864026232
+    },
+    "wiki/concepts/司马光困境.md": {
+      "hash": "1bfbf15572ad0378c1321f8730e4576d",
+      "size": 2338,
+      "mtimeMs": 1785850416509
+    },
+    "wiki/concepts/合成谬误.md": {
+      "hash": "7f93f9769dcfb8fa5b19219441e5e78e",
+      "size": 1336,
+      "mtimeMs": 1785843993207
+    },
+    "wiki/concepts/合法性来源.md": {
+      "hash": "5511cc83a4490a395d32c199e7bcb68f",
+      "size": 1736,
+      "mtimeMs": 1785848397719
+    },
+    "wiki/concepts/同中书门下平章事.md": {
+      "hash": "dd6b3ed05bf394fec98d51f8b1ad8804",
+      "size": 1722,
+      "mtimeMs": 1785835608154
+    },
+    "wiki/concepts/名单压缩机制.md": {
+      "hash": "47f5cdf73c766b670c74fb535977f534",
+      "size": 2142,
+      "mtimeMs": 1785863415082
+    },
+    "wiki/concepts/名单政治.md": {
+      "hash": "bccab2e0ebf06a88187602c0746f6fa9",
+      "size": 3851,
+      "mtimeMs": 1785863415076
+    },
+    "wiki/concepts/君子三变.md": {
+      "hash": "cebeff682619e348bfcf0303cf8ff80a",
+      "size": 1186,
+      "mtimeMs": 1785848397726
+    },
+    "wiki/concepts/君子人格.md": {
+      "hash": "4ba5e7696d04ff03ef41e57f846dec20",
+      "size": 1533,
+      "mtimeMs": 1785846794378
+    },
+    "wiki/concepts/君臣结合谋生谋利的身份组织.md": {
+      "hash": "3256c1d591936aba18985a037363fe37",
+      "size": 1763,
+      "mtimeMs": 1785850686150
+    },
+    "wiki/concepts/和亲.md": {
+      "hash": "9d14f53234e95b8a4601a6331b36ed45",
+      "size": 4205,
+      "mtimeMs": 1785840178961
+    },
+    "wiki/concepts/唐代宦官家族网络.md": {
+      "hash": "644632725c71a7b0cf6394807a9bec09",
+      "size": 1109,
+      "mtimeMs": 1785862763140
+    },
+    "wiki/concepts/唐宋税制转型.md": {
+      "hash": "97ab210a2232945e8941f04435288d7a",
+      "size": 1721,
+      "mtimeMs": 1785845262872
+    },
+    "wiki/concepts/商周之变.md": {
+      "hash": "68bfdc850bc50a617ce442b1e36be6e0",
+      "size": 1183,
+      "mtimeMs": 1785844993456
+    },
+    "wiki/concepts/嘉祐三札.md": {
+      "hash": "206978413ec8af8bff310b70d4ab5f23",
+      "size": 1129,
+      "mtimeMs": 1785847894307
+    },
+    "wiki/concepts/嘉祐之治.md": {
+      "hash": "dd4a4d1f978b1d06daa8376a850cd07f",
+      "size": 1954,
+      "mtimeMs": 1785848397685
+    },
+    "wiki/concepts/嘉祐四友.md": {
+      "hash": "349279b61ab279adaf6ccd21d16ed6be",
+      "size": 1915,
+      "mtimeMs": 1785848751053
+    },
+    "wiki/concepts/囚徒困境.md": {
+      "hash": "4dd158cabb16ace62e834a1c3bfbee64",
+      "size": 922,
+      "mtimeMs": 1785858584997
+    },
+    "wiki/concepts/四川得名的行政起源.md": {
+      "hash": "b2c8257afa2bcd816971c4cce27ea5eb",
+      "size": 1258,
+      "mtimeMs": 1785831292052
+    },
+    "wiki/concepts/四时捺钵.md": {
+      "hash": "c24ffbe22e201ada712b0bbe89ecdd5e",
+      "size": 2675,
+      "mtimeMs": 1785833051747
+    },
+    "wiki/concepts/因果关系的局限性.md": {
+      "hash": "66629707bcfde936028fc02ce1b9d05d",
+      "size": 2793,
+      "mtimeMs": 1785853462797
+    },
+    "wiki/concepts/国之大事在祀与戎.md": {
+      "hash": "da3410414e8ce71a86627948f09f973b",
+      "size": 1034,
+      "mtimeMs": 1785844993483
+    },
+    "wiki/concepts/国家的视角.md": {
+      "hash": "79a08a1f2ea57cab33777b87b46e80c4",
+      "size": 1910,
+      "mtimeMs": 1785850686141
+    },
+    "wiki/concepts/国家目标的匮乏.md": {
+      "hash": "c31b261c3b0e8c24b2dafa1b339b4093",
+      "size": 2053,
+      "mtimeMs": 1785860741936
+    },
+    "wiki/concepts/国家祭祀.md": {
+      "hash": "da7e12adaf46decd3678297a69a8ab44",
+      "size": 1534,
+      "mtimeMs": 1785844993451
+    },
+    "wiki/concepts/国责不下县.md": {
+      "hash": "6afd58544f819bd7c0e53c658e9d4c9a",
+      "size": 1551,
+      "mtimeMs": 1785860741952
+    },
+    "wiki/concepts/图像的政治信息载体功能.md": {
+      "hash": "f5201b5855f426adc9eff75b0dfcfec3",
+      "size": 1779,
+      "mtimeMs": 1785845740715
+    },
+    "wiki/concepts/图像过剩时代.md": {
+      "hash": "217e9cd3b7d7a26d04aac8ab7f103372",
+      "size": 1742,
+      "mtimeMs": 1785845740720
+    },
+    "wiki/concepts/土地税.md": {
+      "hash": "37ddb74a3d3f9d4be68aa750b39a2fe7",
+      "size": 1750,
+      "mtimeMs": 1785845262844
+    },
+    "wiki/concepts/土崩与瓦解.md": {
+      "hash": "6f49dedd164238172e2a469e042438c5",
+      "size": 1468,
+      "mtimeMs": 1785831292085
+    },
+    "wiki/concepts/圣节.md": {
+      "hash": "dad7bd15304a41b7b98ffd513a2f5a03",
+      "size": 2138,
+      "mtimeMs": 1785843822785
+    },
+    "wiki/concepts/垂帘资格的宗法逻辑.md": {
+      "hash": "8fbd86fcfbb1ea51ee24f2acb7356892",
+      "size": 1513,
+      "mtimeMs": 1785854925770
+    },
+    "wiki/concepts/城下之盟.md": {
+      "hash": "574d08e51571975dfc5d4ba74b3e72bb",
+      "size": 758,
+      "mtimeMs": 1785833317263
+    },
+    "wiki/concepts/基本团体理论.md": {
+      "hash": "7bcb03f706cd2217ea4b0b17ab54d91f",
+      "size": 1360,
+      "mtimeMs": 1785864993947
+    },
+    "wiki/concepts/堡寨-屯田体系.md": {
+      "hash": "50550ca0e1cd1004b5735d98f73f201b",
+      "size": 1463,
+      "mtimeMs": 1785842652941
+    },
+    "wiki/concepts/塘泺与榆塞.md": {
+      "hash": "b25c98da4d56435dd3a6ead83d487a3f",
+      "size": 1621,
+      "mtimeMs": 1785832098761
+    },
+    "wiki/concepts/声望算法.md": {
+      "hash": "e86924f11731ee9d1606b5ade0c1b8fc",
+      "size": 1361,
+      "mtimeMs": 1785838349847
+    },
+    "wiki/concepts/外戚限制.md": {
+      "hash": "06646a3d84375e7420e2d2f34a0ad587",
+      "size": 909,
+      "mtimeMs": 1785838349868
+    },
+    "wiki/concepts/多元人生目标.md": {
+      "hash": "8943cff4eba66b492653aa99e5d0bbab",
+      "size": 1336,
+      "mtimeMs": 1785858584983
+    },
+    "wiki/concepts/大共同体与小共同体.md": {
+      "hash": "f59ce2e11fdae428395fd3233af4f3bb",
+      "size": 1716,
+      "mtimeMs": 1785844211913
+    },
+    "wiki/concepts/大宋士大夫代际论.md": {
+      "hash": "4a8b81b1d4b62490ba4027225da45b83",
+      "size": 1681,
+      "mtimeMs": 1785841730430
+    },
+    "wiki/concepts/天下观念的转型.md": {
+      "hash": "fb808845acdc611df2162f9875470b59",
+      "size": 2575,
+      "mtimeMs": 1785845740710
+    },
+    "wiki/concepts/天书封禅.md": {
+      "hash": "24e311de066f3a2c7631ca1146cf769e",
+      "size": 2151,
+      "mtimeMs": 1785833317252
+    },
+    "wiki/concepts/天人合一新解.md": {
+      "hash": "bc613dd6b72e6c8127ce5d3498b30a18",
+      "size": 1574,
+      "mtimeMs": 1785852347900
+    },
+    "wiki/concepts/天命观.md": {
+      "hash": "7b5f655ff281f148a21d2951f489393b",
+      "size": 1378,
+      "mtimeMs": 1785844993478
+    },
+    "wiki/concepts/奉旨填词.md": {
+      "hash": "4f4b799d0f686b10225e45fcfd7efeba",
+      "size": 1139,
+      "mtimeMs": 1785847129523
+    },
+    "wiki/concepts/奉正朔.md": {
+      "hash": "427de87f45fb67b27a3e5c33dc78028c",
+      "size": 2418,
+      "mtimeMs": 1785843822768
+    },
+    "wiki/concepts/套话编织.md": {
+      "hash": "f68aed164cbacb66d897422cb54e2b1a",
+      "size": 3159,
+      "mtimeMs": 1785834986268
+    },
+    "wiki/concepts/奸臣的后果归因逻辑.md": {
+      "hash": "7cd8dd4733ed44499c0fc79a8e46b798",
+      "size": 2093,
+      "mtimeMs": 1785857026356
+    },
+    "wiki/concepts/威慑型统治的脆弱性.md": {
+      "hash": "7bb227b311a173cbf8f1fc89b0f573b3",
+      "size": 1992,
+      "mtimeMs": 1785865309434
+    },
+    "wiki/concepts/子贵母死.md": {
+      "hash": "1ccc3f1cf83c457f04242944f182fcb5",
+      "size": 1830,
+      "mtimeMs": 1785840404048
+    },
+    "wiki/concepts/孤臣.md": {
+      "hash": "c44a49454a485dbd78e845a04c58ae6b",
+      "size": 2219,
+      "mtimeMs": 1785835358154
+    },
+    "wiki/concepts/安全困境.md": {
+      "hash": "76da132f5cb3dddd541afe29162c7b67",
+      "size": 1666,
+      "mtimeMs": 1785833809407
+    },
+    "wiki/concepts/宋代官职差遣体系.md": {
+      "hash": "7e3677c84c62a54f1aee1c84114ddff2",
+      "size": 1310,
+      "mtimeMs": 1785852915852
+    },
+    "wiki/concepts/宋代宦官网络阻断.md": {
+      "hash": "2f3edf15fdd4479ef220bd9933b3d5e1",
+      "size": 1193,
+      "mtimeMs": 1785862763145
+    },
+    "wiki/concepts/宋代理学的知识转向.md": {
+      "hash": "8d580ec1955b9b1fb8e94d81fac39a2d",
+      "size": 1762,
+      "mtimeMs": 1785857856834
+    },
+    "wiki/concepts/宋体字的形成逻辑.md": {
+      "hash": "4d9df6d0dc361862f33ac9970b759c50",
+      "size": 2072,
+      "mtimeMs": 1785842966301
+    },
+    "wiki/concepts/宋夏战争主场优势.md": {
+      "hash": "8b2af0fcc03ac365461a79cbfff55c82",
+      "size": 1282,
+      "mtimeMs": 1785842652968
+    },
+    "wiki/concepts/完美风暴.md": {
+      "hash": "6d6afc0005fbaeb08be634f78ac3e342",
+      "size": 1523,
+      "mtimeMs": 1785865029278
+    },
+    "wiki/concepts/宗室的作案工具论.md": {
+      "hash": "a24ea1f5497f8d0f0f34cd76b4423993",
+      "size": 1626,
+      "mtimeMs": 1785841299724
+    },
+    "wiki/concepts/宗室管理制度.md": {
+      "hash": "969ce70e96ec0cfa694e46c053f8dd88",
+      "size": 2774,
+      "mtimeMs": 1785841299702
+    },
+    "wiki/concepts/宗教作为效忠测试.md": {
+      "hash": "4c442386c071f6f177fdb57a9c6e7ae8",
+      "size": 1410,
+      "mtimeMs": 1785865514360
+    },
+    "wiki/concepts/宗法逻辑与政治现实.md": {
+      "hash": "77366df6c3cac6fa15a57e3764bed4de",
+      "size": 3355,
+      "mtimeMs": 1785840651152
+    },
+    "wiki/concepts/官僚体系的放大器与拦截阀效应.md": {
+      "hash": "ee032d64c94d57022879484382698d22",
+      "size": 2355,
+      "mtimeMs": 1785850416521
+    },
+    "wiki/concepts/官僚体系的身份组织属性.md": {
+      "hash": "9d753582ed89f4206ca1403ef1d1c6b7",
+      "size": 1437,
+      "mtimeMs": 1785852915865
+    },
+    "wiki/concepts/官僚制度的熵增.md": {
+      "hash": "bf54e5be895207b0a326f32c2cb00936",
+      "size": 1034,
+      "mtimeMs": 1785852915875
+    },
+    "wiki/concepts/官话-读书音.md": {
+      "hash": "20cd7675629367206f393dbd8252c580",
+      "size": 2095,
+      "mtimeMs": 1785842293496
+    },
+    "wiki/concepts/定策之功.md": {
+      "hash": "631f6091362c81ac95bd8550a2034783",
+      "size": 1501,
+      "mtimeMs": 1785854925723
+    },
+    "wiki/concepts/宦官制度演化.md": {
+      "hash": "b4573bd0e58e53b17fd7448a35752186",
+      "size": 1368,
+      "mtimeMs": 1785862718592
+    },
+    "wiki/concepts/宦官的社会网络隔绝.md": {
+      "hash": "95699c74d609cde3067ad9e8c2ab35a0",
+      "size": 1211,
+      "mtimeMs": 1785862763133
+    },
+    "wiki/concepts/宦官的社会角色.md": {
+      "hash": "3872f5bedf027f9f16af88e60581b84a",
+      "size": 2552,
+      "mtimeMs": 1785834684490
+    },
+    "wiki/concepts/宦官领兵与军队认同断裂.md": {
+      "hash": "f5078dd14ac3c0fed940371ca71bea15",
+      "size": 1261,
+      "mtimeMs": 1785862763168
+    },
+    "wiki/concepts/将从中御.md": {
+      "hash": "621f6c88767fb1a384daf05cba7a005e",
+      "size": 2474,
+      "mtimeMs": 1785853462786
+    },
+    "wiki/concepts/小集团思维.md": {
+      "hash": "7459bc2d2cc93dccc22bb14418443f6e",
+      "size": 2186,
+      "mtimeMs": 1785856763805
+    },
+    "wiki/concepts/少做评价，多做解释.md": {
+      "hash": "69fcec70d7e1e41e1617cc5efd585fbe",
+      "size": 2351,
+      "mtimeMs": 1785857505426
+    },
+    "wiki/concepts/少年心性.md": {
+      "hash": "6924e3239ae9fe0d1bf736183e717bbf",
+      "size": 1753,
+      "mtimeMs": 1785835358185
+    },
+    "wiki/concepts/局外人建议的局限性.md": {
+      "hash": "18c6ff2c46357b769207db5d305f6810",
+      "size": 2507,
+      "mtimeMs": 1785831790851
+    },
+    "wiki/concepts/局部以多胜少.md": {
+      "hash": "a20de54f0f2ada7292dff711d766fe3b",
+      "size": 2370,
+      "mtimeMs": 1785865029249
+    },
+    "wiki/concepts/局部最优陷阱.md": {
+      "hash": "8a6b7f45ee54c29b3edd46a06c53bdbd",
+      "size": 2461,
+      "mtimeMs": 1785863025709
+    },
+    "wiki/concepts/山陵使.md": {
+      "hash": "4ba5cdcf6161aff6797b5e0274bedea8",
+      "size": 1827,
+      "mtimeMs": 1785863025721
+    },
+    "wiki/concepts/岁币.md": {
+      "hash": "d5d9d1060fcf7654700815d3d933fd99",
+      "size": 1554,
+      "mtimeMs": 1785832343276
+    },
+    "wiki/concepts/崇宁.md": {
+      "hash": "20162c7ab23e7cb8531df76f7a001aeb",
+      "size": 1534,
+      "mtimeMs": 1785860470509
+    },
+    "wiki/concepts/崇文抑武.md": {
+      "hash": "08773a6d7b11759443acabfe3f87255b",
+      "size": 1419,
+      "mtimeMs": 1785846541732
+    },
+    "wiki/concepts/崩溃阈值.md": {
+      "hash": "8709e859971412c594d4a164da9fa36e",
+      "size": 1538,
+      "mtimeMs": 1785865029255
+    },
+    "wiki/concepts/工业文明与农耕文明.md": {
+      "hash": "b0d29bcaef24d5841e661ecca9d919e3",
+      "size": 1542,
+      "mtimeMs": 1785832743201
+    },
+    "wiki/concepts/工具性政治评价.md": {
+      "hash": "ca332fcdc95370c180b57bd782ba5c7b",
+      "size": 2451,
+      "mtimeMs": 1785850092348
+    },
+    "wiki/concepts/市易法.md": {
+      "hash": "f367d4f5b8bd03f3ac7445a7cca4f607",
+      "size": 2500,
+      "mtimeMs": 1785850686127
+    },
+    "wiki/concepts/布帛货币退出.md": {
+      "hash": "d06df945753f75f0d10ba1dbbd3a918a",
+      "size": 1240,
+      "mtimeMs": 1785863677657
+    },
+    "wiki/concepts/师出有名.md": {
+      "hash": "5e30309533d48d2cafe4c173249e9d93",
+      "size": 894,
+      "mtimeMs": 1785853462847
+    },
+    "wiki/concepts/师臣工具论.md": {
+      "hash": "2a09e2cf34873819cbf84044634a85b7",
+      "size": 1468,
+      "mtimeMs": 1785851232270
+    },
+    "wiki/concepts/帕金森定律.md": {
+      "hash": "a6559cfc6ad4a5bd2b71998ca9b88e2f",
+      "size": 1483,
+      "mtimeMs": 1785843993229
+    },
+    "wiki/concepts/帝国的文教系统与共同精神空间.md": {
+      "hash": "00ae789f8a90dd09288616ee0fc6a869",
+      "size": 2187,
+      "mtimeMs": 1785841993406
+    },
+    "wiki/concepts/帝国的能力尽头.md": {
+      "hash": "b01e81f29ebd97ec835328b70bc71c16",
+      "size": 1226,
+      "mtimeMs": 1785842652957
+    },
+    "wiki/concepts/帝王孤独论.md": {
+      "hash": "f3b43eee1fd1bf114bc4aa75f733fbfa",
+      "size": 1565,
+      "mtimeMs": 1785851232278
+    },
+    "wiki/concepts/幽云十六州.md": {
+      "hash": "e2c04d6db2639ed93d22014d444342dd",
+      "size": 1725,
+      "mtimeMs": 1785832098755
+    },
+    "wiki/concepts/庆历增币.md": {
+      "hash": "3a379849b958f74b6be64ef3e17899de",
+      "size": 1845,
+      "mtimeMs": 1785843123352
+    },
+    "wiki/concepts/庆历新政.md": {
+      "hash": "932daadfa2621c52ff3c4e6b6cf6ff14",
+      "size": 3456,
+      "mtimeMs": 1785843327009
+    },
+    "wiki/concepts/应付与创造.md": {
+      "hash": "52b395c16c7fa59eb168a7014bdf5e3a",
+      "size": 1847,
+      "mtimeMs": 1785848751037
+    },
+    "wiki/concepts/府兵制.md": {
+      "hash": "45ebeb433f128bc5841b77ea021eb9dc",
+      "size": 1260,
+      "mtimeMs": 1785847894289
+    },
+    "wiki/concepts/废除科举的连锁反应.md": {
+      "hash": "fc89791387a688878042612ac301b5be",
+      "size": 2468,
+      "mtimeMs": 1785836091344
+    },
+    "wiki/concepts/座主门生.md": {
+      "hash": "8e0d41b357399959c56ef454403c48a8",
+      "size": 2432,
+      "mtimeMs": 1785831572285
+    },
+    "wiki/concepts/延和论辩.md": {
+      "hash": "af46a66f915f5b9beb2ba135797cef79",
+      "size": 1310,
+      "mtimeMs": 1785849836840
+    },
+    "wiki/concepts/建中靖国.md": {
+      "hash": "37da9ac2e627f8e03f738c639fc25d14",
+      "size": 1819,
+      "mtimeMs": 1785860470488
+    },
+    "wiki/concepts/开元盛世模板.md": {
+      "hash": "ca8665beb8b4f20b747cce4dc4d40b53",
+      "size": 1349,
+      "mtimeMs": 1785833522931
+    },
+    "wiki/concepts/开放系统.md": {
+      "hash": "183001de20aa7f6eca453b2759845e6f",
+      "size": 2073,
+      "mtimeMs": 1785830605154
+    },
+    "wiki/concepts/开疆拓土的成本收益分析.md": {
+      "hash": "33a13af7944c15e648df5b8ac64bc0d9",
+      "size": 1422,
+      "mtimeMs": 1785851555010
+    },
+    "wiki/concepts/异地为官制度.md": {
+      "hash": "655b9f2040cbf261ab4731b5ce37e685",
+      "size": 1080,
+      "mtimeMs": 1785842293528
+    },
+    "wiki/concepts/张骞悖论.md": {
+      "hash": "7f17dafda077fc6549c2f771882cb699",
+      "size": 1240,
+      "mtimeMs": 1785851555015
+    },
+    "wiki/concepts/征服者与被征服者的文化逆袭.md": {
+      "hash": "56abe024ae95e48430f61f526de898dd",
+      "size": 2168,
+      "mtimeMs": 1785834362674
+    },
+    "wiki/concepts/御容.md": {
+      "hash": "201e33d0e41fa2ad025c37ddc4f5664c",
+      "size": 1878,
+      "mtimeMs": 1785845740704
+    },
+    "wiki/concepts/御笔.md": {
+      "hash": "e67bcbbca0d2e2274c316e29fbba216f",
+      "size": 2110,
+      "mtimeMs": 1785863025726
+    },
+    "wiki/concepts/循环史观与进步史观.md": {
+      "hash": "3b007256e52c293d2a73f928b6a80ab0",
+      "size": 1579,
+      "mtimeMs": 1785834070531
+    },
+    "wiki/concepts/心腹依赖症.md": {
+      "hash": "bf7e9ab80b1685c3eb8903549e8dfb38",
+      "size": 1226,
+      "mtimeMs": 1785862763157
+    },
+    "wiki/concepts/必攻不守.md": {
+      "hash": "a2f7c252862e1c154f3b3b99180dabcd",
+      "size": 983,
+      "mtimeMs": 1785842652946
+    },
+    "wiki/concepts/恩荫制度.md": {
+      "hash": "f118568b64f0aa49e640bbe1dd280c82",
+      "size": 1233,
+      "mtimeMs": 1785843993218
+    },
+    "wiki/concepts/恶是切断善是连接.md": {
+      "hash": "41b42f183b690342bedbc7bdc2430b2a",
+      "size": 1495,
+      "mtimeMs": 1785862328395
+    },
+    "wiki/concepts/慢词长调.md": {
+      "hash": "10835f813657a416cbdfa23a6863e5ed",
+      "size": 1134,
+      "mtimeMs": 1785847129536
+    },
+    "wiki/concepts/成长悲剧.md": {
+      "hash": "9e64189335d8a9339e397f0eb29bc262",
+      "size": 2202,
+      "mtimeMs": 1785835358164
+    },
+    "wiki/concepts/战争作为经济获取方式.md": {
+      "hash": "7171bc9ec9bf690d04921baf92e77b9e",
+      "size": 660,
+      "mtimeMs": 1785859678220
+    },
+    "wiki/concepts/战争的不确定性.md": {
+      "hash": "1f926caf75174dda523febceea586710",
+      "size": 1295,
+      "mtimeMs": 1785853462837
+    },
+    "wiki/concepts/战争的理性主义解释.md": {
+      "hash": "638bf87e78d697384f1a0dd53d96f80e",
+      "size": 1556,
+      "mtimeMs": 1785832343283
+    },
+    "wiki/concepts/战争结束释放财政盈余.md": {
+      "hash": "a9bb776917c282d7b58997cd13a9c6d3",
+      "size": 1507,
+      "mtimeMs": 1785834070543
+    },
+    "wiki/concepts/战术精明-战略盲区.md": {
+      "hash": "3ff03ae7b79dbd5c23a6b87b94cb1004",
+      "size": 1705,
+      "mtimeMs": 1785898483148
+    },
+    "wiki/concepts/战略透支.md": {
+      "hash": "77042f92add6f9c660e256b0e42b3691",
+      "size": 1029,
+      "mtimeMs": 1785842652952
+    },
+    "wiki/concepts/所因之罪.md": {
+      "hash": "132579d3306a5a0178c45bf1597d3c8f",
+      "size": 1295,
+      "mtimeMs": 1785849579485
+    },
+    "wiki/concepts/手卷观看.md": {
+      "hash": "832b19454604f12ed6267b28cfadf5f4",
+      "size": 2171,
+      "mtimeMs": 1785864540486
+    },
+    "wiki/concepts/技术传播的成本经济学.md": {
+      "hash": "e0dc1c051d6efaacf0bbe7f41298bffa",
+      "size": 1964,
+      "mtimeMs": 1785842966275
+    },
+    "wiki/concepts/技术决定论温和版.md": {
+      "hash": "9d2339c78e5e8d5db4e8774ddd878a4a",
+      "size": 2058,
+      "mtimeMs": 1785845262878
+    },
+    "wiki/concepts/拳击赛与选秀赛的竞争模型.md": {
+      "hash": "d00485e675ec478d833138bd0f62e659",
+      "size": 1474,
+      "mtimeMs": 1785841993417
+    },
+    "wiki/concepts/挑战与解决方案的历史观.md": {
+      "hash": "9dde3e1bfe55cf84bc4c23c8832d0d5c",
+      "size": 1289,
+      "mtimeMs": 1785830233696
+    },
+    "wiki/concepts/掌控感.md": {
+      "hash": "656ca0f0d0a2a4d2b33b1eb79bfa9bef",
+      "size": 1252,
+      "mtimeMs": 1785857255339
+    },
+    "wiki/concepts/接触巫术与模拟巫术.md": {
+      "hash": "30dd51bddd985ca52ee15a92bc816538",
+      "size": 2480,
+      "mtimeMs": 1785845740693
+    },
+    "wiki/concepts/控制欲-vs-权力欲.md": {
+      "hash": "ec748ba2392fbb624cf7ecb07e5b1db1",
+      "size": 2546,
+      "mtimeMs": 1785840629231
+    },
+    "wiki/concepts/搭便车效应.md": {
+      "hash": "8fe1719c4beb5126a7ae13eee822b5b4",
+      "size": 1395,
+      "mtimeMs": 1785865029267
+    },
+    "wiki/concepts/改革悖论.md": {
+      "hash": "7b702a9be83fa3c837038c5b8c01bd42",
+      "size": 1325,
+      "mtimeMs": 1785847894300
+    },
+    "wiki/concepts/放得下拿得起.md": {
+      "hash": "ae983f7b7636a8caf43796e3b315a9b7",
+      "size": 1827,
+      "mtimeMs": 1785862328389
+    },
+    "wiki/concepts/政教二元结构.md": {
+      "hash": "103e7a179e24de34a717d657d91ba780",
+      "size": 2699,
+      "mtimeMs": 1785846000453
+    },
+    "wiki/concepts/政权合法性焦虑.md": {
+      "hash": "795a88775c2dda7cd024f6cbc8691e99",
+      "size": 1457,
+      "mtimeMs": 1785833522937
+    },
+    "wiki/concepts/政治信号释放.md": {
+      "hash": "aa34fe4ca948fd207aee0f01eea8e383",
+      "size": 2421,
+      "mtimeMs": 1785841010410
+    },
+    "wiki/concepts/政治和解的结构性困境.md": {
+      "hash": "3cf3e11b3e975eb98a7412c47f6d3207",
+      "size": 2170,
+      "mtimeMs": 1785855405729
+    },
+    "wiki/concepts/政治家写史.md": {
+      "hash": "05cd06482449192b0c2bcb298dd340df",
+      "size": 2250,
+      "mtimeMs": 1785854657868
+    },
+    "wiki/concepts/政治理性.md": {
+      "hash": "64c42a72f60a79086345220a18fa84e8",
+      "size": 1615,
+      "mtimeMs": 1785848397713
+    },
+    "wiki/concepts/教皇权力基础.md": {
+      "hash": "3f5dd2cf9a2ebbd17d28cb6cf4bbaae2",
+      "size": 2048,
+      "mtimeMs": 1785846000544
+    },
+    "wiki/concepts/文人酬唱机制.md": {
+      "hash": "86d21d68a9b20af7f6e19c4af33a8c5d",
+      "size": 1595,
+      "mtimeMs": 1785836323169
+    },
+    "wiki/concepts/文化母体.md": {
+      "hash": "139b96460135382016a47a23e2d2ea29",
+      "size": 1866,
+      "mtimeMs": 1785830605122
+    },
+    "wiki/concepts/文化觉醒与民族整合.md": {
+      "hash": "44ce064346341d1e58a57045f5b7e170",
+      "size": 1584,
+      "mtimeMs": 1785833809418
+    },
+    "wiki/concepts/文学与市场的二元动力.md": {
+      "hash": "ba85da89a8e75a4c0fef6cec90b76278",
+      "size": 1554,
+      "mtimeMs": 1785847129529
+    },
+    "wiki/concepts/文明与工具的互相塑造.md": {
+      "hash": "12b3ccb6646f5dcfd6124516b0cf27d2",
+      "size": 1887,
+      "mtimeMs": 1785839925730
+    },
+    "wiki/concepts/文明与文化的区分.md": {
+      "hash": "d86c9384da32eb0ef705a4a2bd128e36",
+      "size": 1318,
+      "mtimeMs": 1785830233680
+    },
+    "wiki/concepts/文明共识.md": {
+      "hash": "f42f660beb6b6bdc099994a826c60f66",
+      "size": 2428,
+      "mtimeMs": 1785836581294
+    },
+    "wiki/concepts/文明大熔炉.md": {
+      "hash": "019ca95185242b2e62068b42bc5cfaf1",
+      "size": 1447,
+      "mtimeMs": 1785844416385
+    },
+    "wiki/concepts/文明工程精神.md": {
+      "hash": "dd2dcd24aa8301a91cf3423830c678af",
+      "size": 1322,
+      "mtimeMs": 1785852347913
+    },
+    "wiki/concepts/文明演化论.md": {
+      "hash": "efa610ca3c2cf4b96d1f0e62d6aeaa02",
+      "size": 2255,
+      "mtimeMs": 1785846000459
+    },
+    "wiki/concepts/文明的机运.md": {
+      "hash": "83ad38379322316a2423db606e0360cc",
+      "size": 1437,
+      "mtimeMs": 1785851555026
+    },
+    "wiki/concepts/文明的火种罐.md": {
+      "hash": "7f880714edff0ef089fa18affbce4888",
+      "size": 2354,
+      "mtimeMs": 1785834334699
+    },
+    "wiki/concepts/文明的问题定义论.md": {
+      "hash": "d5fffd4873710a577ef0921939969382",
+      "size": 1482,
+      "mtimeMs": 1785839011488
+    },
+    "wiki/concepts/文明秩序的奠基.md": {
+      "hash": "d74b73dd5888919233f1dbf5ff1f7263",
+      "size": 1326,
+      "mtimeMs": 1785831292205
+    },
+    "wiki/concepts/文明空间格局转换.md": {
+      "hash": "195071a0627dc23ee3ce8fbda05e545f",
+      "size": 1426,
+      "mtimeMs": 1785852347893
+    },
+    "wiki/concepts/文贞-文正-谥号.md": {
+      "hash": "79cd00f7eac1df786dfc26edc986e5ca",
+      "size": 1055,
+      "mtimeMs": 1785835874458
+    },
+    "wiki/concepts/旗帜型领导与第一个追随者.md": {
+      "hash": "2f15d23199ca7224a9253c8e223720aa",
+      "size": 2079,
+      "mtimeMs": 1785855405734
+    },
+    "wiki/concepts/无为红利.md": {
+      "hash": "c7b71836cf1c625be0d2aa546deda463",
+      "size": 2186,
+      "mtimeMs": 1785850416514
+    },
+    "wiki/concepts/无定志.md": {
+      "hash": "e26c3a73d0a97dd935011f74243d073c",
+      "size": 1439,
+      "mtimeMs": 1785848397707
+    },
+    "wiki/concepts/无畏布施.md": {
+      "hash": "78d5a28cde5b7559b6709da1f870f49e",
+      "size": 1629,
+      "mtimeMs": 1785840629237
+    },
+    "wiki/concepts/既要也要第三选择.md": {
+      "hash": "6199deefadaab0fc5a637ec2bc44deff",
+      "size": 2472,
+      "mtimeMs": 1785841299708
+    },
+    "wiki/concepts/日常性疼痛.md": {
+      "hash": "b61ea18f2e7a867d4a7b81f4cd6b870a",
+      "size": 1731,
+      "mtimeMs": 1785848751037
+    },
+    "wiki/concepts/时代之眼.md": {
+      "hash": "6d8199044f2827f38291177ae5b66d96",
+      "size": 1330,
+      "mtimeMs": 1785847129516
+    },
+    "wiki/concepts/时代破题人.md": {
+      "hash": "a4a573f50633051d34ffc6169bdde8ad",
+      "size": 2713,
+      "mtimeMs": 1785849319504
+    },
+    "wiki/concepts/时间即权力.md": {
+      "hash": "8f10c702d59eeaedd0d44c2f101d1bd7",
+      "size": 2518,
+      "mtimeMs": 1785843822773
+    },
+    "wiki/concepts/时间算法.md": {
+      "hash": "d0545d087553c2ecbd4cb52ac243a896",
+      "size": 1513,
+      "mtimeMs": 1785830605105
+    },
+    "wiki/concepts/明堂.md": {
+      "hash": "da682eef804022e8401924d2cc8d39d5",
+      "size": 1483,
+      "mtimeMs": 1785844993462
+    },
+    "wiki/concepts/明面上拉高地位实际上压缩空间.md": {
+      "hash": "178f19d0a1b8524cce44f5fcc7e90ade",
+      "size": 1737,
+      "mtimeMs": 1785841299712
+    },
+    "wiki/concepts/景祐党争.md": {
+      "hash": "075603cea3128284f58eefe7ca3c5e9c",
+      "size": 1785,
+      "mtimeMs": 1785841730419
+    },
+    "wiki/concepts/最小阻力路径.md": {
+      "hash": "44c3328d3b17f5a37c4c8ed23b863fac",
+      "size": 1944,
+      "mtimeMs": 1785860470477
+    },
+    "wiki/concepts/有用性论.md": {
+      "hash": "c8f74cdf5ab44099e1802f166bf40a9f",
+      "size": 2620,
+      "mtimeMs": 1785861707164
+    },
+    "wiki/concepts/朋党论（欧阳修）.md": {
+      "hash": "19bb3f823ca2f8e5a86c9bd4ad89eb4f",
+      "size": 885,
+      "mtimeMs": 1785841730441
+    },
+    "wiki/concepts/未完成的人.md": {
+      "hash": "e8911178ffe86c848a545c06a3882136",
+      "size": 1397,
+      "mtimeMs": 1785847395204
+    },
+    "wiki/concepts/本地生活.md": {
+      "hash": "34f2c3e602e79c253811583e28bfce2d",
+      "size": 2153,
+      "mtimeMs": 1785844211907
+    },
+    "wiki/concepts/朴素道德直觉.md": {
+      "hash": "7fd5343a450ef8a09ce859544afb92d8",
+      "size": 1077,
+      "mtimeMs": 1785849579497
+    },
+    "wiki/concepts/权力突破规则.md": {
+      "hash": "3a93933f9cba3144abbbd1cb9a64d97f",
+      "size": 2268,
+      "mtimeMs": 1785841010417
+    },
+    "wiki/concepts/权力网络与正式非正式秩序.md": {
+      "hash": "59d40ea2f0ed099e31a3650cce562e99",
+      "size": 2044,
+      "mtimeMs": 1785850686157
+    },
+    "wiki/concepts/权力被偷走悖论.md": {
+      "hash": "f5ef094c10a0169c1cbf9fe35cb0b908",
+      "size": 1903,
+      "mtimeMs": 1785863025715
+    },
+    "wiki/concepts/权反在下.md": {
+      "hash": "9f5434fa75c7e76b74f771fd50316f6c",
+      "size": 1641,
+      "mtimeMs": 1785831292080
+    },
+    "wiki/concepts/材分制.md": {
+      "hash": "6177905681982f7af8bfb19b1f7dfaec",
+      "size": 1801,
+      "mtimeMs": 1785856422430
+    },
+    "wiki/concepts/杯酒释兵权.md": {
+      "hash": "ca5d990572f5f812f75cc782f270f21c",
+      "size": 1487,
+      "mtimeMs": 1785843993223
+    },
+    "wiki/concepts/枢密使制度演进.md": {
+      "hash": "455069fc88c1f0ef46f15f16d02d80e3",
+      "size": 2005,
+      "mtimeMs": 1785846541738
+    },
+    "wiki/concepts/柏拉图视角与达尔文视角.md": {
+      "hash": "3a3e3352c715b2e37795ce459b9f32e6",
+      "size": 2063,
+      "mtimeMs": 1785830605138
+    },
+    "wiki/concepts/柔性权力.md": {
+      "hash": "234b252f12044e2c7a6e7e5441130402",
+      "size": 1968,
+      "mtimeMs": 1785843822806
+    },
+    "wiki/concepts/柴册礼.md": {
+      "hash": "f5deab4f3f843f34032eb6e52b4a9615",
+      "size": 1281,
+      "mtimeMs": 1785841299730
+    },
+    "wiki/concepts/模数制.md": {
+      "hash": "ee47bc7f2aa9627fb8c5f20fc1b0ccdb",
+      "size": 2202,
+      "mtimeMs": 1785856422438
+    },
+    "wiki/concepts/横向对齐效应.md": {
+      "hash": "5e00fa5bc91dd4e67a77b997aa5e9a1a",
+      "size": 2136,
+      "mtimeMs": 1785863415087
+    },
+    "wiki/concepts/正义的实现.md": {
+      "hash": "846bcbb278644253baf275a27ac8648a",
+      "size": 1203,
+      "mtimeMs": 1785849579508
+    },
+    "wiki/concepts/正办.md": {
+      "hash": "1983cbee8d35e67a72d97c33dda58cc2",
+      "size": 1775,
+      "mtimeMs": 1785835874441
+    },
+    "wiki/concepts/正式制度与非正式制度的平衡.md": {
+      "hash": "bb92035f926f2ec983e7cd55451bcf28",
+      "size": 1155,
+      "mtimeMs": 1785862763151
+    },
+    "wiki/concepts/正统性竞争.md": {
+      "hash": "d8449a26a4b2df042bd4e30ac92491db",
+      "size": 1718,
+      "mtimeMs": 1785834362667
+    },
+    "wiki/concepts/武则天的继承逻辑难题.md": {
+      "hash": "7b72f364b5b65af20ce0fed4b9ac318e",
+      "size": 2374,
+      "mtimeMs": 1785840629225
+    },
+    "wiki/concepts/民不加赋而国用饶.md": {
+      "hash": "fb479353d3aca4e47550a983cb8576d7",
+      "size": 1500,
+      "mtimeMs": 1785849836834
+    },
+    "wiki/concepts/民胞物与.md": {
+      "hash": "ab850be62d87dc0407b9af583692bfcd",
+      "size": 2038,
+      "mtimeMs": 1785862328383
+    },
+    "wiki/concepts/民间大众文化的崛起.md": {
+      "hash": "ed355dbc96f285aadb14175883ea3e2b",
+      "size": 1376,
+      "mtimeMs": 1785860996966
+    },
+    "wiki/concepts/永乐城之战.md": {
+      "hash": "fefc6740f982ffbaf9d044edca2aff94",
+      "size": 2440,
+      "mtimeMs": 1785853462791
+    },
+    "wiki/concepts/汉语的分析语特性.md": {
+      "hash": "4a3e88a138eccd2bb3953da5e450e59d",
+      "size": 2075,
+      "mtimeMs": 1785855140045
+    },
+    "wiki/concepts/江西诗派.md": {
+      "hash": "2463bc9a101ccb4b4b1c34355fef7d24",
+      "size": 2682,
+      "mtimeMs": 1785861363472
+    },
+    "wiki/concepts/沉着痛快.md": {
+      "hash": "3ddc85294104b8ec325374e33ed4224b",
+      "size": 1247,
+      "mtimeMs": 1785860191420
+    },
+    "wiki/concepts/河流与指纹的隐喻.md": {
+      "hash": "f9b8490e9a3c69a5f5f56cc048969356",
+      "size": 1404,
+      "mtimeMs": 1785830233696
+    },
+    "wiki/concepts/法外有天.md": {
+      "hash": "f63fa359cb48a211a925bfae18ac60a7",
+      "size": 1398,
+      "mtimeMs": 1785849579491
+    },
+    "wiki/concepts/法式.md": {
+      "hash": "87a9bd169a7919d02380907fd7603af8",
+      "size": 1324,
+      "mtimeMs": 1785856422464
+    },
+    "wiki/concepts/法术语势.md": {
+      "hash": "e25caf71d646c6f864d48e16b88f2fcb",
+      "size": 1519,
+      "mtimeMs": 1785851232260
+    },
+    "wiki/concepts/活字印刷术.md": {
+      "hash": "74bbf498e7fed492db45466a16c049b9",
+      "size": 3372,
+      "mtimeMs": 1785842966257
+    },
+    "wiki/concepts/流传有序.md": {
+      "hash": "fe5f044ec27e852d7be1aed473fcf9d0",
+      "size": 2900,
+      "mtimeMs": 1785864540479
+    },
+    "wiki/concepts/浅攻进筑.md": {
+      "hash": "923273053e642aec051e177ca98afae3",
+      "size": 1022,
+      "mtimeMs": 1785842652935
+    },
+    "wiki/concepts/涟漪效应.md": {
+      "hash": "368772f47d58a8c8cd80b54e44f9ad39",
+      "size": 2725,
+      "mtimeMs": 1785840178978
+    },
+    "wiki/concepts/清场式改革.md": {
+      "hash": "ed1994a3aa76d6470d4c9d60225d731b",
+      "size": 2592,
+      "mtimeMs": 1785850092342
+    },
+    "wiki/concepts/渊默.md": {
+      "hash": "595a3ff6b2f286e02e3e9ee052881d33",
+      "size": 1014,
+      "mtimeMs": 1785857255334
+    },
+    "wiki/concepts/温柔的坚定.md": {
+      "hash": "035ae926a76f61b42cf2c1810032dabf",
+      "size": 2829,
+      "mtimeMs": 1785837115561
+    },
+    "wiki/concepts/游戏精神（京剧评书）.md": {
+      "hash": "2ade1991cea0aefee334d2c99b2b7301",
+      "size": 2858,
+      "mtimeMs": 1785834986261
+    },
+    "wiki/concepts/游牧文明的再评价.md": {
+      "hash": "7b9f5595d1999181204f62a7a543267b",
+      "size": 3450,
+      "mtimeMs": 1785839011476
+    },
+    "wiki/concepts/溜须.md": {
+      "hash": "0ec28e5d75599238900bb480e8abcf73",
+      "size": 1322,
+      "mtimeMs": 1785836581313
+    },
+    "wiki/concepts/滚雪球效应-战场溃散.md": {
+      "hash": "8944d811e8019f3dc82a87069add4267",
+      "size": 1380,
+      "mtimeMs": 1785865029261
+    },
+    "wiki/concepts/澶渊之盟.md": {
+      "hash": "121da378318af23c13fc6997965f8648",
+      "size": 2008,
+      "mtimeMs": 1785832098711
+    },
+    "wiki/concepts/濮议.md": {
+      "hash": "cd408e779d89f7377e4959532957885c",
+      "size": 2275,
+      "mtimeMs": 1785848950197
+    },
+    "wiki/concepts/点铁成金与夺胎换骨.md": {
+      "hash": "e2ce9411f5082a1319832e8271637709",
+      "size": 1949,
+      "mtimeMs": 1785861363478
+    },
+    "wiki/concepts/熙河开边.md": {
+      "hash": "0002ec3c4a14c75cabd19ace2ae2f093",
+      "size": 1217,
+      "mtimeMs": 1785851555005
+    },
+    "wiki/concepts/熵增与王朝治理.md": {
+      "hash": "c03d497534179ff00ed65d84b7db649f",
+      "size": 1686,
+      "mtimeMs": 1785848397699
+    },
+    "wiki/concepts/父死子继与兄终弟及.md": {
+      "hash": "ec0cea9221b4b0ad5d49977687c03926",
+      "size": 3273,
+      "mtimeMs": 1785830930743
+    },
+    "wiki/concepts/特奏名进士.md": {
+      "hash": "2ed1ac9298e427bcbdc96df22d77361e",
+      "size": 1669,
+      "mtimeMs": 1785836091350
+    },
+    "wiki/concepts/特赦.md": {
+      "hash": "429a91a7398799baba7b605fc72d38f7",
+      "size": 1086,
+      "mtimeMs": 1785849579503
+    },
+    "wiki/concepts/猛安谋克制度.md": {
+      "hash": "b87e9a3608d4d70e89af240e34e90e7b",
+      "size": 1419,
+      "mtimeMs": 1785864993941
+    },
+    "wiki/concepts/猜忌的恶性循环.md": {
+      "hash": "51411df810fa557ad5bbfa4799b831a1",
+      "size": 2123,
+      "mtimeMs": 1785848950211
+    },
+    "wiki/concepts/獭祭鱼.md": {
+      "hash": "c7085b25b4e94e44adb80e00f0087b49",
+      "size": 1357,
+      "mtimeMs": 1785836323174
+    },
+    "wiki/concepts/王夫之的四层决策模型.md": {
+      "hash": "9fb8f7780bd0aaf1fdbcca187bdf6334",
+      "size": 2894,
+      "mtimeMs": 1785831790860
+    },
+    "wiki/concepts/理-理学核心概念.md": {
+      "hash": "7c7bf59f29e07493b268245bafa4be2a",
+      "size": 2473,
+      "mtimeMs": 1785862328377
+    },
+    "wiki/concepts/理念与现实的鸿沟.md": {
+      "hash": "deab7609a2eebdfdd26c740c815cd84c",
+      "size": 2549,
+      "mtimeMs": 1785853462802
+    },
+    "wiki/concepts/理想与欲望.md": {
+      "hash": "26522aa9bc8dd3b82e2209ccd4f6eb5c",
+      "size": 1408,
+      "mtimeMs": 1785848751053
+    },
+    "wiki/concepts/理想主义友谊.md": {
+      "hash": "9f8e14ea55ecd99bbe519dd77223dc57",
+      "size": 1652,
+      "mtimeMs": 1785848751037
+    },
+    "wiki/concepts/理解之同情.md": {
+      "hash": "f8f24ac46c9023b28111e4a5c6083ce1",
+      "size": 3771,
+      "mtimeMs": 1785830930736
+    },
+    "wiki/concepts/生儿不举.md": {
+      "hash": "a3aedcda4d8ef010d6db40b0585100de",
+      "size": 1659,
+      "mtimeMs": 1785845262850
+    },
+    "wiki/concepts/生存品与效用品.md": {
+      "hash": "70dafa354a7b456055b9c49866946125",
+      "size": 2049,
+      "mtimeMs": 1785834070525
+    },
+    "wiki/concepts/白手套论.md": {
+      "hash": "0aa2352be68b840e1353481af65d3d4c",
+      "size": 2766,
+      "mtimeMs": 1785850686135
+    },
+    "wiki/concepts/百官图.md": {
+      "hash": "49abb45b3b448a53ae9bf17da1f1e045",
+      "size": 578,
+      "mtimeMs": 1785841730459
+    },
+    "wiki/concepts/皇恩逻辑.md": {
+      "hash": "495fcc1a40040fa163af344b05e23ddb",
+      "size": 1914,
+      "mtimeMs": 1785860741952
+    },
+    "wiki/concepts/皇权交接困境.md": {
+      "hash": "fa91698e10189c9bfd4bb23bdb9769f2",
+      "size": 1766,
+      "mtimeMs": 1785836581331
+    },
+    "wiki/concepts/皇权刹车系统.md": {
+      "hash": "f74f072e1e6fa56f1e25bcd838c64d39",
+      "size": 973,
+      "mtimeMs": 1785862763162
+    },
+    "wiki/concepts/皇权的独占性.md": {
+      "hash": "c9188a39e49880bdfd0c98c0823b4862",
+      "size": 1653,
+      "mtimeMs": 1785843993233
+    },
+    "wiki/concepts/目标置换.md": {
+      "hash": "654f058f2a2eeee70059c97459f721ba",
+      "size": 1427,
+      "mtimeMs": 1785843993212
+    },
+    "wiki/concepts/着力即差.md": {
+      "hash": "1b4b5385ed4cfc4961735a4346e09aee",
+      "size": 1328,
+      "mtimeMs": 1785860191405
+    },
+    "wiki/concepts/知人论世的两面镜子.md": {
+      "hash": "670709a5a8e3793bb8c326edac5912e0",
+      "size": 1592,
+      "mtimeMs": 1785848397693
+    },
+    "wiki/concepts/知识垄断.md": {
+      "hash": "cc239a1432a95b35206618d366741a07",
+      "size": 1222,
+      "mtimeMs": 1785838349857
+    },
+    "wiki/concepts/破坏式创新.md": {
+      "hash": "ba651c85b4fd772dc74d0b1f0d1e433c",
+      "size": 1207,
+      "mtimeMs": 1785832743195
+    },
+    "wiki/concepts/破局者与建制者.md": {
+      "hash": "1d72bffbe7ba025e074656609f208750",
+      "size": 1251,
+      "mtimeMs": 1785862763174
+    },
+    "wiki/concepts/确定性效应.md": {
+      "hash": "a3e7f8d76952b3ed3b5b9081f6f55dea",
+      "size": 1477,
+      "mtimeMs": 1785830605122
+    },
+    "wiki/concepts/社交网络切换.md": {
+      "hash": "edd15f457d45b2800c8c4404ece87d8b",
+      "size": 1041,
+      "mtimeMs": 1785853959019
+    },
+    "wiki/concepts/社会协作网络.md": {
+      "hash": "f203fd31a5a24bb2dea8309c8048fac7",
+      "size": 2991,
+      "mtimeMs": 1785842966269
+    },
+    "wiki/concepts/社会性死亡.md": {
+      "hash": "0dbdac6059884908feb41613fa038201",
+      "size": 971,
+      "mtimeMs": 1785852061531
+    },
+    "wiki/concepts/社会网络关键节点依附.md": {
+      "hash": "b117ce656feb1e7c9723dcd1a6c6b5d4",
+      "size": 1204,
+      "mtimeMs": 1785852061520
+    },
+    "wiki/concepts/社会网络成长模型.md": {
+      "hash": "5985f0acbb94b74b24b4678074211ccf",
+      "size": 2012,
+      "mtimeMs": 1785835358175
+    },
+    "wiki/concepts/祖宗之法.md": {
+      "hash": "ac33c7166004af3423f06dd5063f96cb",
+      "size": 2958,
+      "mtimeMs": 1785837115583
+    },
+    "wiki/concepts/神格化皇权.md": {
+      "hash": "873127d9807f1fc04f2eed44a69bee45",
+      "size": 1669,
+      "mtimeMs": 1785865514348
+    },
+    "wiki/concepts/神童作为祥瑞.md": {
+      "hash": "5ea0179cb25ac4ac62b1300fc87f470f",
+      "size": 2138,
+      "mtimeMs": 1785864540498
+    },
+    "wiki/concepts/神童政治.md": {
+      "hash": "cd04134a23d5358664ab013ee4dd8260",
+      "size": 1478,
+      "mtimeMs": 1785836323163
+    },
+    "wiki/concepts/神道设教.md": {
+      "hash": "308d38c497c7232e7d291d581b12f3a4",
+      "size": 862,
+      "mtimeMs": 1785833317258
+    },
+    "wiki/concepts/祥瑞.md": {
+      "hash": "dac78e4b7734fe073c72ffde17908f9e",
+      "size": 862,
+      "mtimeMs": 1785833317269
+    },
+    "wiki/concepts/祥瑞制造范式.md": {
+      "hash": "7f1f309a77bb4d6426ea4fbaccfa329b",
+      "size": 1568,
+      "mtimeMs": 1785865514354
+    },
+    "wiki/concepts/禁酒令效应禁令的替代路径.md": {
+      "hash": "871245fc59f6bbb93fc9fd7f0d63bd03",
+      "size": 782,
+      "mtimeMs": 1785859678248
+    },
+    "wiki/concepts/私人信任网络.md": {
+      "hash": "a4e59ee55e126b06bd6f917bae0d7641",
+      "size": 1683,
+      "mtimeMs": 1785854295270
+    },
+    "wiki/concepts/秉笔实录.md": {
+      "hash": "831f8c8db658f55f4d7375d23d71f668",
+      "size": 1970,
+      "mtimeMs": 1785847576323
+    },
+    "wiki/concepts/科举制度.md": {
+      "hash": "73f5401dea822d067135eca7d8aa48af",
+      "size": 2775,
+      "mtimeMs": 1785831572268
+    },
+    "wiki/concepts/科举制度对隐士的釜底抽薪.md": {
+      "hash": "697ed59e7ed7ad18a1b85cb79ab159ae",
+      "size": 1453,
+      "mtimeMs": 1785839286412
+    },
+    "wiki/concepts/科举的游戏化设计.md": {
+      "hash": "ec494be400d8830837a921c25736220a",
+      "size": 2736,
+      "mtimeMs": 1785836091339
+    },
+    "wiki/concepts/科举黑科技.md": {
+      "hash": "51e4d6a26a42e7fe1a4ecacd9b10f79a",
+      "size": 1752,
+      "mtimeMs": 1785836091356
+    },
+    "wiki/concepts/科学家概念的时空错位.md": {
+      "hash": "5fc707d9a2238c1377d518fa906be25d",
+      "size": 1685,
+      "mtimeMs": 1785857856828
+    },
+    "wiki/concepts/科技树点开.md": {
+      "hash": "caa67d0ee5c6688bddc10e3953b77b5f",
+      "size": 1650,
+      "mtimeMs": 1785839925735
+    },
+    "wiki/concepts/秦汉之变祭祀.md": {
+      "hash": "e86357a2797ffbf6e5c7bd09d6314326",
+      "size": 1493,
+      "mtimeMs": 1785844993472
+    },
+    "wiki/concepts/称王则不喜-称帝则是从.md": {
+      "hash": "a5bc2d1561be96d77488e2402f79ebe2",
+      "size": 1401,
+      "mtimeMs": 1785841993422
+    },
+    "wiki/concepts/税收四原则.md": {
+      "hash": "3e12be81cd98a99f847c4a31a7b65320",
+      "size": 1066,
+      "mtimeMs": 1785832743206
+    },
+    "wiki/concepts/税柄.md": {
+      "hash": "7f1d8ccb269976a8963b974326b14aec",
+      "size": 1712,
+      "mtimeMs": 1785838729267
+    },
+    "wiki/concepts/章楶消耗战略.md": {
+      "hash": "ec30e8a8c51a6d46ae34d3e9572f6d3e",
+      "size": 659,
+      "mtimeMs": 1785859678248
+    },
+    "wiki/concepts/端王轻佻.md": {
+      "hash": "6dca92bf4588e8ac1fd321c5e43011b3",
+      "size": 1626,
+      "mtimeMs": 1785859934079
+    },
+    "wiki/concepts/笔尖向内以诗写命.md": {
+      "hash": "9c4d84ad40cea7569aeb5dc411f9aca5",
+      "size": 1515,
+      "mtimeMs": 1785847395199
+    },
+    "wiki/concepts/符号化的人格重构.md": {
+      "hash": "6297b9649357ee2b4345f1e55a9e6492",
+      "size": 1379,
+      "mtimeMs": 1785860996951
+    },
+    "wiki/concepts/符号化的人生.md": {
+      "hash": "478d140df9205f98daf7f56f7e306bea",
+      "size": 2014,
+      "mtimeMs": 1785855140051
+    },
+    "wiki/concepts/第二段生命.md": {
+      "hash": "7c1993ed19b73615f63ef674fb6f0865",
+      "size": 1781,
+      "mtimeMs": 1785856064846
+    },
+    "wiki/concepts/算账vs打仗.md": {
+      "hash": "06391dcc0d8e0b8f7fe8c73b86be5cbb",
+      "size": 1676,
+      "mtimeMs": 1785832343290
+    },
+    "wiki/concepts/粉红色大象效应.md": {
+      "hash": "a30e9f6a48ca723d2ac4b15384db48a6",
+      "size": 978,
+      "mtimeMs": 1785857255345
+    },
+    "wiki/concepts/糊名与誊录.md": {
+      "hash": "1da3c09dad10e9bf614dfce57b54640c",
+      "size": 2734,
+      "mtimeMs": 1785831572280
+    },
+    "wiki/concepts/系统思维.md": {
+      "hash": "c040e00cf02f31b7457b374dc00deb89",
+      "size": 1959,
+      "mtimeMs": 1785836885696
+    },
+    "wiki/concepts/级联效应.md": {
+      "hash": "ed7308c5ecf41131faa3645e72fdcd69",
+      "size": 1962,
+      "mtimeMs": 1785865309441
+    },
+    "wiki/concepts/纪传体.md": {
+      "hash": "48ec0c59ed7fa7305a9935055bc4af55",
+      "size": 2237,
+      "mtimeMs": 1785854657847
+    },
+    "wiki/concepts/绍圣之政.md": {
+      "hash": "9f5009c93eaa1dea711255fa9cfc32db",
+      "size": 1121,
+      "mtimeMs": 1785857255323
+    },
+    "wiki/concepts/经济制裁的内部政治反噬.md": {
+      "hash": "cf9ad8e402620c78db83ca50e267b566",
+      "size": 817,
+      "mtimeMs": 1785859678220
+    },
+    "wiki/concepts/结构性人才空洞.md": {
+      "hash": "93591172c068a2844bacd15a2fc82d52",
+      "size": 1897,
+      "mtimeMs": 1785855405746
+    },
+    "wiki/concepts/绝地天通.md": {
+      "hash": "2838bf6802f2c641f9cb1f55f20b3ac3",
+      "size": 2055,
+      "mtimeMs": 1785843822779
+    },
+    "wiki/concepts/编年体.md": {
+      "hash": "aaf345c22f394a08e216954669f80072",
+      "size": 2151,
+      "mtimeMs": 1785854657854
+    },
+    "wiki/concepts/羁縻.md": {
+      "hash": "99af93a9f4d00b5df3d98b177666c48a",
+      "size": 1553,
+      "mtimeMs": 1785833809411
+    },
+    "wiki/concepts/群体极化.md": {
+      "hash": "889afa7037ed907ba428e6ca63a95f6b",
+      "size": 903,
+      "mtimeMs": 1785858585003
+    },
+    "wiki/concepts/老人的社会网络枢纽价值.md": {
+      "hash": "515d5f9ec4079513219003e0cc70070c",
+      "size": 1934,
+      "mtimeMs": 1785856064834
+    },
+    "wiki/concepts/耕牧之争.md": {
+      "hash": "65af050ff283c8686872ee3a1588d0d7",
+      "size": 1188,
+      "mtimeMs": 1785839925719
+    },
+    "wiki/concepts/职场发小.md": {
+      "hash": "86a13e414b2a4b68e013d4e966860d64",
+      "size": 674,
+      "mtimeMs": 1785841730452
+    },
+    "wiki/concepts/聚焦点.md": {
+      "hash": "d89d72f86a9085271415b45866475b67",
+      "size": 2098,
+      "mtimeMs": 1785859934072
+    },
+    "wiki/concepts/胃口喂养效应.md": {
+      "hash": "b7245cf86d1a2b378f3fc6ac2457086d",
+      "size": 1468,
+      "mtimeMs": 1785898483160
+    },
+    "wiki/concepts/能力与社会网络的失衡.md": {
+      "hash": "9664dcb5688e0654917577bd5e8e27bb",
+      "size": 1080,
+      "mtimeMs": 1785852061538
+    },
+    "wiki/concepts/脱钩不遗余力-借鉴也是不遗余力.md": {
+      "hash": "3019459125a2911dfcfc33aae991ff21",
+      "size": 1448,
+      "mtimeMs": 1785841993428
+    },
+    "wiki/concepts/自荐制与他荐制.md": {
+      "hash": "3cf6d9e1c28c7a07267b13ef0b5b6044",
+      "size": 2709,
+      "mtimeMs": 1785831572275
+    },
+    "wiki/concepts/至暗时刻.md": {
+      "hash": "1b5a76cefddf421f06eba23bd88c260f",
+      "size": 1034,
+      "mtimeMs": 1785853959025
+    },
+    "wiki/concepts/艺术真迹的流动性与共同创作.md": {
+      "hash": "2002b11b2dfa8bfea225d0c523c6d8e3",
+      "size": 2029,
+      "mtimeMs": 1785864540504
+    },
+    "wiki/concepts/英雄的危险性.md": {
+      "hash": "f2d3ea4948cf0effc6893de5ec131351",
+      "size": 1635,
+      "mtimeMs": 1785846541745
+    },
+    "wiki/concepts/茶引.md": {
+      "hash": "9439141bc684708933811bee18730215",
+      "size": 2005,
+      "mtimeMs": 1785838729245
+    },
+    "wiki/concepts/茶法.md": {
+      "hash": "a5443c6c1c637bb6215a8dafb80f440c",
+      "size": 2107,
+      "mtimeMs": 1785838729240
+    },
+    "wiki/concepts/茶马贸易.md": {
+      "hash": "a214b80d88df4d8357c036a50579e94d",
+      "size": 1642,
+      "mtimeMs": 1785838729262
+    },
+    "wiki/concepts/草原政治秩序-窒息继位仪式.md": {
+      "hash": "11a4d2a46317cede700b7c0283885dbc",
+      "size": 2113,
+      "mtimeMs": 1785839011482
+    },
+    "wiki/concepts/草原王朝融合模式迭代.md": {
+      "hash": "abc4e0c3d6622e98176a13bed1f99ddd",
+      "size": 2708,
+      "mtimeMs": 1785833051770
+    },
+    "wiki/concepts/落韵-科举落韵.md": {
+      "hash": "449976ff0c7991eac227645e2916a3ad",
+      "size": 1141,
+      "mtimeMs": 1785842293502
+    },
+    "wiki/concepts/蔡京悖论.md": {
+      "hash": "72f74a5f92a734895b59e54f6ce5e06b",
+      "size": 2679,
+      "mtimeMs": 1785860741936
+    },
+    "wiki/concepts/虚构故事驱动大规模合作.md": {
+      "hash": "f7282794629cc793df4e3ea93a6e9165",
+      "size": 2219,
+      "mtimeMs": 1785846211025
+    },
+    "wiki/concepts/西昆体.md": {
+      "hash": "fa81c3bf61471947a0f344a36003bc52",
+      "size": 1810,
+      "mtimeMs": 1785836323094
+    },
+    "wiki/concepts/规模悖论.md": {
+      "hash": "06293bfcec2e2a8fd7ccd22f145324eb",
+      "size": 1930,
+      "mtimeMs": 1785861363489
+    },
+    "wiki/concepts/规模效应.md": {
+      "hash": "3972499ca3cdca699cd65885480b60a6",
+      "size": 1457,
+      "mtimeMs": 1785830605122
+    },
+    "wiki/concepts/规训与权力反噬.md": {
+      "hash": "4f7956460923b2984af35f1c1f8acf66",
+      "size": 1419,
+      "mtimeMs": 1785857255328
+    },
+    "wiki/concepts/解决问题-vs-人设期待.md": {
+      "hash": "5bc13d541246acf3cb9feac7dd6d2697",
+      "size": 1854,
+      "mtimeMs": 1785836885708
+    },
+    "wiki/concepts/认知失调.md": {
+      "hash": "e673ecd7e338ed899d3a06b39032d988",
+      "size": 1239,
+      "mtimeMs": 1785833522924
+    },
+    "wiki/concepts/议题创业.md": {
+      "hash": "656f483ab049054f61e9bc6ae099f217",
+      "size": 1617,
+      "mtimeMs": 1785860470509
+    },
+    "wiki/concepts/识读门槛与劳动分工.md": {
+      "hash": "f5667a8dfb80eb757f0789d3db8346ff",
+      "size": 2500,
+      "mtimeMs": 1785842966282
+    },
+    "wiki/concepts/诗史互证.md": {
+      "hash": "d9d314d3faa5dc7d1c4f5f117628e629",
+      "size": 1478,
+      "mtimeMs": 1785836885714
+    },
+    "wiki/concepts/话语与话语主体的分离.md": {
+      "hash": "f050489708d2256f183edf1493cc6cc6",
+      "size": 2019,
+      "mtimeMs": 1785846211009
+    },
+    "wiki/concepts/语音统一-语同音.md": {
+      "hash": "285ee85ccc2ec97b3a9f2999c4eed3c2",
+      "size": 1447,
+      "mtimeMs": 1785842293512
+    },
+    "wiki/concepts/诺门克拉图拉.md": {
+      "hash": "524da23e8a5e69cd1c419dccd8ab8c3b",
+      "size": 1744,
+      "mtimeMs": 1785863415106
+    },
+    "wiki/concepts/读书人精神共同体.md": {
+      "hash": "7dab4fe142e73218afeabc3020be0c32",
+      "size": 1661,
+      "mtimeMs": 1785842293507
+    },
+    "wiki/concepts/课题分离.md": {
+      "hash": "9003f22812329b3987d2fb6591c64da0",
+      "size": 2261,
+      "mtimeMs": 1785835874435
+    },
+    "wiki/concepts/谱师经济.md": {
+      "hash": "f4f5fee4cf3676e6ee7eee8960ceff81",
+      "size": 1743,
+      "mtimeMs": 1785842966295
+    },
+    "wiki/concepts/象征思维.md": {
+      "hash": "3f0fab02079ea3c462f2340c9dcf6334",
+      "size": 1237,
+      "mtimeMs": 1785844993467
+    },
+    "wiki/concepts/货币投放的单一口径.md": {
+      "hash": "f1c08f3fee3102fd9952965750404d2f",
+      "size": 1122,
+      "mtimeMs": 1785863677666
+    },
+    "wiki/concepts/贱金属货币的困境.md": {
+      "hash": "40d331f4dd7751317061a51e2434adb2",
+      "size": 1819,
+      "mtimeMs": 1785837885061
+    },
+    "wiki/concepts/费舍尔失控理论.md": {
+      "hash": "097a72614f361ad6ed18f370127241f1",
+      "size": 1676,
+      "mtimeMs": 1785834070538
+    },
+    "wiki/concepts/资格与权力分离.md": {
+      "hash": "98dc7742d497e5b91d50cf6aec6da3c1",
+      "size": 1489,
+      "mtimeMs": 1785835608165
+    },
+    "wiki/concepts/走私削弱制裁的政治后果.md": {
+      "hash": "0c55d21c302580aebacd717e4d501b95",
+      "size": 700,
+      "mtimeMs": 1785859678232
+    },
+    "wiki/concepts/超级对齐.md": {
+      "hash": "7ca6e848e449c30799893a674d4f088b",
+      "size": 1857,
+      "mtimeMs": 1785836885703
+    },
+    "wiki/concepts/超越-折返生存范式.md": {
+      "hash": "b41923c81ca3a94b51c5e1c7b1356417",
+      "size": 1003,
+      "mtimeMs": 1785853959002
+    },
+    "wiki/concepts/超越性人格载体.md": {
+      "hash": "df3f81ab149347a24e0ab762cacb7a0d",
+      "size": 2147,
+      "mtimeMs": 1785856064841
+    },
+    "wiki/concepts/跨文明成本收益逻辑差异.md": {
+      "hash": "1004ddfbb0cbc20e37d00813fb9e71d6",
+      "size": 726,
+      "mtimeMs": 1785859678232
+    },
+    "wiki/concepts/车盖亭诗案.md": {
+      "hash": "5288ffba5c597b112a3307131a47063b",
+      "size": 1731,
+      "mtimeMs": 1785857026351
+    },
+    "wiki/concepts/软法律式信用体系.md": {
+      "hash": "04dfae37f0bfd247d742f14ffa11c742",
+      "size": 1293,
+      "mtimeMs": 1785860996956
+    },
+    "wiki/concepts/过渡时期的大师.md": {
+      "hash": "1ce6de9a5b7e5453dd993721cbaa8951",
+      "size": 2693,
+      "mtimeMs": 1785849319520
+    },
+    "wiki/concepts/进化剪刀.md": {
+      "hash": "44fa96df4dcd87950a2c8530f173adf2",
+      "size": 1536,
+      "mtimeMs": 1785830605169
+    },
+    "wiki/concepts/连续性原则.md": {
+      "hash": "252d340f3642d47f5b08ab11d3f20bba",
+      "size": 891,
+      "mtimeMs": 1785833317278
+    },
+    "wiki/concepts/退出机制.md": {
+      "hash": "0273d76bfae65b4d8efeea49bcfdd060",
+      "size": 1338,
+      "mtimeMs": 1785858584989
+    },
+    "wiki/concepts/选择性激励.md": {
+      "hash": "f5bb59259021a11e597fd2a3bfbfd852",
+      "size": 2051,
+      "mtimeMs": 1785857505408
+    },
+    "wiki/concepts/造物冲动与精神安顿.md": {
+      "hash": "74a5044ef393e12784c429c0d2fb475f",
+      "size": 2400,
+      "mtimeMs": 1785855822348
+    },
+    "wiki/concepts/道义大旗.md": {
+      "hash": "286ea9f401ee027e5dda47c0f0766f92",
+      "size": 1413,
+      "mtimeMs": 1785854925755
+    },
+    "wiki/concepts/道德两难.md": {
+      "hash": "cb463e193be2be4e75bf9bc015fff618",
+      "size": 2018,
+      "mtimeMs": 1785848950205
+    },
+    "wiki/concepts/道德感召力.md": {
+      "hash": "b088ea7fcd06c09382799f382e281166",
+      "size": 1980,
+      "mtimeMs": 1785844700497
+    },
+    "wiki/concepts/道德政治.md": {
+      "hash": "ec36ec38bfd9a9e92672d26f55387179",
+      "size": 1498,
+      "mtimeMs": 1785841730424
+    },
+    "wiki/concepts/道德自治.md": {
+      "hash": "d6a557928f9964cfdce509885d232503",
+      "size": 1094,
+      "mtimeMs": 1785857255356
+    },
+    "wiki/concepts/部落联盟与帝国.md": {
+      "hash": "5d468c5c53e3ee1550f7976406d047fa",
+      "size": 1441,
+      "mtimeMs": 1785841993433
+    },
+    "wiki/concepts/野蛮孕育文明.md": {
+      "hash": "bf54a949ebb87cb8ddbd6155ac3f6770",
+      "size": 1926,
+      "mtimeMs": 1785840404054
+    },
+    "wiki/concepts/钱荒.md": {
+      "hash": "bed2beb851892a2166f4576a30b63de1",
+      "size": 4244,
+      "mtimeMs": 1785863677647
+    },
+    "wiki/concepts/铁钱.md": {
+      "hash": "7d10a0445229bac09824da909fe231cc",
+      "size": 1329,
+      "mtimeMs": 1785837885066
+    },
+    "wiki/concepts/问题与答案的时代错位.md": {
+      "hash": "1cf398e4323e45ababc798f344829cf5",
+      "size": 1434,
+      "mtimeMs": 1785863677672
+    },
+    "wiki/concepts/阀阅之家.md": {
+      "hash": "325b4a97e5a0be7ddb34779f917b7c5f",
+      "size": 1107,
+      "mtimeMs": 1785838349852
+    },
+    "wiki/concepts/防御性国防战略.md": {
+      "hash": "65394684d358b9bc17c948b5ddec2f32",
+      "size": 2078,
+      "mtimeMs": 1785832098737
+    },
+    "wiki/concepts/阶层上升通道收窄.md": {
+      "hash": "8f7e0233cf7742ac39a886300bdb9b70",
+      "size": 755,
+      "mtimeMs": 1785841730446
+    },
+    "wiki/concepts/阿云案.md": {
+      "hash": "a6fb43d41fefd4373409544824eec664",
+      "size": 1254,
+      "mtimeMs": 1785849579479
+    },
+    "wiki/concepts/陌生化.md": {
+      "hash": "06fbba974d5ec118040c838d0b695837",
+      "size": 1200,
+      "mtimeMs": 1785864026226
+    },
+    "wiki/concepts/险韵.md": {
+      "hash": "dec52931204e90878242ed67408d5c09",
+      "size": 716,
+      "mtimeMs": 1785842293522
+    },
+    "wiki/concepts/隐士文化.md": {
+      "hash": "e449fe3fca1bd8725f595ebb463b88ea",
+      "size": 2404,
+      "mtimeMs": 1785839286401
+    },
+    "wiki/concepts/隐士躺平方向感模型.md": {
+      "hash": "6790d0787025988d6a6cb191144c0da2",
+      "size": 2137,
+      "mtimeMs": 1785839286407
+    },
+    "wiki/concepts/隐微写作.md": {
+      "hash": "3d2869969dfc15d35c5ce3b10925bb55",
+      "size": 2030,
+      "mtimeMs": 1785855140040
+    },
+    "wiki/concepts/隐性政治需求.md": {
+      "hash": "60c6bca9082ecebf6d62a418d059d89a",
+      "size": 1703,
+      "mtimeMs": 1785854295277
+    },
+    "wiki/concepts/隐藏变量.md": {
+      "hash": "354f0a81e74caf28c84ad61e8dab8778",
+      "size": 1965,
+      "mtimeMs": 1785830605138
+    },
+    "wiki/concepts/集体行动的逻辑.md": {
+      "hash": "13dddb11123c4d43444a0b061c08f942",
+      "size": 2389,
+      "mtimeMs": 1785857505413
+    },
+    "wiki/concepts/雕版印刷术.md": {
+      "hash": "43ab20da8bf4497b5ebc269f4775d538",
+      "size": 2734,
+      "mtimeMs": 1785842966263
+    },
+    "wiki/concepts/雕版印刷术的负面效应.md": {
+      "hash": "ad7036e9d62068efc907a76ba08e68fb",
+      "size": 2536,
+      "mtimeMs": 1785846211035
+    },
+    "wiki/concepts/零增长社会.md": {
+      "hash": "53b791e4326b47bf79c417e2247da882",
+      "size": 1437,
+      "mtimeMs": 1785849836845
+    },
+    "wiki/concepts/青苗法.md": {
+      "hash": "d14b45dc74d17c2d07494fd7e3671e37",
+      "size": 1876,
+      "mtimeMs": 1785849836865
+    },
+    "wiki/concepts/静态力量格局假设.md": {
+      "hash": "70d61f70e88927ec22e3a0a8c4ca1d73",
+      "size": 1352,
+      "mtimeMs": 1785898483172
+    },
+    "wiki/concepts/非政治空间.md": {
+      "hash": "16ef6614678136a4a5eb3dad6c528d6a",
+      "size": 1837,
+      "mtimeMs": 1785860191413
+    },
+    "wiki/concepts/非正式制度.md": {
+      "hash": "795a359ad06b3cd2d28887ba985b32dc",
+      "size": 3417,
+      "mtimeMs": 1785862763127
+    },
+    "wiki/concepts/非正式沟通的政治价值.md": {
+      "hash": "1f25cf23074fc86d4ce2aa4a7aaa5723",
+      "size": 1920,
+      "mtimeMs": 1785855405740
+    },
+    "wiki/concepts/韵书的标准化政治功能.md": {
+      "hash": "6808b02f982f2c468b5a32f619f7540b",
+      "size": 1061,
+      "mtimeMs": 1785842293517
+    },
+    "wiki/concepts/预期决定行动.md": {
+      "hash": "80684c8483adcf9597732cea27e52871",
+      "size": 2647,
+      "mtimeMs": 1785840629220
+    },
+    "wiki/concepts/预期协调机制.md": {
+      "hash": "71ad797675cc1e417ed28f9a4a221896",
+      "size": 2591,
+      "mtimeMs": 1785858994713
+    },
+    "wiki/concepts/首都的物流决定论.md": {
+      "hash": "5d20571ca355c8b6a81548ee12dc5f7b",
+      "size": 1544,
+      "mtimeMs": 1785852347906
+    },
+    "wiki/concepts/鱼鳞图册.md": {
+      "hash": "2c5eb3da31ca0d4337f845d6431a6df4",
+      "size": 1355,
+      "mtimeMs": 1785845262855
+    },
+    "wiki/concepts/黑暗时代.md": {
+      "hash": "1bed0e778a13cde9cca98fe7cd0ba251",
+      "size": 2161,
+      "mtimeMs": 1785846000539
+    },
+    "wiki/concepts/龙种变跳蚤.md": {
+      "hash": "d5251be3015cc9412d6a93c1fe1f5087",
+      "size": 2345,
+      "mtimeMs": 1785850416503
+    },
+    "wiki/entities/丁度.md": {
+      "hash": "6bef5b71756882df56dd6ecea193535c",
+      "size": 453,
+      "mtimeMs": 1785842293454
+    },
+    "wiki/entities/三潭印月.md": {
+      "hash": "0167f7014de9f34552986c5e3cf06f99",
+      "size": 1198,
+      "mtimeMs": 1785855822379
+    },
+    "wiki/entities/中国古代官阶制度引论.md": {
+      "hash": "229f13c47c4b1f58a70c3dffa1e44db1",
+      "size": 789,
+      "mtimeMs": 1785852915846
+    },
+    "wiki/entities/乐章集.md": {
+      "hash": "30f5a5331239ab0af9d23b2f0cd2e429",
+      "size": 671,
+      "mtimeMs": 1785847129505
+    },
+    "wiki/entities/九鼎.md": {
+      "hash": "d88191b78932c4455dfe2c6778a5f4ce",
+      "size": 1345,
+      "mtimeMs": 1785858994731
+    },
+    "wiki/entities/于右任.md": {
+      "hash": "08fabbf4277753a273330342e1ff0fde",
+      "size": 526,
+      "mtimeMs": 1785842293485
+    },
+    "wiki/entities/亚当-斯密.md": {
+      "hash": "33a2c3072976f098fed0f681754f421e",
+      "size": 538,
+      "mtimeMs": 1785832743173
+    },
+    "wiki/entities/人类简史.md": {
+      "hash": "4c07081e6eb6cc59e5382b605817cc4d",
+      "size": 997,
+      "mtimeMs": 1785858994770
+    },
+    "wiki/entities/人类群星闪耀时.md": {
+      "hash": "fe856ef81474f64077f70fb141c5786f",
+      "size": 1350,
+      "mtimeMs": 1785848751116
+    },
+    "wiki/entities/传国玉玺.md": {
+      "hash": "6deb6edb5cc912bd4d42fbb0fd23540b",
+      "size": 2678,
+      "mtimeMs": 1785858994725
+    },
+    "wiki/entities/余英时.md": {
+      "hash": "f2b6fe8d63bc9340aa5475e573aed697",
+      "size": 886,
+      "mtimeMs": 1785843531847
+    },
+    "wiki/entities/余靖.md": {
+      "hash": "6a1c7c868070e6edd1a4c586cac4f703",
+      "size": 580,
+      "mtimeMs": 1785841730322
+    },
+    "wiki/entities/儋州.md": {
+      "hash": "fef4c96cc4563b9a042c5753e6bf0deb",
+      "size": 800,
+      "mtimeMs": 1785858585031
+    },
+    "wiki/entities/元祐党人碑.md": {
+      "hash": "ab19d959cab595ea231db6ded498eb46",
+      "size": 2358,
+      "mtimeMs": 1785861707170
+    },
+    "wiki/entities/全师雄.md": {
+      "hash": "bc374ac14a8a104ae74ad568d1e030bc",
+      "size": 1055,
+      "mtimeMs": 1785831291884
+    },
+    "wiki/entities/共同知识书.md": {
+      "hash": "e904456c204ef3994c43eda2cdb18269",
+      "size": 1405,
+      "mtimeMs": 1785858994777
+    },
+    "wiki/entities/关羽.md": {
+      "hash": "88fb82e64d53c57e28ee3ed9ef3588ff",
+      "size": 2273,
+      "mtimeMs": 1785860996939
+    },
+    "wiki/entities/册府元龟.md": {
+      "hash": "6977fbd84b94dbfc7b660733ae24e4f9",
+      "size": 795,
+      "mtimeMs": 1785838349884
+    },
+    "wiki/entities/冲突的战略.md": {
+      "hash": "cada1dd547c4f3444b20e0a152292004",
+      "size": 1294,
+      "mtimeMs": 1785859934054
+    },
+    "wiki/entities/切韵.md": {
+      "hash": "26bcc0a3265779b75ea59f44af7c11ba",
+      "size": 564,
+      "mtimeMs": 1785842293475
+    },
+    "wiki/entities/刘通.md": {
+      "hash": "c03ad76498242aaa26716c0b9a3a11e0",
+      "size": 1974,
+      "mtimeMs": 1785837115601
+    },
+    "wiki/entities/利奥一世.md": {
+      "hash": "e72005e2f268012c6b04ebbba1bec0e6",
+      "size": 1591,
+      "mtimeMs": 1785846000497
+    },
+    "wiki/entities/制置三司条例司.md": {
+      "hash": "0fa895035854d1488d69c270441c9593",
+      "size": 1361,
+      "mtimeMs": 1785849836872
+    },
+    "wiki/entities/包刚升.md": {
+      "hash": "7c61fdf67f3db263dd99641a70c23b0c",
+      "size": 2059,
+      "mtimeMs": 1785841993395
+    },
+    "wiki/entities/包拯.md": {
+      "hash": "64284397d3746d1137193793c4f9e969",
+      "size": 1563,
+      "mtimeMs": 1785845262822
+    },
+    "wiki/entities/北京十一学校.md": {
+      "hash": "259de7375690368d71d8e1f115bb781a",
+      "size": 1266,
+      "mtimeMs": 1785841299697
+    },
+    "wiki/entities/北宋晚期的政治体制与政治文化.md": {
+      "hash": "18732bbf13583f83b6d987e2617cb11e",
+      "size": 1100,
+      "mtimeMs": 1785857255293
+    },
+    "wiki/entities/十二怒汉.md": {
+      "hash": "a2310ce92dad54e09c71fc03002a97d6",
+      "size": 1565,
+      "mtimeMs": 1785856763842
+    },
+    "wiki/entities/千里江山图.md": {
+      "hash": "7b48b9a4acc35f7e1fc58440f2237245",
+      "size": 2834,
+      "mtimeMs": 1785864476025
+    },
+    "wiki/entities/南唐.md": {
+      "hash": "d7ed9bf631d37b65bf98eee1594e0d33",
+      "size": 2364,
+      "mtimeMs": 1785834334688
+    },
+    "wiki/entities/卡尔-马克思.md": {
+      "hash": "dea1da79a4fdc201d692f95f911373f8",
+      "size": 856,
+      "mtimeMs": 1785831292014
+    },
+    "wiki/entities/卡诺莎之辱.md": {
+      "hash": "3019c7001f294735938a4695512d4a71",
+      "size": 1010,
+      "mtimeMs": 1785852061543
+    },
+    "wiki/entities/历年图.md": {
+      "hash": "0397e32159a9560579bd8bfdddd04ac4",
+      "size": 711,
+      "mtimeMs": 1785848751100
+    },
+    "wiki/entities/古今图书集成.md": {
+      "hash": "efee0b572f25683a0c57f1d00f137de5",
+      "size": 1407,
+      "mtimeMs": 1785842966251
+    },
+    "wiki/entities/古腾堡.md": {
+      "hash": "a1bda7be37ecc4f867fc7c297d05c199",
+      "size": 1572,
+      "mtimeMs": 1785842966227
+    },
+    "wiki/entities/史记.md": {
+      "hash": "a9102a36e52fd402467aae223869aa13",
+      "size": 3244,
+      "mtimeMs": 1785854657840
+    },
+    "wiki/entities/叶舒宪.md": {
+      "hash": "572777c00f77a3a17c65a1b575089494",
+      "size": 766,
+      "mtimeMs": 1785844993446
+    },
+    "wiki/entities/司马光.md": {
+      "hash": "c989e10926aaabf3da25da409811ca6e",
+      "size": 2827,
+      "mtimeMs": 1785844245989
+    },
+    "wiki/entities/司马迁.md": {
+      "hash": "88eabbad080ca2cd21e27ddd343d5db7",
+      "size": 1091,
+      "mtimeMs": 1785830233656
+    },
+    "wiki/entities/后蜀.md": {
+      "hash": "93a8f160345d0d934cc6a8834d3f4467",
+      "size": 928,
+      "mtimeMs": 1785831292022
+    },
+    "wiki/entities/吕夷简.md": {
+      "hash": "4ac83a66aa8641f7538ec240f6cd7da4",
+      "size": 735,
+      "mtimeMs": 1785857255317
+    },
+    "wiki/entities/吕端.md": {
+      "hash": "f70918ac80fbfd740013cccbaf09dbb4",
+      "size": 3282,
+      "mtimeMs": 1785830930716
+    },
+    "wiki/entities/吕蒙正.md": {
+      "hash": "adcb2ab40b91ce6175274683fcfe6dd9",
+      "size": 578,
+      "mtimeMs": 1785841730361
+    },
+    "wiki/entities/吴乐旻.md": {
+      "hash": "43c1f909572f9e90dea788bafb804e24",
+      "size": 629,
+      "mtimeMs": 1785837885114
+    },
+    "wiki/entities/和氏璧.md": {
+      "hash": "29b5c3a3debfd4ae236e563f9350b78b",
+      "size": 1171,
+      "mtimeMs": 1785858994739
+    },
+    "wiki/entities/唐宋八大家.md": {
+      "hash": "ebc4f3aef379a078a2c80a66ab236bfa",
+      "size": 1681,
+      "mtimeMs": 1785864026237
+    },
+    "wiki/entities/唐宋八大家文钞.md": {
+      "hash": "9799a7f54ff0eddb526a1b596c8d70d5",
+      "size": 929,
+      "mtimeMs": 1785864026244
+    },
+    "wiki/entities/唐玄宗李隆基.md": {
+      "hash": "d402ede656ab6c895733734e5d9d483c",
+      "size": 1652,
+      "mtimeMs": 1785841299644
+    },
+    "wiki/entities/唐肃宗.md": {
+      "hash": "56e51b5b80d45a552be3c9194da46079",
+      "size": 750,
+      "mtimeMs": 1785842652917
+    },
+    "wiki/entities/四川.md": {
+      "hash": "da23869076e55746648a30f440e3c064",
+      "size": 1888,
+      "mtimeMs": 1785831291866
+    },
+    "wiki/entities/在春天.md": {
+      "hash": "4d9537dd2d123f40f7878c135f5b71aa",
+      "size": 1039,
+      "mtimeMs": 1785848751116
+    },
+    "wiki/entities/在群中.md": {
+      "hash": "bb7df4189dc2ba6d8a8150a450e24e68",
+      "size": 694,
+      "mtimeMs": 1785852061509
+    },
+    "wiki/entities/大宋繁华-造极之世的表与里.md": {
+      "hash": "1ab0e625e7f13a7c155d0561a4d1a86d",
+      "size": 1086,
+      "mtimeMs": 1785850416532
+    },
+    "wiki/entities/大格列高利.md": {
+      "hash": "024c39e86921503a540a5e476be652a9",
+      "size": 1952,
+      "mtimeMs": 1785846000512
+    },
+    "wiki/entities/大理国.md": {
+      "hash": "fa317f7d366302c3b64114ae2d6c30e6",
+      "size": 1099,
+      "mtimeMs": 1785833809396
+    },
+    "wiki/entities/大辽.md": {
+      "hash": "c0a71f8566969b454eb1a8ce4985f182",
+      "size": 2315,
+      "mtimeMs": 1785865309416
+    },
+    "wiki/entities/大金.md": {
+      "hash": "98aa0574e73de557ce9a8b6f069c6689",
+      "size": 1998,
+      "mtimeMs": 1785864993929
+    },
+    "wiki/entities/天一阁.md": {
+      "hash": "06b1c877327570f72be491dc754dc9d6",
+      "size": 1427,
+      "mtimeMs": 1785844700511
+    },
+    "wiki/entities/契顺和尚.md": {
+      "hash": "558de2c788fd9270a148be2203aae693",
+      "size": 1376,
+      "mtimeMs": 1785844246006
+    },
+    "wiki/entities/女巫之锤.md": {
+      "hash": "d19501e4bb933325acfa4ea19edfd28f",
+      "size": 1341,
+      "mtimeMs": 1785846211004
+    },
+    "wiki/entities/威廉-吉布森.md": {
+      "hash": "a2efd2cb4bd1bb7c251bd9d27ea8de52",
+      "size": 595,
+      "mtimeMs": 1785832743178
+    },
+    "wiki/entities/孙髯翁.md": {
+      "hash": "e094c04d5a169c27dc5246551a704fb3",
+      "size": 906,
+      "mtimeMs": 1785833809401
+    },
+    "wiki/entities/孟德斯鸠.md": {
+      "hash": "1a1fb987e325b701392493992e28b5dc",
+      "size": 775,
+      "mtimeMs": 1785835608193
+    },
+    "wiki/entities/孤山.md": {
+      "hash": "eb267e67c5201e13bef02ce1d5ec228b",
+      "size": 1090,
+      "mtimeMs": 1785839286378
+    },
+    "wiki/entities/安娜-卡列尼娜.md": {
+      "hash": "27772ca14d21e0a9867ad0f0a9147a19",
+      "size": 652,
+      "mtimeMs": 1785852061515
+    },
+    "wiki/entities/安济坊.md": {
+      "hash": "f4eef763b499443473ed569e3e41e84e",
+      "size": 1575,
+      "mtimeMs": 1785860741968
+    },
+    "wiki/entities/安禄山.md": {
+      "hash": "86b44d6ed9296536a9ae1dd7ccf9e094",
+      "size": 1350,
+      "mtimeMs": 1785840179011
+    },
+    "wiki/entities/宋仁宗.md": {
+      "hash": "165d7e69f4f1ae98e3a1d51d61d1e6df",
+      "size": 1275,
+      "mtimeMs": 1785844993420
+    },
+    "wiki/entities/宋代五大名窑.md": {
+      "hash": "ae3aebde05ead97248209c51b1113b21",
+      "size": 741,
+      "mtimeMs": 1785832743189
+    },
+    "wiki/entities/宋史-奸臣传.md": {
+      "hash": "57e5ccf12e5e90394b1cbec64622c690",
+      "size": 1490,
+      "mtimeMs": 1785857026368
+    },
+    "wiki/entities/宋史.md": {
+      "hash": "58c09eabbceacda3faed6a039c55979e",
+      "size": 405,
+      "mtimeMs": 1785841730413
+    },
+    "wiki/entities/宋夏关系史.md": {
+      "hash": "8a7303ddbfdbadc9a8f683bf53576fd0",
+      "size": 485,
+      "mtimeMs": 1785859678202
+    },
+    "wiki/entities/宋太祖赵匡胤.md": {
+      "hash": "448593e71e8d23c55bb4516962b1bfdc",
+      "size": 1146,
+      "mtimeMs": 1785843993194
+    },
+    "wiki/entities/宋真宗.md": {
+      "hash": "31c0e6128032bf7114ef523a17a79292",
+      "size": 1164,
+      "mtimeMs": 1785831291879
+    },
+    "wiki/entities/宋诗选注.md": {
+      "hash": "c1e501ac90bae5ebcf4beb13723a642b",
+      "size": 859,
+      "mtimeMs": 1785861363506
+    },
+    "wiki/entities/富弼.md": {
+      "hash": "214f327002510dbc0d831495f7df3966",
+      "size": 1321,
+      "mtimeMs": 1785846210994
+    },
+    "wiki/entities/导洛入汴.md": {
+      "hash": "eb888227a52ce6932e49b553942c4464",
+      "size": 1576,
+      "mtimeMs": 1785852347887
+    },
+    "wiki/entities/尤瓦尔赫拉利.md": {
+      "hash": "60f5ef94ef07bdceb9a702962dbb07d6",
+      "size": 1619,
+      "mtimeMs": 1785846210999
+    },
+    "wiki/entities/尹洙.md": {
+      "hash": "f9dec91a9adf7dd868dd5d21309c43e8",
+      "size": 721,
+      "mtimeMs": 1785841730317
+    },
+    "wiki/entities/居养院.md": {
+      "hash": "74e95549e90634aed6d6e7a7a74ff337",
+      "size": 1632,
+      "mtimeMs": 1785860741967
+    },
+    "wiki/entities/岐王李范.md": {
+      "hash": "454f22be78ea4804f13ab3e168984c1e",
+      "size": 1115,
+      "mtimeMs": 1785841299670
+    },
+    "wiki/entities/岑水场.md": {
+      "hash": "1fa4f35d61dbb7fd1dd41dfb268a13c6",
+      "size": 1086,
+      "mtimeMs": 1785863677684
+    },
+    "wiki/entities/岳阳楼记.md": {
+      "hash": "c58442dde20da8e5924c2e94fb1de313",
+      "size": 1171,
+      "mtimeMs": 1785843531835
+    },
+    "wiki/entities/崇天万年历.md": {
+      "hash": "b04851f30bfff0da1f0e87116a37c73e",
+      "size": 696,
+      "mtimeMs": 1785843822822
+    },
+    "wiki/entities/平夏城.md": {
+      "hash": "6b3b47ac8959fc67b83b24011dfd5623",
+      "size": 522,
+      "mtimeMs": 1785859646391
+    },
+    "wiki/entities/广韵.md": {
+      "hash": "5b42929ef72e3f561c6272a13861d65b",
+      "size": 604,
+      "mtimeMs": 1785842293470
+    },
+    "wiki/entities/床子弩.md": {
+      "hash": "1b6c252bd345673558bd1eb80bd8a345",
+      "size": 1550,
+      "mtimeMs": 1785832098766
+    },
+    "wiki/entities/应天府书院.md": {
+      "hash": "96d73a1d4796bef7174c362f17b722a0",
+      "size": 1093,
+      "mtimeMs": 1785834070551
+    },
+    "wiki/entities/度牒.md": {
+      "hash": "8929d7c0fd3649696ef20fee7b916968",
+      "size": 1256,
+      "mtimeMs": 1785855822385
+    },
+    "wiki/entities/康德.md": {
+      "hash": "5e6527ccd799f76e15d5ba452320378a",
+      "size": 943,
+      "mtimeMs": 1785857255306
+    },
+    "wiki/entities/张之洞.md": {
+      "hash": "4080a034852b4e44494c108c0460e8b6",
+      "size": 1025,
+      "mtimeMs": 1785836091379
+    },
+    "wiki/entities/张方平.md": {
+      "hash": "22a2052db2a8804eb61375ab9ee279c7",
+      "size": 1201,
+      "mtimeMs": 1785843993188
+    },
+    "wiki/entities/张知白.md": {
+      "hash": "a18e71cfd21c6002f7ea291c7728900d",
+      "size": 1003,
+      "mtimeMs": 1785839286383
+    },
+    "wiki/entities/当十钱.md": {
+      "hash": "353c212a05f7cdc0093f859dd151156d",
+      "size": 1729,
+      "mtimeMs": 1785863677678
+    },
+    "wiki/entities/彭信威.md": {
+      "hash": "7b2d50a8a0f1d84761f84187cd24760a",
+      "size": 1097,
+      "mtimeMs": 1785837885102
+    },
+    "wiki/entities/怛罗斯之战.md": {
+      "hash": "60e2b7e26a495a4c1b8b5cdb56c0f80f",
+      "size": 728,
+      "mtimeMs": 1785842652929
+    },
+    "wiki/entities/恭亲王奕䜣.md": {
+      "hash": "02cf2c02e884d6335ee363778ab45263",
+      "size": 970,
+      "mtimeMs": 1785841299681
+    },
+    "wiki/entities/托马斯-萨金特.md": {
+      "hash": "f76074f6008aaf19389724a573baf3b3",
+      "size": 749,
+      "mtimeMs": 1785837885108
+    },
+    "wiki/entities/护步达冈之战.md": {
+      "hash": "e3ca26ad11d2090d3aae2c80557c5be1",
+      "size": 1645,
+      "mtimeMs": 1785865309421
+    },
+    "wiki/entities/提举常平司.md": {
+      "hash": "9693c0b294bb57a39b02534f07b00b11",
+      "size": 959,
+      "mtimeMs": 1785849836876
+    },
+    "wiki/entities/文彦博.md": {
+      "hash": "95edac271081252f4d52744586fdd82f",
+      "size": 1087,
+      "mtimeMs": 1785844246001
+    },
+    "wiki/entities/文成公主.md": {
+      "hash": "c500f615658616336d757be57be1273c",
+      "size": 1951,
+      "mtimeMs": 1785840179001
+    },
+    "wiki/entities/文明之旅节目.md": {
+      "hash": "e87c468e33e35a1d41eb758d182fed04",
+      "size": 1085,
+      "mtimeMs": 1785830233653
+    },
+    "wiki/entities/斯蒂芬-平克.md": {
+      "hash": "bb89dcb351a77a70d2e7ee41c44126b6",
+      "size": 757,
+      "mtimeMs": 1785845262833
+    },
+    "wiki/entities/新唐书.md": {
+      "hash": "46f5184c52a4b563e4506003ab687050",
+      "size": 3302,
+      "mtimeMs": 1785847576275
+    },
+    "wiki/entities/方诚峰.md": {
+      "hash": "33cff6937d2df4d22c46214a20cea9a1",
+      "size": 1221,
+      "mtimeMs": 1785857255276
+    },
+    "wiki/entities/旅行者一号.md": {
+      "hash": "cb9f12bac518a7cf78d7c09af0479a47",
+      "size": 737,
+      "mtimeMs": 1785851555000
+    },
+    "wiki/entities/旧唐书.md": {
+      "hash": "a9d49f4370834e1989a5a2671200ad95",
+      "size": 2196,
+      "mtimeMs": 1785847576282
+    },
+    "wiki/entities/明恩溥.md": {
+      "hash": "b3d8559cd594a5993b9c616bc10dc7d6",
+      "size": 1204,
+      "mtimeMs": 1785836091367
+    },
+    "wiki/entities/晋商.md": {
+      "hash": "ce0e8452f456b90d17eda1adb926bc3e",
+      "size": 1397,
+      "mtimeMs": 1785860996945
+    },
+    "wiki/entities/晏殊.md": {
+      "hash": "d40378be1f8809c281ffa1e09484c8ef",
+      "size": 699,
+      "mtimeMs": 1785841730340
+    },
+    "wiki/entities/景德镇.md": {
+      "hash": "0f6b3571ce66b6eca93f57d205d2693e",
+      "size": 2624,
+      "mtimeMs": 1785832743105
+    },
+    "wiki/entities/曹植.md": {
+      "hash": "8b7ad0b13d9a8e9615d1fe9081f8c925",
+      "size": 1045,
+      "mtimeMs": 1785841299665
+    },
+    "wiki/entities/曹玮.md": {
+      "hash": "79bdc376db1af64756cda9b1383943d1",
+      "size": 1236,
+      "mtimeMs": 1785839925708
+    },
+    "wiki/entities/曹诚.md": {
+      "hash": "21e45646b656b4707e7f1263d94dc0eb",
+      "size": 728,
+      "mtimeMs": 1785834070556
+    },
+    "wiki/entities/曾公遗录.md": {
+      "hash": "bf3fb1b02012fa23a26ffd060a8c0bad",
+      "size": 1149,
+      "mtimeMs": 1785859934066
+    },
+    "wiki/entities/曾瑞龙.md": {
+      "hash": "8f3180b38dba3919733bb3a3f6e9ba5c",
+      "size": 1330,
+      "mtimeMs": 1785832098748
+    },
+    "wiki/entities/朱太妃.md": {
+      "hash": "9c91441994ec23c16776688bd0d93166",
+      "size": 767,
+      "mtimeMs": 1785857255311
+    },
+    "wiki/entities/李元昊.md": {
+      "hash": "dec20f278c6e47718c8006bca737653b",
+      "size": 1018,
+      "mtimeMs": 1785839925714
+    },
+    "wiki/entities/李士彬.md": {
+      "hash": "c2d8148c3b0e57e7bf32a0e3c0bf5438",
+      "size": 688,
+      "mtimeMs": 1785842652911
+    },
+    "wiki/entities/李宗仁回忆录.md": {
+      "hash": "450f17a4a819f24ada7c7ac739789b87",
+      "size": 606,
+      "mtimeMs": 1785858585044
+    },
+    "wiki/entities/李希贵.md": {
+      "hash": "5766ec83a725f9913acbb237fa0e59a1",
+      "size": 1249,
+      "mtimeMs": 1785841299655
+    },
+    "wiki/entities/李敬泽.md": {
+      "hash": "68d4aaedf45480e7097622ab19182d19",
+      "size": 775,
+      "mtimeMs": 1785842621868
+    },
+    "wiki/entities/李焘.md": {
+      "hash": "865a732b7c3218dee65c9022668d8b1f",
+      "size": 1596,
+      "mtimeMs": 1785836885719
+    },
+    "wiki/entities/李硕.md": {
+      "hash": "ea1bb3d557924bc6f10407cd451d9971",
+      "size": 846,
+      "mtimeMs": 1785844993435
+    },
+    "wiki/entities/李迪.md": {
+      "hash": "4836263f845c8fee412ccda423497204",
+      "size": 677,
+      "mtimeMs": 1785842293480
+    },
+    "wiki/entities/杜工部集.md": {
+      "hash": "a5f6baf28c215ddc938652fc81be334d",
+      "size": 902,
+      "mtimeMs": 1785847395185
+    },
+    "wiki/entities/杨家将.md": {
+      "hash": "edab47f3e97f033258518f217ad67471",
+      "size": 3232,
+      "mtimeMs": 1785834986255
+    },
+    "wiki/entities/松风阁诗帖.md": {
+      "hash": "71b3113e7169fe4c06de55f934c9afd5",
+      "size": 641,
+      "mtimeMs": 1785861363495
+    },
+    "wiki/entities/林逋林和靖.md": {
+      "hash": "29fddb3a303f679149fadcb0bf7cbca0",
+      "size": 1592,
+      "mtimeMs": 1785839286373
+    },
+    "wiki/entities/格列高利七世.md": {
+      "hash": "e6e4f41d3fed0095b91ca659b61cdd9f",
+      "size": 1940,
+      "mtimeMs": 1785846000522
+    },
+    "wiki/entities/梦溪笔谈.md": {
+      "hash": "73baf07c64a0029cc9fbd044e3d40c64",
+      "size": 3447,
+      "mtimeMs": 1785857856799
+    },
+    "wiki/entities/横山.md": {
+      "hash": "48e45a31630d4e1cc1e1fc9fbdd220aa",
+      "size": 1254,
+      "mtimeMs": 1785859678202
+    },
+    "wiki/entities/欧阳修.md": {
+      "hash": "a345aaa54570373e182c20cea55e85a7",
+      "size": 1375,
+      "mtimeMs": 1785841730306
+    },
+    "wiki/entities/段义孚.md": {
+      "hash": "192e51e46d244eac06dcbb54791946b3",
+      "size": 824,
+      "mtimeMs": 1785843822811
+    },
+    "wiki/entities/殷弘绪.md": {
+      "hash": "e501b4390d487d0168450a33508f3e8f",
+      "size": 610,
+      "mtimeMs": 1785832743162
+    },
+    "wiki/entities/毕昇.md": {
+      "hash": "1b2acc8ac4063c612f357f0451ef3273",
+      "size": 1825,
+      "mtimeMs": 1785842966220
+    },
+    "wiki/entities/永乐城.md": {
+      "hash": "bb3d16cfb52a3e11c93dd2b9ab2b3341",
+      "size": 1041,
+      "mtimeMs": 1785853462813
+    },
+    "wiki/entities/江晓原.md": {
+      "hash": "bd31d62d0c891b9e09e52ef7fe9c6ef5",
+      "size": 720,
+      "mtimeMs": 1785843822817
+    },
+    "wiki/entities/江西诗社宗派图.md": {
+      "hash": "21dab7f6d0fdc5bef9d5e18b154bc39e",
+      "size": 825,
+      "mtimeMs": 1785861363499
+    },
+    "wiki/entities/汴河.md": {
+      "hash": "d1ab8165ddf3b9d752e21c84e6c4170a",
+      "size": 2359,
+      "mtimeMs": 1785852347874
+    },
+    "wiki/entities/沈括.md": {
+      "hash": "2f6979bb19de0e75de4a76fd48be2ebc",
+      "size": 875,
+      "mtimeMs": 1785842597716
+    },
+    "wiki/entities/沈括的知识世界.md": {
+      "hash": "ca7acfaaaf4006a45374aa431c746989",
+      "size": 813,
+      "mtimeMs": 1785857856810
+    },
+    "wiki/entities/沙门岛.md": {
+      "hash": "6f3e60868b813cd5f3b239251879922d",
+      "size": 1337,
+      "mtimeMs": 1785838729234
+    },
+    "wiki/entities/泰山.md": {
+      "hash": "e562da751564546ffa788a1a42098408",
+      "size": 718,
+      "mtimeMs": 1785833317247
+    },
+    "wiki/entities/海上之盟.md": {
+      "hash": "a5ce55303d481e80d3f9d561e137b70e",
+      "size": 1527,
+      "mtimeMs": 1785898483130
+    },
+    "wiki/entities/清明上河图.md": {
+      "hash": "63d3c57171394dce7ca3c80e52cb7674",
+      "size": 1502,
+      "mtimeMs": 1785852347882
+    },
+    "wiki/entities/滕子京.md": {
+      "hash": "d751fffd229a9e613a7bef2af4aa0c37",
+      "size": 844,
+      "mtimeMs": 1785843531839
+    },
+    "wiki/entities/漏泽园.md": {
+      "hash": "fd928584363ad854d08b89bdfd4219b4",
+      "size": 1608,
+      "mtimeMs": 1785860741968
+    },
+    "wiki/entities/灵州.md": {
+      "hash": "77a8c954664ba72c73e5f53011a61456",
+      "size": 840,
+      "mtimeMs": 1785853462807
+    },
+    "wiki/entities/熊逸-治大国.md": {
+      "hash": "43b64d38017afa652dacfdd4c09c2726",
+      "size": 1014,
+      "mtimeMs": 1785848950223
+    },
+    "wiki/entities/熙河地区.md": {
+      "hash": "09d82de42c6d39f85a7006bfc77317ac",
+      "size": 957,
+      "mtimeMs": 1785851554995
+    },
+    "wiki/entities/燕云十六州.md": {
+      "hash": "8f6e4f88186674b50eac53c8bba6de0a",
+      "size": 1539,
+      "mtimeMs": 1785898483124
+    },
+    "wiki/entities/狄青.md": {
+      "hash": "0ca9eff2c87006f475fa897494b862c6",
+      "size": 586,
+      "mtimeMs": 1785842621879
+    },
+    "wiki/entities/玉清昭应宫.md": {
+      "hash": "06406037a40a2a799894935fb154d2e4",
+      "size": 1556,
+      "mtimeMs": 1785833522906
+    },
+    "wiki/entities/王世懋.md": {
+      "hash": "192bf6620e185bbd737ddf41108a655b",
+      "size": 574,
+      "mtimeMs": 1785832743184
+    },
+    "wiki/entities/王亚南.md": {
+      "hash": "8cb8c6e9f8dd6b39602a61de74fd122c",
+      "size": 848,
+      "mtimeMs": 1785835608188
+    },
+    "wiki/entities/王国维.md": {
+      "hash": "e5354339f66d6e85a82ff8c583560c37",
+      "size": 992,
+      "mtimeMs": 1785844993425
+    },
+    "wiki/entities/王均.md": {
+      "hash": "93859eea9ea80cccfcd59cac3f72abad",
+      "size": 1218,
+      "mtimeMs": 1785831291890
+    },
+    "wiki/entities/王安石.md": {
+      "hash": "038d979a304c6a0239da8f3a75873b8a",
+      "size": 1212,
+      "mtimeMs": 1785844245995
+    },
+    "wiki/entities/王安石传.md": {
+      "hash": "41fe43c046690a435ad3cdc4f5b7d145",
+      "size": 583,
+      "mtimeMs": 1785858585052
+    },
+    "wiki/entities/王安石赠太傅制.md": {
+      "hash": "8c0d23e7fd72ae4cf29aa753993c4856",
+      "size": 2002,
+      "mtimeMs": 1785855140027
+    },
+    "wiki/entities/王小波与李順.md": {
+      "hash": "40c4419175e78b2d9ea516675d56c35b",
+      "size": 1049,
+      "mtimeMs": 1785831292046
+    },
+    "wiki/entities/王旦.md": {
+      "hash": "d8400ae97ea1a8ae0f3f93b151753d32",
+      "size": 539,
+      "mtimeMs": 1785841730355
+    },
+    "wiki/entities/王昭君.md": {
+      "hash": "4c2b7c7fbdaae7ac803ea6ce35812dcd",
+      "size": 1900,
+      "mtimeMs": 1785840178995
+    },
+    "wiki/entities/王景.md": {
+      "hash": "d80b15b7e25f8eb0170d4b13a01993f8",
+      "size": 850,
+      "mtimeMs": 1785844416369
+    },
+    "wiki/entities/王曾.md": {
+      "hash": "c7486069898f67efa82363e185dc00b1",
+      "size": 561,
+      "mtimeMs": 1785841730351
+    },
+    "wiki/entities/王祯.md": {
+      "hash": "f79a84cbd81f69f7b104408f93030a91",
+      "size": 1405,
+      "mtimeMs": 1785842966232
+    },
+    "wiki/entities/王赓武.md": {
+      "hash": "f65cd492dc21e34c8c70abf76342ab8d",
+      "size": 885,
+      "mtimeMs": 1785831291901
+    },
+    "wiki/entities/百家姓.md": {
+      "hash": "c6cba114f3b8c3504ab3f118a7ab5d9f",
+      "size": 888,
+      "mtimeMs": 1785838349891
+    },
+    "wiki/entities/益州交子务.md": {
+      "hash": "5b768db73b7a9eb2d8a06e8b04dd4e3a",
+      "size": 1330,
+      "mtimeMs": 1785837885096
+    },
+    "wiki/entities/睦亲宅.md": {
+      "hash": "deaea5e119a24f545cc7be473ac1f3b1",
+      "size": 1247,
+      "mtimeMs": 1785841299686
+    },
+    "wiki/entities/种世衡.md": {
+      "hash": "6ea52bcd0d8a09f59e7c132cf5126ef4",
+      "size": 687,
+      "mtimeMs": 1785842621873
+    },
+    "wiki/entities/种氏家族.md": {
+      "hash": "7a96b1066a63cb3ad441830c0cef1132",
+      "size": 1893,
+      "mtimeMs": 1785854295255
+    },
+    "wiki/entities/秦始皇.md": {
+      "hash": "c2f09c99ab5d5dc0fb13031956658d9c",
+      "size": 1242,
+      "mtimeMs": 1785844993430
+    },
+    "wiki/entities/程颐.md": {
+      "hash": "9c743119179302bcc5700528b8261bc2",
+      "size": 1006,
+      "mtimeMs": 1785841299660
+    },
+    "wiki/entities/章得象.md": {
+      "hash": "89c023e2682981187f39b29fc4a360a7",
+      "size": 1986,
+      "mtimeMs": 1785843327045
+    },
+    "wiki/entities/类篇.md": {
+      "hash": "f8ce38d4e51ce9fdd909e36ff07ecb71",
+      "size": 583,
+      "mtimeMs": 1785842293465
+    },
+    "wiki/entities/约瑟夫-熊彼特.md": {
+      "hash": "c7ad6dd3013643dd0b6f2a757789e2de",
+      "size": 730,
+      "mtimeMs": 1785832743167
+    },
+    "wiki/entities/纪伯伦.md": {
+      "hash": "21eb25939809def3c3e74e723f65ff17",
+      "size": 870,
+      "mtimeMs": 1785857255299
+    },
+    "wiki/entities/续资治通鉴长编.md": {
+      "hash": "131f5b707b32a339db521bb899daca16",
+      "size": 1496,
+      "mtimeMs": 1785852061503
+    },
+    "wiki/entities/罗志田.md": {
+      "hash": "b966e95a513ad12f7c794a9cc7871067",
+      "size": 1111,
+      "mtimeMs": 1785836091372
+    },
+    "wiki/entities/罗振宇.md": {
+      "hash": "aeec204ff491f26c28ef454d1cfa58c2",
+      "size": 964,
+      "mtimeMs": 1785830233613
+    },
+    "wiki/entities/罗马教廷.md": {
+      "hash": "e3d30a49d375882d2b8ea860298eeddc",
+      "size": 2877,
+      "mtimeMs": 1785846000448
+    },
+    "wiki/entities/美国禁酒令.md": {
+      "hash": "6d9720cba92355894335cf939884e75d",
+      "size": 704,
+      "mtimeMs": 1785859678216
+    },
+    "wiki/entities/翟金生.md": {
+      "hash": "17ee84e448c0f4f75fb09cedae8a1823",
+      "size": 1508,
+      "mtimeMs": 1785842966240
+    },
+    "wiki/entities/翦商殷周之变与华夏新生.md": {
+      "hash": "861ddcc42f7f0624aff8125fac97ec5d",
+      "size": 995,
+      "mtimeMs": 1785844993441
+    },
+    "wiki/entities/艮岳.md": {
+      "hash": "294a8910b59c48d7648cd09c54487beb",
+      "size": 1268,
+      "mtimeMs": 1785865514366
+    },
+    "wiki/entities/花萼相辉楼.md": {
+      "hash": "e11e350551e5b525e018a2fe95479963",
+      "size": 1068,
+      "mtimeMs": 1785841299691
+    },
+    "wiki/entities/苏力.md": {
+      "hash": "fc895ec3544f02bb87852310bb97cfd4",
+      "size": 679,
+      "mtimeMs": 1785842293490
+    },
+    "wiki/entities/苏堤.md": {
+      "hash": "20678fb071382ac5da9450daa948e505",
+      "size": 1295,
+      "mtimeMs": 1785855822372
+    },
+    "wiki/entities/苏轼.md": {
+      "hash": "a94ee4d4e853abfaff1ea86fea09e1f7",
+      "size": 527,
+      "mtimeMs": 1785841730334
+    },
+    "wiki/entities/苏辙.md": {
+      "hash": "a72f323caac9a6d480948786684df4f1",
+      "size": 1339,
+      "mtimeMs": 1785846210987
+    },
+    "wiki/entities/苏颂.md": {
+      "hash": "3e5332d38e80891a6a19e9d0a52b4a26",
+      "size": 679,
+      "mtimeMs": 1785843822826
+    },
+    "wiki/entities/英诺森三世.md": {
+      "hash": "5ff57978fb44ed7e0a9bc52deb342797",
+      "size": 1846,
+      "mtimeMs": 1785846000528
+    },
+    "wiki/entities/范氏义庄.md": {
+      "hash": "304ee42a6724a379040a6e87b24060ba",
+      "size": 2611,
+      "mtimeMs": 1785844700481
+    },
+    "wiki/entities/范纯仁.md": {
+      "hash": "e344f0ca05b05d729f0b8834bb6367d1",
+      "size": 1476,
+      "mtimeMs": 1785844700506
+    },
+    "wiki/entities/范钦.md": {
+      "hash": "65a02601a8f775d90ca389288771e6fd",
+      "size": 917,
+      "mtimeMs": 1785844700516
+    },
+    "wiki/entities/营造法式.md": {
+      "hash": "d0a391fb09ae0d5ffc05bd5877008b47",
+      "size": 2461,
+      "mtimeMs": 1785856422418
+    },
+    "wiki/entities/萧关.md": {
+      "hash": "225b0359340e2fc1252e2b30e5b2b957",
+      "size": 1033,
+      "mtimeMs": 1785842621884
+    },
+    "wiki/entities/葛剑雄.md": {
+      "hash": "83dc90946a5d2ff9bd14d96a40dab7d3",
+      "size": 890,
+      "mtimeMs": 1785842621862
+    },
+    "wiki/entities/蒋星煜.md": {
+      "hash": "79ee91e9a120957e70c454260ca7ce30",
+      "size": 507,
+      "mtimeMs": 1785839286395
+    },
+    "wiki/entities/蒲松龄.md": {
+      "hash": "b3a1c6c2b4319ba56fa07edb070f5d6c",
+      "size": 1489,
+      "mtimeMs": 1785836091362
+    },
+    "wiki/entities/蔡襄.md": {
+      "hash": "032e2e8ba6b27c38004f07912719a230",
+      "size": 936,
+      "mtimeMs": 1785841730312
+    },
+    "wiki/entities/虔州学记.md": {
+      "hash": "fdc17e1d5e98059aba9ccf2d5d56b69b",
+      "size": 780,
+      "mtimeMs": 1785848751116
+    },
+    "wiki/entities/被讨厌的勇气.md": {
+      "hash": "ec81b2ce293819661b9c1162a3212db9",
+      "size": 1171,
+      "mtimeMs": 1785835874453
+    },
+    "wiki/entities/西军.md": {
+      "hash": "a80eb4678da25932afbf5927f39b97bc",
+      "size": 1204,
+      "mtimeMs": 1785898483137
+    },
+    "wiki/entities/西北联大.md": {
+      "hash": "380088a44fd5d6ff5b9a25763d157eb5",
+      "size": 735,
+      "mtimeMs": 1785851554989
+    },
+    "wiki/entities/西夏.md": {
+      "hash": "3c6786e0b05981eaf6d8ae7c3b188b4d",
+      "size": 3222,
+      "mtimeMs": 1785859646391
+    },
+    "wiki/entities/西昆酬唱集.md": {
+      "hash": "2057c54a0730593b8e72094e53230f5b",
+      "size": 1415,
+      "mtimeMs": 1785836323089
+    },
+    "wiki/entities/西湖.md": {
+      "hash": "c1a9ace9545a7ffde582b51b0bca29f1",
+      "size": 1484,
+      "mtimeMs": 1785855822367
+    },
+    "wiki/entities/谌旭彬.md": {
+      "hash": "2c1eb1253e003fd15ea4abb6cde53713",
+      "size": 769,
+      "mtimeMs": 1785845262828
+    },
+    "wiki/entities/谭其骧.md": {
+      "hash": "1ba137a9012d606449aa4b5877539745",
+      "size": 1150,
+      "mtimeMs": 1785844416364
+    },
+    "wiki/entities/贤良进卷.md": {
+      "hash": "d4168d1d9cf57fc718543ad6f057568d",
+      "size": 1026,
+      "mtimeMs": 1785847894314
+    },
+    "wiki/entities/费孝通.md": {
+      "hash": "da84cdcbe25d4bbab4be0950648e071a",
+      "size": 958,
+      "mtimeMs": 1785835608182
+    },
+    "wiki/entities/资治通鉴.md": {
+      "hash": "bc29e07a97225ce036ae8327c9543d74",
+      "size": 3751,
+      "mtimeMs": 1785854616837
+    },
+    "wiki/entities/赏花钓鱼宴.md": {
+      "hash": "5e8d9b20e99fd49c85a858c5287282d2",
+      "size": 1365,
+      "mtimeMs": 1785848397732
+    },
+    "wiki/entities/赵冬梅.md": {
+      "hash": "b52aa83bb8bd9b759842ec2ef5979b72",
+      "size": 642,
+      "mtimeMs": 1785843822832
+    },
+    "wiki/entities/赵匡胤.md": {
+      "hash": "858c437cf21e2cb3f59191c95f8690e7",
+      "size": 1520,
+      "mtimeMs": 1785831291873
+    },
+    "wiki/entities/赵子崧.md": {
+      "hash": "97041e92c73b6e61b55393ffd222517d",
+      "size": 1015,
+      "mtimeMs": 1785841299649
+    },
+    "wiki/entities/赵抃.md": {
+      "hash": "f85effea42f698c901a68907538c0a2b",
+      "size": 1374,
+      "mtimeMs": 1785845740725
+    },
+    "wiki/entities/赵普.md": {
+      "hash": "355b149c1e217381138af55085922759",
+      "size": 554,
+      "mtimeMs": 1785841730366
+    },
+    "wiki/entities/赵翼.md": {
+      "hash": "79301308a65b5f6bccf2da1827b6a2c4",
+      "size": 987,
+      "mtimeMs": 1785831291895
+    },
+    "wiki/entities/路振.md": {
+      "hash": "46e3489466dfa6c6a36d23e238f8dd39",
+      "size": 1016,
+      "mtimeMs": 1785833051741
+    },
+    "wiki/entities/辽兴宗.md": {
+      "hash": "df5b191856941ab7d537f6a8d6fc6b2b",
+      "size": 1521,
+      "mtimeMs": 1785843123357
+    },
+    "wiki/entities/辽圣宗.md": {
+      "hash": "ab3775a5c14e9939b7bb4af3f840d078",
+      "size": 1281,
+      "mtimeMs": 1785840179006
+    },
+    "wiki/entities/辽朝.md": {
+      "hash": "a0ea8110eb908fc6891a48e3f19449a1",
+      "size": 2676,
+      "mtimeMs": 1785833051725
+    },
+    "wiki/entities/辽道宗.md": {
+      "hash": "f4fad06642245b1dafd0b3b94928ac79",
+      "size": 1198,
+      "mtimeMs": 1785845740730
+    },
+    "wiki/entities/野利仁荣.md": {
+      "hash": "37830af669d588ddc6efa052dbc9d727",
+      "size": 1150,
+      "mtimeMs": 1785841955575
+    },
+    "wiki/entities/金明寨.md": {
+      "hash": "9c9c64782e2bcd35af873d9f57750086",
+      "size": 637,
+      "mtimeMs": 1785842652922
+    },
+    "wiki/entities/钱穆.md": {
+      "hash": "851d18649943c73667a242770e1e1092",
+      "size": 1516,
+      "mtimeMs": 1785835608177
+    },
+    "wiki/entities/阿尔弗雷德-阿德勒.md": {
+      "hash": "918a2d6221ea53fe740ffe4bb5215c12",
+      "size": 1181,
+      "mtimeMs": 1785835874448
+    },
+    "wiki/entities/陈寅恪.md": {
+      "hash": "633f022a18397c3c04a30f883729979e",
+      "size": 1278,
+      "mtimeMs": 1785839011499
+    },
+    "wiki/entities/陈执中.md": {
+      "hash": "1fa719af6a75b6b100a17117f091bfbe",
+      "size": 1726,
+      "mtimeMs": 1785842621851
+    },
+    "wiki/entities/集体行动的逻辑.md": {
+      "hash": "b709e962614c6c9f970e85f2718142c8",
+      "size": 1638,
+      "mtimeMs": 1785857505403
+    },
+    "wiki/entities/集韵.md": {
+      "hash": "db2c6726bbe86ddbeee3527af8a5f8c7",
+      "size": 1052,
+      "mtimeMs": 1785842293459
+    },
+    "wiki/entities/雍正皇帝.md": {
+      "hash": "4d026e810028935414416804eb19d885",
+      "size": 1081,
+      "mtimeMs": 1785841299675
+    },
+    "wiki/entities/雨霖铃.md": {
+      "hash": "db9c1eae6ac86f9f00b72da65c6f2c0c",
+      "size": 751,
+      "mtimeMs": 1785847129511
+    },
+    "wiki/entities/雷州.md": {
+      "hash": "fb1b7e2fdf7926f21cad2eecd184aa1b",
+      "size": 671,
+      "mtimeMs": 1785858585037
+    },
+    "wiki/entities/霍桑实验.md": {
+      "hash": "7a4aad6e5198acf48960d647ba7a022a",
+      "size": 998,
+      "mtimeMs": 1785862718579
+    },
+    "wiki/entities/韦兵.md": {
+      "hash": "e413ad503b45769e8b3d3f30b74dd76a",
+      "size": 666,
+      "mtimeMs": 1785843822837
+    },
+    "wiki/entities/韩亿.md": {
+      "hash": "601d7f7cc3808c856de369402787441e",
+      "size": 631,
+      "mtimeMs": 1785841730346
+    },
+    "wiki/entities/韩渎.md": {
+      "hash": "c239d48dff51533d14aa74824dc63f5a",
+      "size": 515,
+      "mtimeMs": 1785841730371
+    },
+    "wiki/entities/韩非子.md": {
+      "hash": "55b8f7d04265fb8694bb0653dd3b8e83",
+      "size": 1529,
+      "mtimeMs": 1785851232294
+    },
+    "wiki/entities/顾祖禹.md": {
+      "hash": "426d7f7b52de200923c3df8df14305b8",
+      "size": 789,
+      "mtimeMs": 1785842621857
+    },
+    "wiki/entities/颜之推.md": {
+      "hash": "77c93f7d3538d00f5fe2b1fdf630b004",
+      "size": 900,
+      "mtimeMs": 1785844700522
+    },
+    "wiki/entities/颜氏家训.md": {
+      "hash": "6bbb6b7485d6dafb3f735e11fcc4490e",
+      "size": 2936,
+      "mtimeMs": 1785844724923
+    },
+    "wiki/entities/饶胜文.md": {
+      "hash": "f09fd026dc28a9092d377c8fefe19ca5",
+      "size": 1005,
+      "mtimeMs": 1785841993401
+    },
+    "wiki/entities/高丽.md": {
+      "hash": "fab6844be3037a7e07bcbc8176e63285",
+      "size": 1717,
+      "mtimeMs": 1785833809384
+    },
+    "wiki/entities/高若讷.md": {
+      "hash": "0e45a8714a40d26abdb40432e112ef3a",
+      "size": 676,
+      "mtimeMs": 1785841730328
+    },
+    "wiki/entities/鲁宗道.md": {
+      "hash": "afe112fcda30710f4b4fd432470606fc",
+      "size": 721,
+      "mtimeMs": 1785839286390
+    },
+    "wiki/index.md": {
+      "hash": "5c3c3ee706668835a421539190d336a0",
+      "size": 12967,
+      "mtimeMs": 1785898512546
+    },
+    "wiki/log-entry.md": {
+      "hash": "6fa38c5e27831eb264501344773c0592",
+      "size": 636,
+      "mtimeMs": 1785852061555
+    },
+    "wiki/log.md": {
+      "hash": "d4a47a4db3bcc324863aec5ecdbaa01a",
+      "size": 54445,
+      "mtimeMs": 1785898512481
+    },
+    "wiki/log.md.md": {
+      "hash": "dd0dfcd09b8d6d869662126a16405159",
+      "size": 1144,
+      "mtimeMs": 1785863025681
+    },
+    "wiki/overview.md": {
+      "hash": "3a6b8de12b70516be93fe9f2f947b45c",
+      "size": 210,
+      "mtimeMs": 1785829653827
+    },
+    "wiki/plot-threads/宋仁宗亲政的权力过渡.md": {
+      "hash": "aba14003747c8718fc82abfd0fa4ba3a",
+      "size": 2073,
+      "mtimeMs": 1785841010422
+    },
+    "wiki/plot-threads/寇准的仕途与失势.md": {
+      "hash": "88fe9311da816757bc448aa023d4d348",
+      "size": 2028,
+      "mtimeMs": 1785835358195
+    },
+    "wiki/plot-threads/王安石的基层历练.md": {
+      "hash": "b3fe406bc717c79d4d760bccfa8ccc1c",
+      "size": 1113,
+      "mtimeMs": 1785844246011
+    },
+    "wiki/plot-threads/苏轼的少年时代.md": {
+      "hash": "fe05c6dc55bb9282394afcdbe2a6b2b1",
+      "size": 1087,
+      "mtimeMs": 1785844246016
+    },
+    "wiki/plot-threads/范仲淹的成长弧光.md": {
+      "hash": "e0775bb7e4ca6cf4d492a41419b5dcbd",
+      "size": 907,
+      "mtimeMs": 1785841730470
+    },
+    "wiki/queries/丁谓是奸邪还是超时代的技术型官僚.md": {
+      "hash": "d99e929b35c32051481c9013464117f4",
+      "size": 3066,
+      "mtimeMs": 1785836885725
+    },
+    "wiki/queries/中华文明对现代人类文明的核心贡献到底是什么.md": {
+      "hash": "3ed4f17ef7d90cce71f5ef00f73f1162",
+      "size": 1284,
+      "mtimeMs": 1785830605218
+    },
+    "wiki/queries/中华文明是连续的线还是分散的点.md": {
+      "hash": "6f4140b818a4fd35831646a13d729188",
+      "size": 1301,
+      "mtimeMs": 1785833809429
+    },
+    "wiki/queries/刘太后的僭越行为究竟是野心还是控制欲.md": {
+      "hash": "fba6eea00655bb79542ad9ad3973aa07",
+      "size": 1479,
+      "mtimeMs": 1785840703619
+    },
+    "wiki/queries/制度化后的废物化宋代宗室的隔离政策如何影响了他们的生存能力与素质.md": {
+      "hash": "3855580a2a2259d6064bec0755e109c5",
+      "size": 1472,
+      "mtimeMs": 1785841299735
+    },
+    "wiki/queries/同理心是否是有效的帝王统治美德.md": {
+      "hash": "8d43b2f85bb09a8e1a31b4e77c2de3f0",
+      "size": 2385,
+      "mtimeMs": 1785837115609
+    },
+    "wiki/queries/孤臣的品质是否必然导致政治悲剧.md": {
+      "hash": "458c2125409c1d14dd88b6ef97852726",
+      "size": 766,
+      "mtimeMs": 1785835400411
+    },
+    "wiki/queries/宋仁宗废后的根本动因是情感决裂还是权力立威.md": {
+      "hash": "8eb55c75216725f30516c877c59e2010",
+      "size": 2238,
+      "mtimeMs": 1785841010427
+    },
+    "wiki/queries/宋代画院的毕业标准究竟如何.md": {
+      "hash": "27636db3f52e48e20ffe403e013ccb86",
+      "size": 1843,
+      "mtimeMs": 1785864540516
+    },
+    "wiki/queries/宋代隐士的真实数量与形态是否被官方叙事收编.md": {
+      "hash": "900685f3f5c127f6aee62475b0877424",
+      "size": 939,
+      "mtimeMs": 1785839286418
+    },
+    "wiki/queries/宋朝如何负担玉清昭应宫的天价工程费用.md": {
+      "hash": "38321b02dde0206808cace952b8b3a24",
+      "size": 926,
+      "mtimeMs": 1785833522950
+    },
+    "wiki/queries/寇准在雷州的结局是成长还是放弃.md": {
+      "hash": "8203e4f6944af2f63cbdacb6a7a112cb",
+      "size": 828,
+      "mtimeMs": 1785835400416
+    },
+    "wiki/queries/徽宗权术与治国能力为何割裂.md": {
+      "hash": "2d5f02a575e7ea6a6905b5298bd90d11",
+      "size": 1696,
+      "mtimeMs": 1785863025737
+    },
+    "wiki/queries/技术进步多大程度上决定了制度变革的成败.md": {
+      "hash": "eb88f05bde8fe79898c68360411dd449",
+      "size": 2451,
+      "mtimeMs": 1785845262894
+    },
+    "wiki/queries/文学作品的当代价值与永恒价值的评判尺度到底由谁与什么决定.md": {
+      "hash": "759ad643c58d0a99a8f364a79be3c9d7",
+      "size": 1851,
+      "mtimeMs": 1785836323186
+    },
+    "wiki/queries/文明是否可以分高下.md": {
+      "hash": "4080f0a66cae2091d56342603e49a112",
+      "size": 1202,
+      "mtimeMs": 1785830233696
+    },
+    "wiki/queries/既要也要的决策哲学在什么条件下会成为实质性创新什么条件下只是掩盖单边妥协的修辞.md": {
+      "hash": "a61f14f37199a86c1c20714c3513bb60",
+      "size": 1714,
+      "mtimeMs": 1785841299742
+    },
+    "wiki/queries/景德镇得名是官方赐名还是民间自发.md": {
+      "hash": "8fb7a662ccbd9bc0c7758864499f7c1b",
+      "size": 1506,
+      "mtimeMs": 1785832743225
+    },
+    "wiki/queries/标准化制度为何在中国古代未能扩散为经济理性主义.md": {
+      "hash": "b1503fb4104224b832b6b4b02a8c6e44",
+      "size": 1689,
+      "mtimeMs": 1785856422471
+    },
+    "wiki/queries/横山部落为何为西夏效力而非宋朝.md": {
+      "hash": "5c9c9f6ee788bdeb3abb863b9172eb77",
+      "size": 1079,
+      "mtimeMs": 1785842652974
+    },
+    "wiki/queries/王安石的变法能解决宋代的冗官问题吗.md": {
+      "hash": "8e5722582158d4cbe1dbc8aace47da77",
+      "size": 1958,
+      "mtimeMs": 1785843993240
+    },
+    "wiki/queries/王安石的理财思想是超前还是脱离现实.md": {
+      "hash": "6ca28bf17b3514041673bf2a4277233b",
+      "size": 1788,
+      "mtimeMs": 1785849836889
+    },
+    "wiki/queries/王希孟生平为何如此简略.md": {
+      "hash": "4828ac0a3c13ba75590060ddd6a35681",
+      "size": 1628,
+      "mtimeMs": 1785864540510
+    },
+    "wiki/queries/现代组织管理中是否仍有身份组织的价值.md": {
+      "hash": "28557a6ca3fb77adba9c0743c5615f5d",
+      "size": 1102,
+      "mtimeMs": 1785852915897
+    },
+    "wiki/queries/硬实力与软实力在征服中的权重如何变化.md": {
+      "hash": "c0b2b1ca4fb425a5be9c26f0dedc4036",
+      "size": 1324,
+      "mtimeMs": 1785833809423
+    },
+    "wiki/queries/科举的功利诱因与道德目标之间存在怎样的转化关系.md": {
+      "hash": "197c0178f86a6f04368b0610035ebdb4",
+      "size": 1903,
+      "mtimeMs": 1785836091389
+    },
+    "wiki/queries/科举选才的公平性与效率性是否能兼顾.md": {
+      "hash": "546111077f7328be44f1522b01de8c95",
+      "size": 2521,
+      "mtimeMs": 1785831572290
+    },
+    "wiki/queries/精英的官话与大众的方言-文化分层影响.md": {
+      "hash": "492fb346135020f44e0c104c77ea238e",
+      "size": 1520,
+      "mtimeMs": 1785842293532
+    },
+    "wiki/queries/苏辙的历史地位为何争议四百年.md": {
+      "hash": "3aee9ec6cd72d3e57b24a57a52f6064e",
+      "size": 1459,
+      "mtimeMs": 1785864149344
+    },
+    "wiki/queries/贬谪狄青是否真的避免了可能的军事政变.md": {
+      "hash": "f7068bf3a842db955b213665007419ab",
+      "size": 1605,
+      "mtimeMs": 1785846541756
+    },
+    "wiki/queries/超长期文化工程是否真的更容易成功.md": {
+      "hash": "d8cf06315902c31452f4ddffa445eaf0",
+      "size": 1265,
+      "mtimeMs": 1785830605202
+    },
+    "wiki/queries/达尔文视角观察历史是否会滑向相对主义.md": {
+      "hash": "218b6bd194051c41c3832abadaee094c",
+      "size": 1393,
+      "mtimeMs": 1785830605218
+    },
+    "wiki/queries/道德化的天命观究竟是文明的进步还是精致的统治表演.md": {
+      "hash": "886c08ca90740c0c69860706e2beea06",
+      "size": 1091,
+      "mtimeMs": 1785844993493
+    },
+    "wiki/queries/道德政治在什么条件下使政治变得更清明又在什么条件下使政治走向撕裂.md": {
+      "hash": "afcc5856931f2f7df3a6b0ad71f447eb",
+      "size": 1296,
+      "mtimeMs": 1785841730475
+    },
+    "wiki/queries/面对特权结构直接打击与制度设计何者更有效.md": {
+      "hash": "d2a8199ba51f1a06baf2dee372d74a7f",
+      "size": 2101,
+      "mtimeMs": 1785850686218
+    },
+    "wiki/queries/颁赐历法真的能改变被统治者的认同吗.md": {
+      "hash": "98a28762594826f4b71e3a29b2cc14e0",
+      "size": 1337,
+      "mtimeMs": 1785843822842
+    },
+    "wiki/sources/4-文明之旅--2-md--10-001文明之旅宣传片--1w9asqt.md": {
+      "hash": "8c411bc94adade17a854062105a92218",
+      "size": 2681,
+      "mtimeMs": 1785830233512
+    },
+    "wiki/sources/4-文明之旅--2-md--17-105公元1101年-送别东坡先生--1dso0oo.md": {
+      "hash": "730e0dca5790ee37a8581340b1c8fbc3",
+      "size": 1783,
+      "mtimeMs": 1785860191391
+    },
+    "wiki/sources/4-文明之旅--2-md--18-034公元1031年-和亲真的有用吗--rpkbmz.md": {
+      "hash": "ef7d9f09fe42166c6e19de7e3412ebbc",
+      "size": 3053,
+      "mtimeMs": 1785840178955
+    },
+    "wiki/sources/4-文明之旅--2-md--18-039公元1036年-敦煌伟大在哪里--ex3zu0.md": {
+      "hash": "51bb7ef3889d07842ab6291f8f0934ed",
+      "size": 11561,
+      "mtimeMs": 1785841484395
+    },
+    "wiki/sources/4-文明之旅--2-md--18-051公元1048年-黄河是祸还是福--1kzo327.md": {
+      "hash": "cc6f99a018ae763df0067dc4842f6ed4",
+      "size": 2761,
+      "mtimeMs": 1785844416358
+    },
+    "wiki/sources/4-文明之旅--2-md--18-070公元1067年-欧阳修为何不朽--c1jo14.md": {
+      "hash": "8f70c9a12f016a32d921c97559d246ee",
+      "size": 3523,
+      "mtimeMs": 1785849319489
+    },
+    "wiki/sources/4-文明之旅--2-md--19-004公元1001年-四川为什么叫四川--1ahu857.md": {
+      "hash": "01d32dd82e722963a4c1e478349dfab0",
+      "size": 4257,
+      "mtimeMs": 1785831291860
+    },
+    "wiki/sources/4-文明之旅--2-md--19-046公元1043年-庆历新政为何失败--3n1i2i.md": {
+      "hash": "f87948fa98ed255b64ca144fc8f9dba7",
+      "size": 2806,
+      "mtimeMs": 1785843327004
+    },
+    "wiki/sources/4-文明之旅--2-md--19-055公元1052年-边缘如何融入中国--1aekb6q.md": {
+      "hash": "06561b207041a97ffe6b4e217920b404",
+      "size": 9541,
+      "mtimeMs": 1785845418999
+    },
+    "wiki/sources/4-文明之旅--2-md--19-068公元1065年-宋英宗为什么不孝--yur5qs.md": {
+      "hash": "bb1ad23e46a50d2039e3341c48c78ca2",
+      "size": 2640,
+      "mtimeMs": 1785848950188
+    },
+    "wiki/sources/4-文明之旅--2-md--19-071公元1068年-阿云姑娘该不该死--e3uw2a.md": {
+      "hash": "694ef01883264a56fc63e4a314e6b30c",
+      "size": 2561,
+      "mtimeMs": 1785849579473
+    },
+    "wiki/sources/4-文明之旅--2-md--19-096公元1093年-奸臣是怎么诞生的--187om3.md": {
+      "hash": "71b2858bcf4b371a63c55444239c4b0f",
+      "size": 3547,
+      "mtimeMs": 1785857026332
+    },
+    "wiki/sources/4-文明之旅--2-md--20-014公元1011年-古人为什么会乱花钱--1i31b8d.md": {
+      "hash": "6abc5fa63dea00afd093fb20511fe3d8",
+      "size": 2101,
+      "mtimeMs": 1785834070520
+    },
+    "wiki/sources/4-文明之旅--2-md--20-036公元1033年-刘太后为什么不称帝--cad388.md": {
+      "hash": "80ab1a7cd60e485f8a651678ad48ed57",
+      "size": 3904,
+      "mtimeMs": 1785840629213
+    },
+    "wiki/sources/4-文明之旅--2-md--20-047公元1044年-岳阳楼记为什么不朽--r6ww0z.md": {
+      "hash": "94846ced3e93b66c23a34352e4283473",
+      "size": 1772,
+      "mtimeMs": 1785843531829
+    },
+    "wiki/sources/4-文明之旅--2-md--20-053公元1050年-国家祭祀怎么变样了--oz2clf.md": {
+      "hash": "7a1c5789677134109f370a405e11c599",
+      "size": 2341,
+      "mtimeMs": 1785844993415
+    },
+    "wiki/sources/4-文明之旅--2-md--20-058公元1055年-欧阳修为什么要禁书--1mm7b8s.md": {
+      "hash": "0e1c0cbf7560b3fe4b2dae63c66e5121",
+      "size": 4585,
+      "mtimeMs": 1785846210982
+    },
+    "wiki/sources/4-文明之旅--2-md--20-083公元1080年-头衔到底有什么意义--1kik0gm.md": {
+      "hash": "074542cfb98b921375275a8aaa6f29db",
+      "size": 2595,
+      "mtimeMs": 1785852827259
+    },
+    "wiki/sources/4-文明之旅--2-md--20-090公元1087年-一场政治和解有多难--jehfrb.md": {
+      "hash": "37a6213880352e7c0b03d3a660a20d0b",
+      "size": 1992,
+      "mtimeMs": 1785855405706
+    },
+    "wiki/sources/4-文明之旅--2-md--20-091公元1088年-传统是怎样被发明的--psd85w.md": {
+      "hash": "78bd0a9ae29656dd17cf516f75f175f9",
+      "size": 3386,
+      "mtimeMs": 1785855535274
+    },
+    "wiki/sources/4-文明之旅--2-md--20-093公元1090年-老人家的价值是什么--12ey89t.md": {
+      "hash": "9e708b838d3a3cc0afac2d2fa8a2619b",
+      "size": 2571,
+      "mtimeMs": 1785856064828
+    },
+    "wiki/sources/4-文明之旅--2-md--20-100公元1096年-怎样实现个体的繁荣--1enmh29.md": {
+      "hash": "3d2447b08f0ca1f43fa1108f14a9581c",
+      "size": 3308,
+      "mtimeMs": 1785857723417
+    },
+    "wiki/sources/4-文明之旅--2-md--20-102公元1098年-假玉玺怎么有真魔力--7g642y.md": {
+      "hash": "aadbf8eb9eac47f42f56781c530468f5",
+      "size": 3875,
+      "mtimeMs": 1785858994680
+    },
+    "wiki/sources/4-文明之旅--2-md--21-003公元1000年-宋代如何走出五代阴影--1542zk3.md": {
+      "hash": "f1d05996129204db31fbed0ff457851a",
+      "size": 3857,
+      "mtimeMs": 1785830930701
+    },
+    "wiki/sources/4-文明之旅--2-md--21-013公元1010年-大辽为什么打不服高丽--1j9sv9c.md": {
+      "hash": "5aa91df5f9a7e0df9abd272a97d3d96a",
+      "size": 2650,
+      "mtimeMs": 1785833809378
+    },
+    "wiki/sources/4-文明之旅--2-md--21-015公元1012年-大宋为什么歧视南方人--kx0ibz.md": {
+      "hash": "5ce269a0f434a758bf6db95aed673109",
+      "size": 3241,
+      "mtimeMs": 1785834334681
+    },
+    "wiki/sources/4-文明之旅--2-md--21-020公元1017年-如何拥有被讨厌的勇气--dkdxgi.md": {
+      "hash": "1bf39e29ddf866cc5d9770579f13eba6",
+      "size": 3231,
+      "mtimeMs": 1785835798491
+    },
+    "wiki/sources/4-文明之旅--2-md--21-022公元1019年-文坛宗师是怎么掉队的--1pyd4x1.md": {
+      "hash": "3432d36b921646bb3a6ef7967935b837",
+      "size": 2171,
+      "mtimeMs": 1785836323077
+    },
+    "wiki/sources/4-文明之旅--2-md--21-031公元1028年-做隐士真的是躺平了吗--1negtdw.md": {
+      "hash": "d946f5ce38f3bd9e9d031f73e5d7cfb2",
+      "size": 2010,
+      "mtimeMs": 1785839286366
+    },
+    "wiki/sources/4-文明之旅--2-md--21-038公元1035年-皇亲国戚为什么很难管--1hpzqpz.md": {
+      "hash": "2a187eb2e62f49a42d10e41ee7a5b0d4",
+      "size": 1873,
+      "mtimeMs": 1785841299612
+    },
+    "wiki/sources/4-文明之旅--2-md--21-049公元1046年-为什么宋朝越裁官越多--1oi83a1.md": {
+      "hash": "e98d094d09672d8d8c5597f54ab33214",
+      "size": 3496,
+      "mtimeMs": 1785843993181
+    },
+    "wiki/sources/4-文明之旅--2-md--21-057公元1054年-罗马教廷为何如此奇特--121pzy.md": {
+      "hash": "4c381d5c6347fb663e75a06d362cb670",
+      "size": 3863,
+      "mtimeMs": 1785846000442
+    },
+    "wiki/sources/4-文明之旅--2-md--21-059公元1056年-英雄狄青为何注定悲剧--1mvik9h.md": {
+      "hash": "a33b39a0170efdb1aedcb29055da4656",
+      "size": 2566,
+      "mtimeMs": 1785846541713
+    },
+    "wiki/sources/4-文明之旅--2-md--21-061公元1058年-柳永词为什么时好时坏--119cmff.md": {
+      "hash": "e70b4290fbfcfc5afdaeb80db32db609",
+      "size": 3931,
+      "mtimeMs": 1785847040172
+    },
+    "wiki/sources/4-文明之旅--2-md--21-067公元1064年-人如何面对日常性疼痛--9qcjut.md": {
+      "hash": "de7630ea85a20ac68f4e44ae83affccd",
+      "size": 2417,
+      "mtimeMs": 1785848751022
+    },
+    "wiki/sources/4-文明之旅--2-md--21-076公元1073年-你真的想穿越到宋朝吗--1374mfu.md": {
+      "hash": "dfcdc4aeb25c6f8e8017613ecbd2224c",
+      "size": 2684,
+      "mtimeMs": 1785850827340
+    },
+    "wiki/sources/4-文明之旅--2-md--21-079公元1076年-哲人为什么当不了国王--zquy0m.md": {
+      "hash": "a7a57b3f44a3657407539186d1b9e8cf",
+      "size": 9490,
+      "mtimeMs": 1785851768830
+    },
+    "wiki/sources/4-文明之旅--2-md--21-085公元1082年-苏轼怎样穿越至暗时刻--hjxof4.md": {
+      "hash": "ba5e21e743376d5459d987fb7d4cf9fb",
+      "size": 1392,
+      "mtimeMs": 1785853875444
+    },
+    "wiki/sources/4-文明之旅--2-md--21-086公元1083年-人怎么才能不走寻常路--dpagm5.md": {
+      "hash": "fd69bfbd54a012962285e125640f4555",
+      "size": 2881,
+      "mtimeMs": 1785854295224
+    },
+    "wiki/sources/4-文明之旅--2-md--21-092公元1089年-苏轼为什么酷爱手工活--rtfzw5.md": {
+      "hash": "fb14eaf6dfa59d2b20d828ae19bb1c1c",
+      "size": 3844,
+      "mtimeMs": 1785855822326
+    },
+    "wiki/sources/4-文明之旅--2-md--21-101公元1097年-章惇为什么要迫害苏轼--1ri8t3i.md": {
+      "hash": "32697d6fe821e5253dcf05aed5c0ec90",
+      "size": 2549,
+      "mtimeMs": 1785858584956
+    },
+    "wiki/sources/4-文明之旅--2-md--21-106公元1102年-为什么中间道路很难走--532j4.md": {
+      "hash": "5d9ce96f92d6d9e50c9964ae334b2d73",
+      "size": 3397,
+      "mtimeMs": 1785860406071
+    },
+    "wiki/sources/4-文明之旅--2-md--22-005公元1002年-科举为什么发生基因突变--n4dr7g.md": {
+      "hash": "43f70018ba8c58d6110de7900f8550d1",
+      "size": 4713,
+      "mtimeMs": 1785831572235
+    },
+    "wiki/sources/4-文明之旅--2-md--22-011公元1008年-天书封禅只是迷信闹剧吗--ob790w.md": {
+      "hash": "ce44137d4728377bf07de9a5426c3ab2",
+      "size": 1717,
+      "mtimeMs": 1785833317189
+    },
+    "wiki/sources/4-文明之旅--2-md--22-012公元1009年-大建道观为什么停不下来--1b6r8l2.md": {
+      "hash": "f81d27e1e61ff8a3412f7c4ffe1c2022",
+      "size": 3765,
+      "mtimeMs": 1785833522900
+    },
+    "wiki/sources/4-文明之旅--2-md--22-017公元1014年-杨家将传说到底有几分真--ecabz3.md": {
+      "hash": "97cea87f4b869f07d32697d354376146",
+      "size": 4640,
+      "mtimeMs": 1785834986243
+    },
+    "wiki/sources/4-文明之旅--2-md--22-023公元1020年-寇准做对了什么关键选择--1rfugi5.md": {
+      "hash": "680a40c1557fcd221a6219bafb2273cc",
+      "size": 3480,
+      "mtimeMs": 1785836581288
+    },
+    "wiki/sources/4-文明之旅--2-md--22-025公元1022年-宋真宗品格比能力更可贵--14ptvk7.md": {
+      "hash": "d00873fbb1664f5cf62f0405a23a6583",
+      "size": 6228,
+      "mtimeMs": 1785837115550
+    },
+    "wiki/sources/4-文明之旅--2-md--22-029公元1026年-茶叶如何成为大宋印钞机--11q0tzj.md": {
+      "hash": "7c37cefe92be7c96b7fe216231be36cb",
+      "size": 3628,
+      "mtimeMs": 1785838729229
+    },
+    "wiki/sources/4-文明之旅--2-md--22-032公元1029年-为什么不能做单维生存者--14ihueg.md": {
+      "hash": "706c526bbac8b4d3fc39e6102816155d",
+      "size": 7415,
+      "mtimeMs": 1785839476738
+    },
+    "wiki/sources/4-文明之旅--2-md--22-033公元1030年-缺马的大宋如何对外作战--8gcvvc.md": {
+      "hash": "06dbb8bef15b67fbaa6dd88d14a15c5d",
+      "size": 2605,
+      "mtimeMs": 1785839925688
+    },
+    "wiki/sources/4-文明之旅--2-md--22-037公元1034年-宋仁宗为什么一定要离婚--188tetx.md": {
+      "hash": "c1c5178ec0cce37ccdb1b268b12580a6",
+      "size": 4705,
+      "mtimeMs": 1785840888477
+    },
+    "wiki/sources/4-文明之旅--2-md--22-040公元1037年-范仲淹为什么会卷入党争--1efa2ny.md": {
+      "hash": "909f07fd81236be679bd3c0640a7aed2",
+      "size": 2922,
+      "mtimeMs": 1785841730301
+    },
+    "wiki/sources/4-文明之旅--2-md--22-048公元1045年-为什么时间也是一种武器--u9f6er.md": {
+      "hash": "431fb51d1a2548fe49aad6eed452cde4",
+      "size": 3010,
+      "mtimeMs": 1785843822762
+    },
+    "wiki/sources/4-文明之旅--2-md--22-054公元1051年-宋朝为什么会人口大爆炸--17xyle8.md": {
+      "hash": "2694d1e47dc2ac3e2230b7c84d16403b",
+      "size": 1310,
+      "mtimeMs": 1785845262888
+    },
+    "wiki/sources/4-文明之旅--2-md--22-056公元1053年-仁宗画像为什么不肯外传--wwcdng.md": {
+      "hash": "69f5368754885da8d9c873e8a5050946",
+      "size": 1360,
+      "mtimeMs": 1785845740748
+    },
+    "wiki/sources/4-文明之旅--2-md--22-060公元1057年-千年龙虎榜到底有多厉害--1366z13.md": {
+      "hash": "57dec54f799812bbcd7f31240c052072",
+      "size": 1335,
+      "mtimeMs": 1785846794373
+    },
+    "wiki/sources/4-文明之旅--2-md--22-062公元1059年-宋朝人为什么这么爱杜甫--12ctcea.md": {
+      "hash": "eb395352bed9185d15ba3d40790f8173",
+      "size": 2466,
+      "mtimeMs": 1785847395159
+    },
+    "wiki/sources/4-文明之旅--2-md--22-064公元1061年-为什么大宋的冗兵裁不掉--1xdmi59.md": {
+      "hash": "3e218c269d6fe95bca2b843204458119",
+      "size": 1531,
+      "mtimeMs": 1785847853386
+    },
+    "wiki/sources/4-文明之旅--2-md--22-065公元1062年-包拯是怎么成为包青天的--bgu9db.md": {
+      "hash": "758172fdc553ccfad0b4fd2cf27b9be8",
+      "size": 13599,
+      "mtimeMs": 1785848098528
+    },
+    "wiki/sources/4-文明之旅--2-md--22-072公元1069年-王安石理财有可能成功吗--1x0rh09.md": {
+      "hash": "8649aceafd9923a8009be382fc09423f",
+      "size": 3075,
+      "mtimeMs": 1785849816105
+    },
+    "wiki/sources/4-文明之旅--2-md--22-073公元1070年-改革者该怎么面对反对者--uxqesa.md": {
+      "hash": "1465561a98580b5126cc6c3d60aee6d7",
+      "size": 3359,
+      "mtimeMs": 1785850092336
+    },
+    "wiki/sources/4-文明之旅--2-md--22-074公元1071年-新法是怎么龙种变跳蚤的--vvro13.md": {
+      "hash": "8e805b65b0836dd1855c79f2701f55d4",
+      "size": 3050,
+      "mtimeMs": 1785850416497
+    },
+    "wiki/sources/4-文明之旅--2-md--22-078公元1075年-开疆拓土到底划算不划算--wa7qim.md": {
+      "hash": "91ded2993f6eedbd7e653bcfc81573a5",
+      "size": 2842,
+      "mtimeMs": 1785851554925
+    },
+    "wiki/sources/4-文明之旅--2-md--22-084公元1081年-绝对优势的战争为何失败--1gggfo9.md": {
+      "hash": "392165411af591131c8bb838446aaac4",
+      "size": 4755,
+      "mtimeMs": 1785853462774
+    },
+    "wiki/sources/4-文明之旅--2-md--22-087公元1084年-帝王策怎么变成了国民书--1sps5yi.md": {
+      "hash": "d052a911828d30d03ef6ec172e5f3cdb",
+      "size": 4865,
+      "mtimeMs": 1785854566124
+    },
+    "wiki/sources/4-文明之旅--2-md--22-088公元1085年-宋神宗的政治遗产是什么--1q14n0v.md": {
+      "hash": "11dec06230d3d0446b158ef14571231c",
+      "size": 2727,
+      "mtimeMs": 1785854925707
+    },
+    "wiki/sources/4-文明之旅--2-md--22-089公元1086年-苏轼是怎么阴阳王安石的--1yq63b8.md": {
+      "hash": "2d258a195ba715f0740990e40f360e4b",
+      "size": 4068,
+      "mtimeMs": 1785855140013
+    },
+    "wiki/sources/4-文明之旅--2-md--22-094公元1091年-一本书怎么解决工程难题--a88hba.md": {
+      "hash": "c131413f9afd5baba191a8cb2c9be710",
+      "size": 2998,
+      "mtimeMs": 1785856422412
+    },
+    "wiki/sources/4-文明之旅--2-md--22-097公元1094年-被操控的人生会有多少恨--1optzoq.md": {
+      "hash": "089c4949604c316172b96e9a385d0ab1",
+      "size": 2088,
+      "mtimeMs": 1785857255269
+    },
+    "wiki/sources/4-文明之旅--2-md--22-103公元1099年-西夏为什么不怕经济制裁--neynnz.md": {
+      "hash": "b368d7033a2a32c2265f7baab5da5f95",
+      "size": 2951,
+      "mtimeMs": 1785859510239
+    },
+    "wiki/sources/4-文明之旅--2-md--22-104公元1100年-章惇为什么没拦住宋徽宗--17t6w67.md": {
+      "hash": "915150843ec74b813bb9e93b7ece0c67",
+      "size": 1789,
+      "mtimeMs": 1785859888997
+    },
+    "wiki/sources/4-文明之旅--2-md--23-007公元1004年-基建狂魔大宋如何打防御战--1sdsiop.md": {
+      "hash": "9eff266ca9ac3c6434980771c25de86c",
+      "size": 3484,
+      "mtimeMs": 1785832098700
+    },
+    "wiki/sources/4-文明之旅--2-md--23-008公元1005年-澶渊之盟是个屈辱的条约吗--t7ylbz.md": {
+      "hash": "847d1068f67964aceff8b42918035745",
+      "size": 3657,
+      "mtimeMs": 1785832444431
+    },
+    "wiki/sources/4-文明之旅--2-md--23-009公元1006年-瓷都景德镇凭什么千年不衰--7dvigw.md": {
+      "hash": "b3ee0be1f1d7e8653cdbece29758d36c",
+      "size": 2998,
+      "mtimeMs": 1785832743099
+    },
+    "wiki/sources/4-文明之旅--2-md--23-010公元1007年-辽朝皇帝为什么建五座京城--eqquok.md": {
+      "hash": "c5d1637075ac33778d2016848ba92f5c",
+      "size": 3929,
+      "mtimeMs": 1785833051720
+    },
+    "wiki/sources/4-文明之旅--2-md--23-019公元1016年-宋朝宰相官名为什么这么怪--k5zl1m.md": {
+      "hash": "6aa56c44b50c9e68a35363f877533b7e",
+      "size": 2397,
+      "mtimeMs": 1785835608149
+    },
+    "wiki/sources/4-文明之旅--2-md--23-041公元1038年-西夏李元昊为什么非要称帝--91eeu2.md": {
+      "hash": "4a5a069290a042d8922df9ebf091ac3e",
+      "size": 2261,
+      "mtimeMs": 1785841955564
+    },
+    "wiki/sources/4-文明之旅--2-md--23-045公元1042年-一个故事究竟有多少种讲法--1w865bd.md": {
+      "hash": "d852053afc6260ca4731ab3d1a3874b2",
+      "size": 3035,
+      "mtimeMs": 1785843123341
+    },
+    "wiki/sources/4-文明之旅--2-md--23-063公元1060年-写历史只是为了记录真相吗--1k03xx5.md": {
+      "hash": "1aebce74a88735face284c10179ec976",
+      "size": 1820,
+      "mtimeMs": 1785847576267
+    },
+    "wiki/sources/4-文明之旅--2-md--23-066公元1063年-宋仁宗是个没主见的仁君吗--1ny02vm.md": {
+      "hash": "4b215ab27226457d3eaf2d4205bbd919",
+      "size": 2749,
+      "mtimeMs": 1785848360127
+    },
+    "wiki/sources/4-文明之旅--2-md--23-077公元1074年-究竟是谁主导了王安石变法--5qzqxe.md": {
+      "hash": "182a3f75e59c18a72c152ede8beb37d9",
+      "size": 3145,
+      "mtimeMs": 1785851232227
+    },
+    "wiki/sources/4-文明之旅--2-md--23-081公元1078年-一条运河为何成了文明杠杆--pbnsqf.md": {
+      "hash": "b1079324487d233a1c82514a0749dfb0",
+      "size": 3055,
+      "mtimeMs": 1785852347868
+    },
+    "wiki/sources/4-文明之旅--2-md--23-082公元1079年-宽容的北宋为何容不下苏轼--1k8va4u.md": {
+      "hash": "f2bf44bc2210f7e0201286722d7c0fb2",
+      "size": 3503,
+      "mtimeMs": 1785852520609
+    },
+    "wiki/sources/4-文明之旅--2-md--23-095公元1092年-君子是怎么落入派系之争的--130j41b.md": {
+      "hash": "e55f38e3ca7be45716b9271e36074877",
+      "size": 1734,
+      "mtimeMs": 1785856763837
+    },
+    "wiki/sources/4-文明之旅--2-md--23-098公元1095年-十字军东征藏了多少小算计--1bt47vp.md": {
+      "hash": "10eb36cb0dcc44f8cbb9c2fa70aedb9f",
+      "size": 3462,
+      "mtimeMs": 1785857505385
+    },
+    "wiki/sources/4-文明之旅--2-md--23-107公元1103年-奸臣蔡京为何大搞国家福利--pgk0wk.md": {
+      "hash": "e39d218a851af1b39ddb45b07f948bdf",
+      "size": 2962,
+      "mtimeMs": 1785860741936
+    },
+    "wiki/sources/4-文明之旅--2-md--24-028公元1025年-世家为什么不愿意跟皇家联姻--10gfxzw.md": {
+      "hash": "09a9eac3d58375a2dc9aec6867e38f47",
+      "size": 1775,
+      "mtimeMs": 1785838349829
+    },
+    "wiki/sources/4-文明之旅--2-md--24-035公元1032年-为什么有那么多厉害的萧太后--7l67tf.md": {
+      "hash": "171fce31ae4e81eab0551c8f41d1efc7",
+      "size": 3879,
+      "mtimeMs": 1785840404026
+    },
+    "wiki/sources/4-文明之旅--2-md--24-042公元1039年-口音天南海北大臣们怎么交流--1njl3zq.md": {
+      "hash": "983b949410ba7565000a9db6fecf5c7d",
+      "size": 3778,
+      "mtimeMs": 1785842293449
+    },
+    "wiki/sources/4-文明之旅--2-md--24-043公元1040年-宋夏战争为什么会打成拉锯战--1ka8kda.md": {
+      "hash": "666d88bdec5f7493b5e66ca7bde905e6",
+      "size": 3803,
+      "mtimeMs": 1785842597710
+    },
+    "wiki/sources/4-文明之旅--2-md--24-044公元1041年-活字印刷为什么起大早赶晚集--ecemoa.md": {
+      "hash": "6cbc59551e2394e104645a4a929ab715",
+      "size": 3350,
+      "mtimeMs": 1785842966214
+    },
+    "wiki/sources/4-文明之旅--2-md--24-069公元1066年-说话的人和做事的人有何不同--xn6zjh.md": {
+      "hash": "a19ed3b30e295163997e2ea48810f8c9",
+      "size": 10706,
+      "mtimeMs": 1785849115801
+    },
+    "wiki/sources/4-文明之旅--2-md--24-080公元1077年-被系统孤立是一种怎样的悲剧--1rn8w9x.md": {
+      "hash": "0b6e006d983d9014d7c5184ce2f127d8",
+      "size": 1913,
+      "mtimeMs": 1785852006328
+    },
+    "wiki/sources/4-文明之旅--2-md--25-006公元1003年-为什么不听建议也是一种好策略--ck9ps7.md": {
+      "hash": "7e8dfc3dca5ee4497dfbe2610ae2f65f",
+      "size": 2824,
+      "mtimeMs": 1785831790771
+    },
+    "wiki/sources/4-文明之旅--2-md--25-016公元1013年-明知宦官里有小人为何非用不可--zn3wyu.md": {
+      "hash": "6a61d152d05026d817a7bdbbb64c9cb5",
+      "size": 4427,
+      "mtimeMs": 1785834684453
+    },
+    "wiki/sources/4-文明之旅--2-md--25-018公元1015年-5次罢相寇准一生为何大起大落--17j4hyp.md": {
+      "hash": "93cbe984f19865a610d91edab5de165f",
+      "size": 4167,
+      "mtimeMs": 1785835358147
+    },
+    "wiki/sources/4-文明之旅--2-md--25-021公元1018年-科举到底是一种怎样的全民游戏--n5zje0.md": {
+      "hash": "7cf3785775b85e5d426a46bc05e76cac",
+      "size": 2920,
+      "mtimeMs": 1785836091327
+    },
+    "wiki/sources/4-文明之旅--2-md--25-075公元1072年-砍富人的刀怎么落在了穷人头上--h647i5.md": {
+      "hash": "2ce5170266e3ad95e92227a11528069a",
+      "size": 1447,
+      "mtimeMs": 1785850686192
+    },
+    "wiki/sources/4-文明之旅--2-md--26-024公元1021年-解决问题的高手丁谓为何背负骂名--18cqc8p.md": {
+      "hash": "800e83620c3a68e5139bca8393293fcf",
+      "size": 3152,
+      "mtimeMs": 1785836798762
+    },
+    "wiki/sources/4-文明之旅--2-md--26-030公元1027年-游牧文明真的比农耕文明更落后吗--12hdrcw.md": {
+      "hash": "1d663c706c5689dadc83f7516aae66ed",
+      "size": 2808,
+      "mtimeMs": 1785839011470
+    },
+    "wiki/sources/4-文明之旅--2-md--26-050公元1047年-十一世纪的全球文明为何支离破碎--12ay6sh.md": {
+      "hash": "2128128adb1048149984ab5a89e3dce2",
+      "size": 5117,
+      "mtimeMs": 1785844211887
+    },
+    "wiki/sources/4-文明之旅--2-md--26-052公元1049年-范仲淹家族信托何以持续900年--btkz68.md": {
+      "hash": "134c02db450e5275b479d6e37d459f01",
+      "size": 3785,
+      "mtimeMs": 1785844700475
+    },
+    "wiki/sources/4-文明之旅--2-md--27-002导读-一个20年超长期的文化工程是怎么设计出来的--19t9wuf.md": {
+      "hash": "26d8e41581825684ff9b06a6b9ba5e81",
+      "size": 2074,
+      "mtimeMs": 1785830605081
+    },
+    "wiki/sources/4-文明之旅--2-md--27-026公元1023年-独掌大权的刘太后为何没变成武则天--mvfxnh.md": {
+      "hash": "27c5f4cd27ddc2ff82e7d1ffd35292d9",
+      "size": 10386,
+      "mtimeMs": 1785837589556
+    },
+    "wiki/sources/4-文明之旅--2-md--27-1781625600公元1111年-唐宋为什么发生钱荒--1413b8u.md": {
+      "hash": "5cf6b44f1872264abf2280dda7fc8460",
+      "size": 3217,
+      "mtimeMs": 1785863642420
+    },
+    "wiki/sources/4-文明之旅--2-md--27-1784649600公元1116年-大辽为什么迅速崩盘--1wv80w5.md": {
+      "hash": "b3eb588fd1aa01b4ab88ef2ddb5bf8cd",
+      "size": 2680,
+      "mtimeMs": 1785865309410
+    },
+    "wiki/sources/4-文明之旅--2-md--28-1778601600公元1106年-怎样才能在时光中不朽--16ygkkt.md": {
+      "hash": "b2b825881309b4472c1ecf9d4f883fd5",
+      "size": 3570,
+      "mtimeMs": 1785861707145
+    },
+    "wiki/sources/4-文明之旅--2-md--28-1779811200公元1108年-宋徽宗怎么敢纵容童贯--1n1iydf.md": {
+      "hash": "e59e1888e5a6bb1cde0d7d7afba729b3",
+      "size": 2540,
+      "mtimeMs": 1785862649204
+    },
+    "wiki/sources/4-文明之旅--2-md--28-1781020800公元1110年-人类为什么热衷拉名单--1w2p5ys.md": {
+      "hash": "30b904da4488247f33eef0d09571900b",
+      "size": 1203,
+      "mtimeMs": 1785863415141
+    },
+    "wiki/sources/4-文明之旅--2-md--28-1784044800公元1115年-金朝崛起为什么这么快--vw1fxk.md": {
+      "hash": "aa082bf96203eddc360d533c96af1098",
+      "size": 2466,
+      "mtimeMs": 1785864993924
+    },
+    "wiki/sources/4-文明之旅--2-md--28-1785254400公元1117年-宋徽宗为什么崇信道教--ijoz4h.md": {
+      "hash": "c2134f161e349ba6add3f04278c95bda",
+      "size": 2116,
+      "mtimeMs": 1785865514334
+    },
+    "wiki/sources/4-文明之旅--2-md--28-1785859200公元1118年-宋徽宗联金灭辽有错吗--1yebjm.md": {
+      "hash": "45d7de69360ef036fd5964e0851ab152",
+      "size": 1149,
+      "mtimeMs": 1785898512469
+    },
+    "wiki/sources/4-文明之旅--2-md--29-027公元1024年-交子1000年纸币为何诞生在中国宋朝--2yz1xu.md": {
+      "hash": "0a71be9c011fda3a53d581d14bf539f3",
+      "size": 3168,
+      "mtimeMs": 1785837885044
+    },
+    "wiki/sources/4-文明之旅--2-md--29-1777392000公元1104年-关羽是怎么变成关老爷的--hpb90e.md": {
+      "hash": "88e227bf6bc90ef6963440e50d9b70f7",
+      "size": 3219,
+      "mtimeMs": 1785860996934
+    },
+    "wiki/sources/4-文明之旅--2-md--29-1777996800公元1105年-为什么黄庭坚能开宗立派--p6zwed.md": {
+      "hash": "fff70feb35320302ea30a04ac6377cc2",
+      "size": 1891,
+      "mtimeMs": 1785861363459
+    },
+    "wiki/sources/4-文明之旅--2-md--29-1780416000公元1109年-宋徽宗是怎么耍弄权术的--kdinaz.md": {
+      "hash": "0ba025ce981a949fdb8513bb7163965b",
+      "size": 3310,
+      "mtimeMs": 1785863025638
+    },
+    "wiki/sources/4-文明之旅--2-md--29-1782230400公元1112年-古文到底是一场什么运动--nt8w2k.md": {
+      "hash": "65c76d76aca36fe791684f8fbc940d0f",
+      "size": 2936,
+      "mtimeMs": 1785863953720
+    },
+    "wiki/sources/4-文明之旅--2-md--29-1782835200公元1113年-千里江山图藏着什么秘密--eekrz1.md": {
+      "hash": "f7db0aef84f7c1a3651c1539e905a463",
+      "size": 3677,
+      "mtimeMs": 1785864476019
+    },
+    "wiki/sources/4-文明之旅--2-md--29-1783440000公元1114年-为什么出不了第二个汴京--n1qtan.md": {
+      "hash": "b71018c6184f5fc554db228490a20f98",
+      "size": 21780,
+      "mtimeMs": 1785864761156
+    },
+    "wiki/sources/4-文明之旅--2-md--30-1779206400公元1107年-北宋儒家是如何绝地反击的--y5mboa.md": {
+      "hash": "7029166586cdb5d37c288698642b132a",
+      "size": 3976,
+      "mtimeMs": 1785862121661
+    },
+    "wiki/synthesis/人才选拔制度的中国历史演变.md": {
+      "hash": "c217a2aab3e3f9291fdddc3db2c43370",
+      "size": 3751,
+      "mtimeMs": 1785831572296
+    },
+    "wiki/synthesis/文明之旅的设计哲学.md": {
+      "hash": "1dcbe07ea47fa48ea3710702ea11979a",
+      "size": 2666,
+      "mtimeMs": 1785830605169
+    },
+    "wiki/themes/从士族到宗族的社会转型.md": {
+      "hash": "abcb838a1aa587ba97dd2bea7c7de152",
+      "size": 1398,
+      "mtimeMs": 1785838349879
+    },
+    "wiki/themes/君子人格的生成与裂痕.md": {
+      "hash": "78eee42904203cc21bed9d9f3d8d74ed",
+      "size": 1288,
+      "mtimeMs": 1785846794419
+    },
+    "wiki/themes/幻觉与现实的断裂.md": {
+      "hash": "0c267d706a1f23807e21d14593c799e3",
+      "size": 1562,
+      "mtimeMs": 1785865514372
+    },
+    "wiki/themes/文化话语权争夺-北宋.md": {
+      "hash": "46637a21d44d297740c6a5c6e04a7392",
+      "size": 3156,
+      "mtimeMs": 1785864540492
+    },
+    "wiki/themes/文学经典化的动力机制.md": {
+      "hash": "699dabfabbf307c784f93f04c5a4c9c9",
+      "size": 1859,
+      "mtimeMs": 1785847395211
+    },
+    "wiki/themes/民族文化融合.md": {
+      "hash": "7726ab2016e488054e832af98ee7b77f",
+      "size": 2111,
+      "mtimeMs": 1785833051776
+    },
+    "wiki/themes/被系统孤立的悲剧.md": {
+      "hash": "8fd73120297ce29b8f16de9af0958d52",
+      "size": 1252,
+      "mtimeMs": 1785852061550
+    }
+  }
+}

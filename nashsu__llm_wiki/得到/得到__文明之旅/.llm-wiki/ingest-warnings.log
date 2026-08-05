@@ -1,0 +1,57 @@
+## 2026-08-04T08:28:55.287Z | 文明之旅/MD/007.公元1004年 “基建狂魔”大宋如何打防御战.md
+
+1. FILE block "wiki/log.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T09:59:49.551Z | 文明之旅/MD/026.公元1023年 独掌大权的刘太后为何没变成“武则天”？.md
+
+1. FILE block "wiki/sources/4-文明之旅--2-md--27-026公元1023年-独掌大权的刘太后为何没变成武则天--mvfxnh.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T10:28:06.454Z | 文明之旅/MD/031.公元1028年 做隐士真的是躺平了吗？.md
+
+1. Dropped "wiki/entities/中国隐士与中国文化.md" — Page type "source" must be under "wiki/sources/". Current directory: "wiki/entities".
+
+## 2026-08-04T11:04:44.391Z | 文明之旅/MD/039.公元1036年 敦煌伟大在哪里？.md
+
+1. FILE block "wiki/sources/4-文明之旅--2-md--18-039公元1036年-敦煌伟大在哪里--ex3zu0.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T11:13:13.471Z | 文明之旅/MD/041.公元1038年 西夏李元昊为什么非要称帝？.md
+
+1. Dropped "wiki/entities/李德明.md" — Page type "character" must be under "wiki/characters/". Current directory: "wiki/entities".
+2. Dropped "wiki/entities/李继迁.md" — Page type "character" must be under "wiki/characters/". Current directory: "wiki/entities".
+
+## 2026-08-04T11:54:14.460Z | 文明之旅/MD/051.公元1048年 黄河是祸还是福？.md
+
+1. FILE block "wiki/concepts/人地关系-泥沙耦合.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T12:10:18.993Z | 文明之旅/MD/055.公元1052年 边缘如何融入中国？.md
+
+1. FILE block "wiki/sources/4-文明之旅--2-md--19-055公元1052年-边缘如何融入中国--1aekb6q.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T12:23:54.040Z | 文明之旅/MD/058.公元1055年 欧阳修为什么要禁书？.md
+
+1. FILE block "wiki/log.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T12:59:57.790Z | 文明之旅/MD/066.公元1063年 宋仁宗是个没主见的仁君吗？.md
+
+1. Dropped "wiki/characters/邓小南.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/characters".
+
+## 2026-08-04T13:29:15.546Z | 文明之旅/MD/073.公元1070年 改革者该怎么面对反对者？.md
+
+1. FILE block "wiki/comparisons/王安石改革与宇文泰改革.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T13:41:14.531Z | 文明之旅/MD/076.公元1073年 你真的想穿越到宋朝吗？.md
+
+1. FILE block "wiki/entities/传统十论.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T13:56:08.826Z | 文明之旅/MD/079.公元1076年 哲人为什么当不了国王？.md
+
+1. FILE block "wiki/sources/4-文明之旅--2-md--21-079公元1076年-哲人为什么当不了国王--zquy0m.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Truncated FILE repair failed: Model produced 3,193 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.
+
+## 2026-08-04T14:09:45.668Z | 文明之旅/MD/082.公元1079年 宽容的北宋为何容不下苏轼？.md
+
+1. FILE block "wiki/concepts/权力格局转换.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-04T14:44:52.429Z | 文明之旅/MD/087.公元1084年 帝王策怎么变成了国民书？.md
+
+1. FILE block "wiki/concepts/温情与敬意的信念.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
