@@ -1,0 +1,71 @@
+## 2026-08-05T09:41:08.612Z | 得到精选/MD/071.刘勃 曹丕的促狭与通达.md
+
+1. FILE block "wiki/sources/4-得到精选--2-md--14-071刘勃-曹丕的促狭与通达--1p8wc8e.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-05T11:01:27.334Z | 得到精选/MD/1011.尹烨 百岁人生即将到来，你想好怎么过了吗？.md
+
+1. FILE block "wiki/sources/4-得到精选--2-md--23-1011尹烨-百岁人生即将到来你想好怎么过了吗--zwomao.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-05T11:39:54.839Z | 得到精选/MD/1026.年度图书 摘下看世界的“有色眼镜”，重新理解现代文明.md
+
+1. Dropped "wiki/日志追加-年度图书-摘下看世界的有色眼镜.md" — Page type "synthesis" must be under "wiki/synthesis/". Current directory: "wiki".
+
+## 2026-08-05T12:09:51.389Z | 得到精选/MD/1036.好睡眠的五个关键字 律、凉、静、暗、戒.md
+
+1. FILE block "wiki/concepts/睡眠表现焦虑.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-05T12:29:42.141Z | 得到精选/MD/1042.费勇 《了凡四训》为什么能帮当代人学会成事？.md
+
+1. Dropped "wiki/concepts/了凡四训.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+
+## 2026-08-05T12:58:13.679Z | 得到精选/MD/1050.吴军 高财商的人，怎样系统性地创造财富优势？.md
+
+1. FILE block "wiki/sources/4-得到精选--2-md--24-1050吴军-高财商的人怎样系统性地创造财富优势--i362iv.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-05T14:25:19.645Z | 得到精选/MD/1077.为什么得到金线Skill只提问题，不给答案？.md
+
+1. FILE block "wiki/entities/得到金线skill.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-05T15:53:17.650Z | 得到精选/MD/1101.吴军 怎么判断自己该不该买房？.md
+
+1. FILE block with unsafe path "(append to wiki/log.md)" rejected (must be under wiki/, no .., no absolute paths, and Windows-safe file names).
+
+## 2026-08-05T16:44:44.407Z | 得到精选/MD/1114.罗振宇 逼着命运拿出真正的礼物.md
+
+1. FILE block "wiki/concepts/逼迫命运拿出真正的礼物.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-05T20:53:41.234Z | 得到精选/MD/234.初入职场，如何改变学生思维？.md
+
+1. Dropped "wiki/日志条目-2026-08-06-得到精选234摄入.md" — Pages under "wiki/" must use type "overview", but found "log".
+
+## 2026-08-05T22:46:02.746Z | 得到精选/MD/314.俄罗斯到底是个什么样的国家？.md
+
+1. Dropped "wiki/2026-08-06-摄取俄罗斯简史课程推介资料.md" — Pages under "wiki/" must use type "overview", but found "note".
+
+## 2026-08-06T00:21:28.717Z | 得到精选/MD/385.刘润 情绪，是下一个赛道.md
+
+1. Dropped "wiki/log-385刘润-情绪是下一个赛道.md" — Pages under "wiki/" must use type "overview", but found "note".
+
+## 2026-08-06T03:33:02.991Z | 得到精选/MD/471.万维钢 AI时代，人类如何“刷存在感”？.md
+
+1. Dropped "wiki/entities/拐点.md" — Page type "source" must be under "wiki/sources/". Current directory: "wiki/entities".
+
+## 2026-08-06T05:23:19.766Z | 得到精选/MD/529.陈海贤 如何“理直气壮”爱自己？.md
+
+1. FILE block "wiki/sources/4-得到精选--2-md--16-529陈海贤-如何理直气壮爱自己--1xg2g4p.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-06T05:51:28.171Z | 得到精选/MD/553.如何真正看懂一幅名画？.md
+
+1. FILE block "wiki/entities/瓦萨里.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-06T19:38:59.096Z | 得到精选/MD/905.天才为什么成群地来？.md
+
+1. FILE block "wiki/concepts/社会网络与智力储存.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-07T01:16:37.867Z | 得到精选/MD/936.90分 100分 颜值时代，聪明人都在用的生存策略.md
+
+1. FILE block "wiki/entities/变量8.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-08-07T01:58:52.839Z | 得到精选/MD/951.卓克 向AI提问时，如何得到高质量答案？.md
+
+1. Dropped "wiki/concepts/学术国籍.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
