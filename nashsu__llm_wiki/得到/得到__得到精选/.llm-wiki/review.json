@@ -33623,5 +33623,661 @@
     "id": "review-9e593e1b",
     "resolved": false,
     "createdAt": 1786074472582
+  },
+  {
+    "type": "missing-page",
+    "title": "沈辛成八种能力模型的实证基础与学术来源",
+    "description": "沈辛成的八种能力模型目前仅以得到课程转述形式进入wiki，缺乏其原始著作、论文或系统论述的来源。该模型是否基于实证研究、是否有可操作的测评工具，直接关系到\"能力配置鉴察\"方法论的可信度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1136.贾行家  考试之外的世界很大，你也是风景本身.md",
+    "affectedPages": [
+      "wiki/concepts/八种能力模型.md",
+      "wiki/entities/沈辛成.md"
+    ],
+    "searchQueries": [
+      "沈辛成 八种能力 模型 著作",
+      "沈辛成 能力配置 鉴察 测评",
+      "Shen Xincheng eight abilities model"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3f6ba6b9",
+    "resolved": false,
+    "createdAt": 1786650773745
+  },
+  {
+    "type": "suggestion",
+    "title": "狂热能力与心理学既有概念的系统比较",
+    "description": "\"狂热能力\"与心理学中的激情二元模型（和谐激情 vs 强迫激情）、坚毅（grit）、开放性人格等概念高度重叠但未做区分。若不澄清概念边界，该条目可能成为孤立的本土化标签，难以与wiki中已有的大五人格、尽责性等框架对话。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1136.贾行家  考试之外的世界很大，你也是风景本身.md",
+    "affectedPages": [
+      "wiki/concepts/狂热能力.md",
+      "wiki/concepts/大五人格.md",
+      "wiki/concepts/尽责性.md"
+    ],
+    "searchQueries": [
+      "obsessive passion harmonious passion Vallerand",
+      "grit Duckworth passion perseverance",
+      "狂热 偏执 激情 心理学 概念 区分"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-177acbca",
+    "resolved": false,
+    "createdAt": 1786650773745
+  },
+  {
+    "type": "contradiction",
+    "title": "\"能力出厂设定难以改变\"与神经可塑性的张力未解决",
+    "description": "沈辛成主张能力配置\"很难改变\"，而wiki中已有神经可塑性概念强调改变的可能性。两者之间的张力已被记录但未做实质调和，且与\"尽责性和情绪稳定性的可塑性上限\"查询直接相关，需要用户判断哪个框架在何种条件下成立。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1136.贾行家  考试之外的世界很大，你也是风景本身.md",
+    "affectedPages": [
+      "wiki/concepts/能力配置鉴察.md",
+      "wiki/concepts/神经可塑性.md",
+      "wiki/queries/能力配置的可塑性上限如何.md"
+    ],
+    "searchQueries": [
+      "cognitive ability stability heritability adulthood",
+      "skill acquisition deliberate practice ceiling",
+      "能力 可塑性 上限 认知 训练 证据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d66b6c6f",
+    "resolved": false,
+    "createdAt": 1786650773745
+  },
+  {
+    "type": "suggestion",
+    "title": "\"三时代重叠期\"诊断的适用范围与阶层差异",
+    "description": "沈辛成\"三时代重叠期\"的判断隐含中国一线城市教育语境，但未讨论该诊断是否适用于不同社会阶层、城乡差异或非中国语境。若该框架被当作普适性时代诊断使用，可能掩盖教育资源分配的结构性不平等。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1136.贾行家  考试之外的世界很大，你也是风景本身.md",
+    "affectedPages": [
+      "wiki/concepts/三时代重叠期.md",
+      "wiki/concepts/教育的三个问题.md"
+    ],
+    "searchQueries": [
+      "教育 内卷 阶层 差异 中国 城乡",
+      "credentialism social mobility China",
+      "三时代 重叠 教育 诊断 适用范围"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ebac8fcf",
+    "resolved": false,
+    "createdAt": 1786650773745
+  },
+  {
+    "type": "missing-page",
+    "title": "王路（人物页面缺失）",
+    "description": "王路在本 wiki 中已有多条来源条目（春节发祝福、辅导孩子、本讲），但尚无独立的人物页面。其知识网络横跨情绪管理、亲子教育、深度思考等多个领域，建立人物页有助于聚合其方法论与课程信息。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1137.王路 等你确定这是好机会时，红利为什么已经没了？.md",
+    "affectedPages": [
+      "wiki/sources/4-得到精选--2-md--26-1137王路-等你确定这是好机会时红利为什么已经没了--v4g9bp.md",
+      "wiki/entities/深度思考日课.md"
+    ],
+    "searchQueries": [
+      "王路 得到 深度思考日课",
+      "王路 得到 课程 作者",
+      "王路 思维方法 知识体系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cc7b8cbd",
+    "resolved": true,
+    "createdAt": 1786650954078,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "合肥模式的可复制性与失败案例研究",
+    "description": "王路承认合肥模式\"其他城市不好复制\"，但未深入讨论失败案例，存在幸存者偏差。补充其他城市复制股权财政的失败或受限案例，有助于检验\"耐心资本\"与\"超额回报来自不确定性\"论点的边界条件。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1137.王路 等你确定这是好机会时，红利为什么已经没了？.md",
+    "affectedPages": [
+      "wiki/concepts/合肥模式.md",
+      "wiki/concepts/超额回报与不确定性.md"
+    ],
+    "searchQueries": [
+      "合肥模式 复制 失败 案例",
+      "股权财政 地方 政府 投资 风险",
+      "国资 耐心资本 退出 机制 局限"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9081a3c8",
+    "resolved": false,
+    "createdAt": 1786650954078
+  },
+  {
+    "type": "suggestion",
+    "title": "指数纳入效应的逆转条件与历史案例",
+    "description": "王路描述了指数纳入的自我强化循环，但未讨论该循环在什么条件下会逆转。研究指数剔除、权重下调或市场风格切换时的机械流出案例，可完善\"资源的机械分配\"概念的双向性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1137.王路 等你确定这是好机会时，红利为什么已经没了？.md",
+    "affectedPages": [
+      "wiki/concepts/指数纳入效应.md",
+      "wiki/concepts/资源的机械分配.md"
+    ],
+    "searchQueries": [
+      "指数剔除 资金流出 案例",
+      "被动投资 指数纳入 逆转",
+      "中芯国际 指数 权重 调整"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-439e7346",
+    "resolved": false,
+    "createdAt": 1786650954078
+  },
+  {
+    "type": "contradiction",
+    "title": "\"让自己成为目标本身\"与规则抗腐败功能的张力",
+    "description": "王路一方面批判规则是\"判断的廉价替代品\"、强调其抗腐败功能，另一方面主张\"让自己成为目标本身\"让规则让路。这种例外通道的滥用风险（如利益集团捕获）未被充分讨论，需要用户判断该策略的伦理与制度边界。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1137.王路 等你确定这是好机会时，红利为什么已经没了？.md",
+    "affectedPages": [
+      "wiki/concepts/规则的分层性.md",
+      "wiki/concepts/让自己成为目标本身.md",
+      "wiki/queries/规则例外通道的滥用风险如何控制.md"
+    ],
+    "searchQueries": [
+      "规则例外 滥用 腐败 制度设计",
+      "预先审阅机制 边界 监管",
+      "制度弹性 与 规则刚性 权衡"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e51efcc6",
+    "resolved": false,
+    "createdAt": 1786650954078
+  },
+  {
+    "type": "missing-page",
+    "title": "赛斯（Seth）实体页缺失",
+    "description": "《别相信直觉》的作者“赛斯”在源文档中仅以名字出现，缺少全名与身份信息，无法可靠建立独立实体页。建议补充作者全名与背景后再创建。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1138.万维钢 怎么找到最值得为孩子做的事？.md",
+    "affectedPages": [
+      "wiki/entities/别相信直觉.md"
+    ],
+    "searchQueries": [
+      "Seth Stephens-Davidowitz 别相信直觉 作者",
+      "Don't Trust Your Gut Seth author",
+      "赛斯 别相信直觉 作者简介"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-56cc6e8b",
+    "resolved": true,
+    "createdAt": 1786651148441,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "社区效应机制的多渠道检验",
+    "description": "本讲将社区效应归因于“成人榜样”机制，但未排除社会网络、资源获取、规范压力等其他渠道。建议关注切蒂后续研究或相关文献，以厘清机制。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1138.万维钢 怎么找到最值得为孩子做的事？.md",
+    "affectedPages": [
+      "wiki/concepts/社区效应-儿童发展.md",
+      "wiki/concepts/榜样机制-儿童发展.md"
+    ],
+    "searchQueries": [
+      "neighborhood effects mechanisms social networks vs role models",
+      "Raj Chetty neighborhood effects causal mechanisms",
+      "社区效应 儿童发展 机制 榜样 社会网络"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-781402d6",
+    "resolved": false,
+    "createdAt": 1786651148441
+  },
+  {
+    "type": "suggestion",
+    "title": "中国情境下社区效应的实证检验",
+    "description": "万维钢推测社区效应在中国可能更强，但缺乏中国数据支撑。建议检索中国户籍制度、高考制度与区域发展不平衡如何调节社区效应的实证研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1138.万维钢 怎么找到最值得为孩子做的事？.md",
+    "affectedPages": [
+      "wiki/queries/社区效应在中国是否更强.md",
+      "wiki/concepts/社区效应-儿童发展.md"
+    ],
+    "searchQueries": [
+      "中国 社区效应 儿童发展 户籍制度 实证研究",
+      "neighborhood effects China hukou children outcomes",
+      "中国 区域发展不平衡 儿童 成年收入 社区影响"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2bdec529",
+    "resolved": false,
+    "createdAt": 1786651148441
+  },
+  {
+    "type": "missing-page",
+    "title": "赫伯特·马尔库塞的《单向度的人》",
+    "description": "本 wiki 已建立马尔库塞实体页，但仅基于《爱欲与文明》解读。马尔库塞另一部代表作《单向度的人》（One-Dimensional Man）直接讨论\"发达工业社会意识形态\"与\"虚假需求\"，与 wiki 中\"体系的吸收能力\"\"操作原则\"高度相关，且是理解 1960 年代学生运动思想资源的另一关键文本。缺少该页将限制对马尔库塞思想全貌的把握。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1139.刘擎 你以为的成熟，可能只是被规训.md",
+    "affectedPages": [
+      "wiki/entities/赫伯特-马尔库塞.md",
+      "wiki/concepts/体系的吸收能力.md",
+      "wiki/concepts/操作原则.md"
+    ],
+    "searchQueries": [
+      "马尔库塞 单向度的人 核心观点",
+      "One-Dimensional Man Marcuse false needs",
+      "单向度的人 虚假需求 发达工业社会"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e032a10b",
+    "resolved": true,
+    "createdAt": 1786651276157,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "操作原则与当代中国\"内卷\"\"躺平\"的实证研究",
+    "description": "刘擎在解读中提及\"操作原则\"框架可解释当代中国的\"内卷\"与\"躺平\"现象，但未展开。wiki 中已有\"操作原则\"概念页和\"操作原则与动态稳定是否描述同一现象\"查询页，但缺乏将这一批判理论框架应用于中国语境的实证或经验研究。补充相关社会学研究（如项飙对内卷的讨论、中国青年躺平研究）将显著增强该概念簇的解释力。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1139.刘擎 你以为的成熟，可能只是被规训.md",
+    "affectedPages": [
+      "wiki/concepts/操作原则.md",
+      "wiki/queries/操作原则与动态稳定是否描述同一现象.md"
+    ],
+    "searchQueries": [
+      "内卷 躺平 马尔库塞 操作原则",
+      "项飙 内卷 人类学",
+      "中国青年 躺平 社会学研究 绩效主义"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7d09350a",
+    "resolved": false,
+    "createdAt": 1786651276157
+  },
+  {
+    "type": "contradiction",
+    "title": "马尔库塞的绩效批判与 wiki 中\"优秀人才\"概念的张力",
+    "description": "wiki 中\"优秀人才稀缺性量化模型\"\"尽责性\"\"让自己成为目标本身\"等概念隐含对绩效、尽责性的正面评价，而马尔库塞将绩效逻辑本身视为\"额外压抑\"的来源。这一价值立场分歧未被明确标注。用户需要判断：这两组概念是互补（尽责性作为个人特质 vs 操作原则作为社会结构），还是根本冲突（对\"优秀\"的追求本身就是被规训的表现）？",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1139.刘擎 你以为的成熟，可能只是被规训.md",
+    "affectedPages": [
+      "wiki/concepts/操作原则.md",
+      "wiki/concepts/尽责性.md",
+      "wiki/concepts/优秀人才稀缺性量化模型.md",
+      "wiki/concepts/让自己成为目标本身.md"
+    ],
+    "searchQueries": [
+      "马尔库塞 绩效主义 批判 个人发展",
+      "尽责性 批判理论 张力",
+      "自我优化 新自由主义 批判"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-789e4cab",
+    "resolved": false,
+    "createdAt": 1786651276157
+  },
+  {
+    "type": "suggestion",
+    "title": "弗洛伊德《文明及其不满》与马尔库塞的对话关系",
+    "description": "wiki 已建立弗洛伊德实体页，但仅从马尔库塞解读的视角呈现其\"悲剧性洞见\"。弗洛伊德原著《文明及其不满》（Civilization and Its Discontents）是《爱欲与文明》的直接对话对象，马尔库塞的\"额外压抑\"概念正是对弗洛伊德\"文明以压抑为代价\"命题的历史化修正。补充弗洛伊德原著的独立解读，将帮助用户判断马尔库塞的修正是否忠实于弗洛伊德的原意。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1139.刘擎 你以为的成熟，可能只是被规训.md",
+    "affectedPages": [
+      "wiki/entities/弗洛伊德.md",
+      "wiki/concepts/额外压抑.md",
+      "wiki/comparisons/基本压抑-vs-额外压抑.md"
+    ],
+    "searchQueries": [
+      "弗洛伊德 文明及其不满 核心观点",
+      "Civilization and Its Discontents Freud summary",
+      "马尔库塞 对弗洛伊德 修正 评价"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5021a7cf",
+    "resolved": false,
+    "createdAt": 1786651276157
+  },
+  {
+    "type": "suggestion",
+    "title": "认知之网与皮亚杰同化/顺应框架的学术关系待考证",
+    "description": "王路提出的\"认知之网\"模型与皮亚杰的\"同化/顺应\"（assimilation/accommodation）框架高度相似，但王路未引用任何学术文献。若确认这是有意的学术借用或独立发展，将显著影响该模型在 wiki 中的定位（是通俗化转述还是原创框架），并决定是否需要建立与皮亚杰、图式理论、概念转变研究的跨框架关联。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1141.王路 为什么道理都懂，就是做不到？.md",
+    "affectedPages": [
+      "wiki/concepts/认知之网.md",
+      "wiki/concepts/同化-排斥-动荡.md"
+    ],
+    "searchQueries": [
+      "Piaget assimilation accommodation conceptual change",
+      "皮亚杰 同化 顺应 概念转变",
+      "schema theory cognitive restructuring learning"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5410ecdd",
+    "resolved": false,
+    "createdAt": 1786651546772
+  },
+  {
+    "type": "suggestion",
+    "title": "\"故意制造摩擦\"缺乏可操作方法，需与 ICAP 框架互补研究",
+    "description": "王路提出\"故意制造摩擦\"作为 AI 时代三种新学习能力之一，但只给出原则（让不同观点碰撞、让某些东西变慢），没有给出具体操作方法。wiki 中已有的 ICAP 框架（交互>建构>主动>被动）和自我解释技术提供了可操作的学习策略，两者是否可以互补、如何互补，是一个有实际价值的研究问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1141.王路 为什么道理都懂，就是做不到？.md",
+    "affectedPages": [
+      "wiki/concepts/故意制造摩擦.md",
+      "wiki/concepts/ICAP框架.md",
+      "wiki/concepts/自我解释.md"
+    ],
+    "searchQueries": [
+      "deliberate friction learning strategies",
+      "ICAP framework implementation techniques",
+      "故意制造认知摩擦 学习方法 操作"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e1af4d71",
+    "resolved": false,
+    "createdAt": 1786651546772
+  },
+  {
+    "type": "suggestion",
+    "title": "左星星\"旧行为保护情绪\"视角与认知之网框架的整合问题",
+    "description": "评论区左星星提出\"旧行为在保护某种情绪\"（如熬夜补偿自由、逃避压力），这更接近心理动力学的行为功能视角，与王路的认知结构主义框架存在潜在张力。两者是否兼容、如何整合，涉及认知结构与情绪动机的关系，是一个值得追踪的理论问题。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1141.王路 为什么道理都懂，就是做不到？.md",
+    "affectedPages": [
+      "wiki/concepts/认知之网.md",
+      "wiki/sources/4-得到精选--2-md--19-1141王路-为什么道理都懂就是做不到--13oxr96.md"
+    ],
+    "searchQueries": [
+      "cognitive restructuring vs psychodynamic behavior function",
+      "认知结构 情绪动机 行为改变 整合",
+      "cognitive-affective learning integration"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48f71ae7",
+    "resolved": false,
+    "createdAt": 1786651546772
+  },
+  {
+    "type": "missing-page",
+    "title": "皮亚杰（Jean Piaget）",
+    "description": "王路的\"认知之网\"模型与皮亚杰的\"同化/顺应\"框架高度相似，但 wiki 中尚无皮亚杰的实体页。皮亚杰是认知发展理论的奠基人，其同化/顺应概念是理解王路模型学术渊源的关键参照，值得建立独立页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1141.王路 为什么道理都懂，就是做不到？.md",
+    "affectedPages": [
+      "wiki/concepts/认知之网.md",
+      "wiki/concepts/同化-排斥-动荡.md"
+    ],
+    "searchQueries": [
+      "Jean Piaget assimilation accommodation",
+      "皮亚杰 认知发展理论 同化 顺应",
+      "Piaget schema theory"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c12ecaf2",
+    "resolved": true,
+    "createdAt": 1786651546772,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "能耐寻求定理",
+    "description": "万维钢在本文中引用「能耐寻求定理」作为体制内人士自我赋能的理论依据，但当前 wiki 中无此概念页，且无法确认其来源与精确定义。该概念与「秘密项目」「体制内自我赋能」直接相关，是理解万维钢体制内建议的关键前置知识。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1142.万维钢 怎么选到适合自己的赛道？.md",
+    "affectedPages": [
+      "wiki/concepts/政治技巧.md",
+      "wiki/queries/体制内秘密项目与政治可见性如何平衡.md"
+    ],
+    "searchQueries": [
+      "万维钢 能耐寻求定理",
+      "能耐寻求定理 定义",
+      "万维钢 秘密项目 体制内"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f6143ea5",
+    "resolved": true,
+    "createdAt": 1786651674145,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "效应化理论的实证基础与批评",
+    "description": "本文将效应化（Effectuation）作为体制外核心战略能力，但未提供 Sarasvathy 2001 年理论之外的实证检验或学术批评。效应化在创业研究中的效度、适用边界及与精益创业等方法论的关系，值得补充以评估该框架的可靠性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1142.万维钢 怎么选到适合自己的赛道？.md",
+    "affectedPages": [
+      "wiki/concepts/效应化.md",
+      "wiki/entities/萨拉斯-萨拉斯瓦蒂.md"
+    ],
+    "searchQueries": [
+      "Effectuation theory empirical evidence",
+      "Sarasvathy effectuation criticism",
+      "effectuation vs lean startup"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-72f58ad3",
+    "resolved": false,
+    "createdAt": 1786651674145
+  },
+  {
+    "type": "suggestion",
+    "title": "政治技巧与秘密项目的实践张力",
+    "description": "万维钢同时建议体制内人士运用政治技巧（要求「被看见」）和经营秘密项目（要求隐蔽），但未讨论两者在时间、精力、身份管理上的具体冲突与调和策略。这一张力对体制内读者的实际操作至关重要，值得追踪相关案例或研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1142.万维钢 怎么选到适合自己的赛道？.md",
+    "affectedPages": [
+      "wiki/concepts/政治技巧.md",
+      "wiki/queries/体制内秘密项目与政治可见性如何平衡.md"
+    ],
+    "searchQueries": [
+      "体制内 副业 隐蔽 职场政治",
+      "moonlighting visibility workplace politics",
+      "秘密项目 职业发展 平衡"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8329bc43",
+    "resolved": false,
+    "createdAt": 1786651674145
+  },
+  {
+    "type": "contradiction",
+    "title": "体制内描述与既有「规则的分层性」的张力",
+    "description": "万维钢将体制内描述为「遵守流程、完成考核、按部就班升级」的相对扁平化规则体系，而 wiki 中王路提出的「规则的分层性」与「预先审阅机制」暗示体制内存在例外通道和灵活空间。两者对体制内运作的理解深度不同，需用户判断哪种描述更接近现实，或是否适用于不同类型的体制。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__得到精选/raw/sources/得到精选/MD/1142.万维钢 怎么选到适合自己的赛道？.md",
+    "affectedPages": [
+      "wiki/comparisons/体制内-vs-体制外.md",
+      "wiki/concepts/规则的分层性.md"
+    ],
+    "searchQueries": [
+      "体制内 规则 例外通道 灵活性",
+      "中国体制内 潜规则 显规则",
+      "科层制 规则刚性 例外机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-03aa989e",
+    "resolved": false,
+    "createdAt": 1786651674145
   }
 ]

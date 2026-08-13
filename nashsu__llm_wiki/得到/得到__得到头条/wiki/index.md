@@ -1375,7 +1375,88 @@
 
 
 
+
+
+
+
+
+
 ## Recently Updated
+- [[sources/4-得到头条--2-md--23-1376973碳水脸是假的但这样吃确实能变好看--1uxx339]] — 973｜“碳水脸”是假的，但这样吃确实能变好看
+- [[concepts/tan-shui-lian-碳水脸]] — 碳水脸
+- [[concepts/hu-luo-bo-su-yu-fu-se-胡萝卜素与肤色]] — 胡萝卜素与肤色
+- [[concepts/san-zhong-yin-shi-mo-shi-yu-mian-bu-xing-tai-三种饮食模式与面部形态]] — 三种饮食模式与面部形态
+- [[concepts/xing-ji-su-ping-heng-jia-shuo-性激素平衡假说]] — 性激素平衡假说
+- [[concepts/ages-晚期糖基化终产物]] — AGEs（晚期糖基化终产物）
+- [[concepts/xia-he-gu-xi-tong-xing-suo-xiao-下颌骨系统性缩小]] — 下颌骨系统性缩小
+- [[entities/wu-ku-chuan-nv-zi-da-xue-武库川女子大学]] — 武库川女子大学
+- [[entities/paul-ehrlich-保罗埃利希]] — 保罗·埃利希（Paul Ehrlich）
+- [[entities/sandra-kahn-桑德拉卡恩]] — 桑德拉·卡恩（Sandra Kahn）
+- [[entities/xia-he-下颌]] — 《下颌》（Jaws）
+- [[sources/4-得到头条--2-md--24-1375972当ai开始演戏我们为什么还要看真人--ivwp47]] — 972｜当AI开始演戏，我们为什么还要看真人？
+- [[entities/tao-hua-tan-ji-桃花潭记]] — 《桃花潭记》
+- [[entities/tang-guo-qiang-唐国强]] — 唐国强
+- [[entities/ye-jiang-tian-叶江天]] — 叶江天
+- [[entities/shen-ji-jun-申积军]] — 申积军
+- [[entities/peter-brook-彼得布鲁克]] — 彼得·布鲁克（Peter Brook）
+- [[concepts/diao-du-mo-xing-bian-jie-调度模型边界]] — 调度模型边界的能力
+- [[concepts/zi-chan-guan-li-资产管理]] — 资产管理（资产库）
+- [[concepts/chou-ka-抽卡]] — 抽卡
+- [[concepts/zai-chang-gan-在场感]] — 在场感
+- [[concepts/bu-ke-ni-de-shi-jian-tou-ru-不可逆的时间投入]] — 不可逆的时间投入
+- [[concepts/ai-ti-dai-yan-yuan-qi-wen-kuang-jia-AI替代演员七问框架]] — AI替代演员的七问框架
+- [[concepts/duan-ju-de-cao-短剧的糙]] — 短剧的"糙"
+- [[sources/4-得到头条--2-md--22-1374971为什么越社恐的人越容易狂热追星--1vvzh5f]] — 971｜为什么越“社恐”的人，越容易“狂热”追星？
+- [[entities/albert-bandura-班杜拉]] — 班杜拉（Albert Bandura）
+- [[entities/international-journal-of-psychology-国际心理学]] — 《国际心理学》杂志
+- [[concepts/ming-ren-chong-bai-名人崇拜]] — 名人崇拜（Celebrity Worship）
+- [[concepts/zhui-xing-san-ceng-ci-追星三层次]] — 追星三层次
+- [[concepts/cui-ruo-xing-zi-lian-脆弱型自恋]] — 脆弱型自恋（薄皮自恋）
+- [[concepts/fu-kua-xing-zi-lian-浮夸型自恋]] — 浮夸型自恋（厚皮自恋）
+- [[concepts/qing-gan-tou-she-yu-ti-dai-xing-man-zu-情感投射与替代性满足]] — 情感投射与替代性满足
+- [[concepts/gan-zhi-dao-de-xiang-si-xing-感知到的相似性]] — 感知到的相似性
+- [[concepts/zhun-she-hui-jiao-wang-准社会交往]] — 准社会交往（Parasocial Interaction）
+- [[concepts/she-hui-xue-xi-li-lun-社会学习理论]] — 社会学习理论
+- [[concepts/guan-cha-xue-xi-观察学习]] — 观察学习
+- [[concepts/chou-xiang-xing-guan-cha-xue-xi-抽象性观察学习]] — 抽象性观察学习
+- [[concepts/zi-wo-xiao-neng-gan-自我效能感]] — 自我效能感
+- [[sources/4-得到头条--2-md--20-1373970平价品牌为什么最难守住平价--obawyb]] — 970｜平价品牌，为什么最难守住“平价”？
+- [[entities/geoffrey-west-杰佛里韦斯特]] — 杰佛里·韦斯特（Geoffrey West）
+- [[entities/scale-规模]] — 《规模》（Scale）
+- [[entities/ikea-宜家]] — 宜家（IKEA）
+- [[entities/kang-shifu-康师傅]] — 康师傅
+- [[entities/xia-bu-xia-bu-呷哺呷哺]] — 呷哺呷哺
+- [[entities/apple-苹果]] — 苹果（Apple）
+- [[entities/microsoft-微软]] — 微软（Microsoft）
+- [[concepts/chao-xian-xing-zeng-zhang-超线性增长]] — 超线性增长
+- [[concepts/xian-xing-zeng-zhang-线性增长]] — 线性增长
+- [[concepts/ci-xian-xing-zeng-zhang-次线性增长]] — 次线性增长
+- [[concepts/chuang-xin-zhong-zhi-qu-xian-创新重置曲线]] — 创新重置曲线
+- [[concepts/lin-jie-dian-jia-su-临界点加速]] — 临界点加速
+- [[concepts/zhang-jia-xun-huan-涨价循环]] — 涨价循环
+- [[queries/chuang-xin-neng-fou-chi-xu-di-kang-ci-xian-xing-创新能否持续抵抗次线性]] — 创新能否持续抵抗次线性？
+- [[sources/4-得到头条--2-md--19-1372969六个配方提升你的秋季能量--zo9zrn]] — 969｜六个“配方”，提升你的秋季能量
+- [[entities/david-phillips-戴维菲利普斯]] — 戴维·菲利普斯（David Phillips）
+- [[entities/yang-chu-gao-neng-liang-养出高能量]] — 《养出高能量》
+- [[concepts/neng-liang-ji-hua-xue-pei-fang-能量即化学配方]] — 能量即化学配方
+- [[concepts/3b-neng-liang-mo-xing-3B能量模型]] — 3B能量模型
+- [[concepts/dai-chang-xing-pi-lao-代偿性疲劳]] — 代偿性疲劳
+- [[concepts/jue-ce-pi-lao-决策疲劳]] — 决策疲劳
+- [[concepts/wei-wan-cheng-de-cheng-nuo-未完成的承诺]] — 未完成的承诺
+- [[concepts/she-jiao-qian-zhai-社交欠债]] — 社交欠债
+- [[concepts/zui-xiao-gan-yu-bu-ji-最小干预补给]] — 最小干预补给
+- [[concepts/liu-zhou-huo-li-zai-sheng-ji-hua-六周活力再生计划]] — 六周活力再生计划
+- [[concepts/yi-zhi-li-gao-neng-hao-意志力高能耗]] — 意志力高能耗
+- [[sources/4-得到头条--2-md--24-1371968未来五年你家门口的医院会有哪些变化--1qpma38]] — 968｜未来五年，你家门口的医院会有哪些变化？
+- [[entities/guo-min-jian-kang-shi-wu-wu-gui-hua-国民健康十五五规划]] — 国民健康“十五五”规划
+- [[entities/lifestyle-medicine-生活方式医学]] — 生活方式医学（Lifestyle Medicine）
+- [[entities/peter-attia-彼得阿提亚]] — 彼得·阿提亚（Peter Attia）
+- [[entities/chao-yue-bai-sui-超越百岁]] — 《超越百岁》
+- [[concepts/guan-kou-qian-yi-关口前移]] — 关口前移
+- [[concepts/yi-jian-kang-wei-zhong-xin-以健康为中心]] — 以健康为中心
+- [[concepts/jian-kang-shou-ming-健康寿命]] — 健康寿命（Healthspan）
+- [[concepts/xian-yu-yi-gong-ti-县域医共体]] — 县域医共体
+- [[concepts/jian-kang-liu-da-zhi-zhu-健康六大支柱]] — 健康六大支柱
 - [[sources/4-得到头条--2-md--20-1370967成年人最徒劳的勤奋是假学习--4x7w8n]] — 967｜成年人最徒劳的勤奋，是“假学习”
 - [[concepts/compression-learning-压缩学习]] — 压缩学习
 - [[concepts/hub-first-learning-枢纽优先学习]] — 枢纽优先学习
@@ -1501,78 +1582,3 @@
 - [[concepts/guo-chan-ti-dai-da-luo-ji-国产替代大逻辑]] — 国产替代大逻辑
 - [[concepts/gao-ji-lan-ling-hui-ling-高级蓝领灰领]] — 高级蓝领/灰领
 - [[concepts/qu-ku-cun-tui-liu-tong-去库存退流通]] — 去库存+退流通
-- [[concepts/hao-fang-zi-好房子]] — 好房子
-- [[concepts/zhong-guo-zi-chan-zhong-gu-san-tiao-jian-中国资产重估三条件]] — 中国资产重估三条件
-- [[concepts/ke-ji-niu-yu-huo-bi-niu-科技牛与货币牛]] — 科技牛与货币牛
-- [[concepts/kuo-da-jian-ding-xue-sheng-pei-yang-扩大顶尖学生培养]] — 扩大顶尖学生培养
-- [[concepts/tian-fu-xing-ren-cai-vs-zuo-ti-jia-天赋型人才与做题家]] — 天赋型人才与做题家
-- [[sources/4-得到头条--2-md--24-996597从货车司机的一天看到民间制造业的活力--1eenrvg]] — 597｜从货车司机的一天，看到民间制造业的活力
-- [[entities/li-nan-nan-李南南]] — 李南南
-- [[entities/yun-man-man-运满满]] — 运满满
-- [[entities/yin-du-shi-chang-印度市场]] — 印度市场
-- [[concepts/huo-che-si-ji-guan-cha-fa-货车司机观察法]] — 货车司机观察法
-- [[concepts/zhi-zao-ye-shi-yi-zhang-wang-制造业是一张网]] — 制造业是一张网
-- [[concepts/zhong-guo-jia-1-yu-mei-guo-jia-1-中国加1与美国加1]] — 中国+1与美国+1
-- [[concepts/wai-qi-fen-chang-外企坟场]] — 外企坟场
-- [[sources/4-得到头条--2-md--21-995596manus们的世代正在拉开序幕--d1hu3p]] — 596｜Manus们的世代，正在拉开序幕
-- [[entities/manus]] — Manus
-- [[entities/monica]] — Monica
-- [[entities/kuai-dao-qing-yi-快刀青衣]] — 快刀青衣
-- [[entities/zhuo-ke-卓克]] — 卓克
-- [[entities/marvin-minsky-马文明斯基]] — 马文·明斯基（Marvin Minsky）
-- [[entities/brian-arthur-布莱恩阿瑟]] — brian-arthur-布莱恩阿瑟
-- [[entities/wang-fan-sen-王汎森]] — 王汎森
-- [[entities/coze-扣子]] — 字节跳动扣子（Coze）
-- [[entities/dify]] — Dify
-- [[entities/tencent-yuanbao-腾讯元宝]] — 腾讯元宝/元器
-- [[concepts/zhi-neng-ti-智能体]] — 智能体（Agent）
-- [[concepts/tong-yong-zhi-neng-ti-通用智能体]] — 通用智能体
-- [[concepts/ji-shu-de-yan-hua-lu-jing-技术的演化路径]] — 技术的演化路径
-- [[concepts/feng-风]] — 风
-- [[sources/4-得到头条--2-md--16-994595怎样像张伟丽一样胜利--18gxfdp]] — 595｜怎样像张伟丽一样胜利？
-- [[entities/zhang-wei-li-张伟丽]] — 张伟丽
-- [[entities/mark-mattson-马克马特森]] — 马克·马特森（Mark Mattson）
-- [[entities/duo-mian-de-gu-an-suan-多面的谷氨酸]] — 《多面的谷氨酸》
-- [[concepts/gu-an-suan-谷氨酸]] — 谷氨酸
-- [[concepts/jing-li-guan-li-精力管理]] — 精力管理
-- [[concepts/bdnf-脑源性神经营养因子]] — BDNF（脑源性神经营养因子）
-- [[concepts/jian-xie-xing-duan-shi-间歇性断食]] — 间歇性断食
-- [[concepts/shen-jing-ke-su-xing-神经可塑性]] — 神经可塑性
-- [[sources/4-得到头条--2-md--26-993594看不见的更年期-这不是人生的深秋而是盛夏--18jzfn8]] — 594｜看不见的更年期：这不是“人生的深秋”，而是盛夏
-- [[entities/susan-mattern-苏珊马特恩]] — 苏珊·马特恩（Susan Mattern）
-- [[entities/bing-lun-ran-sheng-冰轮冉升]] — 《冰轮冉升》
-- [[entities/chen-rong-陈蓉]] — 陈蓉
-- [[entities/geng-hao-geng-nian-qi-更好更年期]] — 《更好更年期》
-- [[entities/xi-la-de-li-ci-希拉德利兹]] — 希拉·德利兹（Sheila de Liz）
-- [[entities/nv-ren-wu-shi-女人五十]] — 《女人五十》
-- [[concepts/jue-jing-绝经]] — 绝经
-- [[concepts/geng-nian-qi-de-she-hui-wen-hua-jian-gou-更年期的社会文化建构]] — 更年期的社会文化建构
-- [[concepts/geng-nian-qi-san-da-lei-zheng-zhuang-更年期三大类症状]] — 更年期三大类症状
-- [[concepts/geng-nian-qi-fang-bing-更年期防病]] — 更年期防病
-- [[concepts/yin-xing-jie-nan-隐形劫难]] — 隐形劫难
-- [[concepts/geng-nian-qi-she-hui-xu-shi-更年期社会叙事]] — 更年期社会叙事
-- [[sources/4-得到头条--2-md--25-99259338特刊-致敬美好生活背后的女性行动者--rgpld0]] — 593｜“3·8”特刊：致敬美好生活背后的女性行动者
-- [[entities/mills-college-米尔斯学院]] — 米尔斯学院（Mills College）
-- [[entities/ravenna-helson-雷文娜赫尔森]] — 雷文娜·赫尔森（Ravenna Helson）
-- [[entities/mills-study-米尔斯研究]] — 米尔斯研究（Mills Study）
-- [[entities/qiang-ji-nv-gong-强记女工]] — 强记女工
-- [[entities/nicole-kidman-妮可基德曼]] — 妮可·基德曼（Nicole Kidman）
-- [[entities/melinda-gates-梅琳达盖茨]] — 梅琳达·盖茨（Melinda Gates）
-- [[entities/mackenzie-scott-麦肯齐斯科特]] — 麦肯齐·斯科特（MacKenzie Scott）
-- [[entities/equality-cant-wait-平等不能等]] — Equality Can't Wait（平等不能等）
-- [[entities/zhang-gui-mei-张桂梅]] — 张桂梅
-- [[entities/li-jing-李静]] — 李静
-- [[entities/kan-bu-jian-de-geng-nian-qi-看不见的更年期]] — 《看不见的更年期》
-- [[concepts/nv-xing-dui-zi-wo-ren-sheng-de-zhang-kong-li-女性对自我人生的掌控力]] — 女性对自我人生的掌控力
-- [[concepts/xing-ge-zi-yuan-de-zhi-chang-zhuan-hua-性格资源的职场转化]] — 性格资源的职场转化
-- [[concepts/nv-xing-cheng-gong-de-ren-ge-chuan-dao-女性成功的人格传导]] — 女性成功的人格传导
-- [[concepts/nv-xing-mi-mang-qi-女性迷茫期]] — 女性迷茫期
-- [[concepts/ta-li-liang-她力量]] — 她力量
-- [[sources/4-得到头条--2-md--23-991592追风上车卡位-快速看懂两会三大报告--q8aa4r]] — 592｜追风、上车、卡位：快速看懂两会三大报告
-- [[entities/liang-hui-全国两会]] — 全国两会
-- [[entities/zheng-fu-gong-zuo-bao-gao-政府工作报告]] — 政府工作报告
-- [[entities/fa-zhan-bao-gao-发展报告]] — 发展报告（国民经济和社会发展计划报告）
-- [[entities/yu-suan-bao-gao-预算报告]] — 预算报告（中央和地方预算报告）
-- [[concepts/zhui-feng-shang-che-qia-wei-追风上车卡位]] — 追风、上车、卡位
-- [[concepts/si-dian-jiao-hui-四点交汇]] — 四点交汇
-- [[concepts/zhuan-zhe-zhi-nian-转折之年]] — 转折之年

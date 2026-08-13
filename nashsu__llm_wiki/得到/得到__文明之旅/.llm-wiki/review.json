@@ -53,8 +53,9 @@
       }
     ],
     "id": "review-3f2430e4",
-    "resolved": false,
-    "createdAt": 1785830233767
+    "resolved": true,
+    "createdAt": 1785830233767,
+    "resolvedAction": "auto-resolved"
   },
   {
     "type": "suggestion",
@@ -8419,5 +8420,151 @@
     "id": "review-7cfbbaab",
     "resolved": false,
     "createdAt": 1785898512576
+  },
+  {
+    "type": "missing-page",
+    "title": "陈航杰《从“建节”到“升府”——兼论徽宗朝政治》",
+    "description": "本期核心数据“建节27次、升府24次”及“占北宋一半”的判断，直接依赖陈航杰2022年《宋史研究论丛》论文。该文是理解徽宗朝行政区划升格规模与性质的关键二手研究，但wiki中尚无专门页面，后续涉及徽宗朝政治、宋代地方制度时无法追溯这一核心统计来源。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__文明之旅/raw/sources/文明之旅/MD/1786464000.公元1119年 宋徽宗为何如此爱“虚名”？.md",
+    "affectedPages": [
+      "wiki/sources/4-文明之旅--2-md--28-1786464000公元1119年-宋徽宗为何如此爱虚名--1czjbnp.md",
+      "wiki/concepts/建节升府.md"
+    ],
+    "searchQueries": [
+      "陈航杰 从建节到升府 徽宗朝政治",
+      "宋史研究论丛 2022 建节 升府",
+      "宋代 建节 升府 统计 北宋"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-42200af4",
+    "resolved": true,
+    "createdAt": 1786648166477,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "建节升府的实际财政与行政成本研究",
+    "description": "本期明确承认“不花什么钱”但未展开，且开放问题中已列出“升格是否伴随实际的俸禄、仪制、资源配置变化”。若升格并非零成本，则“符号政治成本极低”的核心论点需要修正；若确实近乎零成本，则需解释地方官为何积极争取。这直接关系到“名分通胀”机制是否成立。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__文明之旅/raw/sources/文明之旅/MD/1786464000.公元1119年 宋徽宗为何如此爱“虚名”？.md",
+    "affectedPages": [
+      "wiki/concepts/建节升府.md",
+      "wiki/concepts/名分通胀.md",
+      "wiki/concepts/符号政治.md"
+    ],
+    "searchQueries": [
+      "宋代 州 升府 财政成本 俸禄",
+      "宋代 节度州 仪制 开支",
+      "宋代 地方行政区 升格 资源配置"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0a63f239",
+    "resolved": false,
+    "createdAt": 1786648166477
+  },
+  {
+    "type": "contradiction",
+    "title": "“符号政治有效”与“名分通胀有害”的时序张力",
+    "description": "本期同时主张：符号政治“成本真低、那真是有效”，且徽宗“不会犯简单的错误”；但又指出滥用名器导致府制贬值、最终“以虚名受实祸”。wiki中[[符号政治]]与[[名分通胀]]两页各自成立，但未处理一个关键问题：徽宗的符号操作在何时、因何从“有效工具”转变为“破坏性开采”？是数量阈值、外部环境变化，还是两者叠加？这需要用户判断是否值得进一步研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__文明之旅/raw/sources/文明之旅/MD/1786464000.公元1119年 宋徽宗为何如此爱“虚名”？.md",
+    "affectedPages": [
+      "wiki/concepts/符号政治.md",
+      "wiki/concepts/名分通胀.md",
+      "wiki/concepts/名分的力量边界.md"
+    ],
+    "searchQueries": [
+      "宋徽宗 建节升府 转折点 政治后果",
+      "符号政治 有效性 边界 历史案例",
+      "名分通胀 阈值 机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4ed77ff9",
+    "resolved": false,
+    "createdAt": 1786648166477
+  },
+  {
+    "type": "missing-page",
+    "title": "卡拉卡拉敕令（Constitutio Antoniniana）",
+    "description": "本期以罗马卡拉卡拉普发公民权作为“名分通胀”的核心跨文明类比，但wiki中只有[[李筠]]和[[罗马史纲]]两个间接页面，缺少对卡拉卡拉敕令本身（212年、背景、财政动机、实际后果）的专门条目。该事件是理解“稀缺荣誉资源被滥用”机制的经典案例，值得独立成页。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__文明之旅/raw/sources/文明之旅/MD/1786464000.公元1119年 宋徽宗为何如此爱“虚名”？.md",
+    "affectedPages": [
+      "wiki/concepts/名分通胀.md",
+      "wiki/characters/李筠.md",
+      "wiki/entities/罗马史纲.md"
+    ],
+    "searchQueries": [
+      "Constitutio Antoniniana 212 卡拉卡拉 公民权",
+      "卡拉卡拉敕令 财政动机 后果",
+      "罗马公民权 普发 帝国衰落"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64bf7eda",
+    "resolved": true,
+    "createdAt": 1786648166477,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "女真“新物种”论与既有辽金分析的整合",
+    "description": "本期提出女真人“有理性、有契约精神、讲规则”的一面，并称其为“新物种”，这与wiki中[[concepts/威慑型统治的脆弱性]]、[[entities/大金]]、[[characters/完颜阿骨打]]等页面关于金朝崛起的分析存在潜在对话空间，但尚未整合。女真究竟“新”在何处——制度、军事组织、还是对宋辽符号体系的免疫？这值得进一步研究以检验“文明悖论”论点的稳健性。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__文明之旅/raw/sources/文明之旅/MD/1786464000.公元1119年 宋徽宗为何如此爱“虚名”？.md",
+    "affectedPages": [
+      "wiki/concepts/符号环境依赖.md",
+      "wiki/concepts/威慑型统治的脆弱性.md",
+      "wiki/entities/大金.md"
+    ],
+    "searchQueries": [
+      "女真 制度 理性 契约 金朝",
+      "女真 猛安谋克 与 宋辽 制度差异",
+      "金朝 崛起 制度创新 女真大字"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3793c213",
+    "resolved": false,
+    "createdAt": 1786648166477
   }
 ]

@@ -5845,5 +5845,231 @@
     "resolved": true,
     "createdAt": 1785507731405,
     "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "contradiction",
+    "title": "天赋论（表演）与天赋决定论的跨领域冲突",
+    "description": "刘天池主张演员天赋占70%（感受力与想象力），而既有概念[[天赋决定论]]（来自胡小群数学教育那期）批判\"天赋决定论\"、强调方法的重要性。两者针对不同领域（表演vs数学），但\"天赋\"在能力形成中的权重判断存在明显分歧，值得作为跨领域对比话题追踪。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1785513600.60｜刘天池× 脱不花 谁都可以学表演.md",
+    "affectedPages": [
+      "wiki/concepts/天赋论.md",
+      "wiki/concepts/天赋决定论.md"
+    ],
+    "searchQueries": [
+      "表演天赋 感受力 想象力 占比",
+      "数学教育 天赋决定论 方法重要性",
+      "天赋与勤奋 能力形成 跨领域对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a9f4894e",
+    "resolved": false,
+    "createdAt": 1786649518414
+  },
+  {
+    "type": "missing-page",
+    "title": "感受力工程学（方法论平行概念）",
+    "description": "刘天池的表演训练方法（形象种子、身体先行、生理性反应）可视为\"感受力工程学\"，与既有概念[[阅读工程学]]形成方法论上的平行。目前尚无专门页面整合这一方法论视角。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1785513600.60｜刘天池× 脱不花 谁都可以学表演.md",
+    "affectedPages": [
+      "wiki/concepts/感受力.md",
+      "wiki/concepts/阅读工程学.md"
+    ],
+    "searchQueries": [
+      "感受力训练方法 表演教学 系统化",
+      "阅读工程学 方法论 知识管理",
+      "表演训练 身体先行 形象种子 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3544a4a3",
+    "resolved": true,
+    "createdAt": 1786649518414,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "表演是感受力的成人礼（概念延伸）",
+    "description": "刘天池提出\"表演是感受力的成人礼\"，与既有概念[[写作是思维的成人礼]]形成呼应——两者都强调某种训练对认知能力的根本性重塑。可考虑建立对比或综合页面。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1785513600.60｜刘天池× 脱不花 谁都可以学表演.md",
+    "affectedPages": [
+      "wiki/concepts/感受力.md",
+      "wiki/concepts/写作是思维的成人礼.md"
+    ],
+    "searchQueries": [
+      "表演训练 感受力 认知重塑",
+      "写作 思维训练 成人礼",
+      "艺术训练 认知能力 根本性改变"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-14668889",
+    "resolved": false,
+    "createdAt": 1786649518414
+  },
+  {
+    "type": "missing-page",
+    "title": "无穷小亮（张辰亮）",
+    "description": "访谈中顾有容以无穷小亮为例澄清“植物保护专业”与“濒危野生植物保护”的专业名词差异，但 wiki 中尚无该人物页面。无穷小亮是公众认知度极高的科普人物，且与博物学、自然观察主题直接相关，值得建立页面以连接科普生态。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786118400.61｜顾有容× 脱不花 重新看见你的附近.md",
+    "affectedPages": [
+      "wiki/entities/顾有容.md",
+      "wiki/concepts/博物学精神.md"
+    ],
+    "searchQueries": [
+      "无穷小亮 张辰亮 科普",
+      "张辰亮 博物杂志 植保专业",
+      "无穷小亮 网络热门生物鉴定"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3152a9da",
+    "resolved": true,
+    "createdAt": 1786649731740,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "吴其濬与《植物名实图考》的独立页面",
+    "description": "顾有容将清代吴其濬的《植物名实图考》定位为“本土自生的植物分类学”，并强调其墨线图与名实考证的现代性。这是中国博物学/植物分类学史的关键节点，目前仅在本草学页面中被提及，缺少独立实体页与作品页，不利于后续深入追踪中国本土科学传统。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786118400.61｜顾有容× 脱不花 重新看见你的附近.md",
+    "affectedPages": [
+      "wiki/concepts/本草学.md",
+      "wiki/entities/李时珍.md"
+    ],
+    "searchQueries": [
+      "吴其濬 植物名实图考",
+      "植物名实图考 墨线图 植物分类学",
+      "清代 博物学 植物名实图考"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-97a24f36",
+    "resolved": false,
+    "createdAt": 1786649731740
+  },
+  {
+    "type": "suggestion",
+    "title": "墨脱新物种发现论文的后续追踪",
+    "description": "顾有容在访谈中明确提到墨脱“疑似新种”论文“写着呢”，预计当年内投稿。这是可验证的后续事实，追踪该论文的发表情况可以验证访谈中关于墨脱作为新物种发现热点的论述，并为墨脱页面补充具体学术成果。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786118400.61｜顾有容× 脱不花 重新看见你的附近.md",
+    "affectedPages": [
+      "wiki/entities/墨脱.md",
+      "wiki/entities/顾有容.md"
+    ],
+    "searchQueries": [
+      "顾有容 墨脱 新物种 论文",
+      "墨脱 新物种 发表 2026",
+      "顾垒 植物分类 新种"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-578e8088",
+    "resolved": false,
+    "createdAt": 1786649731740
+  },
+  {
+    "type": "contradiction",
+    "title": "“野生优于家养”观念与人工栽培科学证据的冲突",
+    "description": "顾有容明确指出“野生药材药效更强”是玄学，并以青蒿素人工选育品种含量更高为反例，但同时承认这一观念“很难纠正过来”，且植物保护的难点正在于此。这一社会观念与科学事实之间的持续张力，涉及消费者行为、商业欺诈与保护政策，值得用户判断是否需要在 wiki 中进一步追踪其演变或寻找更多案例。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786118400.61｜顾有容× 脱不花 重新看见你的附近.md",
+    "affectedPages": [
+      "wiki/concepts/野生优于家养的玄学.md",
+      "wiki/concepts/生物多样性保护.md"
+    ],
+    "searchQueries": [
+      "野生药材 人工栽培 药效 比较",
+      "青蒿素 人工选育 含量 野生",
+      "铁皮石斛 野生 人工 欺诈"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a2b1abf8",
+    "resolved": false,
+    "createdAt": 1786649731740
+  },
+  {
+    "type": "suggestion",
+    "title": "观鸟经济与生态旅游的争议性操作",
+    "description": "顾有容在肯定观鸟经济对社区保护的实际作用时，也提到“大家在具体操作层面上还有很多争议的地方”，但未展开。观鸟经济中吸引鸟类的手段（如投喂、声诱）是否对鸟类行为与生态造成负面影响，是保护生物学中的真实争议，值得进一步研究以补充该概念页的批判性维度。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786118400.61｜顾有容× 脱不花 重新看见你的附近.md",
+    "affectedPages": [
+      "wiki/concepts/观鸟经济.md",
+      "wiki/concepts/生物多样性保护.md"
+    ],
+    "searchQueries": [
+      "观鸟经济 鸟塘 争议",
+      "鸟塘 投喂 声诱 生态影响",
+      "社区保护 生态旅游 伦理 争议"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7cb1eb1f",
+    "resolved": false,
+    "createdAt": 1786649731740
   }
 ]

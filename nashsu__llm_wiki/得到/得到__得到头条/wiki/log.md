@@ -10680,3 +10680,38 @@ updated: 2026-08-01
 - 新增概念页：[[concepts/compression-learning-压缩学习]]、[[concepts/hub-first-learning-枢纽优先学习]]、[[concepts/scale-free-network-无标度网络]]、[[concepts/information-framework-信息框架]]
 - 新增实体页：[[entities/pku-compression-study-北大压缩学习研究]]、[[entities/nature-communications-自然通讯]]、[[entities/richard-feynman-费曼]]
 - 记录开放问题：压缩学习与"一万小时定律"是否互斥；"初始框架难以改变"与神经可塑性的潜在张力
+
+## 2026-08-14
+
+- ingest | 968｜未来五年，你家门口的医院会有哪些变化？：解读《国民健康“十五五”规划》，核心方向为“以治病为中心转向以健康为中心”（关口前移）。新建来源页、规划实体页、生活方式医学实体页、彼得·阿提亚实体页、《超越百岁》实体页，以及关口前移、以健康为中心、健康寿命、县域医共体、健康六大支柱五个概念页。
+
+## 2026-08-14 ingest | 969｜六个“配方”，提升你的秋季能量
+
+- 新增来源页：[[sources/4-得到头条--2-md--19-1372969六个配方提升你的秋季能量--zo9zrn]]
+- 新增实体：[[entities/david-phillips-戴维菲利普斯]]、[[entities/yang-chu-gao-neng-liang-养出高能量]]
+- 新增概念：[[concepts/neng-liang-ji-hua-xue-pei-fang-能量即化学配方]]、[[concepts/3b-neng-liang-mo-xing-3B能量模型]]、[[concepts/dai-chang-xing-pi-lao-代偿性疲劳]]、[[concepts/jue-ce-pi-lao-决策疲劳]]、[[concepts/wei-wan-cheng-de-cheng-nuo-未完成的承诺]]、[[concepts/she-jiao-qian-zhai-社交欠债]]、[[concepts/zui-xiao-gan-yu-bu-ji-最小干预补给]]、[[concepts/liu-zhou-huo-li-zai-sheng-ji-hua-六周活力再生计划]]、[[concepts/yi-zhi-li-gao-neng-hao-意志力高能耗]]
+- 关联：多巴胺“动机物质”表述与[[concepts/duo-ba-an-ke-wang-vs-xi-huan-多巴胺渴望与喜欢]]一致；谷氨酸“输入键”定位与[[concepts/gu-an-suan-谷氨酸]]形成互补视角
+
+## 2026-08-14
+
+- ingest | 970｜平价品牌，为什么最难守住“平价”？：新增来源页 [[sources/li-nan-nan-2025-970-ping-jia-pin-pai]]；新增实体 [[entities/geoffrey-west-杰佛里韦斯特]]、[[entities/scale-规模]]、[[entities/ikea-宜家]]、[[entities/kang-shifu-康师傅]]、[[entities/xia-bu-xia-bu-呷哺呷哺]]、[[entities/apple-苹果]]、[[entities/microsoft-微软]]；新增概念 [[concepts/chao-xian-xing-zeng-zhang-超线性增长]]、[[concepts/xian-xing-zeng-zhang-线性增长]]、[[concepts/ci-xian-xing-zeng-zhang-次线性增长]]、[[concepts/chuang-xin-zhong-zhi-qu-xian-创新重置曲线]]、[[concepts/lin-jie-dian-jia-su-临界点加速]]、[[concepts/zhang-jia-xun-huan-涨价循环]]；新增查询 [[queries/chuang-xin-neng-fou-chi-xu-di-kang-ci-xian-xing-创新能否持续抵抗次线性]]
+
+## 2026-08-14 ingest | 971｜为什么越“社恐”的人，越容易“狂热”追星？
+
+- 新增来源页：[[sources/4-得到头条--2-md--22-1374971为什么越社恐的人越容易狂热追星--1vvzh5f]]
+- 新增实体：[[entities/albert-bandura-班杜拉]]、[[entities/international-journal-of-psychology-国际心理学]]
+- 新增概念：[[concepts/ming-ren-chong-bai-名人崇拜]]、[[concepts/zhui-xing-san-ceng-ci-追星三层次]]、[[concepts/cui-ruo-xing-zi-lian-脆弱型自恋]]、[[concepts/fu-kua-xing-zi-lian-浮夸型自恋]]、[[concepts/qing-gan-tou-she-yu-ti-dai-xing-man-zu-情感投射与替代性满足]]、[[concepts/gan-zhi-dao-de-xiang-si-xing-感知到的相似性]]、[[concepts/zhun-she-hui-jiao-wang-准社会交往]]、[[concepts/she-hui-xue-xi-li-lun-社会学习理论]]、[[concepts/guan-cha-xue-xi-观察学习]]、[[concepts/chou-xiang-xing-guan-cha-xue-xi-抽象性观察学习]]、[[concepts/zi-wo-xiao-neng-gan-自我效能感]]
+- 核心发现：脆弱型自恋与深度追星呈中等强度正相关；深度追星的两层心理机制为情感投射与替代性满足、感知到的相似性
+
+## 2026-08-14 ingest | 972｜当AI开始演戏，我们为什么还要看真人？
+
+- 新增来源页：[[sources/4-得到头条--2-md--24-1375972当ai开始演戏我们为什么还要看真人--ivwp47]]
+- 新增实体页：[[entities/tao-hua-tan-ji-桃花潭记]]、[[entities/tang-guo-qiang-唐国强]]、[[entities/ye-jiang-tian-叶江天]]、[[entities/shen-ji-jun-申积军]]、[[entities/peter-brook-彼得布鲁克]]
+- 新增概念页：[[concepts/diao-du-mo-xing-bian-jie-调度模型边界]]、[[concepts/zi-chan-guan-li-资产管理]]、[[concepts/chou-ka-抽卡]]、[[concepts/zai-chang-gan-在场感]]、[[concepts/bu-ke-ni-de-shi-jian-tou-ru-不可逆的时间投入]]、[[concepts/ai-ti-dai-yan-yuan-qi-wen-kuang-jia-AI替代演员七问框架]]、[[concepts/duan-ju-de-cao-短剧的糙]]
+- 记录核心发现：AI剧登上卫视是分水岭；传统影视能力可迁移至AI剧（调度模型边界、资产管理、抽卡）；唐国强七问框架拆解"AI能否替代演员"；真人演员不可替代的是身份、经历、声望、在场感与关系投入
+
+## 2026-08-14 ingest | 973｜“碳水脸”是假的，但这样吃确实能变好看
+
+- 新增来源页：[[sources/4-得到头条--2-md--23-1376973碳水脸是假的但这样吃确实能变好看--1uxx339]]
+- 新增概念页：[[concepts/tan-shui-lian-碳水脸]]、[[concepts/hu-luo-bo-su-yu-fu-se-胡萝卜素与肤色]]、[[concepts/san-zhong-yin-shi-mo-shi-yu-mian-bu-xing-tai-三种饮食模式与面部形态]]、[[concepts/xing-ji-su-ping-heng-jia-shuo-性激素平衡假说]]、[[concepts/ages-晚期糖基化终产物]]、[[concepts/xia-he-gu-xi-tong-xing-suo-xiao-下颌骨系统性缩小]]
+- 新增实体页：[[entities/wu-ku-chuan-nv-zi-da-xue-武库川女子大学]]、[[entities/paul-ehrlich-保罗埃利希]]、[[entities/sandra-kahn-桑德拉卡恩]]、[[entities/xia-he-下颌]]

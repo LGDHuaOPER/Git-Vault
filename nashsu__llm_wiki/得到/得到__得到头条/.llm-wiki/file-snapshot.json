@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785969652397,
+  "updatedAt": 1786645857315,
   "files": {
     "purpose.md": {
       "hash": "77546dadbea32fdcf671400051e18f56",
@@ -2546,6 +2546,36 @@
       "hash": "e641e6c0ae3408bc1684ccdda7258909",
       "size": 11906,
       "mtimeMs": 1785969525739
+    },
+    "raw/sources/得到头条/MD/1371.968｜未来五年，你家门口的医院会有哪些变化？.md": {
+      "hash": "b3c1d3b80f4c394915f5127e484e9211",
+      "size": 16621,
+      "mtimeMs": 1786642737984
+    },
+    "raw/sources/得到头条/MD/1372.969｜六个“配方”，提升你的秋季能量.md": {
+      "hash": "0f96f4f18db462c8d155a6ccd7ca58f1",
+      "size": 13310,
+      "mtimeMs": 1786642738300
+    },
+    "raw/sources/得到头条/MD/1373.970｜平价品牌，为什么最难守住“平价”？.md": {
+      "hash": "e6f4062e61b4c330cf5d20d3fdac69c7",
+      "size": 15968,
+      "mtimeMs": 1786642738784
+    },
+    "raw/sources/得到头条/MD/1374.971｜为什么越“社恐”的人，越容易“狂热”追星？.md": {
+      "hash": "bd2687f4f3da9a5a7694c2d23d765674",
+      "size": 15900,
+      "mtimeMs": 1786642739179
+    },
+    "raw/sources/得到头条/MD/1375.972｜当AI开始演戏，我们为什么还要看真人？.md": {
+      "hash": "b35cf9100dca715a15568c985eb3fdaf",
+      "size": 14510,
+      "mtimeMs": 1786642739571
+    },
+    "raw/sources/得到头条/MD/1376.973｜“碳水脸”是假的，但这样吃确实能变好看.md": {
+      "hash": "5508e47627ae9cebb99aa35852cb93c9",
+      "size": 11863,
+      "mtimeMs": 1786642739890
     },
     "raw/sources/得到头条/MD/138.137｜金山办公是怎么杀回来的？.md": {
       "hash": "e6d6f0bdf4b774834be761049248cbc3",
@@ -7072,6 +7102,11 @@
       "size": 1402,
       "mtimeMs": 1785895036324
     },
+    "wiki/concepts/3b-neng-liang-mo-xing-3B能量模型.md": {
+      "hash": "3990283aa6fa5b5eb09568f96d3f298b",
+      "size": 2553,
+      "mtimeMs": 1786645348810
+    },
     "wiki/concepts/3d-da-yin-3d打印.md": {
       "hash": "76cc2c6f0ee19f96851fb121f34c0729",
       "size": 2561,
@@ -7622,6 +7657,11 @@
       "size": 2704,
       "mtimeMs": 1785669189760
     },
+    "wiki/concepts/ages-晚期糖基化终产物.md": {
+      "hash": "521d8f7d6b9438737ff5d3eedba7c6c0",
+      "size": 1424,
+      "mtimeMs": 1786645829751
+    },
     "wiki/concepts/agi-通用人工智能.md": {
       "hash": "a24f4271ed469c9963244b14a5e01dd3",
       "size": 1048,
@@ -7756,6 +7796,11 @@
       "hash": "a2d88fd1faf77bfb8407442690097770",
       "size": 1156,
       "mtimeMs": 1785918612436
+    },
+    "wiki/concepts/ai-ti-dai-yan-yuan-qi-wen-kuang-jia-AI替代演员七问框架.md": {
+      "hash": "0b810858c4e752b3de34bdbfa20c40f8",
+      "size": 2469,
+      "mtimeMs": 1786645770355
     },
     "wiki/concepts/ai-xiao-hao-pian-zi-shi-jian-AI消耗骗子时间.md": {
       "hash": "69d1b4e96d45c83c271b670af954ce13",
@@ -8772,6 +8817,11 @@
       "size": 1888,
       "mtimeMs": 1785934354751
     },
+    "wiki/concepts/bu-ke-ni-de-shi-jian-tou-ru-不可逆的时间投入.md": {
+      "hash": "e266dc83d50a705e8f5350290f161495",
+      "size": 1247,
+      "mtimeMs": 1786645770326
+    },
     "wiki/concepts/bu-men-qiang-部门墙.md": {
       "hash": "7891558b32d0eb4d153171941064cdda",
       "size": 1071,
@@ -9497,6 +9547,11 @@
       "size": 740,
       "mtimeMs": 1785852239512
     },
+    "wiki/concepts/chao-xian-xing-zeng-zhang-超线性增长.md": {
+      "hash": "0106ada8f2b2345fab3a190406f2074c",
+      "size": 1465,
+      "mtimeMs": 1786645584770
+    },
     "wiki/concepts/chao-xing-qu-dian-er-fei-di-dian-朝兴趣点而非地点前进.md": {
       "hash": "53e4b5ce9095b076ecae3fa2f336c050",
       "size": 1036,
@@ -9787,6 +9842,11 @@
       "size": 1625,
       "mtimeMs": 1785832974832
     },
+    "wiki/concepts/chou-ka-抽卡.md": {
+      "hash": "dbbc3d32cf6e69290187f4ae6fcc74f4",
+      "size": 886,
+      "mtimeMs": 1786645770275
+    },
     "wiki/concepts/chou-wei-xiang-tou-臭味相投.md": {
       "hash": "45bfe87a22a40b7dc84d45832932f079",
       "size": 1560,
@@ -9801,6 +9861,11 @@
       "hash": "4038053530bdc854638c0bdd4a06b842",
       "size": 1136,
       "mtimeMs": 1785611158802
+    },
+    "wiki/concepts/chou-xiang-xing-guan-cha-xue-xi-抽象性观察学习.md": {
+      "hash": "a66cea984ef499a5f34c63a03f009533",
+      "size": 1129,
+      "mtimeMs": 1786645655576
     },
     "wiki/concepts/chou-xiang-抽象.md": {
       "hash": "d18ad7cee2b7c3850f7d838684a1d0fa",
@@ -10002,6 +10067,11 @@
       "size": 1792,
       "mtimeMs": 1785651208870
     },
+    "wiki/concepts/chuang-xin-zhong-zhi-qu-xian-创新重置曲线.md": {
+      "hash": "d10c2ee65fb08c2ec2f0f6eecc28c08a",
+      "size": 1581,
+      "mtimeMs": 1786645584822
+    },
     "wiki/concepts/chuang-ye-bu-shi-xiang-ming-bai-de-er-shi-zuo-ming-bai-de-创业不是想明白的而是做明白的.md": {
       "hash": "61ccf75ea536d30b38efdc9950944bfb",
       "size": 2037,
@@ -10122,6 +10192,11 @@
       "size": 1044,
       "mtimeMs": 1785899324525
     },
+    "wiki/concepts/ci-xian-xing-zeng-zhang-次线性增长.md": {
+      "hash": "69cec6d51f673627e71acc492f631b4b",
+      "size": 1966,
+      "mtimeMs": 1786645584806
+    },
     "wiki/concepts/ci-xin-an-chu-shi-wu-xiang-此心安处是吾乡.md": {
       "hash": "934d45c6b73407dc6ea91f3f2280a707",
       "size": 1309,
@@ -10241,6 +10316,11 @@
       "hash": "168ab5b9b2117706ba2a936bb8ef57d1",
       "size": 841,
       "mtimeMs": 1785640705510
+    },
+    "wiki/concepts/cui-ruo-xing-zi-lian-脆弱型自恋.md": {
+      "hash": "c8987ac639046f66f2d7def0c4ac29c9",
+      "size": 1838,
+      "mtimeMs": 1786645655418
     },
     "wiki/concepts/cun-liang-jing-ying-存量经营.md": {
       "hash": "78f64cd68457dd4c83d8e307c41c2406",
@@ -10496,6 +10576,11 @@
       "hash": "1d67001b484a35e4d52dc2b324dd29e1",
       "size": 1028,
       "mtimeMs": 1785731825158
+    },
+    "wiki/concepts/dai-chang-xing-pi-lao-代偿性疲劳.md": {
+      "hash": "9eb011438b69d77321da5ff19b506c8f",
+      "size": 989,
+      "mtimeMs": 1786645348845
     },
     "wiki/concepts/dai-gong-dao-pin-pai-de-chan-ye-sheng-ji-代工到品牌的产业升级.md": {
       "hash": "48efd6f0eb70313a07218f161a1231bc",
@@ -11002,6 +11087,11 @@
       "size": 1722,
       "mtimeMs": 1785639116286
     },
+    "wiki/concepts/diao-du-mo-xing-bian-jie-调度模型边界.md": {
+      "hash": "eb96fe8af8896a701c2b1476fc6f2437",
+      "size": 1452,
+      "mtimeMs": 1786645770226
+    },
     "wiki/concepts/diao-jin-tu-zi-dong-掉进兔子洞.md": {
       "hash": "5421456a32ffdaa9336c2331f20ac12c",
       "size": 1078,
@@ -11236,6 +11326,11 @@
       "hash": "f5abd3f93620b09e994120c505bedac6",
       "size": 1672,
       "mtimeMs": 1785851301429
+    },
+    "wiki/concepts/duan-ju-de-cao-短剧的糙.md": {
+      "hash": "5cf099235aa80da28d0883103c37932c",
+      "size": 1187,
+      "mtimeMs": 1786645770375
     },
     "wiki/concepts/duan-ju-fen-lei-fen-ceng-shen-he-短剧分类分层审核.md": {
       "hash": "21ba3dad8e578584ce3f2f8b9df12215",
@@ -12212,6 +12307,11 @@
       "size": 1148,
       "mtimeMs": 1785917622956
     },
+    "wiki/concepts/fu-kua-xing-zi-lian-浮夸型自恋.md": {
+      "hash": "fee88f8fe55c4873efc9ced1888fbc1a",
+      "size": 1577,
+      "mtimeMs": 1786645655443
+    },
     "wiki/concepts/fu-li-si-wei-复利思维.md": {
       "hash": "b71fe6810e3f277cbbf7a03cefc43f14",
       "size": 1056,
@@ -12426,6 +12526,11 @@
       "hash": "31792aa69b584ae3f01a4c26a3e5d89b",
       "size": 1578,
       "mtimeMs": 1785722771621
+    },
+    "wiki/concepts/gan-zhi-dao-de-xiang-si-xing-感知到的相似性.md": {
+      "hash": "b91631521fea381dcea2b4eb66a9ea35",
+      "size": 1524,
+      "mtimeMs": 1786645655492
     },
     "wiki/concepts/gan-zhi-si-kao-shi-xian-感知-思考-实现.md": {
       "hash": "f17855602172e094b11525a371eb8ae5",
@@ -13127,6 +13232,11 @@
       "size": 1007,
       "mtimeMs": 1785682807726
     },
+    "wiki/concepts/guan-cha-xue-xi-观察学习.md": {
+      "hash": "3ef3db88d20ed1c65887d86bd16ccc0c",
+      "size": 1129,
+      "mtimeMs": 1786645655557
+    },
     "wiki/concepts/guan-cha-yu-pan-huan-wei-si-kao-观察预判换位思考.md": {
       "hash": "6b255c5d653476151bc84249a7142c85",
       "size": 2204,
@@ -13161,6 +13271,11 @@
       "hash": "f7e294c19e77d78ab9eeda6665dc709e",
       "size": 1748,
       "mtimeMs": 1785820112558
+    },
+    "wiki/concepts/guan-kou-qian-yi-关口前移.md": {
+      "hash": "fb45c7760711bbec982fd8b6bf75d176",
+      "size": 1852,
+      "mtimeMs": 1786645148439
     },
     "wiki/concepts/guan-li-xue-de-huang-hun-管理学的黄昏.md": {
       "hash": "933d53dd80cfecdfff9cb538f65e3b95",
@@ -13841,6 +13956,11 @@
       "hash": "61b64938ee75cd5988a81353d47d1d39",
       "size": 1775,
       "mtimeMs": 1785911194688
+    },
+    "wiki/concepts/hu-luo-bo-su-yu-fu-se-胡萝卜素与肤色.md": {
+      "hash": "699be8793a0e856947e1a591becbfae8",
+      "size": 1596,
+      "mtimeMs": 1786645829684
     },
     "wiki/concepts/hu-shen-xian-yu-jing-hu-xian-沪深线与京沪线.md": {
       "hash": "c8c0e60e04a079e6aeeeab8dab79af51",
@@ -15022,10 +15142,15 @@
       "size": 1358,
       "mtimeMs": 1785638931728
     },
+    "wiki/concepts/jian-kang-liu-da-zhi-zhu-健康六大支柱.md": {
+      "hash": "ef2e935b3abc733d0bc461bc0a9cd9e1",
+      "size": 880,
+      "mtimeMs": 1786645276591
+    },
     "wiki/concepts/jian-kang-shou-ming-健康寿命.md": {
-      "hash": "c0960ce015c56edde6c648a3d3ca61f0",
-      "size": 1571,
-      "mtimeMs": 1785896855849
+      "hash": "ec4c6b71d67fab5974dc0730133ce123",
+      "size": 2751,
+      "mtimeMs": 1786645190829
     },
     "wiki/concepts/jian-kang-zhao-hu-shi-健康照护师.md": {
       "hash": "1fe71c2834ab9600bb52a14739904667",
@@ -15871,6 +15996,11 @@
       "hash": "7f024da05a25b562588c80c5a20ddc4c",
       "size": 1386,
       "mtimeMs": 1785613517796
+    },
+    "wiki/concepts/jue-ce-pi-lao-决策疲劳.md": {
+      "hash": "c7a5ed02e0896d0bf33cffb5637c4d4b",
+      "size": 1082,
+      "mtimeMs": 1786645348870
     },
     "wiki/concepts/jue-ce-san-fen-lei-决策三分类.md": {
       "hash": "48cbe43abaf17aea2e3dff515e1a510a",
@@ -17017,6 +17147,11 @@
       "size": 2344,
       "mtimeMs": 1785641797657
     },
+    "wiki/concepts/lin-jie-dian-jia-su-临界点加速.md": {
+      "hash": "7d9db7191f95d69aa76d7f760bb189b5",
+      "size": 1600,
+      "mtimeMs": 1786645584840
+    },
     "wiki/concepts/lin-jie-dian-zeng-liang-shi-chang-临界点增量市场.md": {
       "hash": "f9b0adb55f893c29aae1f0d72748607f",
       "size": 1260,
@@ -17211,6 +17346,11 @@
       "hash": "fc998b7aebe5d4d2b25ca7f776212d90",
       "size": 3289,
       "mtimeMs": 1785634976815
+    },
+    "wiki/concepts/liu-zhou-huo-li-zai-sheng-ji-hua-六周活力再生计划.md": {
+      "hash": "6c65f3d4c2ed860fa154012cdd3dcce1",
+      "size": 1260,
+      "mtimeMs": 1786645349040
     },
     "wiki/concepts/lu-jing-fan-xiang-su-zao-zhong-dian-路径反向塑造终点.md": {
       "hash": "54f68749bf2b29ba80caf15a9723d38b",
@@ -17696,6 +17836,11 @@
       "hash": "dc82849df34e8ba675e28a2d96defee1",
       "size": 1707,
       "mtimeMs": 1785637743819
+    },
+    "wiki/concepts/ming-ren-chong-bai-名人崇拜.md": {
+      "hash": "23d45fd6288157601987393371581e3f",
+      "size": 2370,
+      "mtimeMs": 1786645655374
     },
     "wiki/concepts/ming-ri-huang-hua-明日黄花.md": {
       "hash": "edbb19174feb131e45269d5946379aa0",
@@ -18241,6 +18386,11 @@
       "hash": "c39f417d1cf9e69ea32ab6ca3f9332fe",
       "size": 1170,
       "mtimeMs": 1785652279868
+    },
+    "wiki/concepts/neng-liang-ji-hua-xue-pei-fang-能量即化学配方.md": {
+      "hash": "08506dfe35058eddc89c9e6c4d1ff7bf",
+      "size": 2227,
+      "mtimeMs": 1786645348777
     },
     "wiki/concepts/neng-liang-mi-du-能量密度.md": {
       "hash": "138f30a514628fd5ee609272c94c2f99",
@@ -19341,6 +19491,11 @@
       "hash": "59bbd8de7c7a99ae01a579deb915357c",
       "size": 1542,
       "mtimeMs": 1785739241565
+    },
+    "wiki/concepts/qing-gan-tou-she-yu-ti-dai-xing-man-zu-情感投射与替代性满足.md": {
+      "hash": "2bb068d0bec2465479b9af1f0aed8c47",
+      "size": 1500,
+      "mtimeMs": 1786645655468
     },
     "wiki/concepts/qing-gan-xian-xing-dao-li-zhi-hou-情感先行道理滞后.md": {
       "hash": "4b6f9aec1eeaab5f7da19926f5fbd560",
@@ -20547,6 +20702,11 @@
       "size": 950,
       "mtimeMs": 1785652522895
     },
+    "wiki/concepts/san-zhong-yin-shi-mo-shi-yu-mian-bu-xing-tai-三种饮食模式与面部形态.md": {
+      "hash": "4094ebb7d141198e64a416c409e940ab",
+      "size": 2197,
+      "mtimeMs": 1786645829709
+    },
     "wiki/concepts/satisfying-principle-满意原则.md": {
       "hash": "f983ceacd18fea1be766ae796ed2bc18",
       "size": 2523,
@@ -20747,6 +20907,11 @@
       "size": 876,
       "mtimeMs": 1785893833822
     },
+    "wiki/concepts/she-hui-xue-xi-li-lun-社会学习理论.md": {
+      "hash": "0d2a19acf933eeba8cdcfe28d219f99d",
+      "size": 1546,
+      "mtimeMs": 1786645655536
+    },
     "wiki/concepts/she-hui-zi-wo-cheng-xian-社会自我呈现.md": {
       "hash": "bde17835486e49f8a823f1540c66df5c",
       "size": 1040,
@@ -20801,6 +20966,11 @@
       "hash": "77fe1de25ff7b36cab410a71692fe370",
       "size": 1469,
       "mtimeMs": 1785680497066
+    },
+    "wiki/concepts/she-jiao-qian-zhai-社交欠债.md": {
+      "hash": "6ed3a1fc23aae8de908ac20317c07b08",
+      "size": 1031,
+      "mtimeMs": 1786645348945
     },
     "wiki/concepts/she-jiao-shang-社交商.md": {
       "hash": "d5784ff6ae35ae4c3811359387a643b1",
@@ -22287,6 +22457,11 @@
       "size": 1588,
       "mtimeMs": 1785617318066
     },
+    "wiki/concepts/tan-shui-lian-碳水脸.md": {
+      "hash": "7b3548dece6032b7e35c158c233c301a",
+      "size": 993,
+      "mtimeMs": 1786645829664
+    },
     "wiki/concepts/tang-gao-tong-5-qiang-se-an-lian-tiao-糖睾酮5羟色胺链条.md": {
       "hash": "bdb0a2a4857a82e1409ca1f8dffb498c",
       "size": 1488,
@@ -23312,6 +23487,11 @@
       "size": 1461,
       "mtimeMs": 1785651841877
     },
+    "wiki/concepts/wei-wan-cheng-de-cheng-nuo-未完成的承诺.md": {
+      "hash": "f40c91542608985eb074c388c44ae612",
+      "size": 1107,
+      "mtimeMs": 1786645348909
+    },
     "wiki/concepts/wei-xian-de-bu-shi-neng-li-er-shi-yi-shi-危险的不是能力而是意识.md": {
       "hash": "eb84abbf62fd71c944a9925dafb59b39",
       "size": 1240,
@@ -23872,6 +24052,11 @@
       "size": 1828,
       "mtimeMs": 1785618694347
     },
+    "wiki/concepts/xia-he-gu-xi-tong-xing-suo-xiao-下颌骨系统性缩小.md": {
+      "hash": "acc4b5d633bd960363c2e38649001fc7",
+      "size": 1298,
+      "mtimeMs": 1786645829777
+    },
     "wiki/concepts/xia-liu-lao-nian-下流老年.md": {
       "hash": "0ea9de6bea68b27d5e8cab5e6e4c5b80",
       "size": 1172,
@@ -23997,6 +24182,11 @@
       "size": 1489,
       "mtimeMs": 1785891015294
     },
+    "wiki/concepts/xian-xing-zeng-zhang-线性增长.md": {
+      "hash": "c42d2d08746ff99dc00832cc7e784a2f",
+      "size": 1342,
+      "mtimeMs": 1786645584788
+    },
     "wiki/concepts/xian-yan-bao-显眼包.md": {
       "hash": "8fbb9fe9292e39daf8a8e7e5bd8a931d",
       "size": 1596,
@@ -24013,9 +24203,9 @@
       "mtimeMs": 1785706111523
     },
     "wiki/concepts/xian-yu-yi-gong-ti-县域医共体.md": {
-      "hash": "86395ff1e9fe7f0d5937ada256cfd602",
-      "size": 928,
-      "mtimeMs": 1785686371502
+      "hash": "886588ca5f222fe333f516778d7d6930",
+      "size": 1880,
+      "mtimeMs": 1786645276567
     },
     "wiki/concepts/xian-yu-yi-liao-县域医疗.md": {
       "hash": "c459aa27ebca75262ce12de9d1f9d25e",
@@ -24902,6 +25092,11 @@
       "size": 1075,
       "mtimeMs": 1785920062948
     },
+    "wiki/concepts/xing-ji-su-ping-heng-jia-shuo-性激素平衡假说.md": {
+      "hash": "8d0483c2410c1740f96246976ab11a95",
+      "size": 835,
+      "mtimeMs": 1786645829733
+    },
     "wiki/concepts/xing-jia-bi-de-qing-xu-wei-du-性价比的情绪维度.md": {
       "hash": "9b6807260428d06c529ec85bc3fac59a",
       "size": 1575,
@@ -25657,6 +25852,11 @@
       "size": 1180,
       "mtimeMs": 1785630311952
     },
+    "wiki/concepts/yi-jian-kang-wei-zhong-xin-以健康为中心.md": {
+      "hash": "589cb8c0a714dd4dcce77f4979a7580f",
+      "size": 1320,
+      "mtimeMs": 1786645148460
+    },
     "wiki/concepts/yi-jie-si-wei-一阶思维.md": {
       "hash": "2445d952dfb6d26a867bff064bb3d0d3",
       "size": 1708,
@@ -25841,6 +26041,11 @@
       "hash": "d663ec7f8f1edc24d220c9eac41eca74",
       "size": 1745,
       "mtimeMs": 1785642211265
+    },
+    "wiki/concepts/yi-zhi-li-gao-neng-hao-意志力高能耗.md": {
+      "hash": "f0a82a6079a936e791db4305601cbcff",
+      "size": 1494,
+      "mtimeMs": 1786645349078
     },
     "wiki/concepts/yi-zhi-li-you-xian-li-lun-意志力有限理论.md": {
       "hash": "bfcd60b679816da6fd01a09fbf04d9cd",
@@ -26782,6 +26987,11 @@
       "size": 1656,
       "mtimeMs": 1785612407996
     },
+    "wiki/concepts/zai-chang-gan-在场感.md": {
+      "hash": "732b4b9ca1fd752818e8ca14e418bcaf",
+      "size": 1317,
+      "mtimeMs": 1786645770302
+    },
     "wiki/concepts/zai-gang-shi-jian-yu-jin-sheng-在岗时间与晋升.md": {
       "hash": "0922b2f13646e25b2b320913eff7c305",
       "size": 1168,
@@ -26956,6 +27166,11 @@
       "hash": "4612c1fd294228f10adac9e2cc70e150",
       "size": 1160,
       "mtimeMs": 1785622592025
+    },
+    "wiki/concepts/zhang-jia-xun-huan-涨价循环.md": {
+      "hash": "de061982ff59fecfe247c084d75ab676",
+      "size": 1697,
+      "mtimeMs": 1786645584856
     },
     "wiki/concepts/zhang-kong-gan-掌控感.md": {
       "hash": "b5e615104e907f9f51d8b86275eac712",
@@ -28032,10 +28247,20 @@
       "size": 1967,
       "mtimeMs": 1785622949901
     },
+    "wiki/concepts/zhui-xing-san-ceng-ci-追星三层次.md": {
+      "hash": "c7143dd5c353b9edea14004300796dc7",
+      "size": 1293,
+      "mtimeMs": 1786645655392
+    },
     "wiki/concepts/zhun-que-ding-yi-zi-shen-you-shi-准确定义自身优势.md": {
       "hash": "9e28e79e4589151880cabaf63c9a8385",
       "size": 1284,
       "mtimeMs": 1785786448225
+    },
+    "wiki/concepts/zhun-she-hui-jiao-wang-准社会交往.md": {
+      "hash": "2e15540fc3043f338e7bb38abbebdd31",
+      "size": 1243,
+      "mtimeMs": 1786645655510
     },
     "wiki/concepts/zi-bao-xin-li-xue-自曝心理学.md": {
       "hash": "b38bac6555085c8d87d9d005315bc672",
@@ -28061,6 +28286,11 @@
       "hash": "24c0728ebfcdc067db175ddb60dbcaf8",
       "size": 6607,
       "mtimeMs": 1785666293893
+    },
+    "wiki/concepts/zi-chan-guan-li-资产管理.md": {
+      "hash": "8d1a1e26891064275aea3214cb74d87a",
+      "size": 1029,
+      "mtimeMs": 1786645770255
     },
     "wiki/concepts/zi-chan-yu-zi-yuan-资产与资源.md": {
       "hash": "2df2a6128a668326e1705988e4aa17b4",
@@ -28223,9 +28453,9 @@
       "mtimeMs": 1785655967754
     },
     "wiki/concepts/zi-wo-xiao-neng-gan-自我效能感.md": {
-      "hash": "c87e682bb84bd6a1bc459639a644b3da",
-      "size": 814,
-      "mtimeMs": 1785824149310
+      "hash": "a4d235d57874c4bf7bc1f4d70a28c2c7",
+      "size": 1648,
+      "mtimeMs": 1786645690802
     },
     "wiki/concepts/zi-wo-yi-shi-de-chan-sheng-自我意识的产生.md": {
       "hash": "b9d3979f169b62a6393b6f8c6cbfbf11",
@@ -28486,6 +28716,11 @@
       "hash": "ac6ed41141fcc047ef5766d41e98c647",
       "size": 1421,
       "mtimeMs": 1785633299781
+    },
+    "wiki/concepts/zui-xiao-gan-yu-bu-ji-最小干预补给.md": {
+      "hash": "00a61d87743c19fe497df3e6e5445722",
+      "size": 1425,
+      "mtimeMs": 1786645348977
     },
     "wiki/concepts/zui-xiao-hua-bi-huan-最小化闭环.md": {
       "hash": "6804c8cb9a4d4fb70325a6288be0acb8",
@@ -45107,6 +45342,11 @@
       "size": 955,
       "mtimeMs": 1785647298163
     },
+    "wiki/entities/albert-bandura-班杜拉.md": {
+      "hash": "a7ffebcdcdd777672e8f3ca0e15ea393",
+      "size": 1859,
+      "mtimeMs": 1786645655325
+    },
     "wiki/entities/albert-bandura-阿尔伯特班杜拉.md": {
       "hash": "1878b383dafa6c4b6e5b6d1892d278b1",
       "size": 610,
@@ -45398,9 +45638,9 @@
       "mtimeMs": 1785670838012
     },
     "wiki/entities/apple-苹果.md": {
-      "hash": "9c6f6a9da3d2d2a60f0652e37852263e",
-      "size": 14635,
-      "mtimeMs": 1785687886147
+      "hash": "dc71a2b690c31a628d816a3242782cd1",
+      "size": 16070,
+      "mtimeMs": 1786645534013
     },
     "wiki/entities/apt-歌曲.md": {
       "hash": "b33c76617e14ec361c78c00052c24806",
@@ -46627,6 +46867,11 @@
       "size": 3692,
       "mtimeMs": 1785914841597
     },
+    "wiki/entities/chao-yue-bai-sui-超越百岁.md": {
+      "hash": "7eff20f07158252789037aa3694154d2",
+      "size": 695,
+      "mtimeMs": 1786645148412
+    },
     "wiki/entities/charles-duhigg-查尔斯都希格.md": {
       "hash": "64eb3954d1c57051c42d7329cc002aa3",
       "size": 1610,
@@ -47376,6 +47621,11 @@
       "hash": "d030b644686de759209283409df478ae",
       "size": 1116,
       "mtimeMs": 1785800131936
+    },
+    "wiki/entities/david-phillips-戴维菲利普斯.md": {
+      "hash": "6a039e5957449fa7140b7e8b6ad15bfd",
+      "size": 1671,
+      "mtimeMs": 1786645348713
     },
     "wiki/entities/de-beers-戴比尔斯.md": {
       "hash": "e8cdeb45bd89d72772bb1c0332ac3d93",
@@ -48778,9 +49028,9 @@
       "mtimeMs": 1785678047453
     },
     "wiki/entities/geoffrey-west-杰佛里韦斯特.md": {
-      "hash": "fb94c1c7f0dbab80bc9c2c6e8c272e98",
-      "size": 1860,
-      "mtimeMs": 1785647298113
+      "hash": "5f43966034555f892fb6326ed8137f33",
+      "size": 3948,
+      "mtimeMs": 1786645465153
     },
     "wiki/entities/geoffrey-west-杰弗里韦斯特.md": {
       "hash": "f5a298bf7fd051b3565f538935b09ba4",
@@ -49231,6 +49481,11 @@
       "hash": "7cb56ffa20fb35ca6ea2d113e6a75aa0",
       "size": 995,
       "mtimeMs": 1785746984469
+    },
+    "wiki/entities/guo-min-jian-kang-shi-wu-wu-gui-hua-国民健康十五五规划.md": {
+      "hash": "6788a4970e133a25f9de2a0e88c4bd5f",
+      "size": 2003,
+      "mtimeMs": 1786645148346
     },
     "wiki/entities/guo-ming-jin-郭明錤.md": {
       "hash": "15c2335ab3e10701bb49e9e13d709825",
@@ -50253,9 +50508,9 @@
       "mtimeMs": 1785904911628
     },
     "wiki/entities/ikea-宜家.md": {
-      "hash": "893916c7551cf90eadb087cd4ae04c03",
-      "size": 1225,
-      "mtimeMs": 1785631585767
+      "hash": "d570ffb7382421f81b862c09d23ffaa8",
+      "size": 2248,
+      "mtimeMs": 1786645490904
     },
     "wiki/entities/ilya-sutskever-伊尔亚苏茨克维.md": {
       "hash": "efc1b22060ad2f5624ff1f5167375db9",
@@ -50321,6 +50576,11 @@
       "hash": "8b8a425738ed69e7505692aa449214be",
       "size": 904,
       "mtimeMs": 1785616955626
+    },
+    "wiki/entities/international-journal-of-psychology-国际心理学.md": {
+      "hash": "dff3c33f5de67a7190b35f4852d99721",
+      "size": 1354,
+      "mtimeMs": 1786645655353
     },
     "wiki/entities/intwaf国际技术工作和家庭网络.md": {
       "hash": "2eb2d23113bb2305a1837cbae9b617f7",
@@ -51181,6 +51441,11 @@
       "hash": "de53551862237fb4fc0fa087272ef6a9",
       "size": 929,
       "mtimeMs": 1785632984853
+    },
+    "wiki/entities/kang-shifu-康师傅.md": {
+      "hash": "889e12fc486674fe81e8b9a6636d9ab0",
+      "size": 724,
+      "mtimeMs": 1786645490943
     },
     "wiki/entities/kang-yu-xuan-康语轩.md": {
       "hash": "4dae4275e9676df9317859218a426747",
@@ -52056,6 +52321,11 @@
       "hash": "a06a7278df3484adfff45bda73f4287c",
       "size": 936,
       "mtimeMs": 1785699831602
+    },
+    "wiki/entities/lifestyle-medicine-生活方式医学.md": {
+      "hash": "97cad7547225dd8b7bf31892164df367",
+      "size": 1356,
+      "mtimeMs": 1786645148364
     },
     "wiki/entities/lin-ben-jian-林本坚.md": {
       "hash": "e43c219a87db449f8d2e04f8e6f47954",
@@ -53218,9 +53488,9 @@
       "mtimeMs": 1785646082464
     },
     "wiki/entities/microsoft-微软.md": {
-      "hash": "5dc663ff912f33f6a164e75f0cf8dcfc",
-      "size": 4881,
-      "mtimeMs": 1785715973454
+      "hash": "c6bbbce9f5e9ad5eaa832a68a0a23231",
+      "size": 5796,
+      "mtimeMs": 1786645584747
     },
     "wiki/entities/mihaly-csikszentmihalyi-契克森米哈赖.md": {
       "hash": "6eee878a1ca4a995bba37d5189bab273",
@@ -54117,6 +54387,11 @@
       "size": 3148,
       "mtimeMs": 1785628478110
     },
+    "wiki/entities/paul-ehrlich-保罗埃利希.md": {
+      "hash": "fa782bf2d31129596b49be3ed09180d0",
+      "size": 593,
+      "mtimeMs": 1786645829816
+    },
     "wiki/entities/paul-fussell-保罗福塞尔.md": {
       "hash": "abbf10103ad39f905f0fd76b28a42bfa",
       "size": 926,
@@ -54182,10 +54457,20 @@
       "size": 923,
       "mtimeMs": 1785919894772
     },
+    "wiki/entities/peter-attia-彼得阿提亚.md": {
+      "hash": "6d7698b6068fdc093194416a1403617d",
+      "size": 927,
+      "mtimeMs": 1786645148389
+    },
     "wiki/entities/peter-attia-阿提亚.md": {
       "hash": "5dea09aa0984066d9802991ba50e3808",
       "size": 1960,
       "mtimeMs": 1785896855802
+    },
+    "wiki/entities/peter-brook-彼得布鲁克.md": {
+      "hash": "c7a384250f90a77c5086fe6bb9c651ee",
+      "size": 793,
+      "mtimeMs": 1786645770203
     },
     "wiki/entities/peter-buffett-彼得巴菲特.md": {
       "hash": "d1a89d052cb7e472e4a3a99497705ef5",
@@ -55217,6 +55502,11 @@
       "size": 974,
       "mtimeMs": 1785600655984
     },
+    "wiki/entities/sandra-kahn-桑德拉卡恩.md": {
+      "hash": "58970e4f57a273fc036cf949bda5d43b",
+      "size": 548,
+      "mtimeMs": 1786645829841
+    },
     "wiki/entities/sang-bai-chuan-桑百川.md": {
       "hash": "a0a5037c7be9d5cbbf0f15567ebc8bcf",
       "size": 1308,
@@ -55256,6 +55546,11 @@
       "hash": "c7d9ccdb4d9696469f867bd5357a4f90",
       "size": 1114,
       "mtimeMs": 1785863482776
+    },
+    "wiki/entities/scale-规模.md": {
+      "hash": "64489dd057eb5fd5c08062984814a640",
+      "size": 1031,
+      "mtimeMs": 1786645465190
     },
     "wiki/entities/science-magazine-科学杂志.md": {
       "hash": "f57cab8c33c1df0eb3089699ca90ad08",
@@ -55521,6 +55816,11 @@
       "hash": "a20a04b90065409ad90e08d978c4820e",
       "size": 1041,
       "mtimeMs": 1785623179365
+    },
+    "wiki/entities/shen-ji-jun-申积军.md": {
+      "hash": "a6c67318fae7f98393ded2e52ae2506e",
+      "size": 687,
+      "mtimeMs": 1786645770176
     },
     "wiki/entities/shen-kun-沈坤.md": {
       "hash": "02daf6c53cd4ae80e8fc9c0a813187e7",
@@ -56487,6 +56787,11 @@
       "size": 1042,
       "mtimeMs": 1785637037543
     },
+    "wiki/entities/tang-guo-qiang-唐国强.md": {
+      "hash": "25778f76fc48d6336f0fdadd30487950",
+      "size": 1826,
+      "mtimeMs": 1786645770136
+    },
     "wiki/entities/tang-ji-he-de-堂吉诃德.md": {
       "hash": "9a6fd51c8fac495b0fd707d17638b0cb",
       "size": 4205,
@@ -56561,6 +56866,11 @@
       "hash": "1551385442df2d84e646184fee83dac9",
       "size": 1015,
       "mtimeMs": 1785614404172
+    },
+    "wiki/entities/tao-hua-tan-ji-桃花潭记.md": {
+      "hash": "66dcc2689191f58a80b87ffedf105bbe",
+      "size": 1784,
+      "mtimeMs": 1786645770109
     },
     "wiki/entities/tao-kai-shan-陶开山.md": {
       "hash": "ea9eb92830e5f4bc4da960716f5d3fe3",
@@ -58112,6 +58422,11 @@
       "size": 2365,
       "mtimeMs": 1785609448501
     },
+    "wiki/entities/wu-ku-chuan-nv-zi-da-xue-武库川女子大学.md": {
+      "hash": "3e152690d6b6a2001c5d3293bce73a16",
+      "size": 1048,
+      "mtimeMs": 1786645829798
+    },
     "wiki/entities/wu-liang-ye-五粮液.md": {
       "hash": "10fdf29c2be61d0d94ceae5af1d8e5f3",
       "size": 974,
@@ -58311,6 +58626,16 @@
       "hash": "90a140952ebaee57b2a7a1d0a56d2be2",
       "size": 839,
       "mtimeMs": 1785691348656
+    },
+    "wiki/entities/xia-bu-xia-bu-呷哺呷哺.md": {
+      "hash": "bd599f53ac4dbae3ebcc666844c422f0",
+      "size": 836,
+      "mtimeMs": 1786645490983
+    },
+    "wiki/entities/xia-he-下颌.md": {
+      "hash": "db738285233d4b544e6c8f5bcf7a9460",
+      "size": 844,
+      "mtimeMs": 1786645829863
     },
     "wiki/entities/xia-men-guo-mao-厦门国贸.md": {
       "hash": "fc39005a3cd7ad4f672e44395284e887",
@@ -59077,6 +59402,11 @@
       "size": 1714,
       "mtimeMs": 1785640089022
     },
+    "wiki/entities/yang-chu-gao-neng-liang-养出高能量.md": {
+      "hash": "4e013eceb9637cf9e6089c884767781e",
+      "size": 1146,
+      "mtimeMs": 1786645348742
+    },
     "wiki/entities/yang-da-yi-杨大壹.md": {
       "hash": "155b66dba75e9cbb4080ca1bc5824325",
       "size": 869,
@@ -59221,6 +59551,11 @@
       "hash": "68426ad9486d2761d5bb174e8b5588d3",
       "size": 6255,
       "mtimeMs": 1785910225570
+    },
+    "wiki/entities/ye-jiang-tian-叶江天.md": {
+      "hash": "e13665dfcf20638859651195e6dfe2e3",
+      "size": 1010,
+      "mtimeMs": 1786645770158
     },
     "wiki/entities/yi-da-li-hei-shou-dang-意大利黑手党.md": {
       "hash": "5f311842c3a77a326cdefb7e193980b4",
@@ -69868,14 +70203,14 @@
       "mtimeMs": 1785571124311
     },
     "wiki/index.md": {
-      "hash": "1790e170446dde62bdd9df4ba843fcc7",
-      "size": 18175,
-      "mtimeMs": 1785969625317
+      "hash": "9cac9b0f33cbfea3d12244fdc7bb4eb2",
+      "size": 18459,
+      "mtimeMs": 1786645830115
     },
     "wiki/log.md": {
-      "hash": "b84ef3323ecb9679c06a178b66db9192",
-      "size": 1060874,
-      "mtimeMs": 1785969625255
+      "hash": "fccc66aaf8840834d0d0fec883675658",
+      "size": 1066246,
+      "mtimeMs": 1786645829981
     },
     "wiki/overview.md": {
       "hash": "3a6b8de12b70516be93fe9f2f947b45c",
@@ -70391,6 +70726,11 @@
       "hash": "d49e648a0bf65a678c05119d704b96c9",
       "size": 1353,
       "mtimeMs": 1785685703861
+    },
+    "wiki/queries/chuang-xin-neng-fou-chi-xu-di-kang-ci-xian-xing-创新能否持续抵抗次线性.md": {
+      "hash": "4e9a40812d57d54cc04fa54ce639a387",
+      "size": 1711,
+      "mtimeMs": 1786645584872
     },
     "wiki/queries/chun-shi-jue-vs-ji-guang-lei-da-shui-neng-sheng-chu-纯视觉vs激光雷达谁能胜出.md": {
       "hash": "9dd80dd50de6a27391bbac2c0930ab50",
@@ -77012,6 +77352,11 @@
       "size": 5448,
       "mtimeMs": 1785934538767
     },
+    "wiki/sources/4-得到头条--2-md--19-1372969六个配方提升你的秋季能量--zo9zrn.md": {
+      "hash": "77045d319af0a507eef4f15f8522e81a",
+      "size": 5559,
+      "mtimeMs": 1786645348677
+    },
     "wiki/sources/4-得到头条--2-md--19-139138硅谷风投为什么热捧web3--eekdij.md": {
       "hash": "3f832382eb7e51e6e788f106715f2805",
       "size": 5262,
@@ -77686,6 +78031,11 @@
       "hash": "7b0f9e36b065cfe1fa334387e5e8f3bd",
       "size": 2644,
       "mtimeMs": 1785969625059
+    },
+    "wiki/sources/4-得到头条--2-md--20-1373970平价品牌为什么最难守住平价--obawyb.md": {
+      "hash": "0cef7e9828c731c56af805063b32d788",
+      "size": 4436,
+      "mtimeMs": 1786645427843
     },
     "wiki/sources/4-得到头条--2-md--20-149148科学革命为什么发生在近代欧洲--ortql.md": {
       "hash": "1a0bdd65592200a35fbe48f500ecd0a4",
@@ -79047,6 +79397,11 @@
       "size": 4303,
       "mtimeMs": 1785587487402
     },
+    "wiki/sources/4-得到头条--2-md--22-1374971为什么越社恐的人越容易狂热追星--1vvzh5f.md": {
+      "hash": "b996b463dfd3a1a2170dc6de4d7b9f7e",
+      "size": 4426,
+      "mtimeMs": 1786645655302
+    },
     "wiki/sources/4-得到头条--2-md--22-150149为什么kindle卖不过ipad--wxqniv.md": {
       "hash": "f9ab9a3985a6d8c497b3de57e9d7f1f6",
       "size": 7736,
@@ -79607,6 +79962,11 @@
       "size": 3603,
       "mtimeMs": 1785588966179
     },
+    "wiki/sources/4-得到头条--2-md--23-1376973碳水脸是假的但这样吃确实能变好看--1uxx339.md": {
+      "hash": "1d44f7176a71e2e4380a14e69ecc04a3",
+      "size": 2891,
+      "mtimeMs": 1786645829645
+    },
     "wiki/sources/4-得到头条--2-md--23-163162春节特刊-怎样用数字化转型赋能员工--9th5i1.md": {
       "hash": "2aa5c3ef1075e6965ed23c2d219c4909",
       "size": 3705,
@@ -80136,6 +80496,16 @@
       "hash": "e1cec7631992a30cfd98cb5299c56b93",
       "size": 4909,
       "mtimeMs": 1785588795348
+    },
+    "wiki/sources/4-得到头条--2-md--24-1371968未来五年你家门口的医院会有哪些变化--1qpma38.md": {
+      "hash": "3696b1d08de350c9abd2d662329aebb5",
+      "size": 3861,
+      "mtimeMs": 1786645136539
+    },
+    "wiki/sources/4-得到头条--2-md--24-1375972当ai开始演戏我们为什么还要看真人--ivwp47.md": {
+      "hash": "fa665c850d8c675d47903fd377b0f987",
+      "size": 5794,
+      "mtimeMs": 1786645770087
     },
     "wiki/sources/4-得到头条--2-md--24-442047代价-chatgpt会让世界变模糊吗--wiwiy2.md": {
       "hash": "eb710870fecbd149d2032a2801df8da8",

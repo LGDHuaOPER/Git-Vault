@@ -2,10 +2,10 @@
 type: entity
 title: 苹果（Apple）
 created: 2026-08-02
-updated: 2026-08-02
-tags: ["企业", "科技", "智能手机", "营销", "苹果", "供应链", "果链", "消费电子", "图像传感器", "卫星通信", "科技公司", "组织", "智能家居", "vision-pro", "tim-cook-蒂姆库克", "zhi-zao-yu-qi-de-neng-li-制造预期的能力", "xin-ren-wang-luo-信任网络", "meta", "iphone-15", "huawei-华为", "mate-60-pro", "fan-mo-er-ding-lv-反摩尔定律", "fa-bu-hui-de-ben-zhi-发布会的本质", "lin-zhi-林芝", "daniel-ives-丹尼尔艾维斯"]
-related: ["拟人化形容词营销", "品牌关系四分类", "果链", "供应链制衡", "供应链淘汰机制", "lixun-precision-立讯精密", "ofilm-欧菲光", "boe-京东方", "wentai-tech-闻泰科技", "tesla-特斯拉", "sony-索尼", "hao-wei-ke-ji-豪威科技", "tu-xiang-chuan-gan-qi-图像传感器", "hua-wei-华为", "google-谷歌", "wei-xing-tong-xin-yan-hua-si-jie-duan-卫星通信演化四阶段", "homepod", "matter", "zhi-neng-jia-ju-jian-rong-xing-智能家居兼容性", "matter-biao-zhun-Matter标准", "fan-ying-kuo-san-xi-tong-反应扩散系统", "gong-si-ban-shuai-qi-公司半衰期", "vision-pro", "tim-cook-蒂姆库克", "zhi-zao-yu-qi-de-neng-li-制造预期的能力", "xin-ren-wang-luo-信任网络", "meta", "iphone-15", "huawei-华为", "mate-60-pro", "fan-mo-er-ding-lv-反摩尔定律", "fa-bu-hui-de-ben-zhi-发布会的本质", "lin-zhi-林芝", "daniel-ives-丹尼尔艾维斯"]
-sources: ["得到头条/MD/234.233｜为什么“好体验”不等于“好服务”？.md", "得到头条/MD/256.255｜特斯拉能复现苹果供应链辉煌吗？.md", "得到头条/MD/307.306｜图像传感器江湖的“三国杀”.md", "得到头条/MD/323.322｜卫星通信手机来了？.md", "得到头条/MD/443.048｜与人吵架，为何总是“没发挥好”？.md", "得到头条/MD/475.080｜阿里24年来最大变革，给我们的三个提醒.md", "得到头条/MD/527.132｜苹果头显，能成为下个iPhone吗？.md", "得到头条/MD/594.199｜苹果发布会，非开不可吗？.md"]
+updated: 2026-08-13
+tags: ["企业", "科技", "智能手机", "营销", "苹果", "供应链", "果链", "消费电子", "图像传感器", "卫星通信", "科技公司", "组织", "智能家居", "vision-pro", "tim-cook-蒂姆库克", "zhi-zao-yu-qi-de-neng-li-制造预期的能力", "xin-ren-wang-luo-信任网络", "meta", "iphone-15", "huawei-华为", "mate-60-pro", "fan-mo-er-ding-lv-反摩尔定律", "fa-bu-hui-de-ben-zhi-发布会的本质", "lin-zhi-林芝", "daniel-ives-丹尼尔艾维斯", "案例", "chuang-xin-zhong-zhi-qu-xian-创新重置曲线", "lin-jie-dian-jia-su-临界点加速"]
+related: ["拟人化形容词营销", "品牌关系四分类", "果链", "供应链制衡", "供应链淘汰机制", "lixun-precision-立讯精密", "ofilm-欧菲光", "boe-京东方", "wentai-tech-闻泰科技", "tesla-特斯拉", "sony-索尼", "hao-wei-ke-ji-豪威科技", "tu-xiang-chuan-gan-qi-图像传感器", "hua-wei-华为", "google-谷歌", "wei-xing-tong-xin-yan-hua-si-jie-duan-卫星通信演化四阶段", "homepod", "matter", "zhi-neng-jia-ju-jian-rong-xing-智能家居兼容性", "matter-biao-zhun-Matter标准", "fan-ying-kuo-san-xi-tong-反应扩散系统", "gong-si-ban-shuai-qi-公司半衰期", "vision-pro", "tim-cook-蒂姆库克", "zhi-zao-yu-qi-de-neng-li-制造预期的能力", "xin-ren-wang-luo-信任网络", "meta", "iphone-15", "huawei-华为", "mate-60-pro", "fan-mo-er-ding-lv-反摩尔定律", "fa-bu-hui-de-ben-zhi-发布会的本质", "lin-zhi-林芝", "daniel-ives-丹尼尔艾维斯", "chuang-xin-zhong-zhi-qu-xian-创新重置曲线", "lin-jie-dian-jia-su-临界点加速"]
+sources: ["得到头条/MD/234.233｜为什么“好体验”不等于“好服务”？.md", "得到头条/MD/256.255｜特斯拉能复现苹果供应链辉煌吗？.md", "得到头条/MD/307.306｜图像传感器江湖的“三国杀”.md", "得到头条/MD/323.322｜卫星通信手机来了？.md", "得到头条/MD/443.048｜与人吵架，为何总是“没发挥好”？.md", "得到头条/MD/475.080｜阿里24年来最大变革，给我们的三个提醒.md", "得到头条/MD/527.132｜苹果头显，能成为下个iPhone吗？.md", "得到头条/MD/594.199｜苹果发布会，非开不可吗？.md", "得到头条/MD/1373.970｜平价品牌，为什么最难守住“平价”？.md"]
 ---
 
 # 苹果（Apple）
@@ -14,7 +14,21 @@ sources: ["得到头条/MD/234.233｜为什么“好体验”不等于“好服�
 
 苹果（Apple，即苹果公司 Apple Inc.）是美国消费电子企业，也是全球科技公司，定义了智能手机，是“果链”（苹果供应链）的主导者。苹果绝大部分核心零部件由供应商生产，供应链是命根子，因此由掌管供应链的库克接班乔布斯。其供应链决策也深刻影响了图像传感器市场格局。
 
-苹果公司也是《得到头条》第199期第一个话题的核心分析对象，该期围绕2023年秋季发布会与 iPhone 15 的市场反应、内外部挑战及发布会的价值展开讨论。
+苹果公司也是《得到头条》第199期第一个话题的核心分析对象，该期围绕2023年秋季发布会与 iPhone 15 的市场反应、内外部挑战及发布会的价值展开讨论。此外，在《得到头条》第970期中，苹果被用作[[chuang-xin-zhong-zhi-qu-xian-创新重置曲线]]的典型案例。
+
+## 创新重置曲线：从 Mac 到 iPhone
+
+《得到头条》第970期以苹果为案例，说明企业如何通过创新重置自己的生长曲线。
+
+### 案例数据
+
+- 2000年代初，Mac 电脑业务已进入次线性阶段，市场份额不断下滑。
+- 2007年 iPhone 发布，开启了一轮新的超线性增长。
+- 2007年 iPhone 发布，2010年 iPhone 4 发布，短短三年，苹果就从一个电脑公司变成全球最有价值的科技公司之一。
+
+### 分析意义
+
+苹果案例被用来论证：多数长时间保持增长的企业都处在创新密集型的行业，可以通过创新重置自己的生长曲线。同时，iPhone 时代的增长速度比 Mac 时代快得多，但增长快、消耗也快，到达临界点的时间更短，体现了[[lin-jie-dian-jia-su-临界点加速]]规律。
 
 ## 2023年秋季发布会与 iPhone 15
 
@@ -198,3 +212,5 @@ Wit Display 首席分析师[[lin-zhi-林芝]]预测：到2023年底，华为可�
 - [[fa-bu-hui-de-ben-zhi-发布会的本质]]：发布会价值的论证
 - [[lin-zhi-林芝]]：Wit Display 首席分析师，预测华为市场份额
 - [[daniel-ives-丹尼尔艾维斯]]：韦德布什证券分析师，提出“迷你超级周期”
+- [[chuang-xin-zhong-zhi-qu-xian-创新重置曲线]]：苹果从 Mac 到 iPhone 的案例
+- [[lin-jie-dian-jia-su-临界点加速]]：iPhone 时代增长快、消耗也快，到达临界点时间更短

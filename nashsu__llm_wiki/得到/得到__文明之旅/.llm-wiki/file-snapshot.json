@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785898513332,
+  "updatedAt": 1786648179177,
   "files": {
     "purpose.md": {
       "hash": "5100de6b7c7374a01e4d03a849efdfc9",
@@ -612,6 +612,11 @@
       "size": 59031,
       "mtimeMs": 1785897423299
     },
+    "raw/sources/文明之旅/MD/1786464000.公元1119年 宋徽宗为何如此爱“虚名”？.md": {
+      "hash": "c903e85f4b473612b1c52a6a150f1eeb",
+      "size": 59159,
+      "mtimeMs": 1786645313945
+    },
     "schema.md": {
       "hash": "ebe58e02cf8b8c912ca9dbbca2a2e18b",
       "size": 3497,
@@ -656,6 +661,11 @@
       "hash": "3655851b8f4f865d3352b446b282ef00",
       "size": 517,
       "mtimeMs": 1785862718574
+    },
+    "wiki/characters/克利福德-格尔茨.md": {
+      "hash": "ed71929778c0c98ff7a9714f67255522",
+      "size": 1012,
+      "mtimeMs": 1786648086628
     },
     "wiki/characters/全汉昇.md": {
       "hash": "8981dc26c0180dfdd489286d83d45455",
@@ -868,9 +878,14 @@
       "mtimeMs": 1785859510248
     },
     "wiki/characters/尤瓦尔-赫拉利.md": {
-      "hash": "a9ecf5663f5ddd8587971e550c61274b",
-      "size": 1248,
-      "mtimeMs": 1785858994752
+      "hash": "de9139773001a1cc30baa9199be54ec9",
+      "size": 2959,
+      "mtimeMs": 1786648166101
+    },
+    "wiki/characters/岳飞.md": {
+      "hash": "d81fc56eb7041bee2e5a80595f7cd309",
+      "size": 1438,
+      "mtimeMs": 1786648086610
     },
     "wiki/characters/左娅.md": {
       "hash": "b7b6f10f14eb7fa7b576e6aa2d92d0ca",
@@ -1062,6 +1077,11 @@
       "size": 2215,
       "mtimeMs": 1785834684459
     },
+    "wiki/characters/李筠.md": {
+      "hash": "b53effa6f13ffb36fddcef007c1a8d06",
+      "size": 1382,
+      "mtimeMs": 1786648166147
+    },
     "wiki/characters/李诫.md": {
       "hash": "cb612139dfd45dfa94a34e07d3005e43",
       "size": 1587,
@@ -1247,6 +1267,11 @@
       "size": 1645,
       "mtimeMs": 1785851554932
     },
+    "wiki/characters/皮埃尔-布尔迪厄.md": {
+      "hash": "e1974684b78b18475ba2de2f0ae4456d",
+      "size": 845,
+      "mtimeMs": 1786648086644
+    },
     "wiki/characters/种世衡.md": {
       "hash": "9f3bda8ed4b15c75aed209ef1c3a93f8",
       "size": 1957,
@@ -1321,6 +1346,11 @@
       "hash": "83d6594015464ad52a39a6f88e1d7ca9",
       "size": 1833,
       "mtimeMs": 1785839011494
+    },
+    "wiki/characters/聂崇岐.md": {
+      "hash": "7f6ed68b828d5bd03a3509656d0e5d0b",
+      "size": 1025,
+      "mtimeMs": 1786648166117
     },
     "wiki/characters/艾伦-图灵.md": {
       "hash": "cff7beac00c31d42aff70305ae176a72",
@@ -1421,6 +1451,16 @@
       "hash": "b110fc6ff2d0de9aba8bd0803f9b4980",
       "size": 717,
       "mtimeMs": 1785849579547
+    },
+    "wiki/characters/赵桓.md": {
+      "hash": "d492e6c0cb8d570348ddec332c0f1635",
+      "size": 1518,
+      "mtimeMs": 1786648086595
+    },
+    "wiki/characters/赵楷.md": {
+      "hash": "b65927b134b0d578bec71fc5105491b0",
+      "size": 940,
+      "mtimeMs": 1786648166130
     },
     "wiki/characters/赵汀阳.md": {
       "hash": "a4985b3f51385dee233f959c06c9ec61",
@@ -1852,6 +1892,11 @@
       "size": 1734,
       "mtimeMs": 1785838729257
     },
+    "wiki/concepts/以虚名受实祸.md": {
+      "hash": "92ff2d6dd7d9d101d42af3a7b3c54e1a",
+      "size": 1869,
+      "mtimeMs": 1786648086483
+    },
     "wiki/concepts/价值观作为文化工程裁量尺子.md": {
       "hash": "10768eb4dde6ee2ab92343698e3029da",
       "size": 1479,
@@ -2097,6 +2142,11 @@
       "size": 1570,
       "mtimeMs": 1785898483185
     },
+    "wiki/concepts/剧场国家.md": {
+      "hash": "babebd222bcd8627c1067e2a38596eff",
+      "size": 1214,
+      "mtimeMs": 1786648086512
+    },
     "wiki/concepts/劝学诗.md": {
       "hash": "8a25b158d585984907a6ccf2060709ba",
       "size": 1835,
@@ -2296,6 +2346,16 @@
       "hash": "dd6b3ed05bf394fec98d51f8b1ad8804",
       "size": 1722,
       "mtimeMs": 1785835608154
+    },
+    "wiki/concepts/名分的力量边界.md": {
+      "hash": "afe0a2a3da5208c37365f727cb12321f",
+      "size": 2098,
+      "mtimeMs": 1786648086496
+    },
+    "wiki/concepts/名分通胀.md": {
+      "hash": "8f5c73b02eb465d2dfb617a093e0468d",
+      "size": 2003,
+      "mtimeMs": 1786648086465
     },
     "wiki/concepts/名单压缩机制.md": {
       "hash": "47f5cdf73c766b670c74fb535977f534",
@@ -2692,6 +2752,11 @@
       "size": 1538,
       "mtimeMs": 1785865029255
     },
+    "wiki/concepts/州格与州等.md": {
+      "hash": "90159efa6476b6120d13ad6d38e4acfd",
+      "size": 1106,
+      "mtimeMs": 1786648086561
+    },
     "wiki/concepts/工业文明与农耕文明.md": {
       "hash": "b0d29bcaef24d5841e661ecca9d919e3",
       "size": 1542,
@@ -2786,6 +2851,11 @@
       "hash": "37da9ac2e627f8e03f738c639fc25d14",
       "size": 1819,
       "mtimeMs": 1785860470488
+    },
+    "wiki/concepts/建节升府.md": {
+      "hash": "b8a3e9c506a14c375865afc9e6f87624",
+      "size": 2702,
+      "mtimeMs": 1786648086429
     },
     "wiki/concepts/开元盛世模板.md": {
       "hash": "ca8665beb8b4f20b747cce4dc4d40b53",
@@ -3357,6 +3427,11 @@
       "size": 1380,
       "mtimeMs": 1785865029261
     },
+    "wiki/concepts/潜藩升格.md": {
+      "hash": "d08e7746d1b60544424b69808dc983eb",
+      "size": 1603,
+      "mtimeMs": 1786648086578
+    },
     "wiki/concepts/澶渊之盟.md": {
       "hash": "121da378318af23c13fc6997965f8648",
       "size": 2008,
@@ -3666,6 +3741,21 @@
       "hash": "478d140df9205f98daf7f56f7e306bea",
       "size": 2014,
       "mtimeMs": 1785855140051
+    },
+    "wiki/concepts/符号政治.md": {
+      "hash": "b494632457796b8fa9bd52a9695476a7",
+      "size": 2551,
+      "mtimeMs": 1786648086413
+    },
+    "wiki/concepts/符号权力.md": {
+      "hash": "8b62afe105c81d3c8af2f417417c422f",
+      "size": 1086,
+      "mtimeMs": 1786648086528
+    },
+    "wiki/concepts/符号环境依赖.md": {
+      "hash": "92853cd3fc45f61141b096099b81302b",
+      "size": 2393,
+      "mtimeMs": 1786648086545
     },
     "wiki/concepts/第二段生命.md": {
       "hash": "7c1993ed19b73615f63ef674fb6f0865",
@@ -4577,6 +4667,11 @@
       "size": 721,
       "mtimeMs": 1785841730317
     },
+    "wiki/entities/尼加拉-十九世纪巴厘剧场国家.md": {
+      "hash": "6539077d6c64c8591114f70f292f18a7",
+      "size": 822,
+      "mtimeMs": 1786648166182
+    },
     "wiki/entities/居养院.md": {
       "hash": "74e95549e90634aed6d6e7a7a74ff337",
       "size": 1632,
@@ -5097,6 +5192,11 @@
       "size": 964,
       "mtimeMs": 1785830233613
     },
+    "wiki/entities/罗马史纲.md": {
+      "hash": "b712a28a9b1f2bbc77b7defc5cb97b4f",
+      "size": 1075,
+      "mtimeMs": 1786648166163
+    },
     "wiki/entities/罗马教廷.md": {
       "hash": "e3d30a49d375882d2b8ea860298eeddc",
       "size": 2877,
@@ -5438,9 +5538,9 @@
       "mtimeMs": 1785839286390
     },
     "wiki/index.md": {
-      "hash": "5c3c3ee706668835a421539190d336a0",
-      "size": 12967,
-      "mtimeMs": 1785898512546
+      "hash": "f53d34ee87e3a606be6241af19adacb9",
+      "size": 12942,
+      "mtimeMs": 1786648166399
     },
     "wiki/log-entry.md": {
       "hash": "6fa38c5e27831eb264501344773c0592",
@@ -5448,9 +5548,9 @@
       "mtimeMs": 1785852061555
     },
     "wiki/log.md": {
-      "hash": "d4a47a4db3bcc324863aec5ecdbaa01a",
-      "size": 54445,
-      "mtimeMs": 1785898512481
+      "hash": "c8468fecde7761b1a62d7395ddaf7edd",
+      "size": 55221,
+      "mtimeMs": 1786648166240
     },
     "wiki/log.md.md": {
       "hash": "dd0dfcd09b8d6d869662126a16405159",
@@ -6232,6 +6332,11 @@
       "size": 1149,
       "mtimeMs": 1785898512469
     },
+    "wiki/sources/4-文明之旅--2-md--28-1786464000公元1119年-宋徽宗为何如此爱虚名--1czjbnp.md": {
+      "hash": "1391d80aac30b1a282fcf6933da5bd09",
+      "size": 5505,
+      "mtimeMs": 1786648086395
+    },
     "wiki/sources/4-文明之旅--2-md--29-027公元1024年-交子1000年纸币为何诞生在中国宋朝--2yz1xu.md": {
       "hash": "0a71be9c011fda3a53d581d14bf539f3",
       "size": 3168,
@@ -6311,6 +6416,11 @@
       "hash": "7726ab2016e488054e832af98ee7b77f",
       "size": 2111,
       "mtimeMs": 1785833051776
+    },
+    "wiki/themes/符号与实力的断裂.md": {
+      "hash": "d662ee71b14c8a8cfd3b69aff630d46c",
+      "size": 1446,
+      "mtimeMs": 1786648166197
     },
     "wiki/themes/被系统孤立的悲剧.md": {
       "hash": "8fd73120297ce29b8f16de9af0958d52",

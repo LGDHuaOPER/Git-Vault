@@ -8560,6 +8560,130 @@
         "wiki/index.md",
         "wiki/log.md"
       ]
+    },
+    "得到精选/MD/1136.贾行家  考试之外的世界很大，你也是风景本身.md": {
+      "hash": "a828c2854e881cdfb2ae57b06f8b8473d17c9887a188bd652bb9371ac28ce50a",
+      "timestamp": 1786650773879,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/4-得到精选--2-md--24-1136贾行家-考试之外的世界很大你也是风景本身--svn4c4.md"
+      ]
+    },
+    "得到精选/MD/1137.王路 等你确定这是好机会时，红利为什么已经没了？.md": {
+      "hash": "9175d9804d69f68433888e887641644eb2257e7d937088957eb8152b84915cd0",
+      "timestamp": 1786650954107,
+      "filesWritten": [
+        "wiki/sources/4-得到精选--2-md--26-1137王路-等你确定这是好机会时红利为什么已经没了--v4g9bp.md",
+        "wiki/concepts/合肥模式.md",
+        "wiki/concepts/耐心资本.md",
+        "wiki/concepts/股权财政.md",
+        "wiki/concepts/规则的分层性.md",
+        "wiki/concepts/预先审阅机制.md",
+        "wiki/concepts/指数纳入效应.md",
+        "wiki/concepts/资源的机械分配.md",
+        "wiki/concepts/头衔通货膨胀.md",
+        "wiki/concepts/超额回报与不确定性.md",
+        "wiki/concepts/让自己成为目标本身.md",
+        "wiki/entities/长鑫科技.md",
+        "wiki/entities/深度思考日课.md",
+        "wiki/queries/如何区分有价值的冷清与无价值的冷清.md",
+        "wiki/queries/规则例外通道的滥用风险如何控制.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "得到精选/MD/1138.万维钢 怎么找到最值得为孩子做的事？.md": {
+      "hash": "74a4a83ccb76e6325e9a3e364eb04db16891b770eac4d26e14c12b114a338a0f",
+      "timestamp": 1786651148501,
+      "filesWritten": [
+        "wiki/sources/4-得到精选--2-md--21-1138万维钢-怎么找到最值得为孩子做的事--1nk5rf1.md",
+        "wiki/entities/拉吉-切蒂.md",
+        "wiki/concepts/社区效应-儿童发展.md",
+        "wiki/concepts/基因-vs-养育.md",
+        "wiki/concepts/榜样机制-儿童发展.md",
+        "wiki/entities/别相信直觉.md",
+        "wiki/entities/基因彩票.md",
+        "wiki/queries/社区效应在中国是否更强.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "得到精选/MD/1139.刘擎 你以为的成熟，可能只是被规训.md": {
+      "hash": "af4d611418b65d1ae78bb6e624e224f22f393c47d2cd65c8afe07c90812803bd",
+      "timestamp": 1786651276182,
+      "filesWritten": [
+        "wiki/sources/4-得到精选--2-md--20-1139刘擎-你以为的成熟可能只是被规训--mbj5wm.md",
+        "wiki/entities/赫伯特-马尔库塞.md",
+        "wiki/entities/爱欲与文明.md",
+        "wiki/entities/弗洛伊德.md",
+        "wiki/entities/席勒.md",
+        "wiki/entities/马克思.md",
+        "wiki/entities/法兰克福学派.md",
+        "wiki/concepts/爱欲.md",
+        "wiki/concepts/快乐原则.md",
+        "wiki/concepts/现实原则.md",
+        "wiki/concepts/升华.md",
+        "wiki/concepts/基本压抑.md",
+        "wiki/concepts/额外压抑.md",
+        "wiki/concepts/操作原则.md",
+        "wiki/concepts/非压抑性升华.md",
+        "wiki/concepts/游戏冲动.md",
+        "wiki/concepts/体系的吸收能力.md",
+        "wiki/concepts/异化.md",
+        "wiki/comparisons/基本压抑-vs-额外压抑.md",
+        "wiki/queries/操作原则与动态稳定是否描述同一现象.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "得到精选/MD/1140.王路 先吃坏苹果还是好苹果，背后是两种人生.md": {
+      "hash": "b83f51312d50727ce375536c89d53cac2b6c7085f9e0dcab0606b8eef61be8a6",
+      "timestamp": 1786651383415,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/4-得到精选--2-md--24-1140王路-先吃坏苹果还是好苹果背后是两种人生--gb7pv2.md"
+      ]
+    },
+    "得到精选/MD/1141.王路 为什么道理都懂，就是做不到？.md": {
+      "hash": "3ce49128fd68cff129086cba5087d2d9313afb732305d2b6d7abbc940a073ecc",
+      "timestamp": 1786651546839,
+      "filesWritten": [
+        "wiki/sources/4-得到精选--2-md--19-1141王路-为什么道理都懂就是做不到--13oxr96.md",
+        "wiki/entities/王路.md",
+        "wiki/concepts/认知之网.md",
+        "wiki/concepts/原子论学习观.md",
+        "wiki/concepts/同化-排斥-动荡.md",
+        "wiki/concepts/嵌入-学习瓶颈.md",
+        "wiki/concepts/假懂识别.md",
+        "wiki/concepts/故意制造摩擦.md",
+        "wiki/concepts/容忍重组时间.md",
+        "wiki/queries/如何区分认知之网的重组与恢复原状.md",
+        "wiki/queries/AI时代具体知识是否仍然重要.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "得到精选/MD/1142.万维钢 怎么选到适合自己的赛道？.md": {
+      "hash": "e38b3cc875a0c9b952138e8a4007bcbc53c4e4553b9e853e5bfa3f7084c5ba6f",
+      "timestamp": 1786651674205,
+      "filesWritten": [
+        "wiki/sources/4-得到精选--2-md--19-1142万维钢-怎么选到适合自己的赛道--i9fu6t.md",
+        "wiki/entities/萨拉斯-萨拉斯瓦蒂.md",
+        "wiki/concepts/赛道选择.md",
+        "wiki/comparisons/体制内-vs-体制外.md",
+        "wiki/concepts/人生叙事权.md",
+        "wiki/concepts/古德哈特定律.md",
+        "wiki/concepts/政治技巧.md",
+        "wiki/concepts/利基构建.md",
+        "wiki/concepts/效应化.md",
+        "wiki/concepts/因果式.md",
+        "wiki/concepts/重尾世界.md",
+        "wiki/concepts/幸存者偏差.md",
+        "wiki/queries/体制内秘密项目与政治可见性如何平衡.md",
+        "wiki/queries/效应化与因果式在非创业场景中如何适用.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
     }
   }
 }
