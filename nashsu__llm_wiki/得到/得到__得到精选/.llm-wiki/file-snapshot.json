@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1786651680226,
+  "updatedAt": 1786807277289,
   "files": {
     "purpose.md": {
       "hash": "5100de6b7c7374a01e4d03a849efdfc9",
@@ -851,6 +851,11 @@
       "hash": "a546663e74ec88b5a02687669382f7a4",
       "size": 14077,
       "mtimeMs": 1786649130212
+    },
+    "raw/sources/得到精选/MD/1143.陶然 中国房地产市场将如何演变？.md": {
+      "hash": "f16b45e059fca56bdfea7c35f6bbb41c",
+      "size": 18252,
+      "mtimeMs": 1786807065106
     },
     "raw/sources/得到精选/MD/115.过去的一年，得到读书人都在关心什么？.md": {
       "hash": "fb70734302956764358e7a9a5bcf8bb4",
@@ -2842,6 +2847,11 @@
       "size": 1955,
       "mtimeMs": 1785973365779
     },
+    "wiki/comparisons/zhong-guo-san-si-xian-cheng-shi-vs-ri-ben-1990-nian-dai-jiao-qu.md": {
+      "hash": "aecf3b0a80fb70dc2a28753d684d452a",
+      "size": 1198,
+      "mtimeMs": 1786807274950
+    },
     "wiki/comparisons/人格分类工具-大五vs九型vs张氏六人格.md": {
       "hash": "61945a90df58d4a82abf43a2afa41485",
       "size": 2060,
@@ -3487,6 +3497,11 @@
       "size": 1358,
       "mtimeMs": 1785940901037
     },
+    "wiki/concepts/fang-piao-an-zhi.md": {
+      "hash": "a5cfd4f2cfbf39674207cc5239fce752",
+      "size": 1000,
+      "mtimeMs": 1786807274919
+    },
     "wiki/concepts/fire-运动.md": {
       "hash": "019dbc6d532d67657b37a2c6a0e6a4e8",
       "size": 2235,
@@ -3501,6 +3516,11 @@
       "hash": "58f622af9783137af376ed066c64fb20",
       "size": 1955,
       "mtimeMs": 1785948644184
+    },
+    "wiki/concepts/huo-bi-hua-peng-gai.md": {
+      "hash": "13dd2366b3b4e5d831eec2ccaa5872f1",
+      "size": 731,
+      "mtimeMs": 1786807274934
     },
     "wiki/concepts/mbti迈尔斯-布里格斯性格类型指标.md": {
       "hash": "0a13c4f8d227e8cd634574e6fbc7c4f1",
@@ -3527,6 +3547,11 @@
       "size": 643,
       "mtimeMs": 1786072126082
     },
+    "wiki/concepts/tu-di-long-duan-gong-ying.md": {
+      "hash": "e57ded8ea0a2c0068478ee5b83aa2bf7",
+      "size": 1827,
+      "mtimeMs": 1786807274872
+    },
     "wiki/concepts/t型人才模型.md": {
       "hash": "a1e4d132b38f48997b048f10c7e5195c",
       "size": 1525,
@@ -3542,10 +3567,20 @@
       "size": 1730,
       "mtimeMs": 1786047282998
     },
+    "wiki/concepts/yu-qi-ni-zhuan.md": {
+      "hash": "58bb95e0fdf14caccd005de809be7f7e",
+      "size": 1422,
+      "mtimeMs": 1786807274904
+    },
     "wiki/concepts/yue-shu-gang-gan.md": {
       "hash": "89c8afd70f1e5f0dc00c378e623774d9",
       "size": 5066,
       "mtimeMs": 1785933609573
+    },
+    "wiki/concepts/zhu-fang-fen-pei-shi-heng.md": {
+      "hash": "eec57e24a9ae9525f865c9cdf3d07f77",
+      "size": 1700,
+      "mtimeMs": 1786807274889
     },
     "wiki/concepts/一二三四省会发展逻辑.md": {
       "hash": "9bddb10c24c8d9af65d553b11b92b520",
@@ -14372,6 +14407,11 @@
       "size": 790,
       "mtimeMs": 1785924827503
     },
+    "wiki/entities/tao-ran.md": {
+      "hash": "1945e5e279ffc4c7c01b3b3c6943406d",
+      "size": 1149,
+      "mtimeMs": 1786807274841
+    },
     "wiki/entities/xai.md": {
       "hash": "4392b110fd4bce80da5e1c01f03f8820",
       "size": 1319,
@@ -14381,6 +14421,11 @@
       "hash": "dc18244c3b880240c428fd003924149c",
       "size": 1045,
       "mtimeMs": 1786021896616
+    },
+    "wiki/entities/zhong-guo-jing-ji-qu-shi-100-wen.md": {
+      "hash": "c54d6da86f2ccedc22f8146f1e89a687",
+      "size": 904,
+      "mtimeMs": 1786807274857
     },
     "wiki/entities/《别独自用餐》.md": {
       "hash": "3285eec08339a71e71c73f43b8d08b2e",
@@ -19218,9 +19263,9 @@
       "mtimeMs": 1785983439629
     },
     "wiki/index.md": {
-      "hash": "80fa7a8357772654d38594eb2d1c1fa8",
-      "size": 14677,
-      "mtimeMs": 1786651673943
+      "hash": "9e3ef37d0532b3548905110f2587ff9e",
+      "size": 14708,
+      "mtimeMs": 1786807275255
     },
     "wiki/log-2026-08-06-414.md": {
       "hash": "183653c6431c8a31100ec84a79f326ea",
@@ -19303,9 +19348,9 @@
       "mtimeMs": 1785975188687
     },
     "wiki/log.md": {
-      "hash": "2b5d45bb564d5d4345fe36dfcd2f9f6c",
-      "size": 223887,
-      "mtimeMs": 1786651673814
+      "hash": "deef0010f0e511423f195c1ecef03a55",
+      "size": 224412,
+      "mtimeMs": 1786807275131
     },
     "wiki/log.md-entry.md": {
       "hash": "57846766a8c8293ae9fdaf1d3f30ccd3",
@@ -21981,6 +22026,11 @@
       "hash": "33fa81c1ca12d543cfcd8faede0bc714",
       "size": 2924,
       "mtimeMs": 1786651648852
+    },
+    "wiki/sources/4-得到精选--2-md--19-1143陶然-中国房地产市场将如何演变--cehoza.md": {
+      "hash": "a376064557d950143a56aa7a316b70d4",
+      "size": 4074,
+      "mtimeMs": 1786807274825
     },
     "wiki/sources/4-得到精选--2-md--19-115过去的一年得到读书人都在关心什么--1ypzyjg.md": {
       "hash": "cab994356215b071fa586d1fe57b87db",

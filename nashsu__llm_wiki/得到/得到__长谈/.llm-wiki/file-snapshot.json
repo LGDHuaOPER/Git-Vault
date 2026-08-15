@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1786649735007,
+  "updatedAt": 1786807978697,
   "files": {
     "purpose.md": {
       "hash": "5100de6b7c7374a01e4d03a849efdfc9",
@@ -327,6 +327,11 @@
       "size": 164022,
       "mtimeMs": 1786646674420
     },
+    "raw/sources/长谈/MD/1786723200.62｜向华× 脱不花 孩子气拯救世界.md": {
+      "hash": "8a0fdf511f929f64ad2783840fb95918",
+      "size": 195517,
+      "mtimeMs": 1786806943519
+    },
     "schema.md": {
       "hash": "ebe58e02cf8b8c912ca9dbbca2a2e18b",
       "size": 3497,
@@ -471,6 +476,11 @@
       "hash": "7e1845d5a5d230a6ff1e148b933295f2",
       "size": 1428,
       "mtimeMs": 1785458213366
+    },
+    "wiki/concepts/三分之一理论.md": {
+      "hash": "46eedf6814fd81d6b3489bb617db3c71",
+      "size": 1372,
+      "mtimeMs": 1786807976164
     },
     "wiki/concepts/三年财务清单.md": {
       "hash": "f4df76d3705001b9722b58ad3f7231b8",
@@ -691,6 +701,11 @@
       "hash": "25abfdfa50e0eed74d45efefe6a605df",
       "size": 2436,
       "mtimeMs": 1785457789213
+    },
+    "wiki/concepts/亲子共读关系.md": {
+      "hash": "c51a5b5ba7713a2988dd6c23e81c5907",
+      "size": 1265,
+      "mtimeMs": 1786807976039
     },
     "wiki/concepts/人不可一日无必死之心.md": {
       "hash": "c681a7e30b845d1d02a2bd68ab318f7c",
@@ -961,6 +976,11 @@
       "hash": "a9048f502ace69fa9bb8aa813e45ebc0",
       "size": 2339,
       "mtimeMs": 1785462333270
+    },
+    "wiki/concepts/儿童的逻辑.md": {
+      "hash": "94015ed84e61333f0c9ced6c61580e01",
+      "size": 1501,
+      "mtimeMs": 1786807976094
     },
     "wiki/concepts/免于愚昧的自由.md": {
       "hash": "c7aa1a8efa1d21b6f4024b27b40c508a",
@@ -1327,6 +1347,11 @@
       "size": 1980,
       "mtimeMs": 1785461857079
     },
+    "wiki/concepts/去模式化创作.md": {
+      "hash": "d31f604a6af781db0af5d32efb659c09",
+      "size": 1517,
+      "mtimeMs": 1786807976084
+    },
     "wiki/concepts/去玩三问.md": {
       "hash": "c81fd3f5a602675e1f056c728b3ec906",
       "size": 1752,
@@ -1381,6 +1406,11 @@
       "hash": "da9cd805b91b5f7e03152803fc91de62",
       "size": 1845,
       "mtimeMs": 1785460138949
+    },
+    "wiki/concepts/句号问题.md": {
+      "hash": "1e50f768f104e252f8da53f2a6c654f5",
+      "size": 1503,
+      "mtimeMs": 1786807976174
     },
     "wiki/concepts/只要不变坏一定会变好.md": {
       "hash": "06973983be1d699576a01cdde50ac872",
@@ -1557,6 +1587,11 @@
       "size": 410,
       "mtimeMs": 1785461620841
     },
+    "wiki/concepts/图为中心-vs-插画思维.md": {
+      "hash": "f61f0eca0121b0cf2f00cf783259e168",
+      "size": 1382,
+      "mtimeMs": 1786807976071
+    },
     "wiki/concepts/圆规理论.md": {
       "hash": "d1b0ef1a92f6863a9e0998e1b86a2347",
       "size": 1039,
@@ -1591,6 +1626,11 @@
       "hash": "00b3353000a666c8f3abe43f89f485fc",
       "size": 1368,
       "mtimeMs": 1785458382965
+    },
+    "wiki/concepts/坦万虑以存诚.md": {
+      "hash": "9cfd9846dcee0f191ce9da2e89e0c1b9",
+      "size": 1087,
+      "mtimeMs": 1786807976152
     },
     "wiki/concepts/型号任务管理.md": {
       "hash": "fb13a8675106caa48a94c0f45c711d16",
@@ -1646,6 +1686,11 @@
       "hash": "bd9ebabc6b66feca3cc922aa42ed58b4",
       "size": 1808,
       "mtimeMs": 1785502648660
+    },
+    "wiki/concepts/大教育前后.md": {
+      "hash": "1e244296f160648625f8b14631a36237",
+      "size": 1287,
+      "mtimeMs": 1786807976187
     },
     "wiki/concepts/大脑装修.md": {
       "hash": "82c87f8884093d8584a42976c0917b7e",
@@ -1756,6 +1801,11 @@
       "hash": "b72ba8d88e24ed93bd2b627fa98c403b",
       "size": 1361,
       "mtimeMs": 1785464084361
+    },
+    "wiki/concepts/孩子气拯救世界.md": {
+      "hash": "b8f608e374b2e7a1f31f37b0db6eed55",
+      "size": 1636,
+      "mtimeMs": 1786807976030
     },
     "wiki/concepts/守与活.md": {
       "hash": "8408fab2853878d2c20849cd79a1d930",
@@ -2647,6 +2697,11 @@
       "size": 1751,
       "mtimeMs": 1785460274761
     },
+    "wiki/concepts/本自具足.md": {
+      "hash": "36f48f1569e3f55459d14aed564ea79c",
+      "size": 1344,
+      "mtimeMs": 1786807976136
+    },
     "wiki/concepts/本草学.md": {
       "hash": "03b0649a2d1a8ff155870f34be791e2c",
       "size": 1576,
@@ -2911,6 +2966,11 @@
       "hash": "cf8771d2391888ea05870104c27e1706",
       "size": 1837,
       "mtimeMs": 1785460664322
+    },
+    "wiki/concepts/点赞之美.md": {
+      "hash": "148f7c98d42fcaf8669cac4c4548ce52",
+      "size": 1391,
+      "mtimeMs": 1786807976119
     },
     "wiki/concepts/烹饪.md": {
       "hash": "8d3d795fadf27398d1e7abf6d73db297",
@@ -3247,6 +3307,11 @@
       "size": 1825,
       "mtimeMs": 1785500557679
     },
+    "wiki/concepts/种子论.md": {
+      "hash": "29b4291e8de0a5df76375a7cf0205f6f",
+      "size": 1211,
+      "mtimeMs": 1786807976201
+    },
     "wiki/concepts/科学审美.md": {
       "hash": "ec9150a9e64e88ffe8ec446f28e33af3",
       "size": 1057,
@@ -3421,6 +3486,16 @@
       "hash": "4ae3f6f0919d9c8d122800f5fc826aba",
       "size": 2697,
       "mtimeMs": 1785506967534
+    },
+    "wiki/concepts/绘本是安静之书.md": {
+      "hash": "924568c56e4b1887c0988df188aa4ab6",
+      "size": 985,
+      "mtimeMs": 1786807976061
+    },
+    "wiki/concepts/绘本是陪伴之书.md": {
+      "hash": "919b3e91b4d43f2da1a64298e9d153d4",
+      "size": 1329,
+      "mtimeMs": 1786807976051
     },
     "wiki/concepts/给失败以空间.md": {
       "hash": "538a359edf155127604e11d7eae3739f",
@@ -3746,6 +3821,11 @@
       "hash": "658a5ce6ac878733babf50b67de34c95",
       "size": 1356,
       "mtimeMs": 1785464084245
+    },
+    "wiki/concepts/读图能力.md": {
+      "hash": "18564861014896ccae3888dca7f424f2",
+      "size": 1546,
+      "mtimeMs": 1786807976104
     },
     "wiki/concepts/读者意识.md": {
       "hash": "5ad2adb2fcd690cb003089030621647e",
@@ -4282,6 +4362,11 @@
       "size": 612,
       "mtimeMs": 1785503853008
     },
+    "wiki/entities/中央美术学院绘本创作工作室.md": {
+      "hash": "45117d59364412767ee347ee225d7337",
+      "size": 1301,
+      "mtimeMs": 1786807975936
+    },
     "wiki/entities/丰子恺.md": {
       "hash": "735d4cea61a8da010091d01cfa608ea2",
       "size": 1708,
@@ -4502,6 +4587,16 @@
       "size": 1165,
       "mtimeMs": 1785501903384
     },
+    "wiki/entities/向京.md": {
+      "hash": "5db3d4fb243324dfabb3c0e1756919fb",
+      "size": 761,
+      "mtimeMs": 1786807976019
+    },
+    "wiki/entities/向华.md": {
+      "hash": "20e2bc7f9f678d5162a7d6f0d26800e4",
+      "size": 3185,
+      "mtimeMs": 1786807899388
+    },
     "wiki/entities/吴京.md": {
       "hash": "fbf80bcf084c7dece2c4cc5d1ee3b71a",
       "size": 1453,
@@ -4522,6 +4617,11 @@
       "size": 3021,
       "mtimeMs": 1785507729773
     },
+    "wiki/entities/吸呼.md": {
+      "hash": "6900e10415adf85d44b396486f07af47",
+      "size": 1177,
+      "mtimeMs": 1786807975986
+    },
     "wiki/entities/周州昙.md": {
       "hash": "46330ecf01f4004cf44f8d612b64d00a",
       "size": 1938,
@@ -4541,6 +4641,11 @@
       "hash": "19213db57e01611472f04a492954e2f3",
       "size": 795,
       "mtimeMs": 1785502428027
+    },
+    "wiki/entities/哆悉哒.md": {
+      "hash": "4ce1d3dc6047bdbe141ed954258d9874",
+      "size": 1173,
+      "mtimeMs": 1786807975997
     },
     "wiki/entities/四川国际标榜职业学院.md": {
       "hash": "55e83609eafc65c03b26ad2b30bf56ad",
@@ -4646,6 +4751,11 @@
       "hash": "7edda0e54fb840c0fc613b56cea4320d",
       "size": 2267,
       "mtimeMs": 1785503673767
+    },
+    "wiki/entities/宝莲灯.md": {
+      "hash": "c64ff221747ae91a6ffaab8084a9849f",
+      "size": 1328,
+      "mtimeMs": 1786807975951
     },
     "wiki/entities/封神.md": {
       "hash": "8834349fc00ef91eaf66b35140b13d71",
@@ -4787,6 +4897,11 @@
       "size": 5205,
       "mtimeMs": 1785459389451
     },
+    "wiki/entities/悟空乖系列.md": {
+      "hash": "c5d29aac0678771a9719f4162395f6b9",
+      "size": 1906,
+      "mtimeMs": 1786807975973
+    },
     "wiki/entities/惊梦.md": {
       "hash": "73b24d183df01007b1835fd26f97503e",
       "size": 706,
@@ -4806,6 +4921,11 @@
       "hash": "bf39d2d57f568e6940447117ef04a2de",
       "size": 524,
       "mtimeMs": 1786649353430
+    },
+    "wiki/entities/我为歌狂.md": {
+      "hash": "5c66d2693bc8c6d521e507630f94f4ce",
+      "size": 675,
+      "mtimeMs": 1786807975963
     },
     "wiki/entities/我们可以坦然生长.md": {
       "hash": "adbc1b56e3e124e17d0885096abd0fc3",
@@ -5338,9 +5458,9 @@
       "mtimeMs": 1785457633519
     },
     "wiki/entities/陈廖宇.md": {
-      "hash": "6e1704af18ab71e19bf1fc8bf950b5ee",
-      "size": 5457,
-      "mtimeMs": 1785499918303
+      "hash": "6432a077d287f0474e49fffe305ff9be",
+      "size": 6239,
+      "mtimeMs": 1786807975907
     },
     "wiki/entities/陈行甲.md": {
       "hash": "f727a9033d1b664cf350b286158a6e0a",
@@ -5392,6 +5512,11 @@
       "size": 5239,
       "mtimeMs": 1786649352945
     },
+    "wiki/entities/马克宣.md": {
+      "hash": "56ce10f9c9f44d916c34345426417fea",
+      "size": 846,
+      "mtimeMs": 1786807976007
+    },
     "wiki/entities/马寅.md": {
       "hash": "e7cd9920b02828fcb6cad7d183aa7c6d",
       "size": 3506,
@@ -5402,20 +5527,25 @@
       "size": 1656,
       "mtimeMs": 1785502427988
     },
+    "wiki/entities/马玉.md": {
+      "hash": "b8c23e655ee29a55bbc285a371453205",
+      "size": 1076,
+      "mtimeMs": 1786807975923
+    },
     "wiki/entities/高景文.md": {
       "hash": "7d0df5eb31f64195fbaac1c8730e7c1e",
       "size": 603,
       "mtimeMs": 1786649353382
     },
     "wiki/index.md": {
-      "hash": "8ec0b0d1cfd55dbc42e74b4d35f1616a",
-      "size": 11256,
-      "mtimeMs": 1786649731665
+      "hash": "1beb75d5ad2b9ac0f33defe2d7030a42",
+      "size": 11009,
+      "mtimeMs": 1786807976375
     },
     "wiki/log.md": {
-      "hash": "ec2f9a4719769e5571a20bf7bf8fa9d3",
-      "size": 54440,
-      "mtimeMs": 1786649731560
+      "hash": "89d02cab7de260c61b04f9c554eff017",
+      "size": 55750,
+      "mtimeMs": 1786807976248
     },
     "wiki/overview.md": {
       "hash": "3a6b8de12b70516be93fe9f2f947b45c",
@@ -5466,6 +5596,11 @@
       "hash": "23f9334183b82c984dc95da2ca7e002a",
       "size": 2501,
       "mtimeMs": 1785507137418
+    },
+    "wiki/sources/2-长谈--2-md--26-178672320062向华-脱不花-孩子气拯救世界--vh9cg0.md": {
+      "hash": "3de0443859dc36392583d786136e773f",
+      "size": 4759,
+      "mtimeMs": 1786807899375
     },
     "wiki/sources/2-长谈--2-md--27-00504裴鹏程-脱不花-一个高敏感的人如何应对压力--1w8on5c.md": {
       "hash": "7021b77ee70aa7b33111caeed06e1d61",

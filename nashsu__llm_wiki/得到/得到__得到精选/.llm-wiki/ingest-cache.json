@@ -8684,6 +8684,23 @@
         "wiki/log.md",
         "wiki/index.md"
       ]
+    },
+    "得到精选/MD/1143.陶然 中国房地产市场将如何演变？.md": {
+      "hash": "5a9527e4d2755f1b453754ae6f580b809a1a5fc2c7225ef6b4bcdb75101af818",
+      "timestamp": 1786807275310,
+      "filesWritten": [
+        "wiki/sources/4-得到精选--2-md--19-1143陶然-中国房地产市场将如何演变--cehoza.md",
+        "wiki/entities/tao-ran.md",
+        "wiki/entities/zhong-guo-jing-ji-qu-shi-100-wen.md",
+        "wiki/concepts/tu-di-long-duan-gong-ying.md",
+        "wiki/concepts/zhu-fang-fen-pei-shi-heng.md",
+        "wiki/concepts/yu-qi-ni-zhuan.md",
+        "wiki/concepts/fang-piao-an-zhi.md",
+        "wiki/concepts/huo-bi-hua-peng-gai.md",
+        "wiki/comparisons/zhong-guo-san-si-xian-cheng-shi-vs-ri-ben-1990-nian-dai-jiao-qu.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
     }
   }
 }

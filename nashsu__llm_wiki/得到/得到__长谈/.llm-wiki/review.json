@@ -900,8 +900,9 @@
       }
     ],
     "id": "review-f366afc6",
-    "resolved": false,
-    "createdAt": 1785458088646
+    "resolved": true,
+    "createdAt": 1785458088646,
+    "resolvedAction": "llm-judged"
   },
   {
     "type": "suggestion",
@@ -6071,5 +6072,64 @@
     "id": "review-7cb1eb1f",
     "resolved": false,
     "createdAt": 1786649731740
+  },
+  {
+    "type": "missing-page",
+    "title": "钱运达、和歌山静子、杨忠、胡一凡、姜文、巫鸿等人物页",
+    "description": "分析中识别出多个重要人物（钱运达、和歌山静子、杨忠、胡一凡、姜文、巫鸿），但为控制篇幅未逐一创建实体页。其中胡一凡（《吸呼》作者）与杨忠（引向华入绘本领域）与向华的核心叙事关联较强，建议评估是否补建。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786723200.62｜向华× 脱不花 孩子气拯救世界.md",
+    "affectedPages": [
+      "wiki/entities/向华.md",
+      "wiki/entities/吸呼.md",
+      "wiki/entities/中央美术学院绘本创作工作室.md"
+    ],
+    "searchQueries": [
+      "胡一凡 绘本 吸呼",
+      "杨忠 中央美术学院 绘本创作工作室",
+      "和歌山静子 低幼绘本"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b02cc2c3",
+    "resolved": true,
+    "createdAt": 1786807976449,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "识字过早是否关闭读图能力的认知科学证据",
+    "description": "向华关于\"识字后大脑读图区域终身关闭\"的论断基于个人经验，缺乏认知科学证据支撑。这是一个值得追踪的开放问题，建议创建 query 页以跟踪相关研究。",
+    "sourcePath": "D:/Users/lgdhu/Documents/GitHub/Git-Vault_LLM-Wiki/nashsu__llm_wiki/得到/得到__长谈/raw/sources/长谈/MD/1786723200.62｜向华× 脱不花 孩子气拯救世界.md",
+    "affectedPages": [
+      "wiki/concepts/读图能力.md",
+      "wiki/sources/2-长谈--2-md--26-178672320062向华-脱不花-孩子气拯救世界--vh9cg0.md"
+    ],
+    "searchQueries": [
+      "识字 读图能力 大脑 认知科学",
+      "early literacy visual processing brain development",
+      "绘本 读图 识字 神经科学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64000e85",
+    "resolved": true,
+    "createdAt": 1786807976449,
+    "resolvedAction": "auto-resolved"
   }
 ]

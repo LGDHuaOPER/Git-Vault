@@ -911,3 +911,18 @@ sources: ["长谈/MD/1786118400.61｜顾有容× 脱不花 重新看见你的附
 - 新建概念页：博物学精神、植物觉醒、牛马感、附近的消失、生物多样性保护、适应而非解决、本草学、观鸟经济、野生优于家养的玄学、记忆宫殿（分类系统）、自然笔记与自然收集物、出片KPI、人类中心主义
 - 新建来源页：61｜顾有容× 脱不花：重新看见你的附近
 - 发现跨领域连接：博物学精神与感受力、植物觉醒与主体性觉醒、博物学爱好与职业与事业
+
+---
+type: log
+title: Wiki Log
+tags: []
+related: []
+created: 2026-08-15
+updated: 2026-08-15
+---
+## 2026-08-15 ingest | 62｜向华× 脱不花：孩子气拯救世界
+
+- 新增来源页：[[sources/2-长谈--2-md--26-178672320062向华-脱不花-孩子气拯救世界--vh9cg0]]
+- 新增实体页：[[entities/向华]]、[[entities/陈廖宇]]、[[entities/马玉]]、[[entities/中央美术学院绘本创作工作室]]、[[entities/宝莲灯]]、[[entities/我为歌狂]]、[[entities/悟空乖系列]]、[[entities/吸呼]]、[[entities/哆悉哒]]、[[entities/马克宣]]、[[entities/向京]]
+- 新增概念页：[[concepts/孩子气拯救世界]]、[[concepts/亲子共读关系]]、[[concepts/绘本是陪伴之书]]、[[concepts/绘本是安静之书]]、[[concepts/图为中心-vs-插画思维]]、[[concepts/去模式化创作]]、[[concepts/儿童的逻辑]]、[[concepts/读图能力]]、[[concepts/点赞之美]]、[[concepts/本自具足]]、[[concepts/坦万虑以存诚]]、[[concepts/三分之一理论]]、[[concepts/句号问题]]、[[concepts/大教育前后]]、[[concepts/种子论]]
+- 关联已有页面：[[entities/脱不花]]、[[concepts/附近的消失]]、[[concepts/牛马感]]、[[concepts/主体性觉醒]]、[[concepts/完成比完美重要]]、[[concepts/适应而非解决]]

@@ -534,7 +534,17 @@
 
 
 
+
 ## Recently Updated
+- [[sources/4-得到精选--2-md--19-1143陶然-中国房地产市场将如何演变--cehoza]] — 陶然：中国房地产市场将如何演变？
+- [[entities/tao-ran]] — 陶然
+- [[entities/zhong-guo-jing-ji-qu-shi-100-wen]] — 中国经济趋势100问
+- [[concepts/tu-di-long-duan-gong-ying]] — 土地垄断供应
+- [[concepts/zhu-fang-fen-pei-shi-heng]] — 住房分配失衡
+- [[concepts/yu-qi-ni-zhuan]] — 预期逆转
+- [[concepts/fang-piao-an-zhi]] — 房票安置
+- [[concepts/huo-bi-hua-peng-gai]] — 货币化棚改
+- [[comparisons/zhong-guo-san-si-xian-cheng-shi-vs-ri-ben-1990-nian-dai-jiao-qu]] — 中国三四线城市 vs 日本1990年代郊区
 - [[sources/4-得到精选--2-md--19-1142万维钢-怎么选到适合自己的赛道--i9fu6t]] — 万维钢：怎么选到适合自己的赛道？
 - [[entities/萨拉斯-萨拉斯瓦蒂]] — 萨拉斯·萨拉斯瓦蒂
 - [[concepts/赛道选择]] — 赛道选择
@@ -726,12 +736,3 @@
 - [[concepts/重建我们]] — 重建“我们”
 - [[concepts/再陌生化]] — 再陌生化
 - [[concepts/爱情的三系统理论]] — 爱情的三系统理论
-- [[concepts/催产素-多巴胺协同]] — 催产素-多巴胺协同
-- [[concepts/适应效应]] — 适应效应（爱情领域）
-- [[concepts/替代加速]] — 替代加速（更换而非维护）
-- [[concepts/爱情的保鲜隐喻]] — 爱情的“保鲜”隐喻
-- [[sources/4-得到精选--2-md--18-959马江博-为什么物价不是越低越好--15jxd8n]] — 马江博：为什么物价不是越低越好？
-- [[entities/求是杂志]] — 求是杂志
-- [[concepts/低物价的恶性循环]] — 低物价的恶性循环
-- [[concepts/实际利率陷阱]] — 实际利率陷阱
-- [[concepts/贫困化增长]] — 贫困化增长
