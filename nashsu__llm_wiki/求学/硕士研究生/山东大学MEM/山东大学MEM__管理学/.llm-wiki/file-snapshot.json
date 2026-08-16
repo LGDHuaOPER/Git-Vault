@@ -1,0 +1,856 @@
+{
+  "version": 1,
+  "updatedAt": 1786924071361,
+  "files": {
+    "purpose.md": {
+      "hash": "5100de6b7c7374a01e4d03a849efdfc9",
+      "size": 614,
+      "mtimeMs": 1786889710626
+    },
+    "raw/sources/管理学：历史与未来/20260815-01.md": {
+      "hash": "b6139d423f7c6da3b1f7980a3e9c975e",
+      "size": 101525,
+      "mtimeMs": 1786890530117
+    },
+    "raw/sources/管理学：历史与未来/20260815-02.md": {
+      "hash": "ea9f12532b0edc7a01c01bb385231a7d",
+      "size": 78230,
+      "mtimeMs": 1786890515572
+    },
+    "raw/sources/管理学：历史与未来/20260815-03.md": {
+      "hash": "3fa8484c2041213d3510415e0b3564cf",
+      "size": 94864,
+      "mtimeMs": 1786890528472
+    },
+    "raw/sources/管理学：历史与未来/20260815-04.md": {
+      "hash": "a0f81ad25e21098c0d0583106b9eda0e",
+      "size": 79381,
+      "mtimeMs": 1786890600536
+    },
+    "raw/sources/管理学：历史与未来/20260816-01.md": {
+      "hash": "efb87f773432d90599a5eaf2a2cea78b",
+      "size": 95614,
+      "mtimeMs": 1786890629897
+    },
+    "raw/sources/管理学：历史与未来/20260816-02.md": {
+      "hash": "c5907db52aaef6492e9ea6ccbe5e4274",
+      "size": 71226,
+      "mtimeMs": 1786890645245
+    },
+    "raw/sources/管理学：历史与未来/20260816-03.md": {
+      "hash": "c3e87b16723faf263c9ec855e705e737",
+      "size": 91594,
+      "mtimeMs": 1786890649570
+    },
+    "raw/sources/管理学：历史与未来/20260816-04.md": {
+      "hash": "6f4bf745701c5dde1d9398c0f8e1b52c",
+      "size": 79518,
+      "mtimeMs": 1786890653029
+    },
+    "raw/sources/管理学：历史与未来/2026级《管理学：历史与未来》-张晓峰.pdf": {
+      "hash": "c025b8aacf3ee72c4f26811bc3272222",
+      "size": 8317851,
+      "mtimeMs": 1786779750844
+    },
+    "schema.md": {
+      "hash": "ebe58e02cf8b8c912ca9dbbca2a2e18b",
+      "size": 3497,
+      "mtimeMs": 1786889710620
+    },
+    "wiki/.history/index_20260817074738.md": {
+      "hash": "91223d190409e4fa437b9f144f699733",
+      "size": 8711,
+      "mtimeMs": 1786924070413
+    },
+    "wiki/.history/index_20260817074750.md": {
+      "hash": "91223d190409e4fa437b9f144f699733",
+      "size": 8711,
+      "mtimeMs": 1786924070513
+    },
+    "wiki/.history/log_20260817074738.md": {
+      "hash": "de5b71b85a1ab410c107d1862ec951ea",
+      "size": 6826,
+      "mtimeMs": 1786924064290
+    },
+    "wiki/.history/log_20260817074750.md": {
+      "hash": "de5b71b85a1ab410c107d1862ec951ea",
+      "size": 6826,
+      "mtimeMs": 1786924070448
+    },
+    "wiki/concepts/150人上限.md": {
+      "hash": "6fc5e89f199a3a6ba339c136211e36ce",
+      "size": 1554,
+      "mtimeMs": 1786896660405
+    },
+    "wiki/concepts/ai-对管理的影响.md": {
+      "hash": "7d189eb178a68f47b1fa39a099042445",
+      "size": 1434,
+      "mtimeMs": 1786894666451
+    },
+    "wiki/concepts/上下级默契.md": {
+      "hash": "8b6584daf4efe8ff66a1712f03c62085",
+      "size": 1622,
+      "mtimeMs": 1786896450617
+    },
+    "wiki/concepts/不授权三原因.md": {
+      "hash": "d79954114b662bb5ed761e7423de0783",
+      "size": 1256,
+      "mtimeMs": 1786896660291
+    },
+    "wiki/concepts/人岗匹配.md": {
+      "hash": "eace009de2e9e187f7cf93137c5fca16",
+      "size": 1567,
+      "mtimeMs": 1786895496823
+    },
+    "wiki/concepts/人性假定与管理政策匹配.md": {
+      "hash": "a513d78cb67780b7e86941d8e61e0e71",
+      "size": 1503,
+      "mtimeMs": 1786894666464
+    },
+    "wiki/concepts/人才四象限模型.md": {
+      "hash": "d5ecf2ffb05b0419ce853dff330afdf9",
+      "size": 1679,
+      "mtimeMs": 1786895496831
+    },
+    "wiki/concepts/人才本质界定.md": {
+      "hash": "86330e6c44bed9463e1bf3ee47dd3197",
+      "size": 1707,
+      "mtimeMs": 1786895496815
+    },
+    "wiki/concepts/代际管理差异.md": {
+      "hash": "31fd74976c2eae42a0c5d9ea01052481",
+      "size": 1658,
+      "mtimeMs": 1786894666436
+    },
+    "wiki/concepts/以人为本.md": {
+      "hash": "39476aaace4d6e643c65ba5377d052d1",
+      "size": 1224,
+      "mtimeMs": 1786895041300
+    },
+    "wiki/concepts/价值-独特性人才策略.md": {
+      "hash": "c460284b4afb9b487cca5a29ccf19043",
+      "size": 1697,
+      "mtimeMs": 1786895496839
+    },
+    "wiki/concepts/价值观检验三问法.md": {
+      "hash": "54f71fccb5e55bba93813198a99d54ef",
+      "size": 1646,
+      "mtimeMs": 1786895883944
+    },
+    "wiki/concepts/低垂的果实.md": {
+      "hash": "41af6496951d0d29387956012e63c0e7",
+      "size": 1339,
+      "mtimeMs": 1786895496871
+    },
+    "wiki/concepts/信息去中心化.md": {
+      "hash": "53f821445d9479834599e963adc6e3df",
+      "size": 1238,
+      "mtimeMs": 1786895496892
+    },
+    "wiki/concepts/儒道双修.md": {
+      "hash": "b2bca093d87aa97af44504e7a989f7bf",
+      "size": 1301,
+      "mtimeMs": 1786896660384
+    },
+    "wiki/concepts/创造顾客.md": {
+      "hash": "692dff355e2d36725199a1d7d82512c8",
+      "size": 1610,
+      "mtimeMs": 1786895041279
+    },
+    "wiki/concepts/制度设计决定行为.md": {
+      "hash": "fc2d2960ed683fc8060e6f3e7dc07e0b",
+      "size": 2334,
+      "mtimeMs": 1786895297680
+    },
+    "wiki/concepts/前景激励.md": {
+      "hash": "2c62110a4b7b364ad76e0c5d16239254",
+      "size": 1193,
+      "mtimeMs": 1786896660375
+    },
+    "wiki/concepts/功过相抵误区.md": {
+      "hash": "c18cd3aa054142f3132eae72181ce28f",
+      "size": 993,
+      "mtimeMs": 1786896450626
+    },
+    "wiki/concepts/升维思考降维执行.md": {
+      "hash": "f78a11f236d1ec9c48d940c03c4dcc15",
+      "size": 1357,
+      "mtimeMs": 1786894666520
+    },
+    "wiki/concepts/及时行乐.md": {
+      "hash": "d8c88e090c293a41ed52e2fa48d2f05f",
+      "size": 1661,
+      "mtimeMs": 1786896660448
+    },
+    "wiki/concepts/大小相应.md": {
+      "hash": "664bc757924e3e318ee21b264435a0fb",
+      "size": 1252,
+      "mtimeMs": 1786896660425
+    },
+    "wiki/concepts/奖惩公布技巧.md": {
+      "hash": "b1194f28f77d3cff3160ea7e54284d42",
+      "size": 1230,
+      "mtimeMs": 1786896660364
+    },
+    "wiki/concepts/孝的核心是敬.md": {
+      "hash": "f4c49d0f17643ae322d4882d64883cc8",
+      "size": 945,
+      "mtimeMs": 1786896450666
+    },
+    "wiki/concepts/定性目标具体化.md": {
+      "hash": "43f88bd00ca40dea1cbbbd4d5cec0bcc",
+      "size": 1307,
+      "mtimeMs": 1786895883933
+    },
+    "wiki/concepts/实事求是.md": {
+      "hash": "7d7e8f45cb396c3e3e65e60d6abde52d",
+      "size": 1087,
+      "mtimeMs": 1786894666511
+    },
+    "wiki/concepts/实物激励.md": {
+      "hash": "06ad1c21aec3633143100244b09cafb8",
+      "size": 1930,
+      "mtimeMs": 1786895297722
+    },
+    "wiki/concepts/宽严相济.md": {
+      "hash": "8ed18f03a374dd69867909558695567c",
+      "size": 1836,
+      "mtimeMs": 1786895041235
+    },
+    "wiki/concepts/山东大学三地文化对应.md": {
+      "hash": "2df10dfee284253047971b0815fdf551",
+      "size": 1660,
+      "mtimeMs": 1786894666491
+    },
+    "wiki/concepts/岗位职责是安身立命之本.md": {
+      "hash": "b7c0f42d0be152ffe5316fa8f2811257",
+      "size": 1579,
+      "mtimeMs": 1786896450608
+    },
+    "wiki/concepts/当领导三件事.md": {
+      "hash": "2d2e87f5b306e0783081398364904fe1",
+      "size": 1251,
+      "mtimeMs": 1786896660394
+    },
+    "wiki/concepts/彼得原理.md": {
+      "hash": "5c21a6fcdd9eb38b2bd3743c4d8f8517",
+      "size": 1550,
+      "mtimeMs": 1786896450582
+    },
+    "wiki/concepts/思想政治工作.md": {
+      "hash": "63f9be7154c6beec67b1b7964e1d3de5",
+      "size": 1749,
+      "mtimeMs": 1786895297649
+    },
+    "wiki/concepts/战略的断舍离.md": {
+      "hash": "50e15cba8830da7ace47c02fa77ac92c",
+      "size": 1425,
+      "mtimeMs": 1786895297762
+    },
+    "wiki/concepts/执两用中.md": {
+      "hash": "08b10450e1e5adea19d19182e62b33b3",
+      "size": 1955,
+      "mtimeMs": 1786895041246
+    },
+    "wiki/concepts/执行力二元论.md": {
+      "hash": "61df76bc732eb4f409b47bd4ccd25cb8",
+      "size": 2027,
+      "mtimeMs": 1786895297640
+    },
+    "wiki/concepts/拍马屁三原则.md": {
+      "hash": "3960dbbbdff200a304797b01e79f9aac",
+      "size": 813,
+      "mtimeMs": 1786895883964
+    },
+    "wiki/concepts/授权三步骤.md": {
+      "hash": "367a123a424fc8b4bb5a6ea02618f112",
+      "size": 1645,
+      "mtimeMs": 1786896660280
+    },
+    "wiki/concepts/探索式创新与利用式创新.md": {
+      "hash": "915f0f62c5e4c7e595111226a6dcc283",
+      "size": 1460,
+      "mtimeMs": 1786895041289
+    },
+    "wiki/concepts/接班人培养.md": {
+      "hash": "b8632cec7841c4e3b7c78967f15c66c3",
+      "size": 1442,
+      "mtimeMs": 1786896660300
+    },
+    "wiki/concepts/政策一致性.md": {
+      "hash": "81c0765937d972a9bfa48ff910e50489",
+      "size": 1074,
+      "mtimeMs": 1786896450637
+    },
+    "wiki/concepts/文化共识载体.md": {
+      "hash": "c0df1bb23befb7b66b14f6ec529450cc",
+      "size": 1808,
+      "mtimeMs": 1786895297732
+    },
+    "wiki/concepts/有组织科研四模式.md": {
+      "hash": "8a84d6ce417cff52986cc632a18d0022",
+      "size": 1574,
+      "mtimeMs": 1786895496855
+    },
+    "wiki/concepts/格局管理中的格局.md": {
+      "hash": "d789952109ec7531460caf04665c560c",
+      "size": 1356,
+      "mtimeMs": 1786894666311
+    },
+    "wiki/concepts/汉堡包反馈原则.md": {
+      "hash": "807efdf0d5dbf54d85824844c761b358",
+      "size": 913,
+      "mtimeMs": 1786895883973
+    },
+    "wiki/concepts/沟通偏差.md": {
+      "hash": "3aaefb82ecf175dac333042433ac6839",
+      "size": 1090,
+      "mtimeMs": 1786896450657
+    },
+    "wiki/concepts/沟通四要素.md": {
+      "hash": "d55b110b9ce9f75be925b8e91b28016a",
+      "size": 967,
+      "mtimeMs": 1786895883953
+    },
+    "wiki/concepts/浩然之气.md": {
+      "hash": "bc1107823957fb2f28095b5883da03ac",
+      "size": 1346,
+      "mtimeMs": 1786895496847
+    },
+    "wiki/concepts/特殊情况与酌情处理.md": {
+      "hash": "6e28d983489f9e77fbf17ea1cc6f820e",
+      "size": 1960,
+      "mtimeMs": 1786896450535
+    },
+    "wiki/concepts/目标有利原则.md": {
+      "hash": "17d205403d0931735c7845f2f8179f91",
+      "size": 1339,
+      "mtimeMs": 1786896450558
+    },
+    "wiki/concepts/目标纵横坐标.md": {
+      "hash": "e7e551cf1be1aa140a84444124a55f33",
+      "size": 1008,
+      "mtimeMs": 1786895883998
+    },
+    "wiki/concepts/看破不说破.md": {
+      "hash": "8c9006c121d1209defaf999628599bc3",
+      "size": 1934,
+      "mtimeMs": 1786896450591
+    },
+    "wiki/concepts/破相去执.md": {
+      "hash": "b4d26e50ed79d3c4bc89167222201f66",
+      "size": 1694,
+      "mtimeMs": 1786894666500
+    },
+    "wiki/concepts/离职成本.md": {
+      "hash": "cb5e8c9cb11f7d3e91be388f4456bde5",
+      "size": 1171,
+      "mtimeMs": 1786896660465
+    },
+    "wiki/concepts/空降兵分寸.md": {
+      "hash": "1c8d178b0222ebc450d7dba82349c95a",
+      "size": 2246,
+      "mtimeMs": 1786896660312
+    },
+    "wiki/concepts/管理之道即中.md": {
+      "hash": "12958f0a01b52c738fe972d380e27616",
+      "size": 1227,
+      "mtimeMs": 1786896660355
+    },
+    "wiki/concepts/管理核心是协调.md": {
+      "hash": "601cb244c7a69894fb0c1c4aa6d8e836",
+      "size": 1173,
+      "mtimeMs": 1786895883991
+    },
+    "wiki/concepts/精致利己主义.md": {
+      "hash": "feb5f25cc9e4d1006f5deb0dce453ae9",
+      "size": 1836,
+      "mtimeMs": 1786895297752
+    },
+    "wiki/concepts/系统动态管理.md": {
+      "hash": "4f67e9901a7eed2cc51f7cac5dd0ea8e",
+      "size": 1692,
+      "mtimeMs": 1786895496879
+    },
+    "wiki/concepts/组织政治.md": {
+      "hash": "02fb2a21e506b1815788b98da5d59507",
+      "size": 1342,
+      "mtimeMs": 1786896450646
+    },
+    "wiki/concepts/经史合参.md": {
+      "hash": "0d006b1fbfcfce0d57d2a71e1ebc0aef",
+      "size": 960,
+      "mtimeMs": 1786896660478
+    },
+    "wiki/concepts/结果导向考核四前提.md": {
+      "hash": "225170f4a8615fe2004728f3d96453a2",
+      "size": 2612,
+      "mtimeMs": 1786895883922
+    },
+    "wiki/concepts/统一思想三层次.md": {
+      "hash": "066df1f69a10dc0705326ca805126fd2",
+      "size": 1137,
+      "mtimeMs": 1786895883981
+    },
+    "wiki/concepts/群众路线.md": {
+      "hash": "22de0dc73f9bca012b3510f306991aca",
+      "size": 1654,
+      "mtimeMs": 1786895297659
+    },
+    "wiki/concepts/职业发展三层逻辑.md": {
+      "hash": "05598c4ce988130d076dbe53cd00af5f",
+      "size": 1383,
+      "mtimeMs": 1786896660322
+    },
+    "wiki/concepts/职业素养本质.md": {
+      "hash": "7ffecdf710832dc579a93bb1640b4ef6",
+      "size": 1538,
+      "mtimeMs": 1786896660333
+    },
+    "wiki/concepts/胜而后求战.md": {
+      "hash": "2ff82a89e8188f10a8d62ba689af77c3",
+      "size": 1187,
+      "mtimeMs": 1786894666475
+    },
+    "wiki/concepts/萝卜快跑项目制.md": {
+      "hash": "9974cf8593f6afae64328cf76b0214e4",
+      "size": 1314,
+      "mtimeMs": 1786895496863
+    },
+    "wiki/concepts/行业基础观与资源基础观.md": {
+      "hash": "4b40901c0344dde6353f2c98b5ffed9b",
+      "size": 1901,
+      "mtimeMs": 1786895041267
+    },
+    "wiki/concepts/认知决定论.md": {
+      "hash": "fc58f2010992646f31bd90b8e8a8dde1",
+      "size": 1666,
+      "mtimeMs": 1786895297691
+    },
+    "wiki/concepts/让领导做选择题.md": {
+      "hash": "65cb6d36232e7ae2c718fd3b835d482b",
+      "size": 1266,
+      "mtimeMs": 1786896450600
+    },
+    "wiki/concepts/责任自负规则.md": {
+      "hash": "d5fc623d3daa9f3673174f7a42021e3f",
+      "size": 1365,
+      "mtimeMs": 1786896450571
+    },
+    "wiki/concepts/跨界竞争.md": {
+      "hash": "86ab2e23d8a8b0f20745cd1bda5fa936",
+      "size": 2882,
+      "mtimeMs": 1786895297629
+    },
+    "wiki/concepts/过犹不及.md": {
+      "hash": "cd1f624ebc6376e6cc93f55a4b8d2e7d",
+      "size": 939,
+      "mtimeMs": 1786895041256
+    },
+    "wiki/concepts/长短结合.md": {
+      "hash": "b8505938b855fb13ced57b98e5a94db6",
+      "size": 1210,
+      "mtimeMs": 1786896660414
+    },
+    "wiki/concepts/阶层流动.md": {
+      "hash": "98cbf106910f3e85a5114f6e3faa6fb4",
+      "size": 1586,
+      "mtimeMs": 1786895297708
+    },
+    "wiki/concepts/顺成长风险.md": {
+      "hash": "417876f37252c07af41ead49353ae60b",
+      "size": 1519,
+      "mtimeMs": 1786896660343
+    },
+    "wiki/concepts/领导力定义.md": {
+      "hash": "18f760109c18ecb8f7aa2bb55a2edeed",
+      "size": 2000,
+      "mtimeMs": 1786895297669
+    },
+    "wiki/concepts/领导是水.md": {
+      "hash": "82ffbdbe70f7f618a76bdc6fc5c78814",
+      "size": 1487,
+      "mtimeMs": 1786894666401
+    },
+    "wiki/concepts/高效组织三要素.md": {
+      "hash": "01cba07a9a847dff57d2890ffdcd953d",
+      "size": 1765,
+      "mtimeMs": 1786895297743
+    },
+    "wiki/entities/丁院长.md": {
+      "hash": "08ab37b4c6a6f830806758f1e82b8fde",
+      "size": 1358,
+      "mtimeMs": 1786895496901
+    },
+    "wiki/entities/东阿阿胶.md": {
+      "hash": "2cbde30612d308d7195892c4db91ae24",
+      "size": 993,
+      "mtimeMs": 1786895297790
+    },
+    "wiki/entities/中国银行上海分行.md": {
+      "hash": "ce8d752a8effe22229696888c2712d65",
+      "size": 800,
+      "mtimeMs": 1786896450803
+    },
+    "wiki/entities/关羽.md": {
+      "hash": "2ce3f7fdd4b75b5dcbaa564f1dbd7900",
+      "size": 930,
+      "mtimeMs": 1786895297905
+    },
+    "wiki/entities/刘强东.md": {
+      "hash": "22e9670e9dbf61381f8a11e9f3e9dd15",
+      "size": 653,
+      "mtimeMs": 1786895496908
+    },
+    "wiki/entities/劳伦斯-彼得.md": {
+      "hash": "c39f189e1e3dea7c0bbee95c2657e9e5",
+      "size": 832,
+      "mtimeMs": 1786896450675
+    },
+    "wiki/entities/华为.md": {
+      "hash": "fd2fd16cc27de40443399208b542c1c7",
+      "size": 885,
+      "mtimeMs": 1786895297829
+    },
+    "wiki/entities/华润.md": {
+      "hash": "30b189b72677ce5a9983d479052a302f",
+      "size": 784,
+      "mtimeMs": 1786895297808
+    },
+    "wiki/entities/吴起.md": {
+      "hash": "0f37952e631a86391953729ea841dcda",
+      "size": 813,
+      "mtimeMs": 1786895297896
+    },
+    "wiki/entities/周仓.md": {
+      "hash": "d9dfc1c5ea4dca89fc2bdb9bfa798fa9",
+      "size": 1049,
+      "mtimeMs": 1786896660556
+    },
+    "wiki/entities/周瑜.md": {
+      "hash": "9bb3200c8f456d063d72549d0a5867f5",
+      "size": 967,
+      "mtimeMs": 1786896660500
+    },
+    "wiki/entities/复旦大学.md": {
+      "hash": "4344ace278fc95e244bffdf4ddd58142",
+      "size": 567,
+      "mtimeMs": 1786896450812
+    },
+    "wiki/entities/太平洋咖啡.md": {
+      "hash": "496a085f2d86700a380b5bd8a3afbd46",
+      "size": 722,
+      "mtimeMs": 1786895297798
+    },
+    "wiki/entities/孔子.md": {
+      "hash": "8c66a37198af9679edcaebdffa569aa9",
+      "size": 740,
+      "mtimeMs": 1786896450727
+    },
+    "wiki/entities/安徽凤阳小岗村.md": {
+      "hash": "4c71777e3685d3e0e182110ef48e1772",
+      "size": 998,
+      "mtimeMs": 1786895297839
+    },
+    "wiki/entities/山东大学.md": {
+      "hash": "cc154545d56a10773172752cc0161e56",
+      "size": 1148,
+      "mtimeMs": 1786894665986
+    },
+    "wiki/entities/山东大学MBA联合会.md": {
+      "hash": "fec55019ee71f45c6986541320f6a8a1",
+      "size": 1895,
+      "mtimeMs": 1786895041176
+    },
+    "wiki/entities/山东大学管理学院.md": {
+      "hash": "1120e33faf2817449383c77a20f93f21",
+      "size": 1689,
+      "mtimeMs": 1786894666274
+    },
+    "wiki/entities/山东大学苏州研究院.md": {
+      "hash": "cd4eb41877d5364494ac1d709870e520",
+      "size": 990,
+      "mtimeMs": 1786894666299
+    },
+    "wiki/entities/山财.md": {
+      "hash": "26ad1efbd2b658c1565b9e7476c44360",
+      "size": 378,
+      "mtimeMs": 1786895496918
+    },
+    "wiki/entities/廖化.md": {
+      "hash": "67551392685b09a262ed404a74741cb1",
+      "size": 1001,
+      "mtimeMs": 1786896660547
+    },
+    "wiki/entities/开方.md": {
+      "hash": "60f88ff09c577ed2183c69fad34311bb",
+      "size": 591,
+      "mtimeMs": 1786896450756
+    },
+    "wiki/entities/张代.md": {
+      "hash": "e144801bce27b9dd75ff139df84cd4fc",
+      "size": 678,
+      "mtimeMs": 1786895041225
+    },
+    "wiki/entities/张晓峰.md": {
+      "hash": "d9ce5427b334c7705b48caeacccfe058",
+      "size": 1623,
+      "mtimeMs": 1786895040883
+    },
+    "wiki/entities/张永明.md": {
+      "hash": "6b8d075329f467d3097fa90ba2e95a59",
+      "size": 1580,
+      "mtimeMs": 1786894665975
+    },
+    "wiki/entities/易牙.md": {
+      "hash": "05f0f0067757bce78032463a4a3446fd",
+      "size": 674,
+      "mtimeMs": 1786896450746
+    },
+    "wiki/entities/暖城公益社团.md": {
+      "hash": "b4bddc9b7bef97984f30c99d12d8ee52",
+      "size": 1001,
+      "mtimeMs": 1786895041215
+    },
+    "wiki/entities/曹操.md": {
+      "hash": "63504484b7cb2cb5df6438fc592ac4c4",
+      "size": 539,
+      "mtimeMs": 1786895884043
+    },
+    "wiki/entities/曾国藩.md": {
+      "hash": "0734baa67f73366db4dabf110298dcf0",
+      "size": 886,
+      "mtimeMs": 1786895297867
+    },
+    "wiki/entities/李世民.md": {
+      "hash": "c951603b03d6f6f75df7db0d7fac7f4f",
+      "size": 657,
+      "mtimeMs": 1786896450707
+    },
+    "wiki/entities/李向阳.md": {
+      "hash": "c114b0be28c21bbfacc018c9d6a5e7c0",
+      "size": 1151,
+      "mtimeMs": 1786895884007
+    },
+    "wiki/entities/杨修.md": {
+      "hash": "4e894c2a5945af1b7d8672cec03d6b25",
+      "size": 668,
+      "mtimeMs": 1786895884032
+    },
+    "wiki/entities/柯达.md": {
+      "hash": "06a7a067f00391a07133000a52a32f2d",
+      "size": 789,
+      "mtimeMs": 1786895884015
+    },
+    "wiki/entities/毛岸英.md": {
+      "hash": "1878a5c1c0d6e54b2b422d9cb7777bc9",
+      "size": 797,
+      "mtimeMs": 1786896450793
+    },
+    "wiki/entities/毛泽东.md": {
+      "hash": "480f8c848858282e16ba4ad5e474a46c",
+      "size": 1424,
+      "mtimeMs": 1786895297858
+    },
+    "wiki/entities/济南港华燃气.md": {
+      "hash": "c526511f99cbe244e64dbf9a03f9fefa",
+      "size": 1016,
+      "mtimeMs": 1786895297817
+    },
+    "wiki/entities/浪潮.md": {
+      "hash": "8e228cdbc0aaeee71b73407dbced4bea",
+      "size": 496,
+      "mtimeMs": 1786895496925
+    },
+    "wiki/entities/海信.md": {
+      "hash": "67af1e8c89894e20fd92a60b6219a3dd",
+      "size": 1126,
+      "mtimeMs": 1786895884024
+    },
+    "wiki/entities/瑞幸咖啡.md": {
+      "hash": "8752e242c429a9ef8c39416df6f767fa",
+      "size": 1029,
+      "mtimeMs": 1786895297771
+    },
+    "wiki/entities/百森商学院.md": {
+      "hash": "8837cf433b3b8fff868bd6f378425041",
+      "size": 887,
+      "mtimeMs": 1786895297848
+    },
+    "wiki/entities/祢衡.md": {
+      "hash": "34cf119cfa57d18cd56a382b6fa97c44",
+      "size": 720,
+      "mtimeMs": 1786896450784
+    },
+    "wiki/entities/竖刁.md": {
+      "hash": "9c5784ac67f17ab990cedd96a246d21d",
+      "size": 564,
+      "mtimeMs": 1786896450766
+    },
+    "wiki/entities/管仲.md": {
+      "hash": "80b698ecf0cf7bdc2cb00ca8f581477e",
+      "size": 912,
+      "mtimeMs": 1786896450687
+    },
+    "wiki/entities/约翰-科特.md": {
+      "hash": "28a6625dc84d94b085ec37c03f5b303a",
+      "size": 843,
+      "mtimeMs": 1786896660539
+    },
+    "wiki/entities/罗宾斯.md": {
+      "hash": "6134872b1f0da5ed7eb98a8ee468df13",
+      "size": 707,
+      "mtimeMs": 1786896660529
+    },
+    "wiki/entities/老子.md": {
+      "hash": "7eace554cd2bebd04a80d64abb8a93b9",
+      "size": 1008,
+      "mtimeMs": 1786896450718
+    },
+    "wiki/entities/茅台.md": {
+      "hash": "969296806df222cb856342501f4b17c1",
+      "size": 682,
+      "mtimeMs": 1786895297780
+    },
+    "wiki/entities/蒋介石.md": {
+      "hash": "0402bb2b9ef3e0c52f2c15bb0e1d9c44",
+      "size": 1065,
+      "mtimeMs": 1786895297887
+    },
+    "wiki/entities/袁绍.md": {
+      "hash": "9983a42062bd08a78c46d79a87aefb20",
+      "size": 788,
+      "mtimeMs": 1786896660567
+    },
+    "wiki/entities/许攸.md": {
+      "hash": "125ad53aac8a7d8dd799065e6a2eff0e",
+      "size": 1196,
+      "mtimeMs": 1786896660510
+    },
+    "wiki/entities/许褚.md": {
+      "hash": "729253f31adf5ef809ed9cbec17027bc",
+      "size": 890,
+      "mtimeMs": 1786896660577
+    },
+    "wiki/entities/诸葛亮.md": {
+      "hash": "74c42582d5f4038a357e9f2b28e38d1b",
+      "size": 1371,
+      "mtimeMs": 1786896660490
+    },
+    "wiki/entities/赵云.md": {
+      "hash": "faa99e9de6bb9a1178dcefe5b1318369",
+      "size": 1028,
+      "mtimeMs": 1786896660520
+    },
+    "wiki/entities/郭嘉.md": {
+      "hash": "421c34f4e0ba635aadbaf3f6d469747b",
+      "size": 791,
+      "mtimeMs": 1786896450775
+    },
+    "wiki/entities/钱理群.md": {
+      "hash": "33ea4c14376c6f388709c6666e9a7703",
+      "size": 725,
+      "mtimeMs": 1786895297878
+    },
+    "wiki/entities/长孙皇后.md": {
+      "hash": "a39869ba775ef02ef34ed8e38a22f6e8",
+      "size": 588,
+      "mtimeMs": 1786896450737
+    },
+    "wiki/entities/阿里.md": {
+      "hash": "58fc494ad2f2da1f2af42a33ee98bf3e",
+      "size": 496,
+      "mtimeMs": 1786895496934
+    },
+    "wiki/entities/青岛.md": {
+      "hash": "80e2b6dae347d7171a06819205f1db64",
+      "size": 833,
+      "mtimeMs": 1786895297914
+    },
+    "wiki/entities/魏征.md": {
+      "hash": "2c00202c124a6c903f124ec89ede5c94",
+      "size": 853,
+      "mtimeMs": 1786896450696
+    },
+    "wiki/index.md": {
+      "hash": "91223d190409e4fa437b9f144f699733",
+      "size": 8711,
+      "mtimeMs": 1786924059806
+    },
+    "wiki/log.md": {
+      "hash": "de5b71b85a1ab410c107d1862ec951ea",
+      "size": 6826,
+      "mtimeMs": 1786924059760
+    },
+    "wiki/overview.md": {
+      "hash": "3a6b8de12b70516be93fe9f2f947b45c",
+      "size": 210,
+      "mtimeMs": 1786889710578
+    },
+    "wiki/queries/ai-能否替代管理中的协调职能.md": {
+      "hash": "4fb6bc7155b7c46f05295a680e20cca8",
+      "size": 1005,
+      "mtimeMs": 1786895884331
+    },
+    "wiki/queries/及时行乐与职业素养约束欲望如何调和.md": {
+      "hash": "62f59e1074ac198d123ce215476434a4",
+      "size": 1024,
+      "mtimeMs": 1786896660585
+    },
+    "wiki/queries/相信领导与命运掌握在自己手里如何统一.md": {
+      "hash": "fd6d1ccac73178d7705d3c73b415060f",
+      "size": 993,
+      "mtimeMs": 1786896660595
+    },
+    "wiki/queries/看破不说破与实事求是如何调和.md": {
+      "hash": "d980e37a085a4b20025d2d88f1f71445",
+      "size": 1133,
+      "mtimeMs": 1786896450823
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260815-01--e6p3id.md": {
+      "hash": "8046dbe2e8c6370cb5a9f494106f3de2",
+      "size": 4565,
+      "mtimeMs": 1786894665963
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260815-02--1y6zoqq.md": {
+      "hash": "8fdc1cab5eb62da0680621d1d365ce8b",
+      "size": 10123,
+      "mtimeMs": 1786895040871
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260815-03--1k2denb.md": {
+      "hash": "be40168ee3c8ba2f222d5a80fad6cd07",
+      "size": 7734,
+      "mtimeMs": 1786895297617
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260815-04--sk8e70.md": {
+      "hash": "0f789e8b41a294e8f552205ffa6f2ba4",
+      "size": 1291,
+      "mtimeMs": 1786895497127
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260816-01--hjhjos.md": {
+      "hash": "c4d9b1d28e8771299f4eefe003dbf506",
+      "size": 12079,
+      "mtimeMs": 1786897920203
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260816-02--wukt97.md": {
+      "hash": "f181b10756d8bc2572bcf5cc121ef9e4",
+      "size": 6526,
+      "mtimeMs": 1786897855835
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260816-03--edcoba.md": {
+      "hash": "562bb3f1af14e96b4a7610c464f0286d",
+      "size": 7516,
+      "mtimeMs": 1786897821681
+    },
+    "wiki/sources/8-管理学历史与未来--11-20260816-04--59hnv9.md": {
+      "hash": "9fdbc820c0e08fe848a2826dc38e0610",
+      "size": 6713,
+      "mtimeMs": 1786897770143
+    },
+    "wiki/sources/8-管理学历史与未来--17-2026级管理学历史与未来-张晓峰--1ur7yts.md": {
+      "hash": "a8cb565f74e7cb5ec4d8ea40c5e5a6b2",
+      "size": 260953,
+      "mtimeMs": 1786894236375
+    }
+  }
+}

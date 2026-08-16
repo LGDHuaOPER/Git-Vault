@@ -1,0 +1,77 @@
+[
+  {
+    "id": "msg_1786898149862_3_vcnodh",
+    "role": "user",
+    "content": "你是谁",
+    "timestamp": 1786898149862,
+    "conversationId": "conv_1786898135903_o3t1ax"
+  },
+  {
+    "id": "msg_1786898149953_4_64zz0i",
+    "role": "assistant",
+    "content": "",
+    "timestamp": 1786898149953,
+    "conversationId": "conv_1786898135903_o3t1ax",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "37 skill(s) available",
+        "status": "success",
+        "timestamp": 1786898149945
+      }
+    ]
+  },
+  {
+    "id": "msg_1786898621033_5_5vf9mc",
+    "role": "user",
+    "content": "你是谁",
+    "timestamp": 1786898621033,
+    "conversationId": "conv_1786898135903_o3t1ax"
+  },
+  {
+    "id": "msg_1786898621129_6_v07q12",
+    "role": "assistant",
+    "content": "",
+    "timestamp": 1786898621129,
+    "conversationId": "conv_1786898135903_o3t1ax",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "37 skill(s) available",
+        "status": "success",
+        "timestamp": 1786898621125
+      }
+    ]
+  },
+  {
+    "id": "msg_1786898907383_7_q32zg4",
+    "role": "user",
+    "content": "你是谁",
+    "timestamp": 1786898907383,
+    "conversationId": "conv_1786898135903_o3t1ax"
+  },
+  {
+    "id": "msg_1786898907475_8_64cy9a",
+    "role": "assistant",
+    "content": "",
+    "timestamp": 1786898907475,
+    "conversationId": "conv_1786898135903_o3t1ax",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "37 skill(s) available",
+        "status": "success",
+        "timestamp": 1786898907468
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "msg_1786896999196_1_r1ltpf",
+    "role": "user",
+    "content": "刚才Ingest有个问题，raw/sources里的《20260816-01.md》才是`第五讲`，后面的《20260816-02.md》等应该按顺次向后推。你修改一下wiki里的内容吧",
+    "timestamp": 1786896999196,
+    "conversationId": "conv_1786896999195_ya3029"
+  },
+  {
+    "id": "msg_1786896999311_2_gjfhe9",
+    "role": "assistant",
+    "content": "",
+    "timestamp": 1786896999311,
+    "conversationId": "conv_1786896999195_ya3029",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "37 skill(s) available",
+        "status": "success",
+        "timestamp": 1786896999306
+      }
+    ]
+  },
+  {
+    "id": "msg_1786898004726_1_bh5pws",
+    "role": "user",
+    "content": "杨修错在哪里",
+    "timestamp": 1786898004726,
+    "conversationId": "conv_1786896999195_ya3029"
+  },
+  {
+    "id": "msg_1786898004820_2_03kdzl",
+    "role": "assistant",
+    "content": "",
+    "timestamp": 1786898004820,
+    "conversationId": "conv_1786896999195_ya3029",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "37 skill(s) available",
+        "status": "success",
+        "timestamp": 1786898004816
+      }
+    ]
+  }
+]
