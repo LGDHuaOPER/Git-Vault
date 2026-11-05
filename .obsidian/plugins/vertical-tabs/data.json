@@ -2,9 +2,6 @@
   "showActiveTabs": false,
   "autoUncollapseGroup": false,
   "hideSidebars": true,
-  "sidebarTabTypes": [
-    "markdown"
-  ],
   "sidebarExcludeSelf": true,
   "trimTabNames": false,
   "showMoreButtons": false,
@@ -38,5 +35,8 @@
   "allowWorkspaceSplitOnPhone": false,
   "enableUpdateCheck": true,
   "newTabButtonPlacement": "group-toolbar",
-  "tabClosingBehavior": "active-right"
+  "tabClosingBehavior": "active-right",
+  "sidebarTabTypes": [
+    "markdown"
+  ]
 }
